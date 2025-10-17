@@ -1,0 +1,1502 @@
+[
+    {
+        "id": 1,
+        "hanzi": "刹车电机",
+        "pinyin": "Shāchē diànjī",
+        "meaning": "Động cơ phanh"
+    },
+    {
+        "id": 2,
+        "hanzi": "承架部份",
+        "pinyin": "Chéngjià bùfèn",
+        "meaning": "Bộ phận giá đỡ"
+    },
+    {
+        "id": 3,
+        "hanzi": "滚桶",
+        "pinyin": "Gǔntǒng",
+        "meaning": "Trống quay"
+    },
+    {
+        "id": 4,
+        "hanzi": "振筛",
+        "pinyin": "Zhènshāi",
+        "meaning": "Sàng rung"
+    },
+    {
+        "id": 5,
+        "hanzi": "鞍座",
+        "pinyin": "Ānzuò",
+        "meaning": "Yên đỡ"
+    },
+    {
+        "id": 6,
+        "hanzi": "摇摆",
+        "pinyin": "Yáobǎi",
+        "meaning": "Dao động"
+    },
+    {
+        "id": 7,
+        "hanzi": "滚动机构",
+        "pinyin": "Gǔndòng jīgòu",
+        "meaning": "Cơ cấu lăn"
+    },
+    {
+        "id": 8,
+        "hanzi": "力学分析",
+        "pinyin": "Lìxué fēnxī",
+        "meaning": "Phân tích cơ học"
+    },
+    {
+        "id": 9,
+        "hanzi": "导电头",
+        "pinyin": "Dǎodiàn tóu",
+        "meaning": "Đầu dẫn điện"
+    },
+    {
+        "id": 10,
+        "hanzi": "CNC精加工",
+        "pinyin": "CNC jīng jiāgōng",
+        "meaning": "Gia công CNC chính xác"
+    },
+    {
+        "id": 11,
+        "hanzi": "仰角",
+        "pinyin": "Yǎngjiǎo",
+        "meaning": "Góc nghiêng"
+    },
+    {
+        "id": 12,
+        "hanzi": "限位导向",
+        "pinyin": "Xiànwèi dǎoxiàng",
+        "meaning": "Hướng dẫn giới hạn vị trí"
+    },
+    {
+        "id": 13,
+        "hanzi": "铜鞍座",
+        "pinyin": "Tóng ānzuò",
+        "meaning": "Yên đỡ bằng đồng"
+    },
+    {
+        "id": 14,
+        "hanzi": "黄铜铸造",
+        "pinyin": "Huángtóng zhùzào",
+        "meaning": "Đúc đồng thau"
+    },
+    {
+        "id": 15,
+        "hanzi": "飞巴主体",
+        "pinyin": "Fēibā zhǔtǐ",
+        "meaning": "Thân chính của giá treo"
+    },
+    {
+        "id": 16,
+        "hanzi": "飞巴提手",
+        "pinyin": "Fēibā tíshǒu",
+        "meaning": "Tay cầm giá treo"
+    },
+    {
+        "id": 17,
+        "hanzi": "提柄",
+        "pinyin": "Tíbǐng",
+        "meaning": "Tay nắm"
+    },
+    {
+        "id": 18,
+        "hanzi": "落座",
+        "pinyin": "Luòzuò",
+        "meaning": "Bệ đỡ"
+    },
+    {
+        "id": 19,
+        "hanzi": "紫铜材质",
+        "pinyin": "Zǐtóng cáizhì",
+        "meaning": "Chất liệu đồng đỏ"
+    },
+    {
+        "id": 20,
+        "hanzi": "胶鞍座",
+        "pinyin": "Jiāo ānzuò",
+        "meaning": "Yên đỡ bằng nhựa"
+    },
+    {
+        "id": 21,
+        "hanzi": "原色PE板",
+        "pinyin": "Yuánsè PE bǎn",
+        "meaning": "Tấm PE màu nguyên bản"
+    },
+    {
+        "id": 22,
+        "hanzi": "导向板",
+        "pinyin": "Dǎoxiàng bǎn",
+        "meaning": "Tấm dẫn hướng"
+    },
+    {
+        "id": 23,
+        "hanzi": "摇摆框架",
+        "pinyin": "Yáobǎi kuàngjià",
+        "meaning": "Khung lắc"
+    },
+    {
+        "id": 24,
+        "hanzi": "摇摆座",
+        "pinyin": "Yáobǎi zuò",
+        "meaning": "Bệ lắc"
+    },
+    {
+        "id": 25,
+        "hanzi": "摆动方式",
+        "pinyin": "Bǎidòng fāngshì",
+        "meaning": "Phương thức dao động"
+    },
+    {
+        "id": 26,
+        "hanzi": "摆动幅度",
+        "pinyin": "Bǎidòng fúdù",
+        "meaning": "Biên độ dao động"
+    },
+    {
+        "id": 27,
+        "hanzi": "摆动频率",
+        "pinyin": "Bǎidòng pínlǜ",
+        "meaning": "Tần số dao động"
+    },
+    {
+        "id": 28,
+        "hanzi": "摇摆动力",
+        "pinyin": "Yáobǎi dònglì",
+        "meaning": "Động lực dao động"
+    },
+    {
+        "id": 29,
+        "hanzi": "使用部位",
+        "pinyin": "Shǐyòng bùwèi",
+        "meaning": "Vị trí sử dụng"
+    },
+    {
+        "id": 30,
+        "hanzi": "减速电机",
+        "pinyin": "Jiǎnsù diànjī",
+        "meaning": "Động cơ giảm tốc"
+    },
+    {
+        "id": 31,
+        "hanzi": "镍MP-EN",
+        "pinyin": "Niè MP-EN",
+        "meaning": "Mạ niken trung tính MP-EN"
+    },
+    {
+        "id": 32,
+        "hanzi": "镍HP-EN",
+        "pinyin": "Niè HP-EN",
+        "meaning": "Mạ niken cao HP-EN"
+    },
+    {
+        "id": 33,
+        "hanzi": "雾锡",
+        "pinyin": "Wù xī",
+        "meaning": "Thiếc sương mù"
+    },
+    {
+        "id": 34,
+        "hanzi": "塑胶槽体",
+        "pinyin": "Sùjiāo cáotǐ",
+        "meaning": "Bể nhựa"
+    },
+    {
+        "id": 35,
+        "hanzi": "自动开料机",
+        "pinyin": "Zìdòng kāiliào jī",
+        "meaning": "Máy cắt tự động"
+    },
+    {
+        "id": 36,
+        "hanzi": "开料尺寸",
+        "pinyin": "Kāiliào chǐcùn",
+        "meaning": "Kích thước cắt"
+    },
+    {
+        "id": 37,
+        "hanzi": "热熔拼板",
+        "pinyin": "Rèróng pīnbǎn",
+        "meaning": "Ghép tấm bằng nhiệt hàn"
+    },
+    {
+        "id": 38,
+        "hanzi": "弯板技术",
+        "pinyin": "Wānbǎn jìshù",
+        "meaning": "Công nghệ uốn tấm"
+    },
+    {
+        "id": 39,
+        "hanzi": "手工焊接",
+        "pinyin": "Shǒugōng hànjiē",
+        "meaning": "Hàn thủ công"
+    },
+    {
+        "id": 40,
+        "hanzi": "防漏系数",
+        "pinyin": "Fánglòu xìshù",
+        "meaning": "Hệ số chống rò rỉ"
+    },
+    {
+        "id": 41,
+        "hanzi": "小焊",
+        "pinyin": "Xiǎo hàn",
+        "meaning": "Hàn nhỏ"
+    },
+    {
+        "id": 42,
+        "hanzi": "大焊",
+        "pinyin": "Dà hàn",
+        "meaning": "Hàn lớn"
+    },
+    {
+        "id": 43,
+        "hanzi": "钢骨加固",
+        "pinyin": "Gānggǔ jiāgù",
+        "meaning": "Gia cố khung thép"
+    },
+    {
+        "id": 44,
+        "hanzi": "PP盒盖",
+        "pinyin": "PP hé gài",
+        "meaning": "Nắp hộp PP"
+    },
+    {
+        "id": 45,
+        "hanzi": "低位集液口",
+        "pinyin": "Dīwèi jíyè kǒu",
+        "meaning": "Cửa gom chất lỏng thấp"
+    },
+    {
+        "id": 46,
+        "hanzi": "活节阀门",
+        "pinyin": "Huójié fámén",
+        "meaning": "Van khớp động"
+    },
+    {
+        "id": 47,
+        "hanzi": "红外线试漏",
+        "pinyin": "Hóngwàixiàn shìlòu",
+        "meaning": "Kiểm tra rò rỉ bằng tia hồng ngoại"
+    },
+    {
+        "id": 48,
+        "hanzi": "高压水枪试压",
+        "pinyin": "Gāoyā shuǐqiāng shìyā",
+        "meaning": "Kiểm tra áp suất bằng vòi nước cao áp"
+    },
+    {
+        "id": 49,
+        "hanzi": "灌水试胀",
+        "pinyin": "Guànshuǐ shì zhàng",
+        "meaning": "Kiểm tra giãn nở bằng nước"
+    },
+    {
+        "id": 50,
+        "hanzi": "金属槽体",
+        "pinyin": "Jīnshǔ cáotǐ",
+        "meaning": "Bể kim loại"
+    },
+    {
+        "id": 51,
+        "hanzi": "焊缝",
+        "pinyin": "Hànfèng",
+        "meaning": "Đường hàn"
+    },
+    {
+        "id": 52,
+        "hanzi": "打磨",
+        "pinyin": "Dǎmó",
+        "meaning": "Đánh bóng"
+    },
+    {
+        "id": 53,
+        "hanzi": "抛光",
+        "pinyin": "Pāoguāng",
+        "meaning": "Đánh bóng cơ học"
+    },
+    {
+        "id": 54,
+        "hanzi": "试水检测",
+        "pinyin": "Shìshuǐ jiǎncè",
+        "meaning": "Kiểm tra bằng nước"
+    },
+    {
+        "id": 55,
+        "hanzi": "内尺寸",
+        "pinyin": "Nèi chǐcùn",
+        "meaning": "Kích thước trong"
+    },
+    {
+        "id": 56,
+        "hanzi": "对角",
+        "pinyin": "Duìjiǎo",
+        "meaning": "Độ chéo"
+    },
+    {
+        "id": 57,
+        "hanzi": "外观检测",
+        "pinyin": "Wàiguān jiǎncè",
+        "meaning": "Kiểm tra ngoại quan"
+    },
+    {
+        "id": 58,
+        "hanzi": "遮液挡板",
+        "pinyin": "Zhēyè dǎngbǎn",
+        "meaning": "Tấm chắn chất lỏng"
+    },
+    {
+        "id": 59,
+        "hanzi": "槽液",
+        "pinyin": "Cáo yè",
+        "meaning": "Dung dịch trong bể"
+    },
+    {
+        "id": 60,
+        "hanzi": "逆流漂流",
+        "pinyin": "Nìliú piāoliú",
+        "meaning": "Dòng chảy ngược"
+    },
+    {
+        "id": 61,
+        "hanzi": "节水",
+        "pinyin": "Jiéshuǐ",
+        "meaning": "Tiết kiệm nước"
+    },
+    {
+        "id": 62,
+        "hanzi": "液面",
+        "pinyin": "Yèmiàn",
+        "meaning": "Mực chất lỏng"
+    },
+    {
+        "id": 63,
+        "hanzi": "水洗槽",
+        "pinyin": "Shuǐxǐ cáo",
+        "meaning": "Bể rửa nước"
+    },
+    {
+        "id": 64,
+        "hanzi": "站位规格",
+        "pinyin": "Zhànwèi guīgé",
+        "meaning": "Kích thước trạm"
+    },
+    {
+        "id": 65,
+        "hanzi": "站位主材",
+        "pinyin": "Zhànwèi zhǔcái",
+        "meaning": "Vật liệu chính của trạm"
+    },
+    {
+        "id": 66,
+        "hanzi": "接水盆",
+        "pinyin": "Jiēshuǐ pén",
+        "meaning": "Bồn hứng nước"
+    },
+    {
+        "id": 67,
+        "hanzi": "暂存位",
+        "pinyin": "Zàncún wèi",
+        "meaning": "Vị trí lưu trữ tạm thời"
+    },
+    {
+        "id": 68,
+        "hanzi": "超声波除油",
+        "pinyin": "Chāoshēngbō chúyóu",
+        "meaning": "Tẩy dầu bằng sóng siêu âm"
+    },
+    {
+        "id": 69,
+        "hanzi": "超声波水洗",
+        "pinyin": "Chāoshēngbō shuǐxǐ",
+        "meaning": "Rửa nước bằng sóng siêu âm"
+    },
+    {
+        "id": 70,
+        "hanzi": "槽内尺寸",
+        "pinyin": "Cáo nèi chǐcùn",
+        "meaning": "Kích thước bên trong bể"
+    },
+    {
+        "id": 71,
+        "hanzi": "槽体主材",
+        "pinyin": "Cáotǐ zhǔcái",
+        "meaning": "Vật liệu chính của bể"
+    },
+    {
+        "id": 72,
+        "hanzi": "槽体补强",
+        "pinyin": "Cáotǐ bǔqiáng",
+        "meaning": "Gia cố bể"
+    },
+    {
+        "id": 73,
+        "hanzi": "排水盒",
+        "pinyin": "Páishuǐ hé",
+        "meaning": "Hộp thoát nước"
+    },
+    {
+        "id": 74,
+        "hanzi": "不锈钢板",
+        "pinyin": "Bùxiùgāng bǎn",
+        "meaning": "Tấm thép không gỉ"
+    },
+    {
+        "id": 75,
+        "hanzi": "保温棉",
+        "pinyin": "Bǎowēn mián",
+        "meaning": "Lớp bông cách nhiệt"
+    },
+    {
+        "id": 76,
+        "hanzi": "外封",
+        "pinyin": "Wài fēng",
+        "meaning": "Lớp bọc ngoài"
+    },
+    {
+        "id": 77,
+        "hanzi": "中和",
+        "pinyin": "Zhōnghé",
+        "meaning": "Trung hòa"
+    },
+    {
+        "id": 78,
+        "hanzi": "打底镍",
+        "pinyin": "Dǎdǐ niè",
+        "meaning": "Lớp niken nền"
+    },
+    {
+        "id": 79,
+        "hanzi": "高磷化学镍槽",
+        "pinyin": "Gāo lín huàxué niè cáo",
+        "meaning": "Bể mạ niken hóa học cao photpho"
+    },
+    {
+        "id": 80,
+        "hanzi": "中磷化学镍槽",
+        "pinyin": "Zhōng lín huàxué niè cáo",
+        "meaning": "Bể mạ niken hóa học trung photpho"
+    },
+    {
+        "id": 81,
+        "hanzi": "副槽尺寸",
+        "pinyin": "Fù cáo chǐcùn",
+        "meaning": "Kích thước bể phụ"
+    },
+    {
+        "id": 82,
+        "hanzi": "A级PPN板",
+        "pinyin": "Jí PPN bǎn",
+        "meaning": "Tấm PPN cấp A"
+    },
+    {
+        "id": 83,
+        "hanzi": "PP包槽",
+        "pinyin": "PP bāo cáo",
+        "meaning": "Lớp bọc PP cho bể"
+    },
+    {
+        "id": 84,
+        "hanzi": "PP注塑一体成型",
+        "pinyin": "PP zhùsù yītǐ chéngxíng",
+        "meaning": "PP ép phun nguyên khối"
+    },
+    {
+        "id": 85,
+        "hanzi": "低位集水功能",
+        "pinyin": "Dīwèi jíshuǐ gōngnéng",
+        "meaning": "Chức năng gom nước thấp"
+    },
+    {
+        "id": 86,
+        "hanzi": "热浸除油",
+        "pinyin": "Rèjìn chúyóu",
+        "meaning": "Tẩy dầu bằng phương pháp nhúng nóng"
+    },
+    {
+        "id": 87,
+        "hanzi": "碱蚀",
+        "pinyin": "Jiǎnshí",
+        "meaning": "Ăn mòn kiềm"
+    },
+    {
+        "id": 88,
+        "hanzi": "阴极除油",
+        "pinyin": "Yīnjí chúyóu",
+        "meaning": "Tẩy dầu bằng điện cực âm"
+    },
+    {
+        "id": 89,
+        "hanzi": "化学抛光",
+        "pinyin": "Huàxué pāoguāng",
+        "meaning": "Đánh bóng hóa học"
+    },
+    {
+        "id": 90,
+        "hanzi": "化学除油",
+        "pinyin": "Huàxué chúyóu",
+        "meaning": "Tẩy dầu hóa học"
+    },
+    {
+        "id": 91,
+        "hanzi": "除垢",
+        "pinyin": "Chúgòu",
+        "meaning": "Tẩy cặn"
+    },
+    {
+        "id": 92,
+        "hanzi": "锌置换",
+        "pinyin": "Xīn zhìhuàn",
+        "meaning": "Thay thế kẽm"
+    },
+    {
+        "id": 93,
+        "hanzi": "退锌",
+        "pinyin": "Tuì xīn",
+        "meaning": "Loại bỏ kẽm"
+    },
+    {
+        "id": 94,
+        "hanzi": "化学镍钝化",
+        "pinyin": "Huàxué niè dùnhuà",
+        "meaning": "Thụ động hóa niken hóa học"
+    },
+    {
+        "id": 95,
+        "hanzi": "雾锡钝化",
+        "pinyin": "Wù xī dùnhuà",
+        "meaning": "Thụ động hóa thiếc sương mù"
+    },
+    {
+        "id": 96,
+        "hanzi": "活化",
+        "pinyin": "Huóhuà",
+        "meaning": "Hoạt hóa"
+    },
+    {
+        "id": 97,
+        "hanzi": "锡前活化",
+        "pinyin": "Xī qián huóhuà",
+        "meaning": "Hoạt hóa trước thiếc"
+    },
+    {
+        "id": 98,
+        "hanzi": "热纯水洗",
+        "pinyin": "Rè chúnshuǐ xǐ",
+        "meaning": "Rửa nước tinh khiết nóng"
+    },
+    {
+        "id": 99,
+        "hanzi": "中转",
+        "pinyin": "Zhōngzhuǎn",
+        "meaning": "Trung chuyển"
+    },
+    {
+        "id": 100,
+        "hanzi": "打底镍水洗",
+        "pinyin": "Dǎdǐ niè shuǐxǐ",
+        "meaning": "Rửa nước niken nền"
+    },
+    {
+        "id": 101,
+        "hanzi": "中磷镍水洗",
+        "pinyin": "Zhōng lín niè shuǐxǐ",
+        "meaning": "Rửa nước niken trung photpho"
+    },
+    {
+        "id": 102,
+        "hanzi": "二联水洗",
+        "pinyin": "Èrlián shuǐxǐ",
+        "meaning": "Rửa nước hai bước"
+    },
+    {
+        "id": 103,
+        "hanzi": "平移车",
+        "pinyin": "Píngyí chē",
+        "meaning": "Xe di chuyển ngang"
+    },
+    {
+        "id": 104,
+        "hanzi": "拉头",
+        "pinyin": "Lā tóu",
+        "meaning": "Đầu kéo"
+    },
+    {
+        "id": 105,
+        "hanzi": "路轨",
+        "pinyin": "Lùguǐ",
+        "meaning": "Đường ray"
+    },
+    {
+        "id": 106,
+        "hanzi": "驱动架",
+        "pinyin": "Qūdòng jià",
+        "meaning": "Khung dẫn động"
+    },
+    {
+        "id": 107,
+        "hanzi": "平移链条",
+        "pinyin": "Píngyí liàntiáo",
+        "meaning": "Chuỗi di chuyển ngang"
+    },
+    {
+        "id": 108,
+        "hanzi": "单排链",
+        "pinyin": "Dānpái liàn",
+        "meaning": "Chuỗi đơn"
+    },
+    {
+        "id": 109,
+        "hanzi": "移动槽水洗",
+        "pinyin": "Yídòng cáo shuǐxǐ",
+        "meaning": "Rửa nước bể di động"
+    },
+    {
+        "id": 110,
+        "hanzi": "拉尾",
+        "pinyin": "Lā wěi",
+        "meaning": "Đuôi kéo"
+    },
+    {
+        "id": 111,
+        "hanzi": "化学除油副槽",
+        "pinyin": "Huàxué chúyóu fù cáo",
+        "meaning": "Bể phụ tẩy dầu hóa học"
+    },
+    {
+        "id": 112,
+        "hanzi": "超声波除油副槽",
+        "pinyin": "Chāoshēngbō chúyóu fù cáo",
+        "meaning": "Bể phụ tẩy dầu siêu âm"
+    },
+    {
+        "id": 113,
+        "hanzi": "PP筋板加强",
+        "pinyin": "PP jīnbǎn jiāqiáng",
+        "meaning": "Gia cố tấm gân PP"
+    },
+    {
+        "id": 114,
+        "hanzi": "网篮过滤杂质",
+        "pinyin": "Wǎnglán guòlǜ zázhì",
+        "meaning": "Rổ lưới lọc tạp chất"
+    },
+    {
+        "id": 115,
+        "hanzi": "热浸除油副槽",
+        "pinyin": "Rèjìn chúyóu fù cáo",
+        "meaning": "Bể phụ tẩy dầu nhúng nóng"
+    },
+    {
+        "id": 116,
+        "hanzi": "槽盖",
+        "pinyin": "Cáo gài",
+        "meaning": "Nắp bể"
+    },
+    {
+        "id": 117,
+        "hanzi": "倒槽泵",
+        "pinyin": "Dàocáo bèng",
+        "meaning": "Bơm đảo bể"
+    },
+    {
+        "id": 118,
+        "hanzi": "倒槽管道",
+        "pinyin": "Dàocáo guǎndào",
+        "meaning": "Đường ống đảo bể"
+    },
+    {
+        "id": 119,
+        "hanzi": "磁力泵",
+        "pinyin": "Cílì bèng",
+        "meaning": "Bơm từ lực"
+    },
+    {
+        "id": 120,
+        "hanzi": "剥挂钝化槽",
+        "pinyin": "Bōguà dùnhuà cáo",
+        "meaning": "Bể thụ động hóa loại bỏ treo"
+    },
+    {
+        "id": 121,
+        "hanzi": "剥挂水洗",
+        "pinyin": "Bōguà shuǐxǐ",
+        "meaning": "Rửa nước loại bỏ treo"
+    },
+    {
+        "id": 122,
+        "hanzi": "槽顶盖",
+        "pinyin": "Cáo dǐng gài",
+        "meaning": "Nắp bể trên"
+    },
+    {
+        "id": 123,
+        "hanzi": "药水槽",
+        "pinyin": "Yàoshuǐ cáo",
+        "meaning": "Bể dung dịch hóa chất"
+    },
+    {
+        "id": 124,
+        "hanzi": "电镀槽",
+        "pinyin": "Diàndù cáo",
+        "meaning": "Bể mạ điện"
+    },
+    {
+        "id": 125,
+        "hanzi": "管路部份",
+        "pinyin": "Guǎnlù bùfèn",
+        "meaning": "Bộ phận đường ống"
+    },
+    {
+        "id": 126,
+        "hanzi": "流体力学",
+        "pinyin": "Liútǐ lìxué",
+        "meaning": "Động lực học chất lỏng"
+    },
+    {
+        "id": 127,
+        "hanzi": "防虹孔",
+        "pinyin": "Fánghóng kǒng",
+        "meaning": "Lỗ chống hút ngược"
+    },
+    {
+        "id": 128,
+        "hanzi": "溶液交叉污染",
+        "pinyin": "Róngyè jiāochā wūrǎn",
+        "meaning": "Ô nhiễm chéo dung dịch"
+    },
+    {
+        "id": 129,
+        "hanzi": "水流行程",
+        "pinyin": "Shuǐliú xíngchéng",
+        "meaning": "Hành trình dòng nước"
+    },
+    {
+        "id": 130,
+        "hanzi": "空气搅拌管",
+        "pinyin": "Kōngqì jiǎobàn guǎn",
+        "meaning": "Ống khuấy khí"
+    },
+    {
+        "id": 131,
+        "hanzi": "循环过滤管道",
+        "pinyin": "Xúnhuán guòlǜ guǎndào",
+        "meaning": "Đường ống lọc tuần hoàn"
+    },
+    {
+        "id": 132,
+        "hanzi": "废水分类排放",
+        "pinyin": "Fèishuǐ fēnlèi páifàng",
+        "meaning": "Phân loại nước thải"
+    },
+    {
+        "id": 133,
+        "hanzi": "落差",
+        "pinyin": "Luòchā",
+        "meaning": "Chênh lệch cao độ"
+    },
+    {
+        "id": 134,
+        "hanzi": "活接式阀门",
+        "pinyin": "Huójiēshì fámén",
+        "meaning": "Van kết nối nhanh"
+    },
+    {
+        "id": 135,
+        "hanzi": "管道功能分类",
+        "pinyin": "Guǎndào gōngnéng fēnlèi",
+        "meaning": "Phân loại chức năng đường ống"
+    },
+    {
+        "id": 136,
+        "hanzi": "功能名称标识",
+        "pinyin": "Gōngnéng míngchēng biāoshí",
+        "meaning": "Nhãn tên chức năng"
+    },
+    {
+        "id": 137,
+        "hanzi": "进水主管",
+        "pinyin": "Jìnshuǐ zhǔguǎn",
+        "meaning": "Đường ống cấp nước chính"
+    },
+    {
+        "id": 138,
+        "hanzi": "排水主管",
+        "pinyin": "Páishuǐ zhǔguǎn",
+        "meaning": "Đường ống thoát nước chính"
+    },
+    {
+        "id": 139,
+        "hanzi": "进气主管",
+        "pinyin": "Jìnqì zhǔguǎn",
+        "meaning": "Đường ống cấp khí chính"
+    },
+    {
+        "id": 140,
+        "hanzi": "抽风排水管",
+        "pinyin": "Chōufēng páishuǐ guǎn",
+        "meaning": "Ống thoát nước hệ thống hút gió"
+    },
+    {
+        "id": 141,
+        "hanzi": "送排风部份",
+        "pinyin": "Sòng páifēng bùfèn",
+        "meaning": "Bộ phận cấp và thoát gió"
+    },
+    {
+        "id": 142,
+        "hanzi": "风速定义",
+        "pinyin": "Fēngsù dìngyì",
+        "meaning": "Xác định tốc độ gió"
+    },
+    {
+        "id": 143,
+        "hanzi": "梯度导向设计",
+        "pinyin": "Tīdù dǎoxiàng shèjì",
+        "meaning": "Thiết kế hướng dẫn theo độ dốc"
+    },
+    {
+        "id": 144,
+        "hanzi": "喇叭口",
+        "pinyin": "Lǎbā kǒu",
+        "meaning": "Miệng loe"
+    },
+    {
+        "id": 145,
+        "hanzi": "罩体底部",
+        "pinyin": "Zhàotǐ dǐbù",
+        "meaning": "Đáy mái che"
+    },
+    {
+        "id": 146,
+        "hanzi": "风管末端风压",
+        "pinyin": "Fēngguǎn mòduān fēngyā",
+        "meaning": "Áp suất gió cuối ống"
+    },
+    {
+        "id": 147,
+        "hanzi": "积液",
+        "pinyin": "Jīyè",
+        "meaning": "Tích tụ chất lỏng"
+    },
+    {
+        "id": 148,
+        "hanzi": "结晶",
+        "pinyin": "Jiéjīng",
+        "meaning": "Kết tinh"
+    },
+    {
+        "id": 149,
+        "hanzi": "废气净化处理装置",
+        "pinyin": "Fèiqì jìnghuà chǔlǐ zhuāngzhì",
+        "meaning": "Thiết bị xử lý khí thải"
+    },
+    {
+        "id": 150,
+        "hanzi": "侧抽气罩",
+        "pinyin": "Cè chōuqì zhào",
+        "meaning": "Mái che hút khí bên"
+    },
+    {
+        "id": 151,
+        "hanzi": "阻燃",
+        "pinyin": "Zǔrán",
+        "meaning": "Chống cháy"
+    },
+    {
+        "id": 152,
+        "hanzi": "顶抽气罩",
+        "pinyin": "Dǐng chōuqì zhào",
+        "meaning": "Mái che hút khí trên"
+    },
+    {
+        "id": 153,
+        "hanzi": "喇叭式抽风罩",
+        "pinyin": "Lǎbā shì chōufēng zhào",
+        "meaning": "Mái che hút khí dạng loa"
+    },
+    {
+        "id": 154,
+        "hanzi": "排风支管",
+        "pinyin": "Páifēng zhīguǎn",
+        "meaning": "Ống thoát khí phụ"
+    },
+    {
+        "id": 155,
+        "hanzi": "调风阀",
+        "pinyin": "Tiáofēng fá",
+        "meaning": "Van điều chỉnh gió"
+    },
+    {
+        "id": 156,
+        "hanzi": "抽气主管",
+        "pinyin": "Chōuqì zhǔguǎn",
+        "meaning": "Ống thoát khí chính"
+    },
+    {
+        "id": 157,
+        "hanzi": "酸碱主管",
+        "pinyin": "Suānjiǎn zhǔguǎn",
+        "meaning": "Ống chính dẫn axit-bazơ"
+    },
+    {
+        "id": 158,
+        "hanzi": "支撑管码",
+        "pinyin": "Zhīchēng guǎn mǎ",
+        "meaning": "Mã cố định ống"
+    },
+    {
+        "id": 159,
+        "hanzi": "电控部份",
+        "pinyin": "Diànkòng bùfèn",
+        "meaning": "Bộ phận điều khiển điện"
+    },
+    {
+        "id": 160,
+        "hanzi": "IP54防护标准",
+        "pinyin": "IP54 fánghù biāozhǔn",
+        "meaning": "Tiêu chuẩn bảo vệ IP54"
+    },
+    {
+        "id": 161,
+        "hanzi": "检修灯",
+        "pinyin": "Jiǎnxiū dēng",
+        "meaning": "Đèn bảo trì"
+    },
+    {
+        "id": 162,
+        "hanzi": "IEC认证产品",
+        "pinyin": "IEC rènzhèng chǎnpǐn",
+        "meaning": "Sản phẩm đạt chứng nhận IEC"
+    },
+    {
+        "id": 163,
+        "hanzi": "电缆颜色",
+        "pinyin": "Diànlán yánsè",
+        "meaning": "Màu dây điện"
+    },
+    {
+        "id": 164,
+        "hanzi": "高低压分区",
+        "pinyin": "Gāo dī yā fēnqū",
+        "meaning": "Phân vùng cao áp và thấp áp"
+    },
+    {
+        "id": 165,
+        "hanzi": "信号干扰",
+        "pinyin": "Xìnhào gānrǎo",
+        "meaning": "Nhiễu tín hiệu"
+    },
+    {
+        "id": 166,
+        "hanzi": "分线箱",
+        "pinyin": "Fēnxiàn xiāng",
+        "meaning": "Hộp đấu dây"
+    },
+    {
+        "id": 167,
+        "hanzi": "端子连接",
+        "pinyin": "Duānzǐ liánjiē",
+        "meaning": "Kết nối đầu dây"
+    },
+    {
+        "id": 168,
+        "hanzi": "过载保护",
+        "pinyin": "Guòzài bǎohù",
+        "meaning": "Bảo vệ quá tải"
+    },
+    {
+        "id": 169,
+        "hanzi": "缺相保护",
+        "pinyin": "Quēxiàng bǎohù",
+        "meaning": "Bảo vệ mất pha"
+    },
+    {
+        "id": 170,
+        "hanzi": "屏蔽电缆",
+        "pinyin": "Píngbì diànlán",
+        "meaning": "Cáp chống nhiễu"
+    },
+    {
+        "id": 171,
+        "hanzi": "变频器",
+        "pinyin": "Biànpínqì",
+        "meaning": "Bộ biến tần"
+    },
+    {
+        "id": 172,
+        "hanzi": "电抗器",
+        "pinyin": "Diànkàngqì",
+        "meaning": "Bộ kháng điện"
+    },
+    {
+        "id": 173,
+        "hanzi": "高次谐波",
+        "pinyin": "Gāo cì xiébō",
+        "meaning": "Sóng hài bậc cao"
+    },
+    {
+        "id": 174,
+        "hanzi": "RS485功能",
+        "pinyin": "RS485 gōngnéng",
+        "meaning": "Chức năng RS485"
+    },
+    {
+        "id": 175,
+        "hanzi": "PLC自由通讯",
+        "pinyin": "PLC zìyóu tōngxùn",
+        "meaning": "PLC giao tiếp tự do"
+    },
+    {
+        "id": 176,
+        "hanzi": "断点记忆",
+        "pinyin": "Duàndiǎn jìyì",
+        "meaning": "Nhớ điểm ngắt"
+    },
+    {
+        "id": 177,
+        "hanzi": "中央集控",
+        "pinyin": "Zhōngyāng jíkòng",
+        "meaning": "Kiểm soát tập trung trung tâm"
+    },
+    {
+        "id": 178,
+        "hanzi": "PLC编程控制",
+        "pinyin": "PLC biānchéng kòngzhì",
+        "meaning": "Điều khiển lập trình PLC"
+    },
+    {
+        "id": 179,
+        "hanzi": "DMS数据库",
+        "pinyin": "DMS shùjùkù",
+        "meaning": "Cơ sở dữ liệu DMS"
+    },
+    {
+        "id": 180,
+        "hanzi": "人机交互界面",
+        "pinyin": "Rénjī jiāohù jièmiàn",
+        "meaning": "Giao diện tương tác người-máy"
+    },
+    {
+        "id": 181,
+        "hanzi": "主画面",
+        "pinyin": "Zhǔ huàmiàn",
+        "meaning": "Màn hình chính"
+    },
+    {
+        "id": 182,
+        "hanzi": "工艺流程",
+        "pinyin": "Gōngyì liúchéng",
+        "meaning": "Quy trình công nghệ"
+    },
+    {
+        "id": 183,
+        "hanzi": "料号",
+        "pinyin": "Liào hào",
+        "meaning": "Mã vật liệu"
+    },
+    {
+        "id": 184,
+        "hanzi": "节拍时间",
+        "pinyin": "Jiépāi shíjiān",
+        "meaning": "Thời gian chu kỳ"
+    },
+    {
+        "id": 185,
+        "hanzi": "运作模式",
+        "pinyin": "Yùnzuò móshì",
+        "meaning": "Chế độ hoạt động"
+    },
+    {
+        "id": 186,
+        "hanzi": "点动",
+        "pinyin": "Diǎndòng",
+        "meaning": "Điều khiển nhấn giữ"
+    },
+    {
+        "id": 187,
+        "hanzi": "行车状态",
+        "pinyin": "Xíngchē zhuàngtài",
+        "meaning": "Trạng thái xe di chuyển"
+    },
+    {
+        "id": 188,
+        "hanzi": "功能槽",
+        "pinyin": "Gōngnéng cáo",
+        "meaning": "Bể chức năng"
+    },
+    {
+        "id": 189,
+        "hanzi": "液位",
+        "pinyin": "Yèwèi",
+        "meaning": "Mực chất lỏng"
+    },
+    {
+        "id": 190,
+        "hanzi": "药水补加",
+        "pinyin": "Yàoshuǐ bǔjiā",
+        "meaning": "Bổ sung hóa chất"
+    },
+    {
+        "id": 191,
+        "hanzi": "飞巴状态",
+        "pinyin": "Fēibā zhuàngtài",
+        "meaning": "Trạng thái giá treo"
+    },
+    {
+        "id": 192,
+        "hanzi": "故障代码",
+        "pinyin": "Gùzhàng dàimǎ",
+        "meaning": "Mã lỗi"
+    },
+    {
+        "id": 193,
+        "hanzi": "解决方法",
+        "pinyin": "Jiějué fāngfǎ",
+        "meaning": "Phương pháp giải quyết"
+    },
+    {
+        "id": 194,
+        "hanzi": "多级用户",
+        "pinyin": "Duōjí yònghù",
+        "meaning": "Người dùng nhiều cấp"
+    },
+    {
+        "id": 195,
+        "hanzi": "硬件配置",
+        "pinyin": "Yìngjiàn pèizhì",
+        "meaning": "Cấu hình phần cứng"
+    },
+    {
+        "id": 196,
+        "hanzi": "控制柜",
+        "pinyin": "Kòngzhì guì",
+        "meaning": "Tủ điều khiển"
+    },
+    {
+        "id": 197,
+        "hanzi": "PLC",
+        "pinyin": "PLC",
+        "meaning": "Bộ điều khiển logic lập trình"
+    },
+    {
+        "id": 198,
+        "hanzi": "触摸屏",
+        "pinyin": "Chùmō píng",
+        "meaning": "Màn hình cảm ứng"
+    },
+    {
+        "id": 199,
+        "hanzi": "电器元件",
+        "pinyin": "Diànqì yuánjiàn",
+        "meaning": "Linh kiện điện"
+    },
+    {
+        "id": 200,
+        "hanzi": "设备布线",
+        "pinyin": "Shèbèi bùxiàn",
+        "meaning": "Hệ thống dây điện thiết bị"
+    },
+    {
+        "id": 201,
+        "hanzi": "行车定位",
+        "pinyin": "Xíngchē dìngwèi",
+        "meaning": "Định vị xe di chuyển"
+    },
+    {
+        "id": 202,
+        "hanzi": "行车扁线",
+        "pinyin": "Xíngchē biǎnxiàn",
+        "meaning": "Dây phẳng xe di chuyển"
+    },
+    {
+        "id": 203,
+        "hanzi": "软件配置",
+        "pinyin": "Ruǎnjiàn pèizhì",
+        "meaning": "Cấu hình phần mềm"
+    },
+    {
+        "id": 204,
+        "hanzi": "人机交互",
+        "pinyin": "Rénjī jiāohù",
+        "meaning": "Tương tác người-máy"
+    },
+    {
+        "id": 205,
+        "hanzi": "智能开放式程式",
+        "pinyin": "Zhìnéng kāifàng shì chéngshì",
+        "meaning": "Chương trình mở thông minh"
+    },
+    {
+        "id": 206,
+        "hanzi": "电脑界面",
+        "pinyin": "Diànnǎo jièmiàn",
+        "meaning": "Giao diện máy tính"
+    },
+    {
+        "id": 207,
+        "hanzi": "温控部份",
+        "pinyin": "Wēnkòng bùfèn",
+        "meaning": "Bộ phận kiểm soát nhiệt độ"
+    },
+    {
+        "id": 208,
+        "hanzi": "温控模块",
+        "pinyin": "Wēnkòng mókuài",
+        "meaning": "Module kiểm soát nhiệt độ"
+    },
+    {
+        "id": 209,
+        "hanzi": "数显式温控器",
+        "pinyin": "Shùxiǎn shì wēnkòngqì",
+        "meaning": "Bộ điều khiển nhiệt độ kỹ thuật số"
+    },
+    {
+        "id": 210,
+        "hanzi": "液位掣",
+        "pinyin": "Yèwèi chè",
+        "meaning": "Công tắc mức chất lỏng"
+    },
+    {
+        "id": 211,
+        "hanzi": "PID线性控制",
+        "pinyin": "PID xiànxìng kòngzhì",
+        "meaning": "Điều khiển tuyến tính PID"
+    },
+    {
+        "id": 212,
+        "hanzi": "电加热管",
+        "pinyin": "Diàn jiārè guǎn",
+        "meaning": "Ống sưởi điện"
+    },
+    {
+        "id": 213,
+        "hanzi": "超温保护",
+        "pinyin": "Chāowēn bǎohù",
+        "meaning": "Bảo vệ quá nhiệt"
+    },
+    {
+        "id": 214,
+        "hanzi": "蒸汽加热",
+        "pinyin": "Zhēngqì jiārè",
+        "meaning": "Gia nhiệt bằng hơi nước"
+    },
+    {
+        "id": 215,
+        "hanzi": "旁路阀组",
+        "pinyin": "Pánglù fázǔ",
+        "meaning": "Bộ van đường vòng"
+    },
+    {
+        "id": 216,
+        "hanzi": "疏水阀",
+        "pinyin": "Shūshuǐ fá",
+        "meaning": "Van xả nước ngưng"
+    },
+    {
+        "id": 217,
+        "hanzi": "加热盘管",
+        "pinyin": "Jiārè pánguǎn",
+        "meaning": "Cuộn gia nhiệt"
+    },
+    {
+        "id": 218,
+        "hanzi": "冷却盘管",
+        "pinyin": "Lěngquè pánguǎn",
+        "meaning": "Cuộn làm mát"
+    },
+    {
+        "id": 219,
+        "hanzi": "温控液控",
+        "pinyin": "Wēnkòng yèkòng",
+        "meaning": "Kiểm soát nhiệt độ và chất lỏng"
+    },
+    {
+        "id": 220,
+        "hanzi": "PT-100感温线",
+        "pinyin": "PT-100 gǎnwēn xiàn",
+        "meaning": "Dây cảm biến nhiệt độ PT-100"
+    },
+    {
+        "id": 221,
+        "hanzi": "TEFLON套管",
+        "pinyin": "TEFLON tàoguǎn",
+        "meaning": "Ống bọc Teflon"
+    },
+    {
+        "id": 222,
+        "hanzi": "PP浮球式液位开关",
+        "pinyin": "PP fúqiú shì yèwèi kāiguān",
+        "meaning": "Công tắc mức chất lỏng dạng bóng nổi PP"
+    },
+    {
+        "id": 223,
+        "hanzi": "PVDF浮球式液位开关",
+        "pinyin": "PVDF fúqiú shì yèwèi kāiguān",
+        "meaning": "Công tắc mức chất lỏng dạng bóng nổi PVDF"
+    },
+    {
+        "id": 224,
+        "hanzi": "304#探针式液位开关",
+        "pinyin": "304# tànzhēn shì yèwèi kāiguān",
+        "meaning": "Công tắc mức chất lỏng dạng đầu dò 304"
+    },
+    {
+        "id": 225,
+        "hanzi": "蒸汽主管",
+        "pinyin": "Zhēngqì zhǔguǎn",
+        "meaning": "Đường ống hơi chính"
+    },
+    {
+        "id": 226,
+        "hanzi": "保温套管",
+        "pinyin": "Bǎowēn tàoguǎn",
+        "meaning": "Ống bảo ôn"
+    },
+    {
+        "id": 227,
+        "hanzi": "冷却主管",
+        "pinyin": "Lěngquè zhǔguǎn",
+        "meaning": "Đường ống làm mát chính"
+    },
+    {
+        "id": 228,
+        "hanzi": "TF冷却盘管",
+        "pinyin": "TF lěngquè pánguǎn",
+        "meaning": "Cuộn làm mát TF"
+    },
+    {
+        "id": 229,
+        "hanzi": "导电部份",
+        "pinyin": "Dǎodiàn bùfèn",
+        "meaning": "Bộ phận dẫn điện"
+    },
+    {
+        "id": 230,
+        "hanzi": "镀槽功能",
+        "pinyin": "Dùcáo gōngnéng",
+        "meaning": "Chức năng bể mạ"
+    },
+    {
+        "id": 231,
+        "hanzi": "液上阳极",
+        "pinyin": "Yè shàng yángjí",
+        "meaning": "Anode trên bề mặt chất lỏng"
+    },
+    {
+        "id": 232,
+        "hanzi": "液下阳极",
+        "pinyin": "Yè xià yángjí",
+        "meaning": "Anode dưới bề mặt chất lỏng"
+    },
+    {
+        "id": 233,
+        "hanzi": "阳极挡板",
+        "pinyin": "Yángjí dǎngbǎn",
+        "meaning": "Tấm chắn anode"
+    },
+    {
+        "id": 234,
+        "hanzi": "电流分布",
+        "pinyin": "Diànliú fēnbù",
+        "meaning": "Phân bố dòng điện"
+    },
+    {
+        "id": 235,
+        "hanzi": "导电极杆",
+        "pinyin": "Dǎodiàn jígǎn",
+        "meaning": "Thanh dẫn điện cực"
+    },
+    {
+        "id": 236,
+        "hanzi": "电流密度",
+        "pinyin": "Diànliú mìdù",
+        "meaning": "Mật độ dòng điện"
+    },
+    {
+        "id": 237,
+        "hanzi": "过热现象",
+        "pinyin": "Guò rè xiànxiàng",
+        "meaning": "Hiện tượng quá nhiệt"
+    },
+    {
+        "id": 238,
+        "hanzi": "阴极铜鞍座",
+        "pinyin": "Yīnjí tóng ānzuò",
+        "meaning": "Đế cathode bằng đồng"
+    },
+    {
+        "id": 239,
+        "hanzi": "电力线平衡",
+        "pinyin": "Diànlì xiàn pínghéng",
+        "meaning": "Cân bằng đường điện lực"
+    },
+    {
+        "id": 240,
+        "hanzi": "绝缘处理",
+        "pinyin": "Juéyuán chǔlǐ",
+        "meaning": "Xử lý cách điện"
+    },
+    {
+        "id": 241,
+        "hanzi": "短路",
+        "pinyin": "Duǎnlù",
+        "meaning": "Ngắn mạch"
+    },
+    {
+        "id": 242,
+        "hanzi": "阳极篮",
+        "pinyin": "Yángjí lán",
+        "meaning": "Giỏ anode"
+    },
+    {
+        "id": 243,
+        "hanzi": "阳极泥",
+        "pinyin": "Yángjí ní",
+        "meaning": "Cặn anode"
+    },
+    {
+        "id": 244,
+        "hanzi": "假性阳极",
+        "pinyin": "Jiǎxìng yángjí",
+        "meaning": "Anode giả"
+    },
+    {
+        "id": 245,
+        "hanzi": "设备运输",
+        "pinyin": "Shèbèi yùnshū",
+        "meaning": "Vận chuyển thiết bị"
+    },
+    {
+        "id": 246,
+        "hanzi": "安装调试",
+        "pinyin": "Ānzhuāng tiáoshì",
+        "meaning": "Lắp đặt và hiệu chỉnh"
+    },
+    {
+        "id": 247,
+        "hanzi": "空气搅拌系统",
+        "pinyin": "Kōngqì jiǎobàn xìtǒng",
+        "meaning": "Hệ thống khuấy không khí"
+    },
+    {
+        "id": 248,
+        "hanzi": "无油风机",
+        "pinyin": "Wú yóu fēngjī",
+        "meaning": "Quạt gió không dầu"
+    },
+    {
+        "id": 249,
+        "hanzi": "倒流管道",
+        "pinyin": "Dàoliú guǎndào",
+        "meaning": "Đường ống chống chảy ngược"
+    },
+    {
+        "id": 250,
+        "hanzi": "循环流动",
+        "pinyin": "Xúnhuán liúdòng",
+        "meaning": "Dòng chảy tuần hoàn"
+    }
+]
