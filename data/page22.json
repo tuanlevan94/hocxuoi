@@ -1,0 +1,1502 @@
+[
+    {
+        "id": 1,
+        "hanzi": "军爱民",
+        "pinyin": "jūn ài mín",
+        "meaning": "quân yêu dân"
+    },
+    {
+        "id": 2,
+        "hanzi": "民拥军",
+        "pinyin": "mín yōng jūn",
+        "meaning": "dân yêu quân"
+    },
+    {
+        "id": 3,
+        "hanzi": "一家亲",
+        "pinyin": "yìjiā qīn",
+        "meaning": "như một gia đình, thân thiết như người nhà"
+    },
+    {
+        "id": 4,
+        "hanzi": "威武",
+        "pinyin": "wēiwǔ",
+        "meaning": "hùng mạnh, oai phong"
+    },
+    {
+        "id": 5,
+        "hanzi": "中国人民解放军",
+        "pinyin": "Zhōngguó Rénmín Jiěfàngjūn",
+        "meaning": "Quân Giải phóng Nhân dân Trung Quốc"
+    },
+    {
+        "id": 6,
+        "hanzi": "感恩",
+        "pinyin": "gǎn'ēn",
+        "meaning": "biết ơn, cảm ơn"
+    },
+    {
+        "id": 7,
+        "hanzi": "鼓励",
+        "pinyin": "gǔlì",
+        "meaning": "khích lệ, động viên"
+    },
+    {
+        "id": 8,
+        "hanzi": "英勇",
+        "pinyin": "yīngyǒng",
+        "meaning": "anh dũng, dũng cảm"
+    },
+    {
+        "id": 9,
+        "hanzi": "天下无敌",
+        "pinyin": "tiānxià wúdí",
+        "meaning": "vô địch thiên hạ, không có đối thủ"
+    },
+    {
+        "id": 10,
+        "hanzi": "无敌",
+        "pinyin": "wúdí",
+        "meaning": "bất khả chiến bại, vô địch"
+    },
+    {
+        "id": 11,
+        "hanzi": "回不去了",
+        "pinyin": "huí bù qù le",
+        "meaning": "không thể quay lại được"
+    },
+    {
+        "id": 12,
+        "hanzi": "苗头",
+        "pinyin": "miáotóu",
+        "meaning": "dấu hiệu, tín hiệu"
+    },
+    {
+        "id": 13,
+        "hanzi": "掉头",
+        "pinyin": "diàotóu",
+        "meaning": "quay đầu, đổi hướng"
+    },
+    {
+        "id": 14,
+        "hanzi": "雷达系统",
+        "pinyin": "léidá xìtǒng",
+        "meaning": "hệ thống radar"
+    },
+    {
+        "id": 15,
+        "hanzi": "锁定目标",
+        "pinyin": "suǒdìng mùbiāo",
+        "meaning": "khóa mục tiêu, xác định mục tiêu"
+    },
+    {
+        "id": 16,
+        "hanzi": "百发百中",
+        "pinyin": "bǎi fā bǎi zhòng",
+        "meaning": "bách phát bách trúng, trăm phát trăm trúng"
+    },
+    {
+        "id": 17,
+        "hanzi": "克制",
+        "pinyin": "kèzhì",
+        "meaning": "kiềm chế, khống chế"
+    },
+    {
+        "id": 18,
+        "hanzi": "留脸",
+        "pinyin": "liú liǎn",
+        "meaning": "giữ thể diện, giữ mặt mũi"
+    },
+    {
+        "id": 19,
+        "hanzi": "炫耀",
+        "pinyin": "xuànyào",
+        "meaning": "khoe khoang, phô trương"
+    },
+    {
+        "id": 20,
+        "hanzi": "吃亏",
+        "pinyin": "chīkuī",
+        "meaning": "thiệt thòi, chịu thiệt"
+    },
+    {
+        "id": 21,
+        "hanzi": "雷达扫描",
+        "pinyin": "léidá sǎomiáo",
+        "meaning": "quét radar, dò tìm bằng radar"
+    },
+    {
+        "id": 22,
+        "hanzi": "敢死队",
+        "pinyin": "gǎnsǐduì",
+        "meaning": "đội cảm tử, đội liều chết"
+    },
+    {
+        "id": 23,
+        "hanzi": "老奸巨猾",
+        "pinyin": "lǎojiān jùhuá",
+        "meaning": "lão luyện, xảo quyệt"
+    },
+    {
+        "id": 24,
+        "hanzi": "老油条",
+        "pinyin": "lǎoyóutiáo",
+        "meaning": "người khôn ngoan, ranh mãnh"
+    },
+    {
+        "id": 25,
+        "hanzi": "击落",
+        "pinyin": "jīluò",
+        "meaning": "bắn hạ, hạ gục (máy bay)"
+    },
+    {
+        "id": 26,
+        "hanzi": "手下留情",
+        "pinyin": "shǒuxià liúqíng",
+        "meaning": "nương tay, không làm đến cùng"
+    },
+    {
+        "id": 27,
+        "hanzi": "锁定",
+        "pinyin": "suǒdìng",
+        "meaning": "khóa mục tiêu, xác định mục tiêu"
+    },
+    {
+        "id": 28,
+        "hanzi": "灰飞烟灭",
+        "pinyin": "huīfēi yānmiè",
+        "meaning": "tan thành mây khói, bị tiêu diệt hoàn toàn"
+    },
+    {
+        "id": 29,
+        "hanzi": "商家",
+        "pinyin": "shāngjiā",
+        "meaning": "thương gia, người buôn bán"
+    },
+    {
+        "id": 30,
+        "hanzi": "巴基斯坦",
+        "pinyin": "Bājīsītǎn",
+        "meaning": "Pakistan"
+    },
+    {
+        "id": 31,
+        "hanzi": "印度战机",
+        "pinyin": "Yìndù zhànjī",
+        "meaning": "máy bay chiến đấu của Ấn Độ"
+    },
+    {
+        "id": 32,
+        "hanzi": "干掉",
+        "pinyin": "gàndiào",
+        "meaning": "hạ gục, tiêu diệt"
+    },
+    {
+        "id": 33,
+        "hanzi": "巴铁",
+        "pinyin": "Bātiě",
+        "meaning": "Pakistan (cách gọi thân mật)"
+    },
+    {
+        "id": 34,
+        "hanzi": "挨揍",
+        "pinyin": "ái zòu",
+        "meaning": "bị đánh, bị đòn"
+    },
+    {
+        "id": 35,
+        "hanzi": "跑掉",
+        "pinyin": "pǎodiào",
+        "meaning": "chạy thoát, chạy trốn"
+    },
+    {
+        "id": 36,
+        "hanzi": "飞行员",
+        "pinyin": "fēixíngyuán",
+        "meaning": "phi công"
+    },
+    {
+        "id": 37,
+        "hanzi": "送人头",
+        "pinyin": "sòng réntóu",
+        "meaning": "hy sinh vô ích, đưa đầu chịu chết"
+    },
+    {
+        "id": 38,
+        "hanzi": "打掉",
+        "pinyin": "dǎdiào",
+        "meaning": "bắn hạ, tiêu diệt"
+    },
+    {
+        "id": 39,
+        "hanzi": "原本",
+        "pinyin": "yuánběn",
+        "meaning": "vốn dĩ, ban đầu"
+    },
+    {
+        "id": 40,
+        "hanzi": "送死",
+        "pinyin": "sòngsǐ",
+        "meaning": "đi vào chỗ chết, hy sinh vô ích"
+    },
+    {
+        "id": 41,
+        "hanzi": "纸老虎",
+        "pinyin": "zhǐlǎohǔ",
+        "meaning": "hổ giấy, chỉ mạnh bên ngoài nhưng yếu bên trong"
+    },
+    {
+        "id": 42,
+        "hanzi": "事态失控",
+        "pinyin": "shìtài shīkòng",
+        "meaning": "tình hình mất kiểm soát"
+    },
+    {
+        "id": 43,
+        "hanzi": "避免",
+        "pinyin": "bìmiǎn",
+        "meaning": "tránh, ngăn chặn"
+    },
+    {
+        "id": 44,
+        "hanzi": "打击范围",
+        "pinyin": "dǎjī fànwéi",
+        "meaning": "phạm vi tấn công"
+    },
+    {
+        "id": 45,
+        "hanzi": "首付",
+        "pinyin": "shǒufù",
+        "meaning": "trả trước, đặt cọc"
+    },
+    {
+        "id": 46,
+        "hanzi": "赖账",
+        "pinyin": "làizhàng",
+        "meaning": "quỵt nợ, không trả tiền"
+    },
+    {
+        "id": 47,
+        "hanzi": "胜利返航",
+        "pinyin": "shènglì fǎnháng",
+        "meaning": "trở về trong chiến thắng"
+    },
+    {
+        "id": 48,
+        "hanzi": "超视距攻击",
+        "pinyin": "chāo shìjù gōngjī",
+        "meaning": "tấn công ngoài tầm nhìn"
+    },
+    {
+        "id": 49,
+        "hanzi": "导弹",
+        "pinyin": "dǎodàn",
+        "meaning": "tên lửa"
+    },
+    {
+        "id": 50,
+        "hanzi": "回扣",
+        "pinyin": "huíkòu",
+        "meaning": "hoa hồng, tiền lại quả"
+    },
+    {
+        "id": 51,
+        "hanzi": "成功拦截",
+        "pinyin": "chénggōng lánjié",
+        "meaning": "chặn thành công, đánh chặn thành công"
+    },
+    {
+        "id": 52,
+        "hanzi": "拦截率",
+        "pinyin": "lánjié lǜ",
+        "meaning": "tỷ lệ đánh chặn"
+    },
+    {
+        "id": 53,
+        "hanzi": "国际惯例",
+        "pinyin": "guójì guànlì",
+        "meaning": "thông lệ quốc tế"
+    },
+    {
+        "id": 54,
+        "hanzi": "陆基发射",
+        "pinyin": "lùjī fāshè",
+        "meaning": "phóng từ mặt đất"
+    },
+    {
+        "id": 55,
+        "hanzi": "战机",
+        "pinyin": "zhànjī",
+        "meaning": "máy bay chiến đấu"
+    },
+    {
+        "id": 56,
+        "hanzi": "迎战",
+        "pinyin": "yíngzhàn",
+        "meaning": "nghênh chiến, đối đầu"
+    },
+    {
+        "id": 57,
+        "hanzi": "天涯",
+        "pinyin": "tiānyá",
+        "meaning": "chân trời, nơi xa xôi"
+    },
+    {
+        "id": 58,
+        "hanzi": "坠落",
+        "pinyin": "zhuìluò",
+        "meaning": "rơi xuống, bị bắn hạ"
+    },
+    {
+        "id": 59,
+        "hanzi": "原句",
+        "pinyin": "yuánjù",
+        "meaning": "câu gốc, câu nguyên bản"
+    },
+    {
+        "id": 60,
+        "hanzi": "动图",
+        "pinyin": "dòngtú",
+        "meaning": "ảnh động, GIF"
+    },
+    {
+        "id": 61,
+        "hanzi": "印度空军",
+        "pinyin": "Yìndù kōngjūn",
+        "meaning": "Không quân Ấn Độ"
+    },
+    {
+        "id": 62,
+        "hanzi": "拦截",
+        "pinyin": "lánjié",
+        "meaning": "đánh chặn, ngăn chặn"
+    },
+    {
+        "id": 63,
+        "hanzi": "高超音速导弹",
+        "pinyin": "gāochāoyīnsù dǎodàn",
+        "meaning": "tên lửa siêu thanh"
+    },
+    {
+        "id": 64,
+        "hanzi": "接的准",
+        "pinyin": "jiē de zhǔn",
+        "meaning": "đánh chặn chính xác"
+    },
+    {
+        "id": 65,
+        "hanzi": "完美答案",
+        "pinyin": "wánměi dá'àn",
+        "meaning": "câu trả lời hoàn hảo"
+    },
+    {
+        "id": 66,
+        "hanzi": "剩下",
+        "pinyin": "shèngxià",
+        "meaning": "còn lại, sót lại"
+    },
+    {
+        "id": 67,
+        "hanzi": "二战",
+        "pinyin": "èr zhàn",
+        "meaning": "Thế chiến thứ hai"
+    },
+    {
+        "id": 68,
+        "hanzi": "反导",
+        "pinyin": "fǎndǎo",
+        "meaning": "phòng thủ tên lửa, đánh chặn tên lửa"
+    },
+    {
+        "id": 69,
+        "hanzi": "成本",
+        "pinyin": "chéngběn",
+        "meaning": "chi phí, giá thành"
+    },
+    {
+        "id": 70,
+        "hanzi": "效果",
+        "pinyin": "xiàoguǒ",
+        "meaning": "hiệu quả"
+    },
+    {
+        "id": 71,
+        "hanzi": "出奇",
+        "pinyin": "chūqí",
+        "meaning": "đáng ngạc nhiên, xuất sắc"
+    },
+    {
+        "id": 72,
+        "hanzi": "我们家",
+        "pinyin": "wǒmen jiā",
+        "meaning": "nhà chúng tôi, phe chúng tôi"
+    },
+    {
+        "id": 73,
+        "hanzi": "靶机",
+        "pinyin": "bǎjī",
+        "meaning": "máy bay mục tiêu, mục tiêu bay"
+    },
+    {
+        "id": 74,
+        "hanzi": "战斗机",
+        "pinyin": "zhàndòujī",
+        "meaning": "máy bay chiến đấu"
+    },
+    {
+        "id": 75,
+        "hanzi": "天花板",
+        "pinyin": "tiānhuābǎn",
+        "meaning": "đỉnh cao, tiêu chuẩn cao nhất"
+    },
+    {
+        "id": 76,
+        "hanzi": "阵亡",
+        "pinyin": "zhènwáng",
+        "meaning": "bị tiêu diệt, tử trận"
+    },
+    {
+        "id": 77,
+        "hanzi": "号称",
+        "pinyin": "hàochēng",
+        "meaning": "được gọi là, nổi danh là"
+    },
+    {
+        "id": 78,
+        "hanzi": "军事现代化",
+        "pinyin": "jūnshì xiàndàihuà",
+        "meaning": "hiện đại hóa quân sự"
+    },
+    {
+        "id": 79,
+        "hanzi": "队伍",
+        "pinyin": "duìwǔ",
+        "meaning": "đội ngũ, quân đội"
+    },
+    {
+        "id": 80,
+        "hanzi": "逼成",
+        "pinyin": "bī chéng",
+        "meaning": "ép trở thành"
+    },
+    {
+        "id": 81,
+        "hanzi": "新兵蛋子",
+        "pinyin": "xīnbīng dànzi",
+        "meaning": "tân binh, lính mới"
+    },
+    {
+        "id": 82,
+        "hanzi": "阿三",
+        "pinyin": "Āsān",
+        "meaning": "cách gọi Ấn Độ (cách nói dân gian)"
+    },
+    {
+        "id": 83,
+        "hanzi": "报喜",
+        "pinyin": "bàoxǐ",
+        "meaning": "báo tin vui"
+    },
+    {
+        "id": 84,
+        "hanzi": "得瑟",
+        "pinyin": "dèsè",
+        "meaning": "khoe khoang, phô trương"
+    },
+    {
+        "id": 85,
+        "hanzi": "超高音速导弹",
+        "pinyin": "chāogāo yīnsù dǎodàn",
+        "meaning": "tên lửa siêu thanh"
+    },
+    {
+        "id": 86,
+        "hanzi": "新德里",
+        "pinyin": "Xīn Dé Lǐ",
+        "meaning": "New Delhi (thủ đô của Ấn Độ)"
+    },
+    {
+        "id": 87,
+        "hanzi": "招牌",
+        "pinyin": "zhāopái",
+        "meaning": "biển hiệu, danh tiếng"
+    },
+    {
+        "id": 88,
+        "hanzi": "过时",
+        "pinyin": "guòshí",
+        "meaning": "lỗi thời, hết hạn"
+    },
+    {
+        "id": 89,
+        "hanzi": "不可逾越",
+        "pinyin": "bùkě yúyuè",
+        "meaning": "không thể vượt qua"
+    },
+    {
+        "id": 90,
+        "hanzi": "越界",
+        "pinyin": "yuèjiè",
+        "meaning": "vượt qua ranh giới"
+    },
+    {
+        "id": 91,
+        "hanzi": "砸招牌",
+        "pinyin": "zá zhāopái",
+        "meaning": "phá hoại danh tiếng"
+    },
+    {
+        "id": 92,
+        "hanzi": "防御体系",
+        "pinyin": "fángyù tǐxì",
+        "meaning": "hệ thống phòng thủ"
+    },
+    {
+        "id": 93,
+        "hanzi": "漏洞",
+        "pinyin": "lòudòng",
+        "meaning": "lỗ hổng, điểm yếu"
+    },
+    {
+        "id": 94,
+        "hanzi": "反思",
+        "pinyin": "fǎnsī",
+        "meaning": "suy ngẫm, nhìn lại, tự kiểm điểm"
+    },
+    {
+        "id": 95,
+        "hanzi": "政治影响",
+        "pinyin": "zhèngzhì yǐngxiǎng",
+        "meaning": "ảnh hưởng chính trị"
+    },
+    {
+        "id": 96,
+        "hanzi": "大杀器",
+        "pinyin": "dà shāqì",
+        "meaning": "vũ khí hủy diệt lớn"
+    },
+    {
+        "id": 97,
+        "hanzi": "过瘾",
+        "pinyin": "guòyǐn",
+        "meaning": "đã ghiền, sướng"
+    },
+    {
+        "id": 98,
+        "hanzi": "提气",
+        "pinyin": "tíqì",
+        "meaning": "nâng cao tinh thần, phấn khởi"
+    },
+    {
+        "id": 99,
+        "hanzi": "相控阵雷达",
+        "pinyin": "xiāng kòng zhèn léidá",
+        "meaning": "radar mảng pha (radar AESA)"
+    },
+    {
+        "id": 100,
+        "hanzi": "信息战",
+        "pinyin": "xìnxī zhàn",
+        "meaning": "chiến tranh thông tin"
+    },
+    {
+        "id": 101,
+        "hanzi": "碾压",
+        "pinyin": "niǎnyā",
+        "meaning": "đè bẹp, áp đảo"
+    },
+    {
+        "id": 102,
+        "hanzi": "自己掉下去",
+        "pinyin": "zìjǐ diào xiàqù",
+        "meaning": "tự rơi xuống"
+    },
+    {
+        "id": 103,
+        "hanzi": "报信",
+        "pinyin": "bàoxìn",
+        "meaning": "báo tin, truyền tin"
+    },
+    {
+        "id": 104,
+        "hanzi": "实力大强",
+        "pinyin": "shílì dàqiáng",
+        "meaning": "sức mạnh lớn, rất mạnh"
+    },
+    {
+        "id": 105,
+        "hanzi": "非法占领",
+        "pinyin": "fēifǎ zhànlǐng",
+        "meaning": "chiếm đóng bất hợp pháp"
+    },
+    {
+        "id": 106,
+        "hanzi": "赶出去",
+        "pinyin": "gǎn chūqù",
+        "meaning": "đuổi ra, trục xuất"
+    },
+    {
+        "id": 107,
+        "hanzi": "丢人",
+        "pinyin": "diūrén",
+        "meaning": "mất mặt, xấu hổ"
+    },
+    {
+        "id": 108,
+        "hanzi": "被打掉",
+        "pinyin": "bèi dǎdiào",
+        "meaning": "bị bắn rơi"
+    },
+    {
+        "id": 109,
+        "hanzi": "巴勒斯坦",
+        "pinyin": "Bālèsītǎn",
+        "meaning": "Palestine"
+    },
+    {
+        "id": 110,
+        "hanzi": "收复失地",
+        "pinyin": "shōufù shīdì",
+        "meaning": "thu hồi lãnh thổ đã mất"
+    },
+    {
+        "id": 111,
+        "hanzi": "边境线",
+        "pinyin": "biānjìngxiàn",
+        "meaning": "đường biên giới"
+    },
+    {
+        "id": 112,
+        "hanzi": "识相",
+        "pinyin": "shíxiàng",
+        "meaning": "khôn ngoan, biết điều"
+    },
+    {
+        "id": 113,
+        "hanzi": "交警",
+        "pinyin": "jiāojǐng",
+        "meaning": "cảnh sát giao thông"
+    },
+    {
+        "id": 114,
+        "hanzi": "调头",
+        "pinyin": "diàotóu",
+        "meaning": "quay đầu xe"
+    },
+    {
+        "id": 115,
+        "hanzi": "灰头土脸",
+        "pinyin": "huī tóu tǔ liǎn",
+        "meaning": "mất mặt, nhục nhã, thất bại"
+    },
+    {
+        "id": 116,
+        "hanzi": "客机",
+        "pinyin": "kèjī",
+        "meaning": "máy bay dân dụng, máy bay hành khách"
+    },
+    {
+        "id": 117,
+        "hanzi": "灾难",
+        "pinyin": "zāinàn",
+        "meaning": "thảm họa, tai họa"
+    },
+    {
+        "id": 118,
+        "hanzi": "万物",
+        "pinyin": "wànwù",
+        "meaning": "vạn vật, mọi thứ"
+    },
+    {
+        "id": 119,
+        "hanzi": "阴险",
+        "pinyin": "yīnxiǎn",
+        "meaning": "nham hiểm, xảo quyệt"
+    },
+    {
+        "id": 120,
+        "hanzi": "游戏机",
+        "pinyin": "yóuxìjī",
+        "meaning": "máy chơi game, trò chơi điện tử"
+    },
+    {
+        "id": 121,
+        "hanzi": "发射",
+        "pinyin": "fāshè",
+        "meaning": "phóng, bắn ra"
+    },
+    {
+        "id": 122,
+        "hanzi": "坏笑",
+        "pinyin": "huàixiào",
+        "meaning": "cười nham hiểm, cười gian xảo"
+    },
+    {
+        "id": 123,
+        "hanzi": "果断",
+        "pinyin": "guǒduàn",
+        "meaning": "quyết đoán, dứt khoát"
+    },
+    {
+        "id": 124,
+        "hanzi": "决断",
+        "pinyin": "juéduàn",
+        "meaning": "quyết định, phán quyết"
+    },
+    {
+        "id": 125,
+        "hanzi": "强者",
+        "pinyin": "qiángzhě",
+        "meaning": "người mạnh, kẻ mạnh"
+    },
+    {
+        "id": 126,
+        "hanzi": "不惹事",
+        "pinyin": "bù rě shì",
+        "meaning": "không gây sự"
+    },
+    {
+        "id": 127,
+        "hanzi": "星星",
+        "pinyin": "xīngxīng",
+        "meaning": "ngôi sao"
+    },
+    {
+        "id": 128,
+        "hanzi": "精准",
+        "pinyin": "jīngzhǔn",
+        "meaning": "chính xác, chuẩn xác"
+    },
+    {
+        "id": 129,
+        "hanzi": "日落",
+        "pinyin": "rìluò",
+        "meaning": "hoàng hôn, mặt trời lặn"
+    },
+    {
+        "id": 130,
+        "hanzi": "群山之巅",
+        "pinyin": "qúnshān zhī diān",
+        "meaning": "đỉnh núi bao quanh"
+    },
+    {
+        "id": 131,
+        "hanzi": "飞鹜",
+        "pinyin": "fēiwù",
+        "meaning": "chim trời bay lượn"
+    },
+    {
+        "id": 132,
+        "hanzi": "天霞",
+        "pinyin": "tiānxiá",
+        "meaning": "ánh chiều tà, mây đỏ trên trời"
+    },
+    {
+        "id": 133,
+        "hanzi": "落霞",
+        "pinyin": "luòxiá",
+        "meaning": "ánh chiều tà rơi xuống"
+    },
+    {
+        "id": 134,
+        "hanzi": "诗句",
+        "pinyin": "shījù",
+        "meaning": "câu thơ, thơ ca"
+    },
+    {
+        "id": 135,
+        "hanzi": "长天",
+        "pinyin": "chángtiān",
+        "meaning": "bầu trời rộng lớn"
+    },
+    {
+        "id": 136,
+        "hanzi": "共色",
+        "pinyin": "gòngsè",
+        "meaning": "cùng màu, hòa quyện"
+    },
+    {
+        "id": 137,
+        "hanzi": "暮色",
+        "pinyin": "mùsè",
+        "meaning": "ánh hoàng hôn, màu trời lúc chiều tà"
+    },
+    {
+        "id": 138,
+        "hanzi": "水灵灵",
+        "pinyin": "shuǐlínglíng",
+        "meaning": "trong sáng, tươi tắn, rạng rỡ"
+    },
+    {
+        "id": 139,
+        "hanzi": "唯美",
+        "pinyin": "wéiměi",
+        "meaning": "đẹp tuyệt vời, hoàn mỹ"
+    },
+    {
+        "id": 140,
+        "hanzi": "逐于",
+        "pinyin": "zhú yú",
+        "meaning": "đuổi theo, chạy theo"
+    },
+    {
+        "id": 141,
+        "hanzi": "西阳",
+        "pinyin": "xīyáng",
+        "meaning": "mặt trời lặn, ánh hoàng hôn"
+    },
+    {
+        "id": 142,
+        "hanzi": "群山",
+        "pinyin": "qúnshān",
+        "meaning": "núi non, nhiều ngọn núi"
+    },
+    {
+        "id": 143,
+        "hanzi": "落日",
+        "pinyin": "luòrì",
+        "meaning": "mặt trời lặn, ánh hoàng hôn"
+    },
+    {
+        "id": 144,
+        "hanzi": "暮霭",
+        "pinyin": "mù'ǎi",
+        "meaning": "sương mù lúc hoàng hôn"
+    },
+    {
+        "id": 145,
+        "hanzi": "飞鸟",
+        "pinyin": "fēiniǎo",
+        "meaning": "chim bay"
+    },
+    {
+        "id": 146,
+        "hanzi": "幽闲",
+        "pinyin": "yōuxián",
+        "meaning": "tĩnh lặng, bình yên"
+    },
+    {
+        "id": 147,
+        "hanzi": "蓝天",
+        "pinyin": "lántiān",
+        "meaning": "bầu trời xanh"
+    },
+    {
+        "id": 148,
+        "hanzi": "金芒",
+        "pinyin": "jīnmáng",
+        "meaning": "ánh sáng vàng, tia nắng vàng"
+    },
+    {
+        "id": 149,
+        "hanzi": "游云",
+        "pinyin": "yóuyún",
+        "meaning": "mây trôi, mây bồng bềnh"
+    },
+    {
+        "id": 150,
+        "hanzi": "日暮",
+        "pinyin": "rìmù",
+        "meaning": "chiều tà, hoàng hôn"
+    },
+    {
+        "id": 151,
+        "hanzi": "天际",
+        "pinyin": "tiānjì",
+        "meaning": "chân trời, đường chân trời"
+    },
+    {
+        "id": 152,
+        "hanzi": "仙乡",
+        "pinyin": "xiānxiāng",
+        "meaning": "tiên cảnh, vùng đất thần tiên"
+    },
+    {
+        "id": 153,
+        "hanzi": "地面",
+        "pinyin": "dìmiàn",
+        "meaning": "mặt đất, bề mặt đất"
+    },
+    {
+        "id": 154,
+        "hanzi": "明显",
+        "pinyin": "míngxiǎn",
+        "meaning": "rõ ràng, hiển nhiên"
+    },
+    {
+        "id": 155,
+        "hanzi": "十分之一",
+        "pinyin": "shífēn zhī yī",
+        "meaning": "một phần mười, 1\/10"
+    },
+    {
+        "id": 156,
+        "hanzi": "山顶",
+        "pinyin": "shāndǐng",
+        "meaning": "đỉnh núi"
+    },
+    {
+        "id": 157,
+        "hanzi": "帽子",
+        "pinyin": "màozi",
+        "meaning": "mũ, nón"
+    },
+    {
+        "id": 158,
+        "hanzi": "墨镜",
+        "pinyin": "mòjìng",
+        "meaning": "kính râm, kính đen"
+    },
+    {
+        "id": 159,
+        "hanzi": "跳",
+        "pinyin": "tiào",
+        "meaning": "nhảy, bật lên"
+    },
+    {
+        "id": 160,
+        "hanzi": "月明",
+        "pinyin": "yuèmíng",
+        "meaning": "trăng sáng"
+    },
+    {
+        "id": 161,
+        "hanzi": "素颜照",
+        "pinyin": "sùyán zhào",
+        "meaning": "ảnh tự nhiên, không chỉnh sửa"
+    },
+    {
+        "id": 162,
+        "hanzi": "地平线",
+        "pinyin": "dìpíngxiàn",
+        "meaning": "đường chân trời"
+    },
+    {
+        "id": 163,
+        "hanzi": "懵逼",
+        "pinyin": "měngbī",
+        "meaning": "bối rối, ngơ ngác"
+    },
+    {
+        "id": 164,
+        "hanzi": "江山",
+        "pinyin": "jiāngshān",
+        "meaning": "non sông, đất nước"
+    },
+    {
+        "id": 165,
+        "hanzi": "多娇",
+        "pinyin": "duōjiāo",
+        "meaning": "đẹp đẽ, quyến rũ"
+    },
+    {
+        "id": 166,
+        "hanzi": "南亚",
+        "pinyin": "Nányà",
+        "meaning": "Nam Á"
+    },
+    {
+        "id": 167,
+        "hanzi": "纽约",
+        "pinyin": "Niǔyuē",
+        "meaning": "New York"
+    },
+    {
+        "id": 168,
+        "hanzi": "孟买",
+        "pinyin": "Mèngmǎi",
+        "meaning": "Mumbai (thành phố lớn nhất Ấn Độ)"
+    },
+    {
+        "id": 169,
+        "hanzi": "人口",
+        "pinyin": "rénkǒu",
+        "meaning": "dân số"
+    },
+    {
+        "id": 170,
+        "hanzi": "金融中心",
+        "pinyin": "jīnróng zhōngxīn",
+        "meaning": "trung tâm tài chính"
+    },
+    {
+        "id": 171,
+        "hanzi": "证券交易所",
+        "pinyin": "zhèngquàn jiāoyì suǒ",
+        "meaning": "sở giao dịch chứng khoán"
+    },
+    {
+        "id": 172,
+        "hanzi": "现代都市",
+        "pinyin": "xiàndài dūshì",
+        "meaning": "thành phố hiện đại"
+    },
+    {
+        "id": 173,
+        "hanzi": "文化底蕴",
+        "pinyin": "wénhuà dǐyùn",
+        "meaning": "nền tảng văn hóa"
+    },
+    {
+        "id": 174,
+        "hanzi": "诱人美食",
+        "pinyin": "yòurén měishí",
+        "meaning": "ẩm thực hấp dẫn"
+    },
+    {
+        "id": 175,
+        "hanzi": "二线城市",
+        "pinyin": "èrxiàn chéngshì",
+        "meaning": "thành phố hạng hai (trong phân loại đô thị Trung Quốc)"
+    },
+    {
+        "id": 176,
+        "hanzi": "超越",
+        "pinyin": "chāoyuè",
+        "meaning": "vượt qua, vượt trội"
+    },
+    {
+        "id": 177,
+        "hanzi": "经济实力",
+        "pinyin": "jīngjì shílì",
+        "meaning": "sức mạnh kinh tế"
+    },
+    {
+        "id": 178,
+        "hanzi": "市区",
+        "pinyin": "shìqū",
+        "meaning": "khu vực nội thành"
+    },
+    {
+        "id": 179,
+        "hanzi": "郊区",
+        "pinyin": "jiāoqū",
+        "meaning": "ngoại ô, vùng ngoại thành"
+    },
+    {
+        "id": 180,
+        "hanzi": "梦想成真",
+        "pinyin": "mèngxiǎng chéng zhēn",
+        "meaning": "ước mơ thành hiện thực"
+    },
+    {
+        "id": 181,
+        "hanzi": "养老",
+        "pinyin": "yǎnglǎo",
+        "meaning": "dưỡng già, sống tuổi già"
+    },
+    {
+        "id": 182,
+        "hanzi": "贫民窟",
+        "pinyin": "pínmínkū",
+        "meaning": "khu ổ chuột"
+    },
+    {
+        "id": 183,
+        "hanzi": "贫民区",
+        "pinyin": "pínmínqū",
+        "meaning": "khu vực nghèo khó, khu ổ chuột"
+    },
+    {
+        "id": 184,
+        "hanzi": "破烂",
+        "pinyin": "pòlàn",
+        "meaning": "tồi tàn, rách nát, cũ nát"
+    },
+    {
+        "id": 185,
+        "hanzi": "坐井观天",
+        "pinyin": "zuò jǐng guān tiān",
+        "meaning": "ếch ngồi đáy giếng (hạn hẹp, thiển cận)"
+    },
+    {
+        "id": 186,
+        "hanzi": "恒河水",
+        "pinyin": "Hénghé shuǐ",
+        "meaning": "nước sông Hằng (sông thiêng của Ấn Độ)"
+    },
+    {
+        "id": 187,
+        "hanzi": "长命百岁",
+        "pinyin": "cháng mìng bǎi suì",
+        "meaning": "sống thọ trăm tuổi, sống lâu"
+    },
+    {
+        "id": 188,
+        "hanzi": "山沟沟",
+        "pinyin": "shāngōugōu",
+        "meaning": "thung lũng, vùng hẻo lánh, nơi xa xôi"
+    },
+    {
+        "id": 189,
+        "hanzi": "猫着",
+        "pinyin": "māozhe",
+        "meaning": "ẩn nấp, trốn tránh, không ra ngoài"
+    },
+    {
+        "id": 190,
+        "hanzi": "县城",
+        "pinyin": "xiànchéng",
+        "meaning": "thị trấn (trung tâm hành chính của huyện)"
+    },
+    {
+        "id": 191,
+        "hanzi": "隔壁村",
+        "pinyin": "gébì cūn",
+        "meaning": "làng bên, làng kế bên"
+    },
+    {
+        "id": 192,
+        "hanzi": "辞退",
+        "pinyin": "cítuì",
+        "meaning": "sa thải, cho nghỉ việc"
+    },
+    {
+        "id": 193,
+        "hanzi": "高管",
+        "pinyin": "gāoguǎn",
+        "meaning": "quản lý cấp cao, giám đốc"
+    },
+    {
+        "id": 194,
+        "hanzi": "协会",
+        "pinyin": "xiéhuì",
+        "meaning": "hiệp hội, tổ chức"
+    },
+    {
+        "id": 195,
+        "hanzi": "联合国",
+        "pinyin": "liánhéguó",
+        "meaning": "Liên Hợp Quốc"
+    },
+    {
+        "id": 196,
+        "hanzi": "作假",
+        "pinyin": "zuòjiǎ",
+        "meaning": "giả mạo, làm giả"
+    },
+    {
+        "id": 197,
+        "hanzi": "财务自由",
+        "pinyin": "cáiwù zìyóu",
+        "meaning": "tự do tài chính"
+    },
+    {
+        "id": 198,
+        "hanzi": "高端人才",
+        "pinyin": "gāoduān réncái",
+        "meaning": "nhân tài cao cấp"
+    },
+    {
+        "id": 199,
+        "hanzi": "创业",
+        "pinyin": "chuàngyè",
+        "meaning": "khởi nghiệp, lập nghiệp"
+    },
+    {
+        "id": 200,
+        "hanzi": "内卷",
+        "pinyin": "nèijuǎn",
+        "meaning": "cạnh tranh nội bộ, tự cạnh tranh"
+    },
+    {
+        "id": 201,
+        "hanzi": "科技人才",
+        "pinyin": "kējì réncái",
+        "meaning": "nhân tài công nghệ"
+    },
+    {
+        "id": 202,
+        "hanzi": "炒鱿鱼",
+        "pinyin": "chǎo yóuyú",
+        "meaning": "sa thải, đuổi việc"
+    },
+    {
+        "id": 203,
+        "hanzi": "外包",
+        "pinyin": "wàibāo",
+        "meaning": "thuê ngoài, gia công"
+    },
+    {
+        "id": 204,
+        "hanzi": "裁员",
+        "pinyin": "cáiyuán",
+        "meaning": "cắt giảm nhân sự, sa thải"
+    },
+    {
+        "id": 205,
+        "hanzi": "吸收人才",
+        "pinyin": "xīshōu réncái",
+        "meaning": "thu hút nhân tài"
+    },
+    {
+        "id": 206,
+        "hanzi": "挑选",
+        "pinyin": "tiāoxuǎn",
+        "meaning": "lựa chọn, chọn lọc"
+    },
+    {
+        "id": 207,
+        "hanzi": "潜质",
+        "pinyin": "qiánzhì",
+        "meaning": "tiềm năng"
+    },
+    {
+        "id": 208,
+        "hanzi": "世界著名大学",
+        "pinyin": "shìjiè zhùmíng dàxué",
+        "meaning": "đại học danh tiếng thế giới"
+    },
+    {
+        "id": 209,
+        "hanzi": "发展空间",
+        "pinyin": "fāzhǎn kōngjiān",
+        "meaning": "không gian phát triển"
+    },
+    {
+        "id": 210,
+        "hanzi": "饿坏了",
+        "pinyin": "è huài le",
+        "meaning": "đói muốn chết"
+    },
+    {
+        "id": 211,
+        "hanzi": "马上",
+        "pinyin": "mǎshàng",
+        "meaning": "ngay lập tức, ngay tức khắc"
+    },
+    {
+        "id": 212,
+        "hanzi": "脏乱差",
+        "pinyin": "zāng luàn chà",
+        "meaning": "bẩn thỉu, hỗn loạn, kém chất lượng"
+    },
+    {
+        "id": 213,
+        "hanzi": "说不出来",
+        "pinyin": "shuō bù chūlái",
+        "meaning": "không nói ra được, khó diễn tả"
+    },
+    {
+        "id": 214,
+        "hanzi": "很不错",
+        "pinyin": "hěn bùcuò",
+        "meaning": "rất tốt, khá tốt"
+    },
+    {
+        "id": 215,
+        "hanzi": "世界之最",
+        "pinyin": "shìjiè zhī zuì",
+        "meaning": "tốt nhất thế giới, nhất thế giới"
+    },
+    {
+        "id": 216,
+        "hanzi": "美食",
+        "pinyin": "měishí",
+        "meaning": "món ngon, ẩm thực"
+    },
+    {
+        "id": 217,
+        "hanzi": "牛尿",
+        "pinyin": "niú niào",
+        "meaning": "nước tiểu bò"
+    },
+    {
+        "id": 218,
+        "hanzi": "首尔",
+        "pinyin": "Shǒu'ěr",
+        "meaning": "Seoul"
+    },
+    {
+        "id": 219,
+        "hanzi": "全球",
+        "pinyin": "quánqiú",
+        "meaning": "toàn cầu"
+    },
+    {
+        "id": 220,
+        "hanzi": "城市排行榜",
+        "pinyin": "chéngshì páihángbǎng",
+        "meaning": "bảng xếp hạng thành phố"
+    },
+    {
+        "id": 221,
+        "hanzi": "经济发达",
+        "pinyin": "jīngjì fādá",
+        "meaning": "kinh tế phát triển"
+    },
+    {
+        "id": 222,
+        "hanzi": "美丽",
+        "pinyin": "měilì",
+        "meaning": "xinh đẹp"
+    },
+    {
+        "id": 223,
+        "hanzi": "经济落后",
+        "pinyin": "jīngjì luòhòu",
+        "meaning": "kinh tế lạc hậu"
+    },
+    {
+        "id": 224,
+        "hanzi": "贫穷",
+        "pinyin": "pínqióng",
+        "meaning": "nghèo"
+    },
+    {
+        "id": 225,
+        "hanzi": "掩盖",
+        "pinyin": "yǎngài",
+        "meaning": "che giấu"
+    },
+    {
+        "id": 226,
+        "hanzi": "贫困",
+        "pinyin": "pínkùn",
+        "meaning": "nghèo khó"
+    },
+    {
+        "id": 227,
+        "hanzi": "黑暗",
+        "pinyin": "hēi'àn",
+        "meaning": "bóng tối"
+    },
+    {
+        "id": 228,
+        "hanzi": "电影行业",
+        "pinyin": "diànyǐng hángyè",
+        "meaning": "ngành công nghiệp điện ảnh"
+    },
+    {
+        "id": 229,
+        "hanzi": "好来乌",
+        "pinyin": "Hǎoláiwū",
+        "meaning": "Hollywood"
+    },
+    {
+        "id": 230,
+        "hanzi": "证件交易所",
+        "pinyin": "zhèngjiàn jiāoyìsuǒ",
+        "meaning": "sở giao dịch chứng khoán"
+    },
+    {
+        "id": 231,
+        "hanzi": "人种",
+        "pinyin": "rénzhǒng",
+        "meaning": "chủng tộc"
+    },
+    {
+        "id": 232,
+        "hanzi": "三六九等",
+        "pinyin": "sānliùjiǔděng",
+        "meaning": "phân biệt đẳng cấp"
+    },
+    {
+        "id": 233,
+        "hanzi": "流浪",
+        "pinyin": "liúlàng",
+        "meaning": "lang thang"
+    },
+    {
+        "id": 234,
+        "hanzi": "股市",
+        "pinyin": "gǔshì",
+        "meaning": "thị trường chứng khoán"
+    },
+    {
+        "id": 235,
+        "hanzi": "增长",
+        "pinyin": "zēngzhǎng",
+        "meaning": "tăng trưởng"
+    },
+    {
+        "id": 236,
+        "hanzi": "乡村",
+        "pinyin": "xiāngcūn",
+        "meaning": "Countryside"
+    },
+    {
+        "id": 237,
+        "hanzi": "旅游",
+        "pinyin": "lǚyóu",
+        "meaning": "Travel"
+    },
+    {
+        "id": 238,
+        "hanzi": "高度发达",
+        "pinyin": "gāodù fādá",
+        "meaning": "Phát triển cao"
+    },
+    {
+        "id": 239,
+        "hanzi": "排不上号",
+        "pinyin": "páibùshàng hào",
+        "meaning": "Không được xếp hạng"
+    },
+    {
+        "id": 240,
+        "hanzi": "诱人的美食",
+        "pinyin": "yòurén de měishí",
+        "meaning": "Ẩm thực hấp dẫn"
+    },
+    {
+        "id": 241,
+        "hanzi": "强国",
+        "pinyin": "qiángguó",
+        "meaning": "Cường quốc"
+    },
+    {
+        "id": 242,
+        "hanzi": "统一",
+        "pinyin": "tǒngyī",
+        "meaning": "Thống nhất"
+    },
+    {
+        "id": 243,
+        "hanzi": "总人口",
+        "pinyin": "zǒngrénkǒu",
+        "meaning": "tổng dân số"
+    },
+    {
+        "id": 244,
+        "hanzi": "包容",
+        "pinyin": "bāoróng",
+        "meaning": "bao dung"
+    },
+    {
+        "id": 245,
+        "hanzi": "尊重",
+        "pinyin": "zūnzhòng",
+        "meaning": "tôn trọng"
+    },
+    {
+        "id": 246,
+        "hanzi": "珍贵",
+        "pinyin": "zhēnguì",
+        "meaning": "quý giá"
+    },
+    {
+        "id": 247,
+        "hanzi": "品质",
+        "pinyin": "pǐnzhì",
+        "meaning": "chất lượng"
+    },
+    {
+        "id": 248,
+        "hanzi": "和平共处",
+        "pinyin": "hépíng gòngchǔ",
+        "meaning": "chung sống hòa bình"
+    },
+    {
+        "id": 249,
+        "hanzi": "角落",
+        "pinyin": "jiǎoluò",
+        "meaning": "góc"
+    },
+    {
+        "id": 250,
+        "hanzi": "建筑物",
+        "pinyin": "jiànzhùwù",
+        "meaning": "tòa nhà"
+    }
+]
