@@ -1,0 +1,1752 @@
+[
+    {
+        "id": 1,
+        "hanzi": "灯光秀",
+        "pinyin": "dēngguāngxiù",
+        "meaning": "trình diễn ánh sáng",
+        "example": " "
+    },
+    {
+        "id": 2,
+        "hanzi": "奥运会",
+        "pinyin": "Àoyùnhuì",
+        "meaning": "Thế vận hội",
+        "example": " "
+    },
+    {
+        "id": 3,
+        "hanzi": "身材",
+        "pinyin": "shēncái",
+        "meaning": "thân hình, vóc dáng",
+        "example": " "
+    },
+    {
+        "id": 4,
+        "hanzi": "业绩",
+        "pinyin": "yèjì",
+        "meaning": "thành tích, kết quả kinh doanh",
+        "example": " "
+    },
+    {
+        "id": 5,
+        "hanzi": "机灵",
+        "pinyin": "jīlíng",
+        "meaning": "lanh lợi, thông minh",
+        "example": " "
+    },
+    {
+        "id": 6,
+        "hanzi": "打码",
+        "pinyin": "dǎ mǎ",
+        "meaning": "che mặt, làm mờ (trong video, hình ảnh)",
+        "example": " "
+    },
+    {
+        "id": 7,
+        "hanzi": "按倒",
+        "pinyin": "àn dǎo",
+        "meaning": "Ấn xuống, quật ngã",
+        "example": " "
+    },
+    {
+        "id": 8,
+        "hanzi": "手段",
+        "pinyin": "shǒuduàn",
+        "meaning": "Thủ đoạn, phương pháp",
+        "example": " "
+    },
+    {
+        "id": 9,
+        "hanzi": "强买强卖",
+        "pinyin": "qiáng mǎi qiáng mài",
+        "meaning": "Mua bán cưỡng ép",
+        "example": " "
+    },
+    {
+        "id": 10,
+        "hanzi": "太专业",
+        "pinyin": "tài zhuān yè",
+        "meaning": "Quá chuyên nghiệp",
+        "example": " "
+    },
+    {
+        "id": 11,
+        "hanzi": "怕怕",
+        "pinyin": "pà pà",
+        "meaning": "Sợ sợ",
+        "example": " "
+    },
+    {
+        "id": 12,
+        "hanzi": "人脸识别",
+        "pinyin": "rén liǎn shí bié",
+        "meaning": "nhận diện khuôn mặt",
+        "example": " "
+    },
+    {
+        "id": 13,
+        "hanzi": "拍短視頻",
+        "pinyin": "pāi duǎn shìpín",
+        "meaning": "Quay video ngắn",
+        "example": " "
+    },
+    {
+        "id": 14,
+        "hanzi": "卸妝",
+        "pinyin": "xièzhuāng",
+        "meaning": "Tẩy trang",
+        "example": " "
+    },
+    {
+        "id": 15,
+        "hanzi": "美顏",
+        "pinyin": "měiyán",
+        "meaning": "Làm đẹp khuôn mặt",
+        "example": " "
+    },
+    {
+        "id": 16,
+        "hanzi": "素顏",
+        "pinyin": "sùyán",
+        "meaning": "Mặt mộc",
+        "example": "  "
+    },
+    {
+        "id": 17,
+        "hanzi": "報復行動",
+        "pinyin": "bàofù xíngdòng",
+        "meaning": "Hành động trả đũa",
+        "example": " "
+    },
+    {
+        "id": 18,
+        "hanzi": "合影",
+        "pinyin": "hé yǐng",
+        "meaning": "chụp hình chung",
+        "example": " "
+    },
+    {
+        "id": 19,
+        "hanzi": "反驳",
+        "pinyin": "fǎn bó",
+        "meaning": "phản bác",
+        "example": " "
+    },
+    {
+        "id": 20,
+        "hanzi": "敲晕",
+        "pinyin": "qiāo yūn",
+        "meaning": "đập ngất, đánh ngất",
+        "example": " "
+    },
+    {
+        "id": 21,
+        "hanzi": "亮眼",
+        "pinyin": "liàng yǎn",
+        "meaning": "nổi bật, bắt mắt",
+        "example": " "
+    },
+    {
+        "id": 22,
+        "hanzi": "带走",
+        "pinyin": "dài zǒu",
+        "meaning": "mang đi",
+        "example": " "
+    },
+    {
+        "id": 23,
+        "hanzi": "开单",
+        "pinyin": "kāi dān",
+        "meaning": "mở đơn hàng",
+        "example": " "
+    },
+    {
+        "id": 24,
+        "hanzi": "暴力",
+        "pinyin": "bào lì",
+        "meaning": "bạo lực",
+        "example": " "
+    },
+    {
+        "id": 25,
+        "hanzi": "马赛克",
+        "pinyin": "mǎ sài kè",
+        "meaning": "mosaic (che mờ)",
+        "example": " "
+    },
+    {
+        "id": 26,
+        "hanzi": "精损人服",
+        "pinyin": "jīng sǔn rén fú",
+        "meaning": "mệt mỏi, kiệt sức",
+        "example": " "
+    },
+    {
+        "id": 27,
+        "hanzi": "格局",
+        "pinyin": "gé jú",
+        "meaning": "pattern, structure",
+        "example": " "
+    },
+    {
+        "id": 28,
+        "hanzi": "好彩",
+        "pinyin": "hǎo cǎi",
+        "meaning": "May mắn",
+        "example": " "
+    },
+    {
+        "id": 29,
+        "hanzi": "强卖",
+        "pinyin": "qiáng mài",
+        "meaning": "Ép mua",
+        "example": " "
+    },
+    {
+        "id": 30,
+        "hanzi": "怪不得",
+        "pinyin": "guài bùdé",
+        "meaning": "Thảo nào",
+        "example": " "
+    },
+    {
+        "id": 31,
+        "hanzi": "站在",
+        "pinyin": "zhàn zài",
+        "meaning": "Đứng ở",
+        "example": " "
+    },
+    {
+        "id": 32,
+        "hanzi": "脚下",
+        "pinyin": "jiǎo xià",
+        "meaning": "Dưới chân",
+        "example": " "
+    },
+    {
+        "id": 33,
+        "hanzi": "那一刻",
+        "pinyin": "nà yī kè",
+        "meaning": "Khoảnh khắc đó",
+        "example": " "
+    },
+    {
+        "id": 34,
+        "hanzi": "你就会明白",
+        "pinyin": "nǐ jiù huì míngbái",
+        "meaning": "Bạn sẽ hiểu",
+        "example": " "
+    },
+    {
+        "id": 35,
+        "hanzi": "亚洲",
+        "pinyin": "yàzhōu",
+        "meaning": "Châu Á",
+        "example": " "
+    },
+    {
+        "id": 36,
+        "hanzi": "省会",
+        "pinyin": "shěng huì",
+        "meaning": "Thành phố thủ phủ",
+        "example": " "
+    },
+    {
+        "id": 37,
+        "hanzi": "航拍",
+        "pinyin": "háng pāi",
+        "meaning": "Chụp từ trên cao",
+        "example": " "
+    },
+    {
+        "id": 38,
+        "hanzi": "食住",
+        "pinyin": "shí zhù",
+        "meaning": "Ăn ở",
+        "example": " "
+    },
+    {
+        "id": 39,
+        "hanzi": "对外地人",
+        "pinyin": "duì wài dì rén",
+        "meaning": "Đối với người ngoài",
+        "example": " "
+    },
+    {
+        "id": 40,
+        "hanzi": "不友好",
+        "pinyin": "bù yǒu hǎo",
+        "meaning": "Không thân thiện",
+        "example": "  "
+    },
+    {
+        "id": 41,
+        "hanzi": "贡献",
+        "pinyin": "gòng xiàn",
+        "meaning": "Đóng góp",
+        "example": " "
+    },
+    {
+        "id": 42,
+        "hanzi": "排32位",
+        "pinyin": "pái 32 wèi",
+        "meaning": "Xếp hạng 32",
+        "example": " "
+    },
+    {
+        "id": 43,
+        "hanzi": "深深爱上",
+        "pinyin": "shēn shēn ài shàng",
+        "meaning": "Yêu sâu đậm",
+        "example": " "
+    },
+    {
+        "id": 44,
+        "hanzi": "路边",
+        "pinyin": "lù biān",
+        "meaning": "Lề đường",
+        "example": " "
+    },
+    {
+        "id": 45,
+        "hanzi": "车流穿梭",
+        "pinyin": "chē liú chuān suō",
+        "meaning": "Xe cộ đông đúc",
+        "example": " "
+    },
+    {
+        "id": 46,
+        "hanzi": "没有恶意",
+        "pinyin": "méi yǒu è yì",
+        "meaning": "Không có ác ý",
+        "example": " "
+    },
+    {
+        "id": 47,
+        "hanzi": "骄傲",
+        "pinyin": "jiāo ào",
+        "meaning": "Tự hào",
+        "example": " "
+    },
+    {
+        "id": 48,
+        "hanzi": "黑名單",
+        "pinyin": "hēi míng dān",
+        "meaning": "Danh sách đen",
+        "example": " "
+    },
+    {
+        "id": 49,
+        "hanzi": "这个钱",
+        "pinyin": "zhè gè qián",
+        "meaning": "Số tiền này",
+        "example": " "
+    },
+    {
+        "id": 50,
+        "hanzi": "赚来的",
+        "pinyin": "zhuàn lái de",
+        "meaning": "Kiếm được",
+        "example": " "
+    },
+    {
+        "id": 51,
+        "hanzi": "送到",
+        "pinyin": "sòng dào",
+        "meaning": "Gửi đến",
+        "example": " "
+    },
+    {
+        "id": 52,
+        "hanzi": "响全国",
+        "pinyin": "xiǎng quán guó",
+        "meaning": "Nổi tiếng khắp cả nước",
+        "example": " "
+    },
+    {
+        "id": 53,
+        "hanzi": "拍第一",
+        "pinyin": "pāi dì yī",
+        "meaning": "Đứng đầu tiên",
+        "example": " "
+    },
+    {
+        "id": 54,
+        "hanzi": "贫困山区",
+        "pinyin": "pín kùn shān qū",
+        "meaning": "Vùng núi nghèo khó",
+        "example": " "
+    },
+    {
+        "id": 55,
+        "hanzi": "荒凉",
+        "pinyin": "huāng liáng",
+        "meaning": "Hoang vắng",
+        "example": " "
+    },
+    {
+        "id": 56,
+        "hanzi": "公共卫生间",
+        "pinyin": "gōng gòng wèi shēng jiān",
+        "meaning": "Nhà vệ sinh công cộng",
+        "example": " "
+    },
+    {
+        "id": 57,
+        "hanzi": "规划设计",
+        "pinyin": "guī huà shè jì",
+        "meaning": "Quy hoạch thiết kế",
+        "example": " "
+    },
+    {
+        "id": 58,
+        "hanzi": "低素质",
+        "pinyin": "dī sù zhì",
+        "meaning": "Thiếu văn minh",
+        "example": " "
+    },
+    {
+        "id": 59,
+        "hanzi": "随地",
+        "pinyin": "suí dì",
+        "meaning": "Bất cứ đâu",
+        "example": " "
+    },
+    {
+        "id": 60,
+        "hanzi": "陋习",
+        "pinyin": "lòu xí",
+        "meaning": "Thói xấu",
+        "example": " "
+    },
+    {
+        "id": 61,
+        "hanzi": "標上",
+        "pinyin": "biāo shàng",
+        "meaning": "Đánh dấu",
+        "example": " "
+    },
+    {
+        "id": 62,
+        "hanzi": "公共衛生間",
+        "pinyin": "gōng gòng wèi shēng jiān",
+        "meaning": "Nhà vệ sinh công cộng",
+        "example": " "
+    },
+    {
+        "id": 63,
+        "hanzi": "不出100年",
+        "pinyin": "bù chū yī bǎi nián",
+        "meaning": "Không quá 100 năm",
+        "example": " "
+    },
+    {
+        "id": 64,
+        "hanzi": "隨地大小便",
+        "pinyin": "suí dì dà xiǎo biàn",
+        "meaning": "Tiểu tiện và đại tiện bừa bãi",
+        "example": " "
+    },
+    {
+        "id": 65,
+        "hanzi": "陋習",
+        "pinyin": "lòu xí",
+        "meaning": "Thói xấu",
+        "example": " "
+    },
+    {
+        "id": 66,
+        "hanzi": "完全改變",
+        "pinyin": "wán quán gǎi biàn",
+        "meaning": "Thay đổi hoàn toàn",
+        "example": "  "
+    },
+    {
+        "id": 67,
+        "hanzi": "全世界",
+        "pinyin": "quán shì jiè",
+        "meaning": "Toàn thế giới",
+        "example": " "
+    },
+    {
+        "id": 68,
+        "hanzi": "發達",
+        "pinyin": "fā dá",
+        "meaning": "Phát triển",
+        "example": "  "
+    },
+    {
+        "id": 69,
+        "hanzi": "人口數值",
+        "pinyin": "rén kǒu shù zhí",
+        "meaning": "Số lượng dân số",
+        "example": " "
+    },
+    {
+        "id": 70,
+        "hanzi": "就不能",
+        "pinyin": "jiù bù néng",
+        "meaning": "Không thể nào",
+        "example": " "
+    },
+    {
+        "id": 71,
+        "hanzi": "舞蹈生",
+        "pinyin": "wǔ dǎo shēng",
+        "meaning": "Học sinh múa",
+        "example": " "
+    },
+    {
+        "id": 72,
+        "hanzi": "有气人",
+        "pinyin": "yǒu qì rén",
+        "meaning": "Dễ làm người khác tức giận",
+        "example": " "
+    },
+    {
+        "id": 73,
+        "hanzi": "严格",
+        "pinyin": "yán gé",
+        "meaning": "Nghiêm khắc",
+        "example": " "
+    },
+    {
+        "id": 74,
+        "hanzi": "这怎么理解",
+        "pinyin": "zhè zěn me lǐ jiě",
+        "meaning": "Hiểu thế nào đây",
+        "example": "  "
+    },
+    {
+        "id": 75,
+        "hanzi": "教练",
+        "pinyin": "jiào liàn",
+        "meaning": "Huấn luyện viên",
+        "example": " "
+    },
+    {
+        "id": 76,
+        "hanzi": "不能个个",
+        "pinyin": "bù néng gè gè",
+        "meaning": "Không phải ai cũng",
+        "example": " "
+    },
+    {
+        "id": 77,
+        "hanzi": "还想干嘛",
+        "pinyin": "hái xiǎng gàn ma",
+        "meaning": "Còn muốn làm gì nữa",
+        "example": " "
+    },
+    {
+        "id": 78,
+        "hanzi": "学舞蹈",
+        "pinyin": "xué wǔ dǎo",
+        "meaning": "Học múa",
+        "example": " "
+    },
+    {
+        "id": 79,
+        "hanzi": "武术",
+        "pinyin": "wǔ shù",
+        "meaning": "Võ thuật",
+        "example": " "
+    },
+    {
+        "id": 80,
+        "hanzi": "不逼",
+        "pinyin": "bù bī",
+        "meaning": "Không ép buộc",
+        "example": " "
+    },
+    {
+        "id": 81,
+        "hanzi": "战胜恐惧",
+        "pinyin": "zhàn shèng kǒng jù",
+        "meaning": "Vượt qua nỗi sợ",
+        "example": " "
+    },
+    {
+        "id": 82,
+        "hanzi": "严师出高徒",
+        "pinyin": "yán shī chū gāo tú",
+        "meaning": "Thầy nghiêm tạo ra trò giỏi",
+        "example": " "
+    },
+    {
+        "id": 83,
+        "hanzi": "淡凡",
+        "pinyin": "dàn fán",
+        "meaning": "Người bình thường",
+        "example": " "
+    },
+    {
+        "id": 84,
+        "hanzi": "性别之分",
+        "pinyin": "xìng bié zhī fēn",
+        "meaning": "Phân biệt giới tính",
+        "example": " "
+    },
+    {
+        "id": 85,
+        "hanzi": "该干就的干",
+        "pinyin": "gāi gàn jiù de gàn",
+        "meaning": "Nên làm thì cứ làm",
+        "example": " "
+    },
+    {
+        "id": 86,
+        "hanzi": "按你这样理解",
+        "pinyin": "àn nǐ zhè yàng lǐ jiě",
+        "meaning": "Theo cách bạn hiểu",
+        "example": " "
+    },
+    {
+        "id": 87,
+        "hanzi": "接触",
+        "pinyin": "jiē chù",
+        "meaning": "Tiếp xúc",
+        "example": " "
+    },
+    {
+        "id": 88,
+        "hanzi": "更不能",
+        "pinyin": "gèng bù néng",
+        "meaning": "Càng không thể",
+        "example": " "
+    },
+    {
+        "id": 89,
+        "hanzi": "不选择",
+        "pinyin": "bù xuǎn zé",
+        "meaning": "Không chọn",
+        "example": " "
+    },
+    {
+        "id": 90,
+        "hanzi": "咬咬牙",
+        "pinyin": "yǎo yǎo yá",
+        "meaning": "Cắn răng chịu đựng",
+        "example": " "
+    },
+    {
+        "id": 91,
+        "hanzi": "享受生活",
+        "pinyin": "xiǎng shòu shēng huó",
+        "meaning": "Hưởng thụ cuộc sống",
+        "example": " "
+    },
+    {
+        "id": 92,
+        "hanzi": "后面",
+        "pinyin": "hòu miàn",
+        "meaning": "Sau này",
+        "example": " "
+    },
+    {
+        "id": 93,
+        "hanzi": "出路",
+        "pinyin": "chū lù",
+        "meaning": "Lối ra, con đường",
+        "example": " "
+    },
+    {
+        "id": 94,
+        "hanzi": "艺考",
+        "pinyin": "yì kǎo",
+        "meaning": "Thi năng khiếu",
+        "example": " "
+    },
+    {
+        "id": 95,
+        "hanzi": "分数",
+        "pinyin": "fēn shù",
+        "meaning": "Điểm số",
+        "example": " "
+    },
+    {
+        "id": 96,
+        "hanzi": "本科",
+        "pinyin": "běn kē",
+        "meaning": "Bậc đại học",
+        "example": " "
+    },
+    {
+        "id": 97,
+        "hanzi": "高二",
+        "pinyin": "gāo èr",
+        "meaning": "Lớp 11 (năm thứ hai trung học phổ thông)",
+        "example": " "
+    },
+    {
+        "id": 98,
+        "hanzi": "多拍些视频",
+        "pinyin": "duō pāi xiē shì pín",
+        "meaning": "Quay thêm nhiều video",
+        "example": " "
+    },
+    {
+        "id": 99,
+        "hanzi": "学舞",
+        "pinyin": "xué wǔ",
+        "meaning": "Học múa",
+        "example": " "
+    },
+    {
+        "id": 100,
+        "hanzi": "艰辛",
+        "pinyin": "jiān xīn",
+        "meaning": "Gian khổ",
+        "example": " "
+    },
+    {
+        "id": 101,
+        "hanzi": "自律",
+        "pinyin": "zì lǜ",
+        "meaning": "Kỷ luật tự giác",
+        "example": " "
+    },
+    {
+        "id": 102,
+        "hanzi": "老师严格",
+        "pinyin": "lǎo shī yán gé",
+        "meaning": "Giáo viên nghiêm khắc",
+        "example": " "
+    },
+    {
+        "id": 103,
+        "hanzi": "年富力强",
+        "pinyin": "nián fù lì qiáng",
+        "meaning": "Trẻ trung và tràn đầy năng lượng",
+        "example": " "
+    },
+    {
+        "id": 104,
+        "hanzi": "军训",
+        "pinyin": "jūn xùn",
+        "meaning": "Huấn luyện quân sự",
+        "example": " "
+    },
+    {
+        "id": 105,
+        "hanzi": "严点没关系",
+        "pinyin": "yán diǎn méi guān xi",
+        "meaning": "Nghiêm khắc chút cũng không sao",
+        "example": " "
+    },
+    {
+        "id": 106,
+        "hanzi": "动手",
+        "pinyin": "dòng shǒu",
+        "meaning": "Động tay, sử dụng bạo lực",
+        "example": " "
+    },
+    {
+        "id": 107,
+        "hanzi": "拍视频段子",
+        "pinyin": "pāi shì pín duàn zi",
+        "meaning": "Quay clip ngắn",
+        "example": " "
+    },
+    {
+        "id": 108,
+        "hanzi": "练空翻",
+        "pinyin": "liàn kōng fān",
+        "meaning": "Tập nhào lộn",
+        "example": " "
+    },
+    {
+        "id": 109,
+        "hanzi": "空翻",
+        "pinyin": "kōng fān",
+        "meaning": "Nhào lộn",
+        "example": " "
+    },
+    {
+        "id": 110,
+        "hanzi": "满大街都是",
+        "pinyin": "mǎn dà jiē dōu shì",
+        "meaning": "Đầy đường",
+        "example": " "
+    },
+    {
+        "id": 111,
+        "hanzi": "术业有专攻",
+        "pinyin": "shù yè yǒu zhuān gōng",
+        "meaning": "Mỗi nghề có chuyên môn riêng",
+        "example": " "
+    },
+    {
+        "id": 112,
+        "hanzi": "心术正",
+        "pinyin": "xīn shù zhèng",
+        "meaning": "Tâm ý chính trực",
+        "example": " "
+    },
+    {
+        "id": 113,
+        "hanzi": "心术不正",
+        "pinyin": "xīn shù bù zhèng",
+        "meaning": "Tâm ý không chính trực",
+        "example": " "
+    },
+    {
+        "id": 114,
+        "hanzi": "眼神",
+        "pinyin": "yǎn shén",
+        "meaning": "Ánh mắt",
+        "example": " "
+    },
+    {
+        "id": 115,
+        "hanzi": "跳水教练",
+        "pinyin": "tiào shuǐ jiào liàn",
+        "meaning": "Huấn luyện viên nhảy cầu",
+        "example": " "
+    },
+    {
+        "id": 116,
+        "hanzi": "篮球教练",
+        "pinyin": "lán qiú jiào liàn",
+        "meaning": "Huấn luyện viên bóng rổ",
+        "example": " "
+    },
+    {
+        "id": 117,
+        "hanzi": "足球教练",
+        "pinyin": "zú qiú jiào liàn",
+        "meaning": "Huấn luyện viên bóng đá",
+        "example": " "
+    },
+    {
+        "id": 118,
+        "hanzi": "犯错",
+        "pinyin": "fàn cuò",
+        "meaning": "Phạm sai lầm",
+        "example": " "
+    },
+    {
+        "id": 119,
+        "hanzi": "肢体接触",
+        "pinyin": "zhī tǐ jiē chù",
+        "meaning": "Tiếp xúc cơ thể",
+        "example": " "
+    },
+    {
+        "id": 120,
+        "hanzi": "教舞蹈",
+        "pinyin": "jiào wǔ dǎo",
+        "meaning": "Dạy múa",
+        "example": " "
+    },
+    {
+        "id": 121,
+        "hanzi": "种类",
+        "pinyin": "zhǒng lèi",
+        "meaning": "Loại hình",
+        "example": " "
+    },
+    {
+        "id": 122,
+        "hanzi": "课程",
+        "pinyin": "kè chéng",
+        "meaning": "Khóa học",
+        "example": " "
+    },
+    {
+        "id": 123,
+        "hanzi": "远超",
+        "pinyin": "yuǎn chāo",
+        "meaning": "Vượt xa",
+        "example": " "
+    },
+    {
+        "id": 124,
+        "hanzi": "判断标准",
+        "pinyin": "pàn duàn biāo zhǔn",
+        "meaning": "Tiêu chuẩn đánh giá",
+        "example": " "
+    },
+    {
+        "id": 125,
+        "hanzi": "规避风险",
+        "pinyin": "guī bì fēng xiǎn",
+        "meaning": "Tránh rủi ro",
+        "example": " "
+    },
+    {
+        "id": 126,
+        "hanzi": "临时",
+        "pinyin": "lín shí",
+        "meaning": "Tạm thời",
+        "example": " "
+    },
+    {
+        "id": 127,
+        "hanzi": "五一假期",
+        "pinyin": "wǔ yī jià qī",
+        "meaning": "Kỳ nghỉ lễ 1\/5",
+        "example": " "
+    },
+    {
+        "id": 128,
+        "hanzi": "度假",
+        "pinyin": "dù jià",
+        "meaning": "Nghỉ dưỡng",
+        "example": " "
+    },
+    {
+        "id": 129,
+        "hanzi": "厨子",
+        "pinyin": "chú zi",
+        "meaning": "Đầu bếp",
+        "example": " "
+    },
+    {
+        "id": 130,
+        "hanzi": "考不及格",
+        "pinyin": "kǎo bù jí gé",
+        "meaning": "Thi Không đạt yêu cầu",
+        "example": " "
+    },
+    {
+        "id": 131,
+        "hanzi": "众生平等",
+        "pinyin": "zhòng shēng píng děng",
+        "meaning": "Mọi người đều bình đẳng",
+        "example": " "
+    },
+    {
+        "id": 132,
+        "hanzi": "尊重艺术",
+        "pinyin": "zūn zhòng yì shù",
+        "meaning": "Tôn trọng nghệ thuật",
+        "example": " "
+    },
+    {
+        "id": 133,
+        "hanzi": "男厕所",
+        "pinyin": "nán cè suǒ",
+        "meaning": "Nhà vệ sinh nam",
+        "example": " "
+    },
+    {
+        "id": 134,
+        "hanzi": "守卫边疆",
+        "pinyin": "shǒu wèi biān jiāng",
+        "meaning": "Bảo vệ biên giới",
+        "example": " "
+    },
+    {
+        "id": 135,
+        "hanzi": "接生",
+        "pinyin": "jiē shēng",
+        "meaning": "Đỡ đẻ",
+        "example": " "
+    },
+    {
+        "id": 136,
+        "hanzi": "盖房子",
+        "pinyin": "gài fáng zi",
+        "meaning": "Xây nhà",
+        "example": " "
+    },
+    {
+        "id": 137,
+        "hanzi": "泥瓦工",
+        "pinyin": "ní wǎ gōng",
+        "meaning": "Thợ xây",
+        "example": " "
+    },
+    {
+        "id": 138,
+        "hanzi": "没有体力",
+        "pinyin": "méi yǒu tǐ lì",
+        "meaning": "Không có sức lực",
+        "example": " "
+    },
+    {
+        "id": 139,
+        "hanzi": "妇科",
+        "pinyin": "fù kē",
+        "meaning": "Phụ khoa",
+        "example": " "
+    },
+    {
+        "id": 140,
+        "hanzi": "心事脏",
+        "pinyin": "xīn shì zāng",
+        "meaning": "Tâm tư bẩn thỉu",
+        "example": " "
+    },
+    {
+        "id": 141,
+        "hanzi": "你问的好",
+        "pinyin": "nǐ wèn de hǎo",
+        "meaning": "Bạn hỏi rất hay",
+        "example": " "
+    },
+    {
+        "id": 142,
+        "hanzi": "妇科检查",
+        "pinyin": "fù kē jiǎn chá",
+        "meaning": "Khám phụ khoa",
+        "example": " "
+    },
+    {
+        "id": 143,
+        "hanzi": "魄力",
+        "pinyin": "pò lì",
+        "meaning": "Quyết đoán",
+        "example": " "
+    },
+    {
+        "id": 144,
+        "hanzi": "很卑劣",
+        "pinyin": "hěn bēi liè",
+        "meaning": "Rất đê tiện",
+        "example": " "
+    },
+    {
+        "id": 145,
+        "hanzi": "随意乱碰",
+        "pinyin": "suí yì luàn pèng",
+        "meaning": "Chạm vào tùy ý",
+        "example": " "
+    },
+    {
+        "id": 146,
+        "hanzi": "妇科男医生",
+        "pinyin": "fù kē nán yī shēng",
+        "meaning": "Bác sĩ nam phụ khoa",
+        "example": " "
+    },
+    {
+        "id": 147,
+        "hanzi": "卑鄙行为",
+        "pinyin": "bēi bǐ xíng wéi",
+        "meaning": "Hành vi đê tiện",
+        "example": " "
+    },
+    {
+        "id": 148,
+        "hanzi": "思想扭曲",
+        "pinyin": "sī xiǎng niǔ qū",
+        "meaning": "Tư tưởng lệch lạc",
+        "example": " "
+    },
+    {
+        "id": 149,
+        "hanzi": "电子秤",
+        "pinyin": "diàn zǐ chèng",
+        "meaning": "Cân điện tử",
+        "example": " "
+    },
+    {
+        "id": 150,
+        "hanzi": "秤不准",
+        "pinyin": "chèng bù zhǔn",
+        "meaning": "Cân không chính xác",
+        "example": " "
+    },
+    {
+        "id": 151,
+        "hanzi": "身体接触",
+        "pinyin": "shēn tǐ jiē chù",
+        "meaning": "Tiếp xúc cơ thể",
+        "example": " "
+    },
+    {
+        "id": 152,
+        "hanzi": "看病",
+        "pinyin": "kàn bìng",
+        "meaning": "Khám bệnh",
+        "example": " "
+    },
+    {
+        "id": 153,
+        "hanzi": "快活",
+        "pinyin": "kuài huó",
+        "meaning": "Vui vẻ",
+        "example": " "
+    },
+    {
+        "id": 154,
+        "hanzi": "思想封建",
+        "pinyin": "sī xiǎng fēng jiàn",
+        "meaning": "Tư tưởng phong kiến",
+        "example": " "
+    },
+    {
+        "id": 155,
+        "hanzi": "机构",
+        "pinyin": "jī gòu",
+        "meaning": "Cơ chế, chế độ",
+        "example": " "
+    },
+    {
+        "id": 156,
+        "hanzi": "芭蕾",
+        "pinyin": "bā lěi",
+        "meaning": "Ballet",
+        "example": " "
+    },
+    {
+        "id": 157,
+        "hanzi": "送去培训",
+        "pinyin": "sòng qù péi xùn",
+        "meaning": "Gửi đi đào tạo",
+        "example": " "
+    },
+    {
+        "id": 158,
+        "hanzi": "家长",
+        "pinyin": "jiā zhǎng",
+        "meaning": "Phụ huynh",
+        "example": " "
+    },
+    {
+        "id": 159,
+        "hanzi": "不会因为",
+        "pinyin": "bù huì yīn wèi",
+        "meaning": "Sẽ không vì",
+        "example": " "
+    },
+    {
+        "id": 160,
+        "hanzi": "后空翻",
+        "pinyin": "hòu kōng fān",
+        "meaning": "Nhào lộn ngược",
+        "example": " "
+    },
+    {
+        "id": 161,
+        "hanzi": "产科",
+        "pinyin": "chǎn kē",
+        "meaning": "Khoa sản",
+        "example": " "
+    },
+    {
+        "id": 162,
+        "hanzi": "方方面面",
+        "pinyin": "fāng fāng miàn miàn",
+        "meaning": "Mọi khía cạnh",
+        "example": " "
+    },
+    {
+        "id": 163,
+        "hanzi": "网友",
+        "pinyin": "wǎng yǒu",
+        "meaning": "Cư dân mạng",
+        "example": " "
+    },
+    {
+        "id": 164,
+        "hanzi": "批判",
+        "pinyin": "pī pàn",
+        "meaning": "Chỉ trích",
+        "example": " "
+    },
+    {
+        "id": 165,
+        "hanzi": "妇产科",
+        "pinyin": "fù chǎn kē",
+        "meaning": "Khoa sản",
+        "example": " "
+    },
+    {
+        "id": 166,
+        "hanzi": "合你的念头",
+        "pinyin": "hé nǐ de niàn tóu",
+        "meaning": "Hợp với suy nghĩ của bạn",
+        "example": " "
+    },
+    {
+        "id": 167,
+        "hanzi": "心怀鬼胎",
+        "pinyin": "xīn huái guǐ tāi",
+        "meaning": "Mang tâm địa xấu xa",
+        "example": " "
+    },
+    {
+        "id": 168,
+        "hanzi": "多才多艺",
+        "pinyin": "duō cái duō yì",
+        "meaning": "Nhiều tài năng",
+        "example": " "
+    },
+    {
+        "id": 169,
+        "hanzi": "责任心",
+        "pinyin": "zé rèn xīn",
+        "meaning": "Tinh thần trách nhiệm",
+        "example": " "
+    },
+    {
+        "id": 170,
+        "hanzi": "女婿",
+        "pinyin": "nǚ xù",
+        "meaning": "Con rể",
+        "example": " "
+    },
+    {
+        "id": 171,
+        "hanzi": "活不下去",
+        "pinyin": "huó bù xià qù",
+        "meaning": "Không sống nổi",
+        "example": " "
+    },
+    {
+        "id": 172,
+        "hanzi": "大神",
+        "pinyin": "dà shén",
+        "meaning": "Chuyên gia, bậc thầy",
+        "example": " "
+    },
+    {
+        "id": 173,
+        "hanzi": "听说",
+        "pinyin": "tīng shuō",
+        "meaning": "Nghe nói",
+        "example": " "
+    },
+    {
+        "id": 174,
+        "hanzi": "主任医师",
+        "pinyin": "zhǔ rèn yī shī",
+        "meaning": "Bác sĩ trưởng khoa",
+        "example": " "
+    },
+    {
+        "id": 175,
+        "hanzi": "大多是男的",
+        "pinyin": "dà duō shì nán de",
+        "meaning": "Phần lớn là nam giới",
+        "example": " "
+    },
+    {
+        "id": 176,
+        "hanzi": "咋办",
+        "pinyin": "zǎ bàn",
+        "meaning": "Làm sao đây",
+        "example": " "
+    },
+    {
+        "id": 177,
+        "hanzi": "思想不健康",
+        "pinyin": "sī xiǎng bù jiàn kāng",
+        "meaning": "Tư tưởng không lành mạnh",
+        "example": " "
+    },
+    {
+        "id": 178,
+        "hanzi": "想啥都不健康",
+        "pinyin": "xiǎng shá dōu bù jiàn kāng",
+        "meaning": "Nghĩ gì cũng không lành mạnh",
+        "example": " "
+    },
+    {
+        "id": 179,
+        "hanzi": "按你这个说法",
+        "pinyin": "àn nǐ zhè ge shuō fǎ",
+        "meaning": "Theo cách bạn nói",
+        "example": " "
+    },
+    {
+        "id": 180,
+        "hanzi": "男性多",
+        "pinyin": "nán xìng duō",
+        "meaning": "Đa số là nam giới",
+        "example": " "
+    },
+    {
+        "id": 181,
+        "hanzi": "拒绝",
+        "pinyin": "jù jué",
+        "meaning": "Từ chối",
+        "example": " "
+    },
+    {
+        "id": 182,
+        "hanzi": "太天真",
+        "pinyin": "tài tiān zhēn",
+        "meaning": "Quá ngây thơ",
+        "example": " "
+    },
+    {
+        "id": 183,
+        "hanzi": "离家出走",
+        "pinyin": "lí jiā chū zǒu",
+        "meaning": "Bỏ nhà ra đi",
+        "example": " "
+    },
+    {
+        "id": 184,
+        "hanzi": "不方便",
+        "pinyin": "bù fāng biàn",
+        "meaning": "Không tiện",
+        "example": " "
+    },
+    {
+        "id": 185,
+        "hanzi": "花样",
+        "pinyin": "huā yàng",
+        "meaning": "Phong cách, hình thức",
+        "example": " "
+    },
+    {
+        "id": 186,
+        "hanzi": "肛肠科",
+        "pinyin": "gāng cháng kē",
+        "meaning": "Khoa hậu môn - trực tràng",
+        "example": " "
+    },
+    {
+        "id": 187,
+        "hanzi": "泌尿科",
+        "pinyin": "mì niào kē",
+        "meaning": "Khoa tiết niệu",
+        "example": " "
+    },
+    {
+        "id": 188,
+        "hanzi": "占少数",
+        "pinyin": "zhàn shǎo shù",
+        "meaning": "Chiếm số ít",
+        "example": " "
+    },
+    {
+        "id": 189,
+        "hanzi": "规矩",
+        "pinyin": "guī ju",
+        "meaning": "Quy tắc",
+        "example": " "
+    },
+    {
+        "id": 190,
+        "hanzi": "抹杀",
+        "pinyin": "mǒ shā",
+        "meaning": "Xóa bỏ",
+        "example": " "
+    },
+    {
+        "id": 191,
+        "hanzi": "群体",
+        "pinyin": "qún tǐ",
+        "meaning": "Cộng đồng",
+        "example": " "
+    },
+    {
+        "id": 192,
+        "hanzi": "懦弱",
+        "pinyin": "nuò ruò",
+        "meaning": "Yếu đuối",
+        "example": " "
+    },
+    {
+        "id": 193,
+        "hanzi": "容忍",
+        "pinyin": "róng rěn",
+        "meaning": "Khoan dung",
+        "example": " "
+    },
+    {
+        "id": 194,
+        "hanzi": "纵容",
+        "pinyin": "zòng rǒng",
+        "meaning": "Dung túng",
+        "example": " "
+    },
+    {
+        "id": 195,
+        "hanzi": "顾虑",
+        "pinyin": "gù lǜ",
+        "meaning": "Lo ngại, bận tâm",
+        "example": " "
+    },
+    {
+        "id": 196,
+        "hanzi": "信任",
+        "pinyin": "xìn rèn",
+        "meaning": "Tin tưởng",
+        "example": " "
+    },
+    {
+        "id": 197,
+        "hanzi": "热量太高",
+        "pinyin": "rè liàng tài gāo",
+        "meaning": "Lượng calo quá cao",
+        "example": " "
+    },
+    {
+        "id": 198,
+        "hanzi": "蛋白质",
+        "pinyin": "dàn bái zhì",
+        "meaning": "Protein",
+        "example": " "
+    },
+    {
+        "id": 199,
+        "hanzi": "体型要求",
+        "pinyin": "tǐ xíng yāo qiú",
+        "meaning": "Yêu cầu về hình thể",
+        "example": " "
+    },
+    {
+        "id": 200,
+        "hanzi": "心血",
+        "pinyin": "xīn xuè",
+        "meaning": "Tâm huyết",
+        "example": " "
+    },
+    {
+        "id": 201,
+        "hanzi": "A4纸",
+        "pinyin": "A sì zhǐ",
+        "meaning": "Giấy A4",
+        "example": " "
+    },
+    {
+        "id": 202,
+        "hanzi": "胖不胖",
+        "pinyin": "pàng bù pàng",
+        "meaning": "Có béo hay không",
+        "example": " "
+    },
+    {
+        "id": 203,
+        "hanzi": "一眼看出来",
+        "pinyin": "yī yǎn kàn chū lái",
+        "meaning": "Nhìn một lần là thấy",
+        "example": " "
+    },
+    {
+        "id": 204,
+        "hanzi": "考上大学",
+        "pinyin": "kǎo shàng dà xué",
+        "meaning": "Thi đỗ đại học",
+        "example": " "
+    },
+    {
+        "id": 205,
+        "hanzi": "全国",
+        "pinyin": "quán guó",
+        "meaning": "Toàn quốc",
+        "example": " "
+    },
+    {
+        "id": 206,
+        "hanzi": "非常必要",
+        "pinyin": "fēi cháng bì yào",
+        "meaning": "Rất cần thiết",
+        "example": " "
+    },
+    {
+        "id": 207,
+        "hanzi": "招生",
+        "pinyin": "zhāo shēng",
+        "meaning": "Tuyển sinh",
+        "example": " "
+    },
+    {
+        "id": 208,
+        "hanzi": "竞争力",
+        "pinyin": "jìng zhēng lì",
+        "meaning": "Năng lực cạnh tranh",
+        "example": " "
+    },
+    {
+        "id": 209,
+        "hanzi": "美国培养",
+        "pinyin": "měi guó péi yǎng",
+        "meaning": "Được đào tạo ở Mỹ",
+        "example": " "
+    },
+    {
+        "id": 210,
+        "hanzi": "被炒鱿鱼",
+        "pinyin": "bèi chǎo yóu yú",
+        "meaning": "Bị sa thải",
+        "example": " "
+    },
+    {
+        "id": 211,
+        "hanzi": "掩盖不住",
+        "pinyin": "yǎn gài bù zhù",
+        "meaning": "Không thể che giấu",
+        "example": " "
+    },
+    {
+        "id": 212,
+        "hanzi": "主播",
+        "pinyin": "zhǔ bō",
+        "meaning": "Người dẫn chương trình (streamer)",
+        "example": " "
+    },
+    {
+        "id": 213,
+        "hanzi": "程式控制",
+        "pinyin": "Chéngxì kòngzhì",
+        "meaning": "Điều khiển chương trình",
+        "example": " "
+    },
+    {
+        "id": 214,
+        "hanzi": "扁平电缆",
+        "pinyin": "Biǎnpíng diànlǎn",
+        "meaning": "Cáp điện phẳng",
+        "example": " "
+    },
+    {
+        "id": 215,
+        "hanzi": "屏蔽功能",
+        "pinyin": "Píngbì gōngnéng",
+        "meaning": "Chức năng chống nhiễu",
+        "example": " "
+    },
+    {
+        "id": 216,
+        "hanzi": "滑线小车",
+        "pinyin": "Huáxiàn xiǎochē",
+        "meaning": "Xe con trượt trên dây",
+        "example": " "
+    },
+    {
+        "id": 217,
+        "hanzi": "自动复位功能",
+        "pinyin": "Zìdòng fùwèi gōngnéng",
+        "meaning": "Chức năng tự động phục hồi",
+        "example": " "
+    },
+    {
+        "id": 218,
+        "hanzi": "记忆中断状态",
+        "pinyin": "Jìyì zhōngduàn zhuàngtài",
+        "meaning": "Ghi nhớ trạng thái gián đoạn",
+        "example": " "
+    },
+    {
+        "id": 219,
+        "hanzi": "恢复运行",
+        "pinyin": "Huīfù yùnxíng",
+        "meaning": "Khôi phục hoạt động",
+        "example": " "
+    },
+    {
+        "id": 220,
+        "hanzi": "遥控盒",
+        "pinyin": "Yáokòng hé",
+        "meaning": "Hộp điều khiển từ xa",
+        "example": " "
+    },
+    {
+        "id": 221,
+        "hanzi": "按钮盒",
+        "pinyin": "Ànniǔ hé",
+        "meaning": "Hộp nút bấm",
+        "example": " "
+    },
+    {
+        "id": 222,
+        "hanzi": "手动模式",
+        "pinyin": "Shǒudòng móshì",
+        "meaning": "Chế độ thủ công",
+        "example": " "
+    },
+    {
+        "id": 223,
+        "hanzi": "自动模式",
+        "pinyin": "Zìdòng móshì",
+        "meaning": "Chế độ tự động",
+        "example": " "
+    },
+    {
+        "id": 224,
+        "hanzi": "调整模式",
+        "pinyin": "Tiáozhěng móshì",
+        "meaning": "Chế độ điều chỉnh",
+        "example": " "
+    },
+    {
+        "id": 225,
+        "hanzi": "行车顶梁",
+        "pinyin": "Xíngchē dǐngliáng",
+        "meaning": "Dầm trên xe di chuyển",
+        "example": " "
+    },
+    {
+        "id": 226,
+        "hanzi": "行车座梁",
+        "pinyin": "Xíngchē zuòliáng",
+        "meaning": "Dầm đỡ xe di chuyển",
+        "example": " "
+    },
+    {
+        "id": 227,
+        "hanzi": "车仔提梁",
+        "pinyin": "Chēzǎi tíliáng",
+        "meaning": "Dầm nâng xe con",
+        "example": " "
+    },
+    {
+        "id": 228,
+        "hanzi": "车仔提钩",
+        "pinyin": "Chēzǎi tígōu",
+        "meaning": "Móc nâng xe con",
+        "example": " "
+    },
+    {
+        "id": 229,
+        "hanzi": "升降吊带",
+        "pinyin": "Shēngjiàng diàodài",
+        "meaning": "Dây cáp nâng",
+        "example": " "
+    },
+    {
+        "id": 230,
+        "hanzi": "检修平台",
+        "pinyin": "Jiǎnxiū píngtái",
+        "meaning": "Sàn bảo trì",
+        "example": " "
+    },
+    {
+        "id": 231,
+        "hanzi": "表面防腐",
+        "pinyin": "Biǎomiàn fángfǔ",
+        "meaning": "Chống ăn mòn bề mặt",
+        "example": " "
+    },
+    {
+        "id": 232,
+        "hanzi": "平移动力",
+        "pinyin": "Píngyí dònglì",
+        "meaning": "Động lực di chuyển ngang",
+        "example": " "
+    },
+    {
+        "id": 233,
+        "hanzi": "升降动力",
+        "pinyin": "Shēngjiàng dònglì",
+        "meaning": "Động lực nâng hạ",
+        "example": " "
+    },
+    {
+        "id": 234,
+        "hanzi": "水盘动力",
+        "pinyin": "Shuǐpán dònglì",
+        "meaning": "Động lực bể nước",
+        "example": " "
+    },
+    {
+        "id": 235,
+        "hanzi": "升降速度",
+        "pinyin": "Shēngjiàng sùdù",
+        "meaning": "Tốc độ nâng hạ",
+        "example": " "
+    },
+    {
+        "id": 236,
+        "hanzi": "行车速度",
+        "pinyin": "Xíngchē sùdù",
+        "meaning": "Tốc độ xe di chuyển",
+        "example": " "
+    },
+    {
+        "id": 237,
+        "hanzi": "方管",
+        "pinyin": "Fāngguǎn",
+        "meaning": "Ống vuông",
+        "example": " "
+    },
+    {
+        "id": 238,
+        "hanzi": "升降导轨",
+        "pinyin": "Shēngjiàng dǎoguǐ",
+        "meaning": "Thanh dẫn hướng nâng hạ",
+        "example": " "
+    },
+    {
+        "id": 239,
+        "hanzi": "筋板加固",
+        "pinyin": "Jīnbǎn jiāgù",
+        "meaning": "Gia cố bằng tấm gân",
+        "example": " "
+    },
+    {
+        "id": 240,
+        "hanzi": "组焊",
+        "pinyin": "Zǔhàn",
+        "meaning": "Hàn ghép",
+        "example": " "
+    },
+    {
+        "id": 241,
+        "hanzi": "三点式提吊",
+        "pinyin": "Sāndiǎn shì tídiào",
+        "meaning": "Phương thức nâng ba điểm",
+        "example": " "
+    },
+    {
+        "id": 242,
+        "hanzi": "高强度绦纶吊带",
+        "pinyin": "Gāo qiángdù tāolún diàodài",
+        "meaning": "Dây cáp polyester cường độ cao",
+        "example": " "
+    },
+    {
+        "id": 243,
+        "hanzi": "单根吊带负重",
+        "pinyin": "Dān gēn diàodài fùzhòng",
+        "meaning": "Tải trọng dây treo đơn",
+        "example": " "
+    },
+    {
+        "id": 244,
+        "hanzi": "软性弹性联轴器",
+        "pinyin": "Ruǎn xìng tánxìng liánzhóuqì",
+        "meaning": "Khớp nối đàn hồi mềm",
+        "example": " "
+    },
+    {
+        "id": 245,
+        "hanzi": "减少启停缓冲",
+        "pinyin": "Jiǎnshǎo qǐ tíng huǎnchōng",
+        "meaning": "Giảm xóc khi khởi động\/dừng",
+        "example": " "
+    },
+    {
+        "id": 246,
+        "hanzi": "碳钢",
+        "pinyin": "Tàngāng",
+        "meaning": "Thép cacbon",
+        "example": " "
+    },
+    {
+        "id": 247,
+        "hanzi": "喷粉处理",
+        "pinyin": "Pēnfěn chǔlǐ",
+        "meaning": "Xử lý sơn tĩnh điện",
+        "example": " "
+    },
+    {
+        "id": 248,
+        "hanzi": "设备检修",
+        "pinyin": "Shèbèi jiǎnxiū",
+        "meaning": "Bảo trì thiết bị",
+        "example": " "
+    },
+    {
+        "id": 249,
+        "hanzi": "行车主体结构",
+        "pinyin": "Xíngchē zhǔtǐ jiégòu",
+        "meaning": "Kết cấu chính của xe di chuyển",
+        "example": " "
+    },
+    {
+        "id": 250,
+        "hanzi": "喷环氧粉",
+        "pinyin": "Pēn huányǎng fěn",
+        "meaning": "Sơn phủ epoxy",
+        "example": " "
+    }
+]

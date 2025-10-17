@@ -1,0 +1,7 @@
+SELECT Id, Hanzi, Pinyin, Meaning, Example
+FROM page23
+ORDER BY Id
+FOR JSON PATH;
+
+
+Alt+Shift+F

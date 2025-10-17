@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>HỌC XUÔI – Web</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>HỌC XUÔI</h1>
+    <div class="controls">
+      <input id="pageNo" type="number" min="1" placeholder="Trang (vd 23)" />
+      <button id="btnStart">BẮT ĐẦU HỌC</button>
+      <button id="btnHint" disabled>GỢI Ý</button>
+      <button id="btnOk" disabled>ĐÃ THUỘC</button>
+      <button id="btnSkip" disabled>BỎ QUA</button>
+      <button id="btnReset" disabled>HỌC LẠI</button>
+      <button id="btnClear">XÓA TIẾN ĐỘ TRANG</button>
+
+      <span class="stat">Còn lại: <b id="leftCount">-</b></span>
+    </div>
+  </header>
+
+  <main>
+    <div id="hanzi" class="hanzi">—</div>
+    <div id="pinyin" class="hint"></div>
+    <div id="meaning" class="hint"></div>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

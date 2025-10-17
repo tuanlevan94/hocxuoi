@@ -1,0 +1,17 @@
+* { box-sizing: border-box; }
+body { font-family: system-ui, Arial, sans-serif; margin: 0; background:#f7f7f8; color:#111; }
+header { position:sticky; top:0; background:#fff; border-bottom:1px solid #eee; padding:12px; }
+h1 { margin:0 0 8px; font-size:20px; }
+.controls { display:flex; gap:8px; align-items:center; flex-wrap:wrap; }
+.controls input, .controls button { padding:8px 12px; font-size:14px; }
+.stat { margin-left:auto; }
+main { padding:24px; max-width:1100px; margin:auto; }
+.hanzi { font-size:64px; line-height:1.2; padding:32px; background:#fff; border-radius:16px; box-shadow:0 4px 20px rgba(0,0,0,.06); text-align:center; min-height:120px; }
+.hint { margin-top:12px; font-size:24px; background:#fff7cc; padding:16px; border-radius:12px; display:none; }
+.hint.show { display:block; }
+
+/* Mobile */
+@media (max-width: 600px){
+  .hanzi{ font-size:48px; padding:24px; }
+  .hint{ font-size:20px; }
+}
