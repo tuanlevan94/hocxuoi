@@ -1,0 +1,1502 @@
+[
+    {
+        "id": 1,
+        "hanzi": "溶液",
+        "pinyin": "Róngyè",
+        "meaning": "Dung dịch"
+    },
+    {
+        "id": 2,
+        "hanzi": "均衡",
+        "pinyin": "Jūnhéng",
+        "meaning": "Cân bằng"
+    },
+    {
+        "id": 3,
+        "hanzi": "风量",
+        "pinyin": "Fēngliàng",
+        "meaning": "Lưu lượng gió"
+    },
+    {
+        "id": 4,
+        "hanzi": "静压",
+        "pinyin": "Jìng yā",
+        "meaning": "Áp suất tĩnh"
+    },
+    {
+        "id": 5,
+        "hanzi": "循环过滤系统",
+        "pinyin": "Xúnhuán guòlǜ xìtǒng",
+        "meaning": "Hệ thống lọc tuần hoàn"
+    },
+    {
+        "id": 6,
+        "hanzi": "喷淋",
+        "pinyin": "Pēnlín",
+        "meaning": "Phun rửa"
+    },
+    {
+        "id": 7,
+        "hanzi": "周转溶液",
+        "pinyin": "Zhōuzhuǎn róngyè",
+        "meaning": "Luân chuyển dung dịch"
+    },
+    {
+        "id": 8,
+        "hanzi": "不良颗粒杂质",
+        "pinyin": "Bùliáng kēlì zázhì",
+        "meaning": "Hạt tạp chất không mong muốn"
+    },
+    {
+        "id": 9,
+        "hanzi": "电镀均匀性",
+        "pinyin": "Diàndù jūnyún xìng",
+        "meaning": "Độ đồng đều của mạ điện"
+    },
+    {
+        "id": 10,
+        "hanzi": "活接阀门",
+        "pinyin": "Huójiē fámén",
+        "meaning": "Van nối nhanh"
+    },
+    {
+        "id": 11,
+        "hanzi": "流量调节",
+        "pinyin": "Liúliàng tiáojié",
+        "meaning": "Điều chỉnh lưu lượng"
+    },
+    {
+        "id": 12,
+        "hanzi": "主管截面积",
+        "pinyin": "Zhǔguǎn jiémiàn jī",
+        "meaning": "Diện tích mặt cắt ngang của đường ống chính"
+    },
+    {
+        "id": 13,
+        "hanzi": "正压流出",
+        "pinyin": "Zhèng yā liúchū",
+        "meaning": "Dòng chảy áp suất dương"
+    },
+    {
+        "id": 14,
+        "hanzi": "滤材",
+        "pinyin": "Lǜ cái",
+        "meaning": "Vật liệu lọc"
+    },
+    {
+        "id": 15,
+        "hanzi": "锁帽式滤芯",
+        "pinyin": "Suǒ mào shì lǜ xīn",
+        "meaning": "Lõi lọc dạng nắp khóa"
+    },
+    {
+        "id": 16,
+        "hanzi": "过滤精度",
+        "pinyin": "Guòlǜ jīngdù",
+        "meaning": "Độ chính xác lọc"
+    },
+    {
+        "id": 17,
+        "hanzi": "立式循环泵",
+        "pinyin": "Lìshì xúnhuán bèng",
+        "meaning": "Bơm tuần hoàn đứng"
+    },
+    {
+        "id": 18,
+        "hanzi": "进出口径",
+        "pinyin": "Jìn chūkǒujìng",
+        "meaning": "Đường kính đầu vào và đầu ra"
+    },
+    {
+        "id": 19,
+        "hanzi": "立式机械泵",
+        "pinyin": "Lìshì jīxiè bèng",
+        "meaning": "Bơm cơ học đứng"
+    },
+    {
+        "id": 20,
+        "hanzi": "法兰式",
+        "pinyin": "Fǎlán shì",
+        "meaning": "Kiểu mặt bích"
+    },
+    {
+        "id": 21,
+        "hanzi": "循环管道",
+        "pinyin": "Xúnhuán guǎndào",
+        "meaning": "Đường ống tuần hoàn"
+    },
+    {
+        "id": 22,
+        "hanzi": "电解除油",
+        "pinyin": "Diànjiě chúyóu",
+        "meaning": "Tẩy dầu bằng điện phân"
+    },
+    {
+        "id": 23,
+        "hanzi": "冲击镍",
+        "pinyin": "Chōngjī niè",
+        "meaning": "Mạ niken xung kích"
+    },
+    {
+        "id": 24,
+        "hanzi": "SUS316镜面管",
+        "pinyin": "SUS316 jìngmiàn guǎn",
+        "meaning": "Ống gương SUS316"
+    },
+    {
+        "id": 25,
+        "hanzi": "冷凝器",
+        "pinyin": "Lěngníng qì",
+        "meaning": "Bộ ngưng tụ"
+    },
+    {
+        "id": 26,
+        "hanzi": "蒸发器",
+        "pinyin": "Zhēngfā qì",
+        "meaning": "Bộ bay hơi"
+    },
+    {
+        "id": 27,
+        "hanzi": "液晶控制面板",
+        "pinyin": "Yèjīng kòngzhì miànbǎn",
+        "meaning": "Bảng điều khiển LCD"
+    },
+    {
+        "id": 28,
+        "hanzi": "高低压保护",
+        "pinyin": "Gāo dī yā bǎohù",
+        "meaning": "Bảo vệ áp suất cao và thấp"
+    },
+    {
+        "id": 29,
+        "hanzi": "防冻保护",
+        "pinyin": "Fángdòng bǎohù",
+        "meaning": "Bảo vệ chống đóng băng"
+    },
+    {
+        "id": 30,
+        "hanzi": "节能环保",
+        "pinyin": "Jiénéng huánbǎo",
+        "meaning": "Tiết kiệm năng lượng và bảo vệ môi trường"
+    },
+    {
+        "id": 31,
+        "hanzi": "风冷式",
+        "pinyin": "Fēnglěng shì",
+        "meaning": "Kiểu làm mát bằng gió"
+    },
+    {
+        "id": 32,
+        "hanzi": "水冷式",
+        "pinyin": "Shuǐlěng shì",
+        "meaning": "Kiểu làm mát bằng nước"
+    },
+    {
+        "id": 33,
+        "hanzi": "涡旋式",
+        "pinyin": "Wōxuán shì",
+        "meaning": "Kiểu xoắn ốc"
+    },
+    {
+        "id": 34,
+        "hanzi": "螺杆式",
+        "pinyin": "Luógǎn shì",
+        "meaning": "Kiểu trục vít"
+    },
+    {
+        "id": 35,
+        "hanzi": "冷热一体机",
+        "pinyin": "Lěng rè yītǐ jī",
+        "meaning": "Máy kết hợp nóng lạnh"
+    },
+    {
+        "id": 36,
+        "hanzi": "中央控制",
+        "pinyin": "Zhōngyāng kòngzhì",
+        "meaning": "Điều khiển trung tâm"
+    },
+    {
+        "id": 37,
+        "hanzi": "立式管道泵",
+        "pinyin": "Lìshì guǎndào bèng",
+        "meaning": "Bơm đường ống đứng"
+    },
+    {
+        "id": 38,
+        "hanzi": "空化反应",
+        "pinyin": "Kōnghuà fǎnyìng",
+        "meaning": "Phản ứng xâm thực"
+    },
+    {
+        "id": 39,
+        "hanzi": "气泡振动",
+        "pinyin": "Qìpào zhèndòng",
+        "meaning": "Dao động bong bóng"
+    },
+    {
+        "id": 40,
+        "hanzi": "擦洗",
+        "pinyin": "Cāxǐ",
+        "meaning": "Chà rửa"
+    },
+    {
+        "id": 41,
+        "hanzi": "振板",
+        "pinyin": "Zhènbǎn",
+        "meaning": "Bảng rung"
+    },
+    {
+        "id": 42,
+        "hanzi": "不锈钢组焊",
+        "pinyin": "Bùxiùgāng zǔhàn",
+        "meaning": "Hàn nhóm thép không gỉ"
+    },
+    {
+        "id": 43,
+        "hanzi": "振子",
+        "pinyin": "Zhènzǐ",
+        "meaning": "Bộ rung"
+    },
+    {
+        "id": 44,
+        "hanzi": "幅射面",
+        "pinyin": "Fúshè miàn",
+        "meaning": "Bề mặt phát xạ"
+    },
+    {
+        "id": 45,
+        "hanzi": "镀硬铬处理",
+        "pinyin": "Dù yìng gè chǔlǐ",
+        "meaning": "Xử lý mạ crom cứng"
+    },
+    {
+        "id": 46,
+        "hanzi": "声波性能",
+        "pinyin": "Shēngbō xìngnéng",
+        "meaning": "Hiệu suất sóng âm"
+    },
+    {
+        "id": 47,
+        "hanzi": "清洗效果",
+        "pinyin": "Qīngxǐ xiàoguǒ",
+        "meaning": "Hiệu quả làm sạch"
+    },
+    {
+        "id": 48,
+        "hanzi": "RS485通讯",
+        "pinyin": "RS485 tōngxùn",
+        "meaning": "Giao tiếp RS485"
+    },
+    {
+        "id": 49,
+        "hanzi": "智能启动",
+        "pinyin": "Zhìnéng qǐdòng",
+        "meaning": "Khởi động thông minh"
+    },
+    {
+        "id": 50,
+        "hanzi": "无极调功",
+        "pinyin": "Wújí tiáo gōng",
+        "meaning": "Điều chỉnh công suất vô cấp"
+    },
+    {
+        "id": 51,
+        "hanzi": "工件状态监测",
+        "pinyin": "Gōngjiàn zhuàngtài jiāncè",
+        "meaning": "Giám sát trạng thái chi tiết"
+    },
+    {
+        "id": 52,
+        "hanzi": "高Q值振子",
+        "pinyin": "Gāo Q zhí zhènzǐ",
+        "meaning": "Bộ rung giá trị Q cao"
+    },
+    {
+        "id": 53,
+        "hanzi": "外部控制器",
+        "pinyin": "Wàibù kòngzhì qì",
+        "meaning": "Bộ điều khiển bên ngoài"
+    },
+    {
+        "id": 54,
+        "hanzi": "高频线",
+        "pinyin": "Gāopín xiàn",
+        "meaning": "Dây tần số cao"
+    },
+    {
+        "id": 55,
+        "hanzi": "壁挂式安装",
+        "pinyin": "Bìguà shì ānzhuāng",
+        "meaning": "Lắp đặt treo tường"
+    },
+    {
+        "id": 56,
+        "hanzi": "软启动",
+        "pinyin": "Ruǎn qǐdòng",
+        "meaning": "Khởi động mềm"
+    },
+    {
+        "id": 57,
+        "hanzi": "稳压模式",
+        "pinyin": "Wěnyā móshì",
+        "meaning": "Chế độ ổn áp"
+    },
+    {
+        "id": 58,
+        "hanzi": "稳流模式",
+        "pinyin": "Wěnliú móshì",
+        "meaning": "Chế độ ổn dòng"
+    },
+    {
+        "id": 59,
+        "hanzi": "过压保护",
+        "pinyin": "Guòyā bǎohù",
+        "meaning": "Bảo vệ quá áp"
+    },
+    {
+        "id": 60,
+        "hanzi": "限流保护",
+        "pinyin": "Xiànliú bǎohù",
+        "meaning": "Bảo vệ giới hạn dòng"
+    },
+    {
+        "id": 61,
+        "hanzi": "滤波",
+        "pinyin": "Lǜbō",
+        "meaning": "Lọc tín hiệu"
+    },
+    {
+        "id": 62,
+        "hanzi": "纹波精度",
+        "pinyin": "Wénbō jīngdù",
+        "meaning": "Độ chính xác sóng gợn"
+    },
+    {
+        "id": 63,
+        "hanzi": "安时累计",
+        "pinyin": "Ān shí lěijì",
+        "meaning": "Tích lũy giờ ampere"
+    },
+    {
+        "id": 64,
+        "hanzi": "数据互换",
+        "pinyin": "Shùjù hùhuàn",
+        "meaning": "Trao đổi dữ liệu"
+    },
+    {
+        "id": 65,
+        "hanzi": "远程控制",
+        "pinyin": "Yuǎnchéng kòngzhì",
+        "meaning": "Điều khiển từ xa"
+    },
+    {
+        "id": 66,
+        "hanzi": "汇流铜排",
+        "pinyin": "Huìliú tóngpái",
+        "meaning": "Thanh dẫn điện bằng đồng"
+    },
+    {
+        "id": 67,
+        "hanzi": "串电现象",
+        "pinyin": "Chuàn diàn xiànxiàng",
+        "meaning": "Hiện tượng rò điện"
+    },
+    {
+        "id": 68,
+        "hanzi": "电源规格",
+        "pinyin": "Diànyuán guīgé",
+        "meaning": "Thông số nguồn điện"
+    },
+    {
+        "id": 69,
+        "hanzi": "汇流电缆",
+        "pinyin": "Huìliú diànlǎn",
+        "meaning": "Cáp dẫn điện"
+    },
+    {
+        "id": 70,
+        "hanzi": "高频开关",
+        "pinyin": "Gāopín kāiguān",
+        "meaning": "Công tắc tần số cao"
+    },
+    {
+        "id": 71,
+        "hanzi": "本机面板控制",
+        "pinyin": "Běnjī miànbǎn kòngzhì",
+        "meaning": "Điều khiển trên bảng điều khiển máy"
+    },
+    {
+        "id": 72,
+        "hanzi": "软启动升压",
+        "pinyin": "Ruǎn qǐdòng shēngyā",
+        "meaning": "Khởi động mềm và tăng áp"
+    },
+    {
+        "id": 73,
+        "hanzi": "纹波系数",
+        "pinyin": "Wénbō xìshù",
+        "meaning": "Hệ số gợn sóng"
+    },
+    {
+        "id": 74,
+        "hanzi": "整流机架",
+        "pinyin": "Zhěngliú jījià",
+        "meaning": "Khung máy chỉnh lưu"
+    },
+    {
+        "id": 75,
+        "hanzi": "Q235A方管",
+        "pinyin": "Q235A fāngguǎn",
+        "meaning": "Ống thép vuông Q235A"
+    },
+    {
+        "id": 76,
+        "hanzi": "推拉门",
+        "pinyin": "Tuīlā mén",
+        "meaning": "Cửa trượt"
+    },
+    {
+        "id": 77,
+        "hanzi": "暂不报价",
+        "pinyin": "Zàn bù bàojià",
+        "meaning": "Chưa báo giá"
+    },
+    {
+        "id": 78,
+        "hanzi": "同主线",
+        "pinyin": "Tóng zhǔxiàn",
+        "meaning": "Giống với đường chính"
+    },
+    {
+        "id": 79,
+        "hanzi": "自动单臂化学镍生产线",
+        "pinyin": "Zìdòng dānbì huàxué niè shēngchǎnxiàn",
+        "meaning": "Dây chuyền mạ niken hóa học tự động cánh đơn"
+    },
+    {
+        "id": 80,
+        "hanzi": "合同设备造价",
+        "pinyin": "Hétóng shèbèi zàojià",
+        "meaning": "Giá hợp đồng thiết bị"
+    },
+    {
+        "id": 81,
+        "hanzi": "合同设备优惠造价",
+        "pinyin": "Hétóng shèbèi yōuhuì zàojià",
+        "meaning": "Giá hợp đồng thiết bị ưu đãi"
+    },
+    {
+        "id": 82,
+        "hanzi": "付款方式",
+        "pinyin": "Fùkuǎn fāngshì",
+        "meaning": "Phương thức thanh toán"
+    },
+    {
+        "id": 83,
+        "hanzi": "合同签订",
+        "pinyin": "Hétóng qiāndìng",
+        "meaning": "Ký kết hợp đồng"
+    },
+    {
+        "id": 84,
+        "hanzi": "预付",
+        "pinyin": "Yùfù",
+        "meaning": "Thanh toán trước"
+    },
+    {
+        "id": 85,
+        "hanzi": "供方厂内验收",
+        "pinyin": "Gōngfāng chǎngnèi yànshòu",
+        "meaning": "Nghiệm thu tại nhà máy của bên cung cấp"
+    },
+    {
+        "id": 86,
+        "hanzi": "发货",
+        "pinyin": "Fāhuò",
+        "meaning": "Giao hàng"
+    },
+    {
+        "id": 87,
+        "hanzi": "现金转账",
+        "pinyin": "Xiànjīn zhuǎnzhàng",
+        "meaning": "Chuyển khoản tiền mặt"
+    },
+    {
+        "id": 88,
+        "hanzi": "交货期",
+        "pinyin": "Jiāohuò qī",
+        "meaning": "Thời gian giao hàng"
+    },
+    {
+        "id": 89,
+        "hanzi": "交货地点",
+        "pinyin": "Jiāohuò dìdiǎn",
+        "meaning": "Địa điểm giao hàng"
+    },
+    {
+        "id": 90,
+        "hanzi": "订金",
+        "pinyin": "Dìngjīn",
+        "meaning": "Tiền đặt cọc"
+    },
+    {
+        "id": 91,
+        "hanzi": "需方",
+        "pinyin": "Xūfāng",
+        "meaning": "Bên mua"
+    },
+    {
+        "id": 92,
+        "hanzi": "卸货",
+        "pinyin": "Xièhuò",
+        "meaning": "Dỡ hàng"
+    },
+    {
+        "id": 93,
+        "hanzi": "叉车",
+        "pinyin": "Chāchē",
+        "meaning": "Xe nâng"
+    },
+    {
+        "id": 94,
+        "hanzi": "吊车",
+        "pinyin": "Diàochē",
+        "meaning": "Cần cẩu"
+    },
+    {
+        "id": 95,
+        "hanzi": "保质期",
+        "pinyin": "Bǎozhì qī",
+        "meaning": "Thời hạn bảo hành"
+    },
+    {
+        "id": 96,
+        "hanzi": "保固范围",
+        "pinyin": "Bǎogù fànwéi",
+        "meaning": "Phạm vi bảo hành"
+    },
+    {
+        "id": 97,
+        "hanzi": "易损件",
+        "pinyin": "Yìsǔn jiàn",
+        "meaning": "Linh kiện dễ hỏng"
+    },
+    {
+        "id": 98,
+        "hanzi": "保固时间",
+        "pinyin": "Bǎogù shíjiān",
+        "meaning": "Thời gian bảo hành"
+    },
+    {
+        "id": 99,
+        "hanzi": "自然灾害",
+        "pinyin": "Zìrán zāihài",
+        "meaning": "Thiên tai"
+    },
+    {
+        "id": 100,
+        "hanzi": "第三方损害",
+        "pinyin": "Dìsān fāng sǔnhài",
+        "meaning": "Hư hỏng do bên thứ ba"
+    },
+    {
+        "id": 101,
+        "hanzi": "合同设备",
+        "pinyin": "Hétóng shèbèi",
+        "meaning": "Thiết bị hợp đồng"
+    },
+    {
+        "id": 102,
+        "hanzi": "报价有效期",
+        "pinyin": "Bàojià yǒuxiàoqī",
+        "meaning": "Thời hạn báo giá"
+    },
+    {
+        "id": 103,
+        "hanzi": "附注",
+        "pinyin": "Fùzhù",
+        "meaning": "Ghi chú bổ sung"
+    },
+    {
+        "id": 104,
+        "hanzi": "用料",
+        "pinyin": "Yòngliào",
+        "meaning": "Vật liệu sử dụng"
+    },
+    {
+        "id": 105,
+        "hanzi": "运输及安装",
+        "pinyin": "Yùnshū jí ānzhuāng",
+        "meaning": "Vận chuyển và lắp đặt"
+    },
+    {
+        "id": 106,
+        "hanzi": "未提及之事项",
+        "pinyin": "Wèi tíjí zhī shìxiàng",
+        "meaning": "Những mục chưa đề cập"
+    },
+    {
+        "id": 107,
+        "hanzi": "记号",
+        "pinyin": "jìhào",
+        "meaning": "dấu đánh dấu"
+    },
+    {
+        "id": 108,
+        "hanzi": "记号笔",
+        "pinyin": "jìhàobǐ",
+        "meaning": "bút lông đánh dấu"
+    },
+    {
+        "id": 109,
+        "hanzi": "标记",
+        "pinyin": "biāojì",
+        "meaning": "đánh dấu\/nhãn"
+    },
+    {
+        "id": 110,
+        "hanzi": "支管",
+        "pinyin": "zhīguǎn",
+        "meaning": "ống nhánh"
+    },
+    {
+        "id": 111,
+        "hanzi": "拆掉",
+        "pinyin": "chāidiào",
+        "meaning": "tháo dỡ"
+    },
+    {
+        "id": 112,
+        "hanzi": "对接",
+        "pinyin": "duìjiē",
+        "meaning": "đối nối\/ghép nối"
+    },
+    {
+        "id": 113,
+        "hanzi": "更新线",
+        "pinyin": "gēngxīnxiàn",
+        "meaning": "dây chuyền (đã) nâng cấp\/cập nhật"
+    },
+    {
+        "id": 114,
+        "hanzi": "盘管",
+        "pinyin": "pánguǎn",
+        "meaning": "ống xoắn\/coil trao đổi nhiệt"
+    },
+    {
+        "id": 115,
+        "hanzi": "清空",
+        "pinyin": "qīngkōng",
+        "meaning": "dọn trống\/thu dọn hết"
+    },
+    {
+        "id": 116,
+        "hanzi": "出货",
+        "pinyin": "chūhuò",
+        "meaning": "xuất hàng\/giao hàng"
+    },
+    {
+        "id": 117,
+        "hanzi": "现场发挥",
+        "pinyin": "xiànchǎng fāhuī",
+        "meaning": "ứng biến tại hiện trường"
+    },
+    {
+        "id": 118,
+        "hanzi": "V型座",
+        "pinyin": "V xíng zuò",
+        "meaning": "giá đỡ chữ V (V‑seat)"
+    },
+    {
+        "id": 119,
+        "hanzi": "中心距",
+        "pinyin": "zhōngxīnjù",
+        "meaning": "khoảng cách tâm"
+    },
+    {
+        "id": 120,
+        "hanzi": "标牌",
+        "pinyin": "biāopái",
+        "meaning": "bảng tên\/nhãn máy"
+    },
+    {
+        "id": 121,
+        "hanzi": "管路标签",
+        "pinyin": "guǎnlù biāoqiān",
+        "meaning": "nhãn\/tem đường ống"
+    },
+    {
+        "id": 122,
+        "hanzi": "利旧",
+        "pinyin": "lìjiù",
+        "meaning": "tận dụng đồ cũ\/thiết bị hiện có"
+    },
+    {
+        "id": 123,
+        "hanzi": "扁线气管",
+        "pinyin": "biǎnxiàn qìguǎn",
+        "meaning": "ống khí cho dây dẹt"
+    },
+    {
+        "id": 124,
+        "hanzi": "柔性",
+        "pinyin": "róuxìng",
+        "meaning": "độ mềm dẻo\/độ linh hoạt"
+    },
+    {
+        "id": 125,
+        "hanzi": "推拉门",
+        "pinyin": "tuīlā mén",
+        "meaning": "cửa trượt"
+    },
+    {
+        "id": 126,
+        "hanzi": "支撑",
+        "pinyin": "zhīchēng",
+        "meaning": "giằng\/đỡ (chi tiết đỡ)"
+    },
+    {
+        "id": 127,
+        "hanzi": "80×40方管",
+        "pinyin": "80×40 fāngguǎn",
+        "meaning": "ống hộp vuông 80×40"
+    },
+    {
+        "id": 128,
+        "hanzi": "加焊",
+        "pinyin": "jiāhàn",
+        "meaning": "gia cường bằng hàn"
+    },
+    {
+        "id": 129,
+        "hanzi": "旧物料",
+        "pinyin": "jiù wùliào",
+        "meaning": "vật tư cũ\/thu hồi"
+    },
+    {
+        "id": 130,
+        "hanzi": "暂存位",
+        "pinyin": "zàncún wèi",
+        "meaning": "vị trí tạm lưu (kho tạm)"
+    },
+    {
+        "id": 131,
+        "hanzi": "红框",
+        "pinyin": "hóngkuāng",
+        "meaning": "khung đỏ (vùng đánh dấu)"
+    },
+    {
+        "id": 132,
+        "hanzi": "搬运",
+        "pinyin": "bānyùn",
+        "meaning": "bốc dỡ\/vận chuyển"
+    },
+    {
+        "id": 133,
+        "hanzi": "摆放",
+        "pinyin": "bǎifàng",
+        "meaning": "bố trí\/đặt để"
+    },
+    {
+        "id": 134,
+        "hanzi": "车间整顿",
+        "pinyin": "chējiān zhěngdùn",
+        "meaning": "chỉnh đốn\/5S xưởng"
+    },
+    {
+        "id": 135,
+        "hanzi": "清单",
+        "pinyin": "qīngdān",
+        "meaning": "danh mục\/packing list\/BOM"
+    },
+    {
+        "id": 136,
+        "hanzi": "316弯头",
+        "pinyin": "sān yī liù wāntóu",
+        "meaning": "co inox 316"
+    },
+    {
+        "id": 137,
+        "hanzi": "运输费",
+        "pinyin": "yùnshū fèi",
+        "meaning": "chi phí vận chuyển"
+    },
+    {
+        "id": 138,
+        "hanzi": "翻箱倒柜",
+        "pinyin": "fānxiāng dǎoguì",
+        "meaning": "lục tung thùng tủ (tìm đồ)"
+    },
+    {
+        "id": 139,
+        "hanzi": "延误工程",
+        "pinyin": "yánwù gōngchéng",
+        "meaning": "làm chậm\/đình trệ dự án"
+    },
+    {
+        "id": 140,
+        "hanzi": "正极",
+        "pinyin": "zhèngjí",
+        "meaning": "cực dương\/Anode"
+    },
+    {
+        "id": 141,
+        "hanzi": "负极",
+        "pinyin": "fùjí",
+        "meaning": "cực âm\/Cathode"
+    },
+    {
+        "id": 142,
+        "hanzi": "拉头",
+        "pinyin": "lātóu",
+        "meaning": "đầu dây chuyền\/đầu vào"
+    },
+    {
+        "id": 143,
+        "hanzi": "预长",
+        "pinyin": "yùcháng",
+        "meaning": "chừa dư chiều dài (cáp\/ống)"
+    },
+    {
+        "id": 144,
+        "hanzi": "整卷",
+        "pinyin": "zhěngjuǎn",
+        "meaning": "cuộn nguyên (full reel)"
+    },
+    {
+        "id": 145,
+        "hanzi": "电解槽",
+        "pinyin": "diànjiě cáo",
+        "meaning": "bể điện giải"
+    },
+    {
+        "id": 146,
+        "hanzi": "正\/负各一条",
+        "pinyin": "zhèng\/fù gè yī tiáo",
+        "meaning": "mỗi cực dương\/âm một sợi"
+    },
+    {
+        "id": 147,
+        "hanzi": "前处理线",
+        "pinyin": "qián chǔlǐ xiàn",
+        "meaning": "dây chuyền tiền xử lý"
+    },
+    {
+        "id": 148,
+        "hanzi": "PVC牙嘴",
+        "pinyin": "PVC yázuǐ",
+        "meaning": "đầu nối ren PVC\/đầu béc ren"
+    },
+    {
+        "id": 149,
+        "hanzi": "不锈钢法兰",
+        "pinyin": "bùxiùgāng fǎlán",
+        "meaning": "mặt bích inox"
+    },
+    {
+        "id": 150,
+        "hanzi": "快递派送",
+        "pinyin": "kuàidì pèisòng",
+        "meaning": "giao bởi chuyển phát nhanh"
+    },
+    {
+        "id": 151,
+        "hanzi": "FRP格栅板",
+        "pinyin": "FRP géshān bǎn",
+        "meaning": "tấm sàn grating FRP"
+    },
+    {
+        "id": 152,
+        "hanzi": "管码",
+        "pinyin": "guǎnmǎ",
+        "meaning": "gối kê ống\/đế đỡ ống (saddle)"
+    },
+    {
+        "id": 153,
+        "hanzi": "倒流",
+        "pinyin": "dàoliú",
+        "meaning": "chảy ngược (backflow)"
+    },
+    {
+        "id": 154,
+        "hanzi": "降温",
+        "pinyin": "jiàngwēn",
+        "meaning": "giảm nhiệt\/giảm nhiệt độ"
+    },
+    {
+        "id": 155,
+        "hanzi": "蒸",
+        "pinyin": "zhēng",
+        "meaning": "to steam"
+    },
+    {
+        "id": 156,
+        "hanzi": "炸",
+        "pinyin": "zhá",
+        "meaning": "to fry (deep-fry)chiên"
+    },
+    {
+        "id": 157,
+        "hanzi": "炒",
+        "pinyin": "chǎo",
+        "meaning": "to stir-fry xào"
+    },
+    {
+        "id": 158,
+        "hanzi": "煮熟",
+        "pinyin": "zhǔ shú",
+        "meaning": "to boil luộc"
+    },
+    {
+        "id": 159,
+        "hanzi": "焖",
+        "pinyin": "mèn",
+        "meaning": "to braise kho"
+    },
+    {
+        "id": 160,
+        "hanzi": "熬汤",
+        "pinyin": "áo tāng",
+        "meaning": "to make soup"
+    },
+    {
+        "id": 161,
+        "hanzi": "燴",
+        "pinyin": "huì",
+        "meaning": "om to braise"
+    },
+    {
+        "id": 162,
+        "hanzi": "煎",
+        "pinyin": "jiān",
+        "meaning": "to pan-fry rim"
+    },
+    {
+        "id": 163,
+        "hanzi": "腌制",
+        "pinyin": "yān zhì",
+        "meaning": "to marinate ướp "
+    },
+    {
+        "id": 164,
+        "hanzi": "拌",
+        "pinyin": "bàn",
+        "meaning": "to mix \/ toss trộn "
+    },
+    {
+        "id": 165,
+        "hanzi": "剁碎",
+        "pinyin": "duò suì",
+        "meaning": "to mince băm nhỏ"
+    },
+    {
+        "id": 166,
+        "hanzi": "切片",
+        "pinyin": "qiē piàn",
+        "meaning": "to slice, thái lát "
+    },
+    {
+        "id": 167,
+        "hanzi": "切丁",
+        "pinyin": "qiē dīng",
+        "meaning": "to dice thái hạt lựu"
+    },
+    {
+        "id": 168,
+        "hanzi": "腌泡",
+        "pinyin": "yān pào",
+        "meaning": "pickle \/ soak ngâm"
+    },
+    {
+        "id": 169,
+        "hanzi": "隔水炖",
+        "pinyin": "gé shuǐ dùn",
+        "meaning": "double-boil hầm cách thủy "
+    },
+    {
+        "id": 170,
+        "hanzi": "冷藏",
+        "pinyin": "lěngcáng",
+        "meaning": "refrigerate \/ chill ướp lạnh"
+    },
+    {
+        "id": 171,
+        "hanzi": "晾干",
+        "pinyin": "liàng gān",
+        "meaning": "dry in air phơi khô"
+    },
+    {
+        "id": 172,
+        "hanzi": "熏",
+        "pinyin": "xūn",
+        "meaning": "to smoke (food) hun khói"
+    },
+    {
+        "id": 173,
+        "hanzi": "咸",
+        "pinyin": "xián",
+        "meaning": "salty"
+    },
+    {
+        "id": 174,
+        "hanzi": "淡",
+        "pinyin": "dàn",
+        "meaning": "light \/ bland"
+    },
+    {
+        "id": 175,
+        "hanzi": "浓",
+        "pinyin": "nóng",
+        "meaning": "rich \/ strong flavor"
+    },
+    {
+        "id": 176,
+        "hanzi": "鲜",
+        "pinyin": "xiān",
+        "meaning": "fresh \/ umami"
+    },
+    {
+        "id": 177,
+        "hanzi": "味浓",
+        "pinyin": "wèi nóng",
+        "meaning": "strong-tasting nồng, đậm đà "
+    },
+    {
+        "id": 178,
+        "hanzi": "麻辣",
+        "pinyin": "málà",
+        "meaning": "numbing spicy cay tê"
+    },
+    {
+        "id": 179,
+        "hanzi": "涩",
+        "pinyin": "sè",
+        "meaning": "astringent"
+    },
+    {
+        "id": 180,
+        "hanzi": "清爽",
+        "pinyin": "qīngshuǎng",
+        "meaning": "refreshing vị thanh mát"
+    },
+    {
+        "id": 181,
+        "hanzi": "腥",
+        "pinyin": "xīng",
+        "meaning": "fishy tanh"
+    },
+    {
+        "id": 182,
+        "hanzi": "臭",
+        "pinyin": "chòu",
+        "meaning": "stinky \/ foul-smelling hôi"
+    },
+    {
+        "id": 183,
+        "hanzi": "焦味",
+        "pinyin": "jiāo wèi",
+        "meaning": "burnt taste vị khét "
+    },
+    {
+        "id": 184,
+        "hanzi": "刺鼻",
+        "pinyin": "cìbí",
+        "meaning": "pungent \/ sharp smell vị hăng"
+    },
+    {
+        "id": 185,
+        "hanzi": "霉味",
+        "pinyin": "méi wèi",
+        "meaning": "musty \/ moldy mốc "
+    },
+    {
+        "id": 186,
+        "hanzi": "多汁",
+        "pinyin": "duō zhī",
+        "meaning": "juicy"
+    },
+    {
+        "id": 187,
+        "hanzi": "新鲜",
+        "pinyin": "xīnxiān",
+        "meaning": "fresh, tươi"
+    },
+    {
+        "id": 188,
+        "hanzi": "香浓",
+        "pinyin": "xiāngnóng",
+        "meaning": "rich \/ creamy"
+    },
+    {
+        "id": 189,
+        "hanzi": "烂",
+        "pinyin": "làn",
+        "meaning": "mushy \/ rotten nát"
+    },
+    {
+        "id": 190,
+        "hanzi": "发霉",
+        "pinyin": "fā méi",
+        "meaning": "moldy mốc"
+    },
+    {
+        "id": 191,
+        "hanzi": "松",
+        "pinyin": "sōng",
+        "meaning": "mealy \/ loose texture xốp "
+    },
+    {
+        "id": 192,
+        "hanzi": "枯萎",
+        "pinyin": "kūwěi",
+        "meaning": "withered \/ shriveled héo "
+    },
+    {
+        "id": 193,
+        "hanzi": "香喷喷",
+        "pinyin": "xiāng pēnpēn",
+        "meaning": "very fragrant"
+    },
+    {
+        "id": 194,
+        "hanzi": "有嚼劲",
+        "pinyin": "yǒu jiáojìn",
+        "meaning": "chewy, dai "
+    },
+    {
+        "id": 195,
+        "hanzi": "清关",
+        "pinyin": "qīngguān",
+        "meaning": "Customs clearance (thông quan)"
+    },
+    {
+        "id": 196,
+        "hanzi": "进口货物",
+        "pinyin": "jìnkǒu huòwù",
+        "meaning": "Imported goods"
+    },
+    {
+        "id": 197,
+        "hanzi": "转口货物",
+        "pinyin": "zhuǎnkǒu huòwù",
+        "meaning": "Transit goods (hàng quá cảnh) "
+    },
+    {
+        "id": 198,
+        "hanzi": "报关单",
+        "pinyin": "bàoguāndān",
+        "meaning": "Customs declaration form (tờ khai)"
+    },
+    {
+        "id": 199,
+        "hanzi": "进口报关单",
+        "pinyin": "jìnkǒu bàoguāndān",
+        "meaning": "Import declaration form"
+    },
+    {
+        "id": 200,
+        "hanzi": "关税",
+        "pinyin": "guānshuì",
+        "meaning": "Customs duty \/ Tariff (thuế quan)"
+    },
+    {
+        "id": 201,
+        "hanzi": "免税",
+        "pinyin": "miǎnshuì",
+        "meaning": "Duty free"
+    },
+    {
+        "id": 202,
+        "hanzi": "进口税",
+        "pinyin": "jìnkǒu shuì",
+        "meaning": "Import tax"
+    },
+    {
+        "id": 203,
+        "hanzi": "增值税",
+        "pinyin": "zēngzhíshuì",
+        "meaning": "Value Added Tax (VAT)"
+    },
+    {
+        "id": 204,
+        "hanzi": "消费税",
+        "pinyin": "xiāofèishuì",
+        "meaning": "Excise tax (thuế tiêu thụ đặt biệt)"
+    },
+    {
+        "id": 205,
+        "hanzi": "税收政策",
+        "pinyin": "shuìshōu zhèngcè",
+        "meaning": "Tax policy"
+    },
+    {
+        "id": 206,
+        "hanzi": "进口许可证",
+        "pinyin": "jìnkǒu xǔkězhèng",
+        "meaning": "Import license"
+    },
+    {
+        "id": 207,
+        "hanzi": "物流",
+        "pinyin": "wùliú",
+        "meaning": "Logistics"
+    },
+    {
+        "id": 208,
+        "hanzi": "运输",
+        "pinyin": "yùnshū",
+        "meaning": "Transportation"
+    },
+    {
+        "id": 209,
+        "hanzi": "铁路运输",
+        "pinyin": "tiělù yùnshū",
+        "meaning": "Rail transport"
+    },
+    {
+        "id": 210,
+        "hanzi": "公路运输",
+        "pinyin": "gōnglù yùnshū",
+        "meaning": "Road transport"
+    },
+    {
+        "id": 211,
+        "hanzi": "多式联运",
+        "pinyin": "duōshì liányùn",
+        "meaning": "Multimodal transport"
+    },
+    {
+        "id": 212,
+        "hanzi": "船公司",
+        "pinyin": "chuán gōngsī",
+        "meaning": "Shipping line (hãng tàu)"
+    },
+    {
+        "id": 213,
+        "hanzi": "货运代理",
+        "pinyin": "huòyùn dàilǐ",
+        "meaning": "Freight forwarder (đại lý vận tải)"
+    },
+    {
+        "id": 214,
+        "hanzi": "集装箱运输",
+        "pinyin": "jízhuāngxiāng yùnshū",
+        "meaning": "Container shipping"
+    },
+    {
+        "id": 215,
+        "hanzi": "商业发票",
+        "pinyin": "shāngyè fāpiào",
+        "meaning": "Commercial invoice"
+    },
+    {
+        "id": 216,
+        "hanzi": "装箱单",
+        "pinyin": "zhuāngxiāngdān",
+        "meaning": "Packing list"
+    },
+    {
+        "id": 217,
+        "hanzi": "提单",
+        "pinyin": "tídān",
+        "meaning": "Bill of lading (B\/L)"
+    },
+    {
+        "id": 218,
+        "hanzi": "原产地证",
+        "pinyin": "yuánchǎndì zhèng",
+        "meaning": "CO"
+    },
+    {
+        "id": 219,
+        "hanzi": "质量证书",
+        "pinyin": "zhìliàng zhèngshū",
+        "meaning": "CQ"
+    },
+    {
+        "id": 220,
+        "hanzi": "保险单",
+        "pinyin": "bǎoxiǎn dān",
+        "meaning": "Insurance certificate"
+    },
+    {
+        "id": 221,
+        "hanzi": "工厂交货",
+        "pinyin": "gōngchǎng jiāohuò",
+        "meaning": "Ex Works (EXW"
+    },
+    {
+        "id": 222,
+        "hanzi": "装运港交货",
+        "pinyin": "zhuāngyùngǎng jiāohuò",
+        "meaning": "FOB (Giao tại bến, free on board)"
+    },
+    {
+        "id": 223,
+        "hanzi": "目的地交货",
+        "pinyin": "mùdìdì jiāohuò",
+        "meaning": "DAP (giao đến nơi)"
+    },
+    {
+        "id": 224,
+        "hanzi": "完税后交货",
+        "pinyin": "wánshuìhòu jiāohuò",
+        "meaning": "DDP (delivered duty paid, đã nộp thuế)"
+    },
+    {
+        "id": 225,
+        "hanzi": "仓库",
+        "pinyin": "cāngkù",
+        "meaning": "Warehouse"
+    },
+    {
+        "id": 226,
+        "hanzi": "库存",
+        "pinyin": "kùcún",
+        "meaning": "Inventory (hàng tồn kho)"
+    },
+    {
+        "id": 227,
+        "hanzi": "装卸货物",
+        "pinyin": "zhuāngxiè huòwù",
+        "meaning": "Loading and unloading"
+    },
+    {
+        "id": 228,
+        "hanzi": "包装",
+        "pinyin": "bāozhuāng",
+        "meaning": "Packaging (đóng gói)"
+    },
+    {
+        "id": 229,
+        "hanzi": "卸货",
+        "pinyin": "xièhuò",
+        "meaning": "Unloading"
+    },
+    {
+        "id": 230,
+        "hanzi": "信用证",
+        "pinyin": "xìnyòngzhèng",
+        "meaning": "Letter of Credit (L\/C) thư tín dụng)"
+    },
+    {
+        "id": 231,
+        "hanzi": "汇款",
+        "pinyin": "huìkuǎn",
+        "meaning": "payment  chuyển tiền "
+    },
+    {
+        "id": 232,
+        "hanzi": "预付款",
+        "pinyin": "yùfùkuǎn",
+        "meaning": "Advance payment"
+    },
+    {
+        "id": 233,
+        "hanzi": "货到付款",
+        "pinyin": "huòdào fùkuǎn",
+        "meaning": "Cash on delivery COD"
+    },
+    {
+        "id": 234,
+        "hanzi": "托收",
+        "pinyin": "tuōshōu",
+        "meaning": "Collection (nhờ thu)"
+    },
+    {
+        "id": 235,
+        "hanzi": "货物保险",
+        "pinyin": "huòwù bǎoxiǎn",
+        "meaning": "Cargo insurance (bảo hiểm hàng hóa)"
+    },
+    {
+        "id": 236,
+        "hanzi": "风险",
+        "pinyin": "fēngxiǎn",
+        "meaning": "Risk"
+    },
+    {
+        "id": 237,
+        "hanzi": "损失",
+        "pinyin": "sǔnshī",
+        "meaning": "Loss"
+    },
+    {
+        "id": 238,
+        "hanzi": "索赔",
+        "pinyin": "suǒpéi",
+        "meaning": "claim"
+    },
+    {
+        "id": 239,
+        "hanzi": "赔偿",
+        "pinyin": "péicháng",
+        "meaning": "Compensation"
+    },
+    {
+        "id": 240,
+        "hanzi": "堆存费",
+        "pinyin": "duīcún fèi",
+        "meaning": "Storage yard fee (phí lưu bãi)"
+    },
+    {
+        "id": 241,
+        "hanzi": "集装箱滞留费",
+        "pinyin": "jízhuāngxiāng zhìliú fèi",
+        "meaning": "Container detention fee (phí lưu container)"
+    },
+    {
+        "id": 242,
+        "hanzi": "起吊费",
+        "pinyin": "qǐdiào fèi",
+        "meaning": "Container lifting fee (phí nâng hạ)"
+    },
+    {
+        "id": 243,
+        "hanzi": "报关费",
+        "pinyin": "bàoguān fèi",
+        "meaning": "Customs declaration fee (phí làm thủ tục hải quan)"
+    },
+    {
+        "id": 244,
+        "hanzi": "检疫费",
+        "pinyin": "jiǎnyì fèi",
+        "meaning": "Quarantine fee (kiểm dịch)"
+    },
+    {
+        "id": 245,
+        "hanzi": "查验费",
+        "pinyin": "cháyàn fèi",
+        "meaning": "Inspection fee kiểm tra"
+    },
+    {
+        "id": 246,
+        "hanzi": "单证费",
+        "pinyin": "dānzhèng fèi",
+        "meaning": "Documentation fee"
+    },
+    {
+        "id": 247,
+        "hanzi": "集装箱装卸费",
+        "pinyin": "jízhuāngxiāng zhuāngxiè fèi",
+        "meaning": "Container handling fee (xếp dỡ)"
+    },
+    {
+        "id": 248,
+        "hanzi": "港口作业费",
+        "pinyin": "gǎngkǒu zuòyè fèi",
+        "meaning": "Port operation fee phí khai thác cảng"
+    },
+    {
+        "id": 249,
+        "hanzi": "仓库装卸费",
+        "pinyin": "cāngkù zhuāngxiè fèi",
+        "meaning": "Warehouse handling fee"
+    },
+    {
+        "id": 250,
+        "hanzi": "租仓费",
+        "pinyin": "zūcāng fèi",
+        "meaning": "Warehouse rental fee"
+    }
+]

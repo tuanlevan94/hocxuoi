@@ -11,6 +11,7 @@ let currentWord = null;    // object đang hiển thị
 const pageNoEl   = document.getElementById("pageNo");
 const btnStart   = document.getElementById("btnStart");
 const btnHint    = document.getElementById("btnHint");
+const btnHint2 = document.getElementById("btnHint2");
 const btnOk      = document.getElementById("btnOk");
 const btnSkip    = document.getElementById("btnSkip");
 const btnReset   = document.getElementById("btnReset");
@@ -22,6 +23,7 @@ const meaningEl  = document.getElementById("meaning");
 // ===== Bind =====
 btnStart.addEventListener("click", start);
 btnHint.addEventListener("click", showHint);
+btnHint2.addEventListener("click", showHint);
 btnOk  .addEventListener("click", onOk);
 btnSkip.addEventListener("click", onSkip);
 btnReset.addEventListener("click", resetProgress);
@@ -56,6 +58,7 @@ function pickNext(){
     pinyinEl.classList.remove("show");
     meaningEl.classList.remove("show");
     btnHint.disabled = btnOk.disabled = btnSkip.disabled = true;
+    btnHint2.disabled = true;
     return;
   }
   const len = remainingIds.length;
@@ -86,6 +89,7 @@ function renderWord(){
   meaningEl.classList.remove("show");
   leftCount.textContent = remainingIds.length.toString();
   btnHint.disabled = btnOk.disabled = btnSkip.disabled = false;
+  btnHint2.disabled = false;  
   btnReset.disabled = false;
 }
 function showHint(){

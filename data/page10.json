@@ -1,0 +1,836 @@
+[
+    {
+        "id": 1,
+        "hanzi": "更换",
+        "pinyin": "Gēnghuàn",
+        "meaning": "thay thế, replace"
+    },
+    {
+        "id": 2,
+        "hanzi": "更加",
+        "pinyin": "Gèngjiā",
+        "meaning": "more"
+    },
+    {
+        "id": 3,
+        "hanzi": "变频器",
+        "pinyin": "Biànpín qì",
+        "meaning": "Inverter, biến tần"
+    },
+    {
+        "id": 4,
+        "hanzi": "没有遇到过",
+        "pinyin": "Méiyǒu yù dàoguò",
+        "meaning": "chưa bao giờ gặp phải"
+    },
+    {
+        "id": 5,
+        "hanzi": "其他",
+        "pinyin": "qítā",
+        "meaning": "cái khác"
+    },
+    {
+        "id": 6,
+        "hanzi": "轴承",
+        "pinyin": "Zhóuchéng",
+        "meaning": "Vòng bi, bearing"
+    },
+    {
+        "id": 7,
+        "hanzi": "刮到",
+        "pinyin": "Guā dào",
+        "meaning": "cào, scratch"
+    },
+    {
+        "id": 8,
+        "hanzi": "报价",
+        "pinyin": "Bàojià",
+        "meaning": "báo giá"
+    },
+    {
+        "id": 9,
+        "hanzi": "安装",
+        "pinyin": "Ānzhuāng",
+        "meaning": "Cài đặt"
+    },
+    {
+        "id": 10,
+        "hanzi": "应该",
+        "pinyin": "Yīnggāi",
+        "meaning": "nên"
+    },
+    {
+        "id": 11,
+        "hanzi": "线要搬去另外一个车间",
+        "pinyin": "Xiàn yào bān qù lìngwài yīgè chējiān",
+        "meaning": "The line needs to be moved to another workshop"
+    },
+    {
+        "id": 12,
+        "hanzi": "客户",
+        "pinyin": "Kèhù",
+        "meaning": "khách hàng"
+    },
+    {
+        "id": 13,
+        "hanzi": "滚筒",
+        "pinyin": "Gǔntǒng",
+        "meaning": "barrel"
+    },
+    {
+        "id": 14,
+        "hanzi": "烘干槽",
+        "pinyin": "Hōng gān cáo",
+        "meaning": "Dryer tank"
+    },
+    {
+        "id": 15,
+        "hanzi": "更新",
+        "pinyin": "Gēngxīn",
+        "meaning": "đổi mới"
+    },
+    {
+        "id": 16,
+        "hanzi": "需要",
+        "pinyin": "Xūyào",
+        "meaning": "nhu cầu"
+    },
+    {
+        "id": 17,
+        "hanzi": "搞西门子程序",
+        "pinyin": "Gǎo xīménzǐ chéngxù",
+        "meaning": "do Siemens Program"
+    },
+    {
+        "id": 18,
+        "hanzi": "部分",
+        "pinyin": "bùfèn",
+        "meaning": "Bộ phận"
+    },
+    {
+        "id": 19,
+        "hanzi": "碱性",
+        "pinyin": "Jiǎn xìng",
+        "meaning": "Alkaline"
+    },
+    {
+        "id": 20,
+        "hanzi": "药水",
+        "pinyin": "yàoshuǐ",
+        "meaning": "Solution, dung dịch"
+    },
+    {
+        "id": 21,
+        "hanzi": "卡",
+        "pinyin": "Kǎ",
+        "meaning": "kẹt"
+    },
+    {
+        "id": 22,
+        "hanzi": "液位",
+        "pinyin": "Yè wèi",
+        "meaning": "Liquid level"
+    },
+    {
+        "id": 23,
+        "hanzi": "浮球",
+        "pinyin": "fú qiú",
+        "meaning": "Float (cảm biến mức)"
+    },
+    {
+        "id": 24,
+        "hanzi": "使用",
+        "pinyin": "Shǐyòng",
+        "meaning": "sử dụng"
+    },
+    {
+        "id": 25,
+        "hanzi": "解密",
+        "pinyin": "Jiěmì",
+        "meaning": "giải mã, Decryption"
+    },
+    {
+        "id": 26,
+        "hanzi": "电路图",
+        "pinyin": "diànlùtú",
+        "meaning": "circuit diagram"
+    },
+    {
+        "id": 27,
+        "hanzi": "螺丝",
+        "pinyin": "Luósī",
+        "meaning": "screw"
+    },
+    {
+        "id": 28,
+        "hanzi": "螺母",
+        "pinyin": "Luómǔ",
+        "meaning": "Nuts"
+    },
+    {
+        "id": 29,
+        "hanzi": "修改",
+        "pinyin": "xiūgǎi",
+        "meaning": "modify, sửa đổi"
+    },
+    {
+        "id": 30,
+        "hanzi": "设计",
+        "pinyin": "Shèjì",
+        "meaning": "design"
+    },
+    {
+        "id": 31,
+        "hanzi": "以便",
+        "pinyin": "Yǐbiàn",
+        "meaning": "so that"
+    },
+    {
+        "id": 32,
+        "hanzi": "解决",
+        "pinyin": "Jiějué",
+        "meaning": "solve"
+    },
+    {
+        "id": 33,
+        "hanzi": "残留的问题",
+        "pinyin": "Cánliú de wèntí",
+        "meaning": "Remaining issues"
+    },
+    {
+        "id": 34,
+        "hanzi": "观察实际情况",
+        "pinyin": "Guānchá shíjì qíngkuàng",
+        "meaning": "Observe the actual situation"
+    },
+    {
+        "id": 35,
+        "hanzi": "过渡",
+        "pinyin": "Guòdù",
+        "meaning": "transition (hoist)"
+    },
+    {
+        "id": 36,
+        "hanzi": "太快速了",
+        "pinyin": "tài kuàisùle",
+        "meaning": "too fast"
+    },
+    {
+        "id": 37,
+        "hanzi": "目前",
+        "pinyin": "Mùqián",
+        "meaning": "hiện tại, at present"
+    },
+    {
+        "id": 38,
+        "hanzi": "远程",
+        "pinyin": "Yuǎnchéng",
+        "meaning": "remote"
+    },
+    {
+        "id": 39,
+        "hanzi": "监控",
+        "pinyin": "Jiānkòng",
+        "meaning": "monitor"
+    },
+    {
+        "id": 40,
+        "hanzi": "电流报警",
+        "pinyin": "diànliú bàojǐng",
+        "meaning": "overcurrent alarm"
+    },
+    {
+        "id": 41,
+        "hanzi": "切换",
+        "pinyin": "Qiēhuàn",
+        "meaning": "Switch, chuyển đổi"
+    },
+    {
+        "id": 42,
+        "hanzi": "压敏电阻",
+        "pinyin": "Yā mǐn diànzǔ",
+        "meaning": "Varistor"
+    },
+    {
+        "id": 43,
+        "hanzi": "升降电机",
+        "pinyin": "Shēngjiàng diànjī",
+        "meaning": "động cơ nâng hạ"
+    },
+    {
+        "id": 44,
+        "hanzi": "马达",
+        "pinyin": "Mǎdá",
+        "meaning": "Motor"
+    },
+    {
+        "id": 45,
+        "hanzi": "出厂",
+        "pinyin": "chūchǎng",
+        "meaning": "Factory"
+    },
+    {
+        "id": 46,
+        "hanzi": "故障",
+        "pinyin": "gùzhàng",
+        "meaning": "sự cố, trục trặc"
+    },
+    {
+        "id": 47,
+        "hanzi": "记得",
+        "pinyin": "Jìdé",
+        "meaning": "Remember"
+    },
+    {
+        "id": 48,
+        "hanzi": "同样",
+        "pinyin": "Tóngyàng",
+        "meaning": "same"
+    },
+    {
+        "id": 49,
+        "hanzi": "刹车",
+        "pinyin": "Shāchē",
+        "meaning": "brake"
+    },
+    {
+        "id": 50,
+        "hanzi": "电阻",
+        "pinyin": "diànzǔ",
+        "meaning": "resistor"
+    },
+    {
+        "id": 51,
+        "hanzi": "测量",
+        "pinyin": "Cèliáng",
+        "meaning": "Measurement"
+    },
+    {
+        "id": 52,
+        "hanzi": "提升马达",
+        "pinyin": "Tíshēng mǎdá",
+        "meaning": "The lifting motor"
+    },
+    {
+        "id": 53,
+        "hanzi": "线路",
+        "pinyin": "Xiànlù",
+        "meaning": "line, circuit"
+    },
+    {
+        "id": 54,
+        "hanzi": "啥",
+        "pinyin": "Shá",
+        "meaning": "what?"
+    },
+    {
+        "id": 55,
+        "hanzi": "到底",
+        "pinyin": "Dàodǐ",
+        "meaning": "rốt cuộc"
+    },
+    {
+        "id": 56,
+        "hanzi": "超电流",
+        "pinyin": "chāo diànliú",
+        "meaning": "overcurrent"
+    },
+    {
+        "id": 57,
+        "hanzi": "风量",
+        "pinyin": "Fēngliàng",
+        "meaning": "Air volume"
+    },
+    {
+        "id": 58,
+        "hanzi": "静压",
+        "pinyin": "Jìng yā",
+        "meaning": "áp suất tĩnh"
+    },
+    {
+        "id": 59,
+        "hanzi": "风速",
+        "pinyin": "Fēngsù",
+        "meaning": "tốc độ gió"
+    },
+    {
+        "id": 60,
+        "hanzi": "位置",
+        "pinyin": "Wèizhì",
+        "meaning": "Location"
+    },
+    {
+        "id": 61,
+        "hanzi": "管道",
+        "pinyin": "Guǎndào",
+        "meaning": "pipeline"
+    },
+    {
+        "id": 62,
+        "hanzi": "三相",
+        "pinyin": "Sān xiàng",
+        "meaning": "Three-phase"
+    },
+    {
+        "id": 63,
+        "hanzi": "品牌",
+        "pinyin": "pǐnpái",
+        "meaning": "Brand"
+    },
+    {
+        "id": 64,
+        "hanzi": "除湿机",
+        "pinyin": "Chúshī jī",
+        "meaning": "Dehumidifier"
+    },
+    {
+        "id": 65,
+        "hanzi": "风干槽",
+        "pinyin": "fēnggān cáo",
+        "meaning": "Air drying tank"
+    },
+    {
+        "id": 66,
+        "hanzi": "鼓风机",
+        "pinyin": "Gǔfēngjī",
+        "meaning": "Blower"
+    },
+    {
+        "id": 67,
+        "hanzi": "型号",
+        "pinyin": "Xínghào",
+        "meaning": "model"
+    },
+    {
+        "id": 68,
+        "hanzi": "尽快",
+        "pinyin": "Jǐnkuài",
+        "meaning": "ASAP"
+    },
+    {
+        "id": 69,
+        "hanzi": "新加坡",
+        "pinyin": "xīnjiāpō",
+        "meaning": "Singapore"
+    },
+    {
+        "id": 70,
+        "hanzi": "送抵",
+        "pinyin": "Sòng dǐ",
+        "meaning": "Delivery"
+    },
+    {
+        "id": 71,
+        "hanzi": "供应商",
+        "pinyin": "Gōngyìng shāng",
+        "meaning": "supplier"
+    },
+    {
+        "id": 72,
+        "hanzi": "反馈",
+        "pinyin": "Fǎnkuì",
+        "meaning": "feedback"
+    },
+    {
+        "id": 73,
+        "hanzi": "沟通",
+        "pinyin": "Gōutōng",
+        "meaning": "communication"
+    },
+    {
+        "id": 74,
+        "hanzi": "有空",
+        "pinyin": "Yǒu kòng",
+        "meaning": "rãnh, available"
+    },
+    {
+        "id": 75,
+        "hanzi": "项目",
+        "pinyin": "Xiàngmù",
+        "meaning": "project"
+    },
+    {
+        "id": 76,
+        "hanzi": "机器",
+        "pinyin": "jīqì",
+        "meaning": "Machine"
+    },
+    {
+        "id": 77,
+        "hanzi": "图纸",
+        "pinyin": "túzhǐ",
+        "meaning": "drawings"
+    },
+    {
+        "id": 78,
+        "hanzi": "规格表",
+        "pinyin": "Guīgé biǎo",
+        "meaning": "Specification sheet"
+    },
+    {
+        "id": 79,
+        "hanzi": "之后",
+        "pinyin": "Zhīhòu",
+        "meaning": "after, sau đó"
+    },
+    {
+        "id": 80,
+        "hanzi": "手册",
+        "pinyin": "Shǒucè",
+        "meaning": "manual"
+    },
+    {
+        "id": 81,
+        "hanzi": "最终",
+        "pinyin": "Zuìzhōng",
+        "meaning": "final"
+    },
+    {
+        "id": 82,
+        "hanzi": "感应器",
+        "pinyin": "Gǎnyìng qì",
+        "meaning": "Sensors"
+    },
+    {
+        "id": 83,
+        "hanzi": "一闪一闪",
+        "pinyin": "yī shǎn yī shǎn",
+        "meaning": "nhấp nháy, nhấp nháy"
+    },
+    {
+        "id": 84,
+        "hanzi": "角度",
+        "pinyin": "Jiǎodù",
+        "meaning": "angle, độ góc"
+    },
+    {
+        "id": 85,
+        "hanzi": "烘干",
+        "pinyin": "Hōng gān",
+        "meaning": "Dryer"
+    },
+    {
+        "id": 86,
+        "hanzi": "热水洗",
+        "pinyin": "Rè shuǐxǐ",
+        "meaning": "Hot water rising"
+    },
+    {
+        "id": 87,
+        "hanzi": "清洗",
+        "pinyin": "Qīngxǐ",
+        "meaning": "Cleaning"
+    },
+    {
+        "id": 88,
+        "hanzi": "除油",
+        "pinyin": "Chú yóu",
+        "meaning": "Degreasing"
+    },
+    {
+        "id": 89,
+        "hanzi": "盐酸",
+        "pinyin": "Yánsuān",
+        "meaning": "HCL Acid"
+    },
+    {
+        "id": 90,
+        "hanzi": "喷淋",
+        "pinyin": "Pēn lín",
+        "meaning": "Spray"
+    },
+    {
+        "id": 91,
+        "hanzi": "高锰酸钾",
+        "pinyin": "Gāo měng suān jiǎ",
+        "meaning": "potassium permanganate"
+    },
+    {
+        "id": 92,
+        "hanzi": "广东",
+        "pinyin": "Guǎngdōng",
+        "meaning": "quảng đông"
+    },
+    {
+        "id": 93,
+        "hanzi": "顺德",
+        "pinyin": "shùndé",
+        "meaning": "Shunde"
+    },
+    {
+        "id": 94,
+        "hanzi": "环保",
+        "pinyin": "Huánbǎo",
+        "meaning": "bảo vệ môi trường"
+    },
+    {
+        "id": 95,
+        "hanzi": "设备名称",
+        "pinyin": "Shèbèi míngchēng",
+        "meaning": "Device Name"
+    },
+    {
+        "id": 96,
+        "hanzi": "减速马达",
+        "pinyin": "Jiǎnsù mǎdá",
+        "meaning": "Gear motor"
+    },
+    {
+        "id": 97,
+        "hanzi": "功率",
+        "pinyin": "Gōnglǜ",
+        "meaning": "power"
+    },
+    {
+        "id": 98,
+        "hanzi": "过滤机",
+        "pinyin": "Guòlǜ jī",
+        "meaning": "Filter"
+    },
+    {
+        "id": 99,
+        "hanzi": "循环泵",
+        "pinyin": "Xúnhuán bèng",
+        "meaning": "Circulation pump"
+    },
+    {
+        "id": 100,
+        "hanzi": "磁力泵",
+        "pinyin": "cílì bèng",
+        "meaning": "Magnetic Pump"
+    },
+    {
+        "id": 101,
+        "hanzi": "气动泵",
+        "pinyin": "Qìdòng bèng",
+        "meaning": "Pneumatic pump (bơm khí nén)"
+    },
+    {
+        "id": 102,
+        "hanzi": "搅拌泵",
+        "pinyin": "Jiǎobàn bèng",
+        "meaning": "Mixing pump"
+    },
+    {
+        "id": 103,
+        "hanzi": "搅拌机",
+        "pinyin": "jiǎobànjī",
+        "meaning": "mixer"
+    },
+    {
+        "id": 104,
+        "hanzi": "整套",
+        "pinyin": "zhěngtào",
+        "meaning": "Complete Set"
+    },
+    {
+        "id": 105,
+        "hanzi": "加热器",
+        "pinyin": "Jiārè qì",
+        "meaning": "Heater"
+    },
+    {
+        "id": 106,
+        "hanzi": "感温线",
+        "pinyin": "Gǎn wēn xiàn",
+        "meaning": "temperater sensor, pt100"
+    },
+    {
+        "id": 107,
+        "hanzi": "探头",
+        "pinyin": "tàntóu",
+        "meaning": "probe"
+    },
+    {
+        "id": 108,
+        "hanzi": "气缸",
+        "pinyin": "Qìgāng",
+        "meaning": "cylinder"
+    },
+    {
+        "id": 109,
+        "hanzi": "自动",
+        "pinyin": "Zìdòng",
+        "meaning": "Automatic"
+    },
+    {
+        "id": 110,
+        "hanzi": "电磁阀",
+        "pinyin": "Diàncí fá",
+        "meaning": "Solenoid valve"
+    },
+    {
+        "id": 111,
+        "hanzi": "水位",
+        "pinyin": "Shuǐwèi",
+        "meaning": "Water Level"
+    },
+    {
+        "id": 112,
+        "hanzi": "液位探针",
+        "pinyin": "yè wèi tàn zhēn",
+        "meaning": "liquid level probe"
+    },
+    {
+        "id": 113,
+        "hanzi": "电导率仪",
+        "pinyin": "Diàndǎo lǜ yí",
+        "meaning": "Conductivity meter"
+    },
+    {
+        "id": 114,
+        "hanzi": "湿度仪",
+        "pinyin": "Shīdù yí",
+        "meaning": "Humidity Meter"
+    },
+    {
+        "id": 115,
+        "hanzi": "继电器",
+        "pinyin": "Jìdiànqì",
+        "meaning": "Relay"
+    },
+    {
+        "id": 116,
+        "hanzi": "计量泵",
+        "pinyin": "Jìliàng bèng",
+        "meaning": "dosing pump"
+    },
+    {
+        "id": 117,
+        "hanzi": "空调",
+        "pinyin": "Kòngtiáo",
+        "meaning": "air conditioner"
+    },
+    {
+        "id": 118,
+        "hanzi": "拉绳开关",
+        "pinyin": "Lā shéng kāiguān",
+        "meaning": "Pull cord switch"
+    },
+    {
+        "id": 119,
+        "hanzi": "门传感器",
+        "pinyin": "Mén chuángǎnqì",
+        "meaning": "Door sensor"
+    },
+    {
+        "id": 120,
+        "hanzi": "光幕",
+        "pinyin": "guāng mù",
+        "meaning": "light curtain"
+    },
+    {
+        "id": 121,
+        "hanzi": "总功率",
+        "pinyin": "Zǒng gōnglǜ",
+        "meaning": "Total Power"
+    },
+    {
+        "id": 122,
+        "hanzi": "摩擦",
+        "pinyin": "Mócā",
+        "meaning": "ma sát, friction"
+    },
+    {
+        "id": 123,
+        "hanzi": "靠近",
+        "pinyin": "Kàojìn",
+        "meaning": "gần"
+    },
+    {
+        "id": 124,
+        "hanzi": "这个侧面",
+        "pinyin": "Zhège cèmiàn",
+        "meaning": "This side"
+    },
+    {
+        "id": 125,
+        "hanzi": "吹风",
+        "pinyin": "Chuīfēng",
+        "meaning": "thổi, blow"
+    },
+    {
+        "id": 126,
+        "hanzi": "风向",
+        "pinyin": "Fēngxiàng",
+        "meaning": "hướng gió"
+    },
+    {
+        "id": 127,
+        "hanzi": "方向",
+        "pinyin": "Fāngxiàng",
+        "meaning": "phương hướng"
+    },
+    {
+        "id": 128,
+        "hanzi": "参数",
+        "pinyin": "Cānshù",
+        "meaning": "parameter"
+    },
+    {
+        "id": 129,
+        "hanzi": "设定",
+        "pinyin": "Shè dìng",
+        "meaning": "set up, cài đặt"
+    },
+    {
+        "id": 130,
+        "hanzi": "显示",
+        "pinyin": "Xiǎnshì",
+        "meaning": "display"
+    },
+    {
+        "id": 131,
+        "hanzi": "跳閘",
+        "pinyin": "Tiàozhá",
+        "meaning": "Trip"
+    },
+    {
+        "id": 132,
+        "hanzi": "频率",
+        "pinyin": "Pínlǜ",
+        "meaning": "frequency"
+    },
+    {
+        "id": 133,
+        "hanzi": "过载",
+        "pinyin": "Guòzǎi",
+        "meaning": "quá tải, Overload"
+    },
+    {
+        "id": 134,
+        "hanzi": "出现",
+        "pinyin": "Chūxiàn",
+        "meaning": "xuất hiện, appear"
+    },
+    {
+        "id": 135,
+        "hanzi": "调整",
+        "pinyin": "Tiáozhěng",
+        "meaning": "Adjustment"
+    },
+    {
+        "id": 136,
+        "hanzi": "比例",
+        "pinyin": "Bǐlì",
+        "meaning": "Tỷ lệ, Proportion"
+    },
+    {
+        "id": 137,
+        "hanzi": "粉末",
+        "pinyin": "fěnmò",
+        "meaning": "powder"
+    },
+    {
+        "id": 138,
+        "hanzi": "之前",
+        "pinyin": "Zhīqián",
+        "meaning": "Before"
+    },
+    {
+        "id": 139,
+        "hanzi": "安排",
+        "pinyin": "Ānpái",
+        "meaning": "arrange"
+    }
+]

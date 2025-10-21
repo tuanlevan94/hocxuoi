@@ -1,0 +1,1328 @@
+[
+    {
+        "id": 1,
+        "hanzi": "新建",
+        "pinyin": "Xīnjiàn",
+        "meaning": "Tạo mới dự án"
+    },
+    {
+        "id": 2,
+        "hanzi": "关闭",
+        "pinyin": "Guānbì",
+        "meaning": "Đóng"
+    },
+    {
+        "id": 3,
+        "hanzi": "保存",
+        "pinyin": "Bǎocún",
+        "meaning": "Lưu"
+    },
+    {
+        "id": 4,
+        "hanzi": "另存为",
+        "pinyin": "Lìng cún wéi",
+        "meaning": "Lưu thành..."
+    },
+    {
+        "id": 5,
+        "hanzi": "保存并优化",
+        "pinyin": "Bǎocún bìng yōuhuà",
+        "meaning": "Lưu và tối ưu"
+    },
+    {
+        "id": 6,
+        "hanzi": "压缩",
+        "pinyin": "Yāsuō",
+        "meaning": "Nén"
+    },
+    {
+        "id": 7,
+        "hanzi": "解压缩",
+        "pinyin": "Jiě yāsuō",
+        "meaning": "Giải nén"
+    },
+    {
+        "id": 8,
+        "hanzi": "重新设置类型",
+        "pinyin": "Chóngxīn shèzhì lèixíng",
+        "meaning": "Đặt lại loại dự án"
+    },
+    {
+        "id": 9,
+        "hanzi": "导入\/导出",
+        "pinyin": "Dǎorù\/Dǎochū",
+        "meaning": "Nhập \/ Xuất dữ liệu"
+    },
+    {
+        "id": 10,
+        "hanzi": "打印项目文档",
+        "pinyin": "Dǎyìn xiàngmù wéndàng",
+        "meaning": "In tài liệu dự án"
+    },
+    {
+        "id": 11,
+        "hanzi": "打印选中",
+        "pinyin": "Dǎyìn xuǎnzhòng",
+        "meaning": "In phần được chọn"
+    },
+    {
+        "id": 12,
+        "hanzi": "编辑器",
+        "pinyin": "Biānjí qì",
+        "meaning": "Trình soạn thảo"
+    },
+    {
+        "id": 13,
+        "hanzi": "传送",
+        "pinyin": "Chuánsòng",
+        "meaning": "Truyền tải"
+    },
+    {
+        "id": 14,
+        "hanzi": "显示项目ID",
+        "pinyin": "Xiǎnshì xiàngmù ID",
+        "meaning": "Hiển thị mã dự án"
+    },
+    {
+        "id": 15,
+        "hanzi": "撤销",
+        "pinyin": "Chèxiāo",
+        "meaning": "Hoàn tác"
+    },
+    {
+        "id": 16,
+        "hanzi": "重做",
+        "pinyin": "Chóngzuò",
+        "meaning": "Làm lại"
+    },
+    {
+        "id": 17,
+        "hanzi": "剪切",
+        "pinyin": "Jiǎnqiē",
+        "meaning": "Cắt"
+    },
+    {
+        "id": 18,
+        "hanzi": "复制",
+        "pinyin": "Fùzhì",
+        "meaning": "Sao chép"
+    },
+    {
+        "id": 19,
+        "hanzi": "简单复制",
+        "pinyin": "Jiǎndān fùzhì",
+        "meaning": "Sao chép đơn giản"
+    },
+    {
+        "id": 20,
+        "hanzi": "粘贴",
+        "pinyin": "Zhāntiē",
+        "meaning": "Dán"
+    },
+    {
+        "id": 21,
+        "hanzi": "替换",
+        "pinyin": "Tìhuàn",
+        "meaning": "Thay thế"
+    },
+    {
+        "id": 22,
+        "hanzi": "删除",
+        "pinyin": "Shānchú",
+        "meaning": "Xóa"
+    },
+    {
+        "id": 23,
+        "hanzi": "对象属性",
+        "pinyin": "Duìxiàng shǔxìng",
+        "meaning": "Thuộc tính đối tượng"
+    },
+    {
+        "id": 24,
+        "hanzi": "在项目中查找",
+        "pinyin": "Zài xiàngmù zhōng cházhǎo",
+        "meaning": "Tìm trong dự án"
+    },
+    {
+        "id": 25,
+        "hanzi": "在视图中查找",
+        "pinyin": "Zài shìtú zhōng cházhǎo",
+        "meaning": "Tìm trong sơ đồ"
+    },
+    {
+        "id": 26,
+        "hanzi": "在视图中替换",
+        "pinyin": "Zài shìtú zhōng tìhuàn",
+        "meaning": "Thay thế trong sơ đồ"
+    },
+    {
+        "id": 27,
+        "hanzi": "查找下一个",
+        "pinyin": "Cházhǎo xià yí gè",
+        "meaning": "Tìm cái tiếp theo"
+    },
+    {
+        "id": 28,
+        "hanzi": "输出",
+        "pinyin": "Shūchū",
+        "meaning": "Xuất ra"
+    },
+    {
+        "id": 29,
+        "hanzi": "对象",
+        "pinyin": "Duìxiàng",
+        "meaning": "Đối tượng"
+    },
+    {
+        "id": 30,
+        "hanzi": "属性",
+        "pinyin": "Shǔxìng",
+        "meaning": "Thuộc tính"
+    },
+    {
+        "id": 31,
+        "hanzi": "项目",
+        "pinyin": "Xiàngmù",
+        "meaning": "Dự án"
+    },
+    {
+        "id": 32,
+        "hanzi": "引用文本",
+        "pinyin": "Yǐnyòng wénběn",
+        "meaning": "Văn bản tham chiếu"
+    },
+    {
+        "id": 33,
+        "hanzi": "工具",
+        "pinyin": "Gōngjù",
+        "meaning": "Công cụ"
+    },
+    {
+        "id": 34,
+        "hanzi": "键盘",
+        "pinyin": "Jiànpán",
+        "meaning": "Bàn phím"
+    },
+    {
+        "id": 35,
+        "hanzi": "缩放",
+        "pinyin": "Suōfàng",
+        "meaning": "Thu phóng"
+    },
+    {
+        "id": 36,
+        "hanzi": "层",
+        "pinyin": "Céng",
+        "meaning": "Lớp"
+    },
+    {
+        "id": 37,
+        "hanzi": "重新设置布局",
+        "pinyin": "Chóngxīn shèzhì bùjú",
+        "meaning": "Đặt lại bố cục"
+    },
+    {
+        "id": 38,
+        "hanzi": "工具栏",
+        "pinyin": "Gōngjù lán",
+        "meaning": "Thanh công cụ"
+    },
+    {
+        "id": 39,
+        "hanzi": "新建对象",
+        "pinyin": "Xīnjiàn duìxiàng",
+        "meaning": "Tạo đối tượng mới"
+    },
+    {
+        "id": 40,
+        "hanzi": "在项目中新建对象",
+        "pinyin": "Zài xiàngmù zhōng xīnjiàn duìxiàng",
+        "meaning": "Tạo đối tượng mới trong dự án"
+    },
+    {
+        "id": 41,
+        "hanzi": "画面",
+        "pinyin": "Huàmiàn",
+        "meaning": "Màn hình giao diện"
+    },
+    {
+        "id": 42,
+        "hanzi": "变量",
+        "pinyin": "Biànliàng",
+        "meaning": "Biến số"
+    },
+    {
+        "id": 43,
+        "hanzi": "模拟量报警",
+        "pinyin": "Mónǐliàng bàojǐng",
+        "meaning": "Báo động giá trị analog"
+    },
+    {
+        "id": 44,
+        "hanzi": "离散量报警",
+        "pinyin": "Lí sànliàng bàojǐng",
+        "meaning": "Báo động tín hiệu rời rạc"
+    },
+    {
+        "id": 45,
+        "hanzi": "报警类别",
+        "pinyin": "Bàojǐng lèibié",
+        "meaning": "Loại báo động"
+    },
+    {
+        "id": 46,
+        "hanzi": "报警组",
+        "pinyin": "Bàojǐng zǔ",
+        "meaning": "Nhóm báo động"
+    },
+    {
+        "id": 47,
+        "hanzi": "配方",
+        "pinyin": "Pèifāng",
+        "meaning": "Công thức (recipe)"
+    },
+    {
+        "id": 48,
+        "hanzi": "连接",
+        "pinyin": "Liánjiē",
+        "meaning": "Kết nối"
+    },
+    {
+        "id": 49,
+        "hanzi": "文本列表",
+        "pinyin": "Wénběn lièbiǎo",
+        "meaning": "Danh sách văn bản"
+    },
+    {
+        "id": 50,
+        "hanzi": "图形列表",
+        "pinyin": "Túxíng lièbiǎo",
+        "meaning": "Danh sách hình ảnh"
+    },
+    {
+        "id": 51,
+        "hanzi": "周期",
+        "pinyin": "Zhōuqī",
+        "meaning": "Chu kỳ"
+    },
+    {
+        "id": 52,
+        "hanzi": "作业",
+        "pinyin": "Zuòyè",
+        "meaning": "Tác vụ \/ công việc"
+    },
+    {
+        "id": 53,
+        "hanzi": "数据记录",
+        "pinyin": "Shùjù jìlù",
+        "meaning": "Ghi dữ liệu"
+    },
+    {
+        "id": 54,
+        "hanzi": "报警记录",
+        "pinyin": "Bàojǐng jìlù",
+        "meaning": "Ghi nhận báo động"
+    },
+    {
+        "id": 55,
+        "hanzi": "图形",
+        "pinyin": "Túxíng",
+        "meaning": "Đồ họa"
+    },
+    {
+        "id": 56,
+        "hanzi": "用户字典",
+        "pinyin": "Yònghù zìdiǎn",
+        "meaning": "Từ điển người dùng"
+    },
+    {
+        "id": 57,
+        "hanzi": "对齐",
+        "pinyin": "Duìqí",
+        "meaning": "Căn chỉnh"
+    },
+    {
+        "id": 58,
+        "hanzi": "居左",
+        "pinyin": "Jū zuǒ",
+        "meaning": "Căn trái"
+    },
+    {
+        "id": 59,
+        "hanzi": "垂直居中",
+        "pinyin": "Chuízhí jū zhōng",
+        "meaning": "Căn giữa theo chiều dọc"
+    },
+    {
+        "id": 60,
+        "hanzi": "居右",
+        "pinyin": "Jū yòu",
+        "meaning": "Căn phải"
+    },
+    {
+        "id": 61,
+        "hanzi": "顶端",
+        "pinyin": "Dǐngduān",
+        "meaning": "Căn trên"
+    },
+    {
+        "id": 62,
+        "hanzi": "水平居中",
+        "pinyin": "Shuǐpíng jū zhōng",
+        "meaning": "Căn giữa theo chiều ngang"
+    },
+    {
+        "id": 63,
+        "hanzi": "底部",
+        "pinyin": "Dǐbù",
+        "meaning": "Căn dưới"
+    },
+    {
+        "id": 64,
+        "hanzi": "居中",
+        "pinyin": "Jū zhōng",
+        "meaning": "Căn giữa"
+    },
+    {
+        "id": 65,
+        "hanzi": "横向等距",
+        "pinyin": "Héngxiàng děngjù",
+        "meaning": "Căn đều theo chiều ngang"
+    },
+    {
+        "id": 66,
+        "hanzi": "纵向等距",
+        "pinyin": "Zòngxiàng děngjù",
+        "meaning": "Căn đều theo chiều dọc"
+    },
+    {
+        "id": 67,
+        "hanzi": "等宽",
+        "pinyin": "Děng kuān",
+        "meaning": "Cùng chiều rộng"
+    },
+    {
+        "id": 68,
+        "hanzi": "等高",
+        "pinyin": "Děng gāo",
+        "meaning": "Cùng chiều cao"
+    },
+    {
+        "id": 69,
+        "hanzi": "向右90度",
+        "pinyin": "Xiàng yòu 90 dù",
+        "meaning": "Xoay phải 90 độ"
+    },
+    {
+        "id": 70,
+        "hanzi": "向左90度",
+        "pinyin": "Xiàng zuǒ 90 dù",
+        "meaning": "Xoay trái 90 độ"
+    },
+    {
+        "id": 71,
+        "hanzi": "180度",
+        "pinyin": "Yībǎi bāshí dù",
+        "meaning": "Xoay 180 độ"
+    },
+    {
+        "id": 72,
+        "hanzi": "水平翻转",
+        "pinyin": "Shuǐpíng fānzhuǎn",
+        "meaning": "Lật ngang"
+    },
+    {
+        "id": 73,
+        "hanzi": "垂直翻转",
+        "pinyin": "Chuízhí fānzhuǎn",
+        "meaning": "Lật dọc"
+    },
+    {
+        "id": 74,
+        "hanzi": "提到最前",
+        "pinyin": "Tídào zuì qián",
+        "meaning": "Đưa lên đầu"
+    },
+    {
+        "id": 75,
+        "hanzi": "上移一层",
+        "pinyin": "Shàng yí yī céng",
+        "meaning": "Di chuyển lên một lớp"
+    },
+    {
+        "id": 76,
+        "hanzi": "后移",
+        "pinyin": "Hòu yí",
+        "meaning": "Di chuyển về sau"
+    },
+    {
+        "id": 77,
+        "hanzi": "移到背景",
+        "pinyin": "Yídào bèijǐng",
+        "meaning": "Di chuyển vào nền"
+    },
+    {
+        "id": 78,
+        "hanzi": "交叉引用",
+        "pinyin": "Jiāochā yǐnyòng",
+        "meaning": "Tham chiếu chéo"
+    },
+    {
+        "id": 79,
+        "hanzi": "重新布线",
+        "pinyin": "Chóngxīn bùxiàn",
+        "meaning": "Đi dây lại"
+    },
+    {
+        "id": 80,
+        "hanzi": "重新连接",
+        "pinyin": "Chóngxīn liánjiē",
+        "meaning": "Kết nối lại"
+    },
+    {
+        "id": 81,
+        "hanzi": "文本",
+        "pinyin": "Wénběn",
+        "meaning": "Văn bản"
+    },
+    {
+        "id": 82,
+        "hanzi": "版本管理",
+        "pinyin": "Bǎnběn guǎnlǐ",
+        "meaning": "Quản lý phiên bản"
+    },
+    {
+        "id": 83,
+        "hanzi": "删除临时文件",
+        "pinyin": "Shānchú línshí wénjiàn",
+        "meaning": "Xoá file tạm thời"
+    },
+    {
+        "id": 84,
+        "hanzi": "导出",
+        "pinyin": "Dǎochū",
+        "meaning": "Xuất dữ liệu"
+    },
+    {
+        "id": 85,
+        "hanzi": "导入",
+        "pinyin": "Dǎorù",
+        "meaning": "Nhập dữ liệu"
+    },
+    {
+        "id": 86,
+        "hanzi": "复制到字典",
+        "pinyin": "Fùzhì dào zìdiǎn",
+        "meaning": "Sao chép vào từ điển"
+    },
+    {
+        "id": 87,
+        "hanzi": "添加\/删除用户字典",
+        "pinyin": "Tiānjiā \/ Shānchú yònghù zìdiǎn",
+        "meaning": "Thêm\/Xoá từ điển người dùng"
+    },
+    {
+        "id": 88,
+        "hanzi": "启用更改记录",
+        "pinyin": "Qǐyòng gēnggǎi jìlù",
+        "meaning": "Bật ghi lại thay đổi"
+    },
+    {
+        "id": 89,
+        "hanzi": "创建新版本",
+        "pinyin": "Chuàngjiàn xīn bǎnběn",
+        "meaning": "Tạo phiên bản mới"
+    },
+    {
+        "id": 90,
+        "hanzi": "安装的软件",
+        "pinyin": "Ānzhuāng de ruǎnjiàn",
+        "meaning": "Phần mềm đã cài đặt"
+    },
+    {
+        "id": 91,
+        "hanzi": "首页",
+        "pinyin": "shǒuyè",
+        "meaning": "trang đầu"
+    },
+    {
+        "id": 92,
+        "hanzi": "系统流程",
+        "pinyin": "xìtǒng liúchéng",
+        "meaning": "Quy trình hệ thống"
+    },
+    {
+        "id": 93,
+        "hanzi": "窗口",
+        "pinyin": "Chuāngkǒu",
+        "meaning": "Cửa sổ"
+    },
+    {
+        "id": 94,
+        "hanzi": "目录",
+        "pinyin": "Mùlù",
+        "meaning": "Mục lục"
+    },
+    {
+        "id": 95,
+        "hanzi": "索引",
+        "pinyin": "Suǒyǐn",
+        "meaning": "Mục lục theo chữ cái"
+    },
+    {
+        "id": 96,
+        "hanzi": "搜索",
+        "pinyin": "Sōusuǒ",
+        "meaning": "Tìm kiếm"
+    },
+    {
+        "id": 97,
+        "hanzi": "启用工具提示",
+        "pinyin": "Qǐyòng gōngjù tíshì",
+        "meaning": "Bật gợi ý công cụ"
+    },
+    {
+        "id": 98,
+        "hanzi": "启用工具提示扩展",
+        "pinyin": "Qǐyòng gōngjù tíshì kuòzhǎn",
+        "meaning": "Bật mở rộng gợi ý công cụ"
+    },
+    {
+        "id": 99,
+        "hanzi": "关于",
+        "pinyin": "Guānyú",
+        "meaning": "Giới thiệu \/ About"
+    },
+    {
+        "id": 100,
+        "hanzi": "添加画面",
+        "pinyin": "Tiānjiā huàmiàn",
+        "meaning": "Thêm giao diện"
+    },
+    {
+        "id": 101,
+        "hanzi": "模板",
+        "pinyin": "Múbǎn",
+        "meaning": "Mẫu"
+    },
+    {
+        "id": 102,
+        "hanzi": "通讯",
+        "pinyin": "Tōngxùn",
+        "meaning": "Truyền thông"
+    },
+    {
+        "id": 103,
+        "hanzi": "报警",
+        "pinyin": "Bàojǐng",
+        "meaning": "Báo động"
+    },
+    {
+        "id": 104,
+        "hanzi": "报警组管理",
+        "pinyin": "Bàojǐng zǔ guǎnlǐ",
+        "meaning": "Quản lý nhóm báo động"
+    },
+    {
+        "id": 105,
+        "hanzi": "添加配方",
+        "pinyin": "Tiānjiā pèifāng",
+        "meaning": "Thêm công thức"
+    },
+    {
+        "id": 106,
+        "hanzi": "历史数据",
+        "pinyin": "Lìshǐ shùjù",
+        "meaning": "Dữ liệu lịch sử"
+    },
+    {
+        "id": 107,
+        "hanzi": "变量记录",
+        "pinyin": "Biànliàng jìlù",
+        "meaning": "Ghi nhận biến số"
+    },
+    {
+        "id": 108,
+        "hanzi": "报表",
+        "pinyin": "Bàobiǎo",
+        "meaning": "Báo cáo"
+    },
+    {
+        "id": 109,
+        "hanzi": "文本和图形列表",
+        "pinyin": "Wénběn hé túxíng lièbiǎo",
+        "meaning": "Danh sách văn bản và hình ảnh"
+    },
+    {
+        "id": 110,
+        "hanzi": "区域列表",
+        "pinyin": "Qūyù lièbiǎo",
+        "meaning": "Danh sách khu vực"
+    },
+    {
+        "id": 111,
+        "hanzi": "运行系统用户管理",
+        "pinyin": "Yùnxíng xìtǒng yònghù guǎnlǐ",
+        "meaning": "Quản lý người dùng hệ thống"
+    },
+    {
+        "id": 112,
+        "hanzi": "用户",
+        "pinyin": "Yònghù",
+        "meaning": "Người dùng"
+    },
+    {
+        "id": 113,
+        "hanzi": "运行系统安全性设置",
+        "pinyin": "Yùnxíng xìtǒng ānquán xì shèzhì",
+        "meaning": "Thiết lập an ninh hệ thống"
+    },
+    {
+        "id": 114,
+        "hanzi": "字体",
+        "pinyin": "Zìtǐ",
+        "meaning": "Phông chữ"
+    },
+    {
+        "id": 115,
+        "hanzi": "图形符号体",
+        "pinyin": "Túxíng fúhàotǐ",
+        "meaning": "Biểu tượng đồ họa"
+    },
+    {
+        "id": 116,
+        "hanzi": "翻译器",
+        "pinyin": "Fānyì qì",
+        "meaning": "Công cụ dịch"
+    },
+    {
+        "id": 117,
+        "hanzi": "语言设置",
+        "pinyin": "Yǔyán shèzhì",
+        "meaning": "Cài đặt ngôn ngữ"
+    },
+    {
+        "id": 118,
+        "hanzi": "项目语言",
+        "pinyin": "Xiàngmù yǔyán",
+        "meaning": "Ngôn ngữ dự án"
+    },
+    {
+        "id": 119,
+        "hanzi": "添加用户字典",
+        "pinyin": "Tiānjiā yònghù zìdiǎn",
+        "meaning": "Thêm từ điển người dùng"
+    },
+    {
+        "id": 120,
+        "hanzi": "项目版本",
+        "pinyin": "Xiàngmù bǎnběn",
+        "meaning": "Phiên bản dự án"
+    },
+    {
+        "id": 121,
+        "hanzi": "版本日志",
+        "pinyin": "Bǎnběn rìzhì",
+        "meaning": "Nhật ký phiên bản"
+    },
+    {
+        "id": 122,
+        "hanzi": "类型",
+        "pinyin": "Lèixíng",
+        "meaning": "Loại"
+    },
+    {
+        "id": 123,
+        "hanzi": "波特率",
+        "pinyin": "Bōtèlǜ",
+        "meaning": "Tốc độ truyền"
+    },
+    {
+        "id": 124,
+        "hanzi": "地址",
+        "pinyin": "Dìzhǐ",
+        "meaning": "Địa chỉ"
+    },
+    {
+        "id": 125,
+        "hanzi": "访问点",
+        "pinyin": "Fǎngwèn diǎn",
+        "meaning": "Điểm truy cập"
+    },
+    {
+        "id": 126,
+        "hanzi": "总线上的唯一主站",
+        "pinyin": "Zǒngxiàn shàng de wéiyī zhǔzhàn",
+        "meaning": "Trạm chính duy nhất trên bus"
+    },
+    {
+        "id": 127,
+        "hanzi": "配置文",
+        "pinyin": "Pèizhì wén",
+        "meaning": "Giao thức cấu hình"
+    },
+    {
+        "id": 128,
+        "hanzi": "最高站地址（HSA）",
+        "pinyin": "Zuìgāo zhàn dìzhǐ",
+        "meaning": "Địa chỉ trạm cao nhất (HSA)"
+    },
+    {
+        "id": 129,
+        "hanzi": "主站数",
+        "pinyin": "Zhǔzhàn shù",
+        "meaning": "Số lượng trạm chính"
+    },
+    {
+        "id": 130,
+        "hanzi": "扩展插槽",
+        "pinyin": "Kuòzhǎn chācáo",
+        "meaning": "Khe cắm mở rộng"
+    },
+    {
+        "id": 131,
+        "hanzi": "机架",
+        "pinyin": "Jījià",
+        "meaning": "Giá đỡ"
+    },
+    {
+        "id": 132,
+        "hanzi": "循环操作",
+        "pinyin": "Xúnhuán cāozuò",
+        "meaning": "Vận hành theo chu trình"
+    },
+    {
+        "id": 133,
+        "hanzi": "口令",
+        "pinyin": "Kǒulìng",
+        "meaning": "Mật khẩu"
+    },
+    {
+        "id": 134,
+        "hanzi": "口令时效",
+        "pinyin": "Kǒulìng shíxiào",
+        "meaning": "Thời hạn mật khẩu"
+    },
+    {
+        "id": 135,
+        "hanzi": "生成口令",
+        "pinyin": "Shēngchéng kǒulìng",
+        "meaning": "Tạo mật khẩu"
+    },
+    {
+        "id": 136,
+        "hanzi": "警告天数",
+        "pinyin": "Jǐnggào tiānshù",
+        "meaning": "Số ngày cảnh báo"
+    },
+    {
+        "id": 137,
+        "hanzi": "无效登录尝试次数",
+        "pinyin": "Wúxiào dēnglù chángshì cìshù",
+        "meaning": "Số lần đăng nhập sai"
+    },
+    {
+        "id": 138,
+        "hanzi": "组号层级",
+        "pinyin": "Zǔ hào céngjí",
+        "meaning": "Cấp độ nhóm"
+    },
+    {
+        "id": 139,
+        "hanzi": "启用 SIMATIC Logon",
+        "pinyin": "Qǐyòng SIMATIC Logon",
+        "meaning": "Bật đăng nhập tập trung"
+    },
+    {
+        "id": 140,
+        "hanzi": "服务器名称\/IP地址",
+        "pinyin": "Fúwùqì míngchēng \/ IP dìzhǐ",
+        "meaning": "Tên máy chủ \/ địa chỉ IP"
+    },
+    {
+        "id": 141,
+        "hanzi": "端口号",
+        "pinyin": "Duānkǒu hào",
+        "meaning": "Số cổng"
+    },
+    {
+        "id": 142,
+        "hanzi": "Windows 工作域",
+        "pinyin": "Windows gōngzuò yù",
+        "meaning": "Miền làm việc Windows"
+    },
+    {
+        "id": 143,
+        "hanzi": "加密的转接",
+        "pinyin": "Jiāmì de zhuǎnjiē",
+        "meaning": "Truyền mã hóa"
+    },
+    {
+        "id": 144,
+        "hanzi": "输入\/输出",
+        "pinyin": "Shūrù \/ shūchū",
+        "meaning": "Nhập \/ Xuất"
+    },
+    {
+        "id": 145,
+        "hanzi": "过程变量",
+        "pinyin": "Guòchéng biànliàng",
+        "meaning": "Biến quá trình"
+    },
+    {
+        "id": 146,
+        "hanzi": "格式",
+        "pinyin": "Géshì",
+        "meaning": "Định dạng"
+    },
+    {
+        "id": 147,
+        "hanzi": "格式类型",
+        "pinyin": "Géshì lèixíng",
+        "meaning": "Loại định dạng"
+    },
+    {
+        "id": 148,
+        "hanzi": "十进制",
+        "pinyin": "Shí jìnzhì",
+        "meaning": "Thập phân"
+    },
+    {
+        "id": 149,
+        "hanzi": "格式样式",
+        "pinyin": "Géshì yàngshì",
+        "meaning": "Mẫu định dạng"
+    },
+    {
+        "id": 150,
+        "hanzi": "移动小数点",
+        "pinyin": "Yídòng xiǎoshùdiǎn",
+        "meaning": "Dịch dấu thập phân"
+    },
+    {
+        "id": 151,
+        "hanzi": "字符串域长度",
+        "pinyin": "Zìfùchuàn yù chángdù",
+        "meaning": "Độ dài chuỗi ký tự"
+    },
+    {
+        "id": 152,
+        "hanzi": "外观",
+        "pinyin": "Wàiguān",
+        "meaning": "Giao diện"
+    },
+    {
+        "id": 153,
+        "hanzi": "布局",
+        "pinyin": "Bùjú",
+        "meaning": "Bố cục"
+    },
+    {
+        "id": 154,
+        "hanzi": "闪烁",
+        "pinyin": "Shǎnshuò",
+        "meaning": "Nhấp nháy"
+    },
+    {
+        "id": 155,
+        "hanzi": "动画",
+        "pinyin": "Dònghuà",
+        "meaning": "Hoạt ảnh"
+    },
+    {
+        "id": 156,
+        "hanzi": "启用对象",
+        "pinyin": "Qǐyòng duìxiàng",
+        "meaning": "Kích hoạt đối tượng"
+    },
+    {
+        "id": 157,
+        "hanzi": "对角线移动",
+        "pinyin": "Duìjiǎoxiàn yídòng",
+        "meaning": "Di chuyển chéo"
+    },
+    {
+        "id": 158,
+        "hanzi": "水平移动",
+        "pinyin": "Shuǐpíng yídòng",
+        "meaning": "Di chuyển ngang"
+    },
+    {
+        "id": 159,
+        "hanzi": "垂直移动",
+        "pinyin": "Chuízhí yídòng",
+        "meaning": "Di chuyển dọc"
+    },
+    {
+        "id": 160,
+        "hanzi": "直接移动",
+        "pinyin": "Zhíjiē yídòng",
+        "meaning": "Di chuyển trực tiếp"
+    },
+    {
+        "id": 161,
+        "hanzi": "可见性",
+        "pinyin": "Kějiànxìng",
+        "meaning": "Tính hiển thị"
+    },
+    {
+        "id": 162,
+        "hanzi": "事件",
+        "pinyin": "Shìjiàn",
+        "meaning": "Sự kiện"
+    },
+    {
+        "id": 163,
+        "hanzi": "激活",
+        "pinyin": "Jīhuó",
+        "meaning": "Kích hoạt"
+    },
+    {
+        "id": 164,
+        "hanzi": "取消激活",
+        "pinyin": "Qǔxiāo jīhuó",
+        "meaning": "Hủy kích hoạt"
+    },
+    {
+        "id": 165,
+        "hanzi": "文本颜色",
+        "pinyin": "Wénběn yánsè",
+        "meaning": "Màu chữ"
+    },
+    {
+        "id": 166,
+        "hanzi": "背景色",
+        "pinyin": "Bèijǐng sè",
+        "meaning": "Màu nền"
+    },
+    {
+        "id": 167,
+        "hanzi": "填充样式",
+        "pinyin": "Tiánchōng yàngshì",
+        "meaning": "Kiểu tô màu"
+    },
+    {
+        "id": 168,
+        "hanzi": "边框",
+        "pinyin": "Biānkuàng",
+        "meaning": "Viền"
+    },
+    {
+        "id": 169,
+        "hanzi": "样式",
+        "pinyin": "Yàngshì",
+        "meaning": "Kiểu dáng"
+    },
+    {
+        "id": 170,
+        "hanzi": "三维",
+        "pinyin": "Sānwéi",
+        "meaning": "3D"
+    },
+    {
+        "id": 171,
+        "hanzi": "自动调整大小",
+        "pinyin": "Zìdòng tiáozhěng dàxiǎo",
+        "meaning": "Tự động điều chỉnh kích thước"
+    },
+    {
+        "id": 172,
+        "hanzi": "水平的",
+        "pinyin": "Shuǐpíng de",
+        "meaning": "Căn ngang"
+    },
+    {
+        "id": 173,
+        "hanzi": "垂直的",
+        "pinyin": "Chuízhí de",
+        "meaning": "Căn dọc"
+    },
+    {
+        "id": 174,
+        "hanzi": "中间",
+        "pinyin": "Zhōngjiān",
+        "meaning": "Ở giữa"
+    },
+    {
+        "id": 175,
+        "hanzi": "上限以上的颜色",
+        "pinyin": "Shàngxiàn yǐshàng de yánsè",
+        "meaning": "Màu trên giới hạn"
+    },
+    {
+        "id": 176,
+        "hanzi": "下限以下的颜色",
+        "pinyin": "Xiàxiàn yǐxià de yánsè",
+        "meaning": "Màu dưới giới hạn"
+    },
+    {
+        "id": 177,
+        "hanzi": "名称",
+        "pinyin": "Míngchēng",
+        "meaning": "Tên gọi"
+    },
+    {
+        "id": 178,
+        "hanzi": "信息文本",
+        "pinyin": "Xìnxī wénběn",
+        "meaning": "Văn bản thông tin"
+    },
+    {
+        "id": 179,
+        "hanzi": "运行系统安全",
+        "pinyin": "Yùnxíng xìtǒng ānquán",
+        "meaning": "Bảo mật hệ thống"
+    },
+    {
+        "id": 180,
+        "hanzi": "权限",
+        "pinyin": "Quánxiàn",
+        "meaning": "Quyền hạn"
+    },
+    {
+        "id": 181,
+        "hanzi": "操作",
+        "pinyin": "Cāozuò",
+        "meaning": "Thao tác"
+    },
+    {
+        "id": 182,
+        "hanzi": "启用",
+        "pinyin": "Qǐyòng",
+        "meaning": "Bật \/ Kích hoạt"
+    },
+    {
+        "id": 183,
+        "hanzi": "隐藏输入",
+        "pinyin": "Yǐncáng shūrù",
+        "meaning": "Ẩn đầu vào"
+    },
+    {
+        "id": 184,
+        "hanzi": "整型数",
+        "pinyin": "Zhěngxíng shù",
+        "meaning": "Số nguyên"
+    },
+    {
+        "id": 185,
+        "hanzi": "二进制",
+        "pinyin": "Èr jìnzhì",
+        "meaning": "Nhị phân"
+    },
+    {
+        "id": 186,
+        "hanzi": "位",
+        "pinyin": "Wèi",
+        "meaning": "Bit"
+    },
+    {
+        "id": 187,
+        "hanzi": "值",
+        "pinyin": "Zhí",
+        "meaning": "Giá trị"
+    },
+    {
+        "id": 188,
+        "hanzi": "前景色",
+        "pinyin": "Qiánjǐng sè",
+        "meaning": "Màu tiền cảnh"
+    },
+    {
+        "id": 189,
+        "hanzi": "对象状态",
+        "pinyin": "Duìxiàng zhuàngtài",
+        "meaning": "Trạng thái đối tượng"
+    },
+    {
+        "id": 190,
+        "hanzi": "禁用",
+        "pinyin": "Jìnyòng",
+        "meaning": "Vô hiệu hóa"
+    },
+    {
+        "id": 191,
+        "hanzi": "范围",
+        "pinyin": "Fànwéi",
+        "meaning": "Phạm vi"
+    },
+    {
+        "id": 192,
+        "hanzi": "从",
+        "pinyin": "Cóng",
+        "meaning": "Từ"
+    },
+    {
+        "id": 193,
+        "hanzi": "至",
+        "pinyin": "Zhì",
+        "meaning": "Đến"
+    },
+    {
+        "id": 194,
+        "hanzi": "位号",
+        "pinyin": "Wèi hào",
+        "meaning": "Số thứ tự bit"
+    },
+    {
+        "id": 195,
+        "hanzi": "起始位置",
+        "pinyin": "Qǐshǐ wèizhì",
+        "meaning": "Vị trí bắt đầu"
+    },
+    {
+        "id": 196,
+        "hanzi": "结束位置",
+        "pinyin": "Jiéshù wèizhì",
+        "meaning": "Vị trí kết thúc"
+    },
+    {
+        "id": 197,
+        "hanzi": "X轴位置",
+        "pinyin": "X zhóu wèizhì",
+        "meaning": "Vị trí trục X"
+    },
+    {
+        "id": 198,
+        "hanzi": "Y轴位置",
+        "pinyin": "Y zhóu wèizhì",
+        "meaning": "Vị trí trục Y"
+    },
+    {
+        "id": 199,
+        "hanzi": "偏移量",
+        "pinyin": "Piānyí liàng",
+        "meaning": "Giá trị lệch"
+    },
+    {
+        "id": 200,
+        "hanzi": "可见",
+        "pinyin": "Kějiàn",
+        "meaning": "Hiển thị"
+    },
+    {
+        "id": 201,
+        "hanzi": "隐藏",
+        "pinyin": "Yǐncáng",
+        "meaning": "Ẩn"
+    },
+    {
+        "id": 202,
+        "hanzi": "简单对象",
+        "pinyin": "Jiǎndān duìxiàng",
+        "meaning": "Đối tượng đơn giản"
+    },
+    {
+        "id": 203,
+        "hanzi": "线",
+        "pinyin": "Xiàn",
+        "meaning": "Đường thẳng"
+    },
+    {
+        "id": 204,
+        "hanzi": "折线",
+        "pinyin": "Zhéxiàn",
+        "meaning": "Đường gấp khúc"
+    },
+    {
+        "id": 205,
+        "hanzi": "椭圆",
+        "pinyin": "Tuǒyuán",
+        "meaning": "Hình elip"
+    },
+    {
+        "id": 206,
+        "hanzi": "圆",
+        "pinyin": "Yuán",
+        "meaning": "Hình tròn"
+    },
+    {
+        "id": 207,
+        "hanzi": "矩形",
+        "pinyin": "Jǔxíng",
+        "meaning": "Hình chữ nhật"
+    },
+    {
+        "id": 208,
+        "hanzi": "文本域",
+        "pinyin": "Wénběn yù",
+        "meaning": "Vùng văn bản"
+    },
+    {
+        "id": 209,
+        "hanzi": "IO 域",
+        "pinyin": "IO yù",
+        "meaning": "Vùng IO"
+    },
+    {
+        "id": 210,
+        "hanzi": "日期时间域",
+        "pinyin": "Rìqī shíjiān yù",
+        "meaning": "Vùng ngày giờ"
+    },
+    {
+        "id": 211,
+        "hanzi": "图形 IO 域",
+        "pinyin": "Túxíng IO yù",
+        "meaning": "IO đồ họa"
+    },
+    {
+        "id": 212,
+        "hanzi": "符号 IO 域",
+        "pinyin": "Fúhào IO yù",
+        "meaning": "IO biểu tượng"
+    },
+    {
+        "id": 213,
+        "hanzi": "图形视图",
+        "pinyin": "Túxíng shìtú",
+        "meaning": "Hình ảnh trực quan"
+    },
+    {
+        "id": 214,
+        "hanzi": "按钮",
+        "pinyin": "Ànniǔ",
+        "meaning": "Nút bấm"
+    },
+    {
+        "id": 215,
+        "hanzi": "开关",
+        "pinyin": "Kāiguān",
+        "meaning": "Công tắc"
+    },
+    {
+        "id": 216,
+        "hanzi": "条图",
+        "pinyin": "Tiáo tú",
+        "meaning": "Biểu đồ thanh"
+    },
+    {
+        "id": 217,
+        "hanzi": "增强对象",
+        "pinyin": "Zēngqiáng duìxiàng",
+        "meaning": "Đối tượng nâng cao"
+    },
+    {
+        "id": 218,
+        "hanzi": "用户视图",
+        "pinyin": "Yònghù shìtú",
+        "meaning": "Giao diện người dùng"
+    },
+    {
+        "id": 219,
+        "hanzi": "趋势视图",
+        "pinyin": "Qūshì shìtú",
+        "meaning": "Biểu đồ xu hướng"
+    },
+    {
+        "id": 220,
+        "hanzi": "配方视图",
+        "pinyin": "Pèifāng shìtú",
+        "meaning": "Giao diện công thức"
+    },
+    {
+        "id": 221,
+        "hanzi": "报警视图",
+        "pinyin": "Bàojǐng shìtú",
+        "meaning": "Giao diện báo động"
+    }
+]

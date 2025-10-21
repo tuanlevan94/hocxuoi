@@ -1,0 +1,1208 @@
+[
+    {
+        "id": 1,
+        "hanzi": "做客",
+        "pinyin": "zuòkè",
+        "meaning": "làm khách"
+    },
+    {
+        "id": 2,
+        "hanzi": "越来越",
+        "pinyin": "yuèláiyuè",
+        "meaning": "càng ngày càng "
+    },
+    {
+        "id": 3,
+        "hanzi": "打的",
+        "pinyin": "dǎ dí",
+        "meaning": "bắt taxi, gọi xe"
+    },
+    {
+        "id": 4,
+        "hanzi": "空 ",
+        "pinyin": "kōng",
+        "meaning": " trống, rỗng"
+    },
+    {
+        "id": 5,
+        "hanzi": "四合院",
+        "pinyin": "sìhéyuàn",
+        "meaning": " tứ hợp viện"
+    },
+    {
+        "id": 6,
+        "hanzi": "院子",
+        "pinyin": "yuànzi",
+        "meaning": "sân "
+    },
+    {
+        "id": 7,
+        "hanzi": "种",
+        "pinyin": "zhòng ",
+        "meaning": "trồng"
+    },
+    {
+        "id": 8,
+        "hanzi": " 棵",
+        "pinyin": "kē",
+        "meaning": " ( lượng từ ) cái"
+    },
+    {
+        "id": 9,
+        "hanzi": "栆",
+        "pinyin": "zǎo",
+        "meaning": "táo"
+    },
+    {
+        "id": 10,
+        "hanzi": "结",
+        "pinyin": "jiē",
+        "meaning": "kết"
+    },
+    {
+        "id": 11,
+        "hanzi": " 尝",
+        "pinyin": "cháng",
+        "meaning": "thử"
+    },
+    {
+        "id": 12,
+        "hanzi": "甜  ",
+        "pinyin": "tián ",
+        "meaning": "Ngọt"
+    },
+    {
+        "id": 13,
+        "hanzi": "越。。。越。。",
+        "pinyin": "yuè …yuè … ",
+        "meaning": "càng…càng"
+    },
+    {
+        "id": 14,
+        "hanzi": "盖",
+        "pinyin": "gài  ",
+        "meaning": "xây"
+    },
+    {
+        "id": 15,
+        "hanzi": "住宅",
+        "pinyin": "zhùzhái",
+        "meaning": "nhà ở"
+    },
+    {
+        "id": 16,
+        "hanzi": "小区",
+        "pinyin": "xiǎoqū ",
+        "meaning": "khu dân cư"
+    },
+    {
+        "id": 17,
+        "hanzi": "建 ",
+        "pinyin": "jiàn",
+        "meaning": "xây"
+    },
+    {
+        "id": 18,
+        "hanzi": "搬",
+        "pinyin": "bān  ",
+        "meaning": "chuyển, dọn"
+    },
+    {
+        "id": 19,
+        "hanzi": "遗憾",
+        "pinyin": " yíhàn ",
+        "meaning": "đáng tiếc"
+    },
+    {
+        "id": 20,
+        "hanzi": "舍不得",
+        "pinyin": "shěbùdé",
+        "meaning": "không nỡ rời"
+    },
+    {
+        "id": 21,
+        "hanzi": "离开",
+        "pinyin": "líkāi  ",
+        "meaning": "xa rời, rời bỏ"
+    },
+    {
+        "id": 22,
+        "hanzi": "现代化",
+        "pinyin": "xiàndàihuà",
+        "meaning": "hiện đại hóa"
+    },
+    {
+        "id": 23,
+        "hanzi": "圣诞节",
+        "pinyin": "shèngdàn jié",
+        "meaning": "noel"
+    },
+    {
+        "id": 24,
+        "hanzi": "新年 ",
+        "pinyin": "xīnnián ",
+        "meaning": "năm mới"
+    },
+    {
+        "id": 25,
+        "hanzi": "随便 ",
+        "pinyin": "suíbiàn",
+        "meaning": "tùy ý , dễ dàng"
+    },
+    {
+        "id": 26,
+        "hanzi": "感想",
+        "pinyin": "gǎnxiǎng",
+        "meaning": "cảm tưởng"
+    },
+    {
+        "id": 27,
+        "hanzi": "体会 ",
+        "pinyin": "tǐhuì",
+        "meaning": "hiểu biết"
+    },
+    {
+        "id": 28,
+        "hanzi": "意见",
+        "pinyin": "yìjiàn",
+        "meaning": "ý kiến"
+    },
+    {
+        "id": 29,
+        "hanzi": "建议 ",
+        "pinyin": "jiànyì ",
+        "meaning": "đề nghị, kiến nghị"
+    },
+    {
+        "id": 30,
+        "hanzi": "提  ",
+        "pinyin": "tí ",
+        "meaning": "nắm lấy, nhấc lên"
+    },
+    {
+        "id": 31,
+        "hanzi": "出门 ",
+        "pinyin": "chūmén",
+        "meaning": "ra ngoài"
+    },
+    {
+        "id": 32,
+        "hanzi": "人们",
+        "pinyin": "rénmen",
+        "meaning": "mọi người"
+    },
+    {
+        "id": 33,
+        "hanzi": "丰富",
+        "pinyin": "fēngfu",
+        "meaning": "phong phú"
+    },
+    {
+        "id": 34,
+        "hanzi": "打扮",
+        "pinyin": "dǎban",
+        "meaning": "trang điểm"
+    },
+    {
+        "id": 35,
+        "hanzi": "装饰 ",
+        "pinyin": "zhuāngshì",
+        "meaning": "trang trí"
+    },
+    {
+        "id": 36,
+        "hanzi": "礼物",
+        "pinyin": "lǐwù  ",
+        "meaning": "quà"
+    },
+    {
+        "id": 37,
+        "hanzi": "欢乐",
+        "pinyin": "huānlè ",
+        "meaning": "hoan hỉ, vui mừng"
+    },
+    {
+        "id": 38,
+        "hanzi": "节日",
+        "pinyin": " jiémù",
+        "meaning": "tiết mục"
+    },
+    {
+        "id": 39,
+        "hanzi": "春节",
+        "pinyin": "chūnjié",
+        "meaning": "Tết nguyên đán"
+    },
+    {
+        "id": 40,
+        "hanzi": "开",
+        "pinyin": "kāi  ",
+        "meaning": "mở"
+    },
+    {
+        "id": 41,
+        "hanzi": "联欢会",
+        "pinyin": "liánhuānhuì ",
+        "meaning": "liên hoan"
+    },
+    {
+        "id": 42,
+        "hanzi": "品尝",
+        "pinyin": "pǐncháng",
+        "meaning": "nếm, thưởng thức"
+    },
+    {
+        "id": 43,
+        "hanzi": "特色",
+        "pinyin": "tèsè  ",
+        "meaning": "sắc thái riêng"
+    },
+    {
+        "id": 44,
+        "hanzi": "亲手",
+        "pinyin": "qīnshǒu  ",
+        "meaning": "tự tay, đích thân"
+    },
+    {
+        "id": 45,
+        "hanzi": "最好",
+        "pinyin": "zuìhǎo ",
+        "meaning": "tốt nhất"
+    },
+    {
+        "id": 46,
+        "hanzi": "把 ",
+        "pinyin": "bǎ",
+        "meaning": "cầm, nắm giữ'"
+    },
+    {
+        "id": 47,
+        "hanzi": "它 ",
+        "pinyin": "tā ",
+        "meaning": "nó ( chỉ còn vật, đồ vật)"
+    },
+    {
+        "id": 48,
+        "hanzi": "布置",
+        "pinyin": "bùzhì ",
+        "meaning": "bố trí, sắp xếp"
+    },
+    {
+        "id": 49,
+        "hanzi": "会场 ",
+        "pinyin": "huìchǎng",
+        "meaning": "hội trường"
+    },
+    {
+        "id": 50,
+        "hanzi": "管理员",
+        "pinyin": "guǎnlǐyuán",
+        "meaning": "nhân viên quản lý"
+    },
+    {
+        "id": 51,
+        "hanzi": "管理",
+        "pinyin": "guǎnlǐ",
+        "meaning": "quản lý"
+    },
+    {
+        "id": 52,
+        "hanzi": " 告诉",
+        "pinyin": "gàosu ",
+        "meaning": "bảo, nói"
+    },
+    {
+        "id": 53,
+        "hanzi": "答应 ",
+        "pinyin": "dāying",
+        "meaning": "đáp ứng, đồng ý"
+    },
+    {
+        "id": 54,
+        "hanzi": "打扫",
+        "pinyin": "dǎsǎo ",
+        "meaning": "quét tước, thu dọn"
+    },
+    {
+        "id": 55,
+        "hanzi": " 窗户",
+        "pinyin": "chuānghu",
+        "meaning": "cửa số"
+    },
+    {
+        "id": 56,
+        "hanzi": "窗 ",
+        "pinyin": "chuāng",
+        "meaning": "cửa "
+    },
+    {
+        "id": 57,
+        "hanzi": "擦",
+        "pinyin": "cā",
+        "meaning": "lau, chùi, cọ"
+    },
+    {
+        "id": 58,
+        "hanzi": "桌子",
+        "pinyin": "zhuōzi  ",
+        "meaning": "cái bàn"
+    },
+    {
+        "id": 59,
+        "hanzi": "圆圈",
+        "pinyin": "yuánquān",
+        "meaning": "vòng tròn"
+    },
+    {
+        "id": 60,
+        "hanzi": "黑板",
+        "pinyin": "hēibǎn",
+        "meaning": "bảng đen"
+    },
+    {
+        "id": 61,
+        "hanzi": "音响  ",
+        "pinyin": "yīnxiǎng",
+        "meaning": "loa, dàn âm thanh"
+    },
+    {
+        "id": 62,
+        "hanzi": "彩灯",
+        "pinyin": "cǎidēng",
+        "meaning": "đèn điện, đèn màu"
+    },
+    {
+        "id": 63,
+        "hanzi": "彩带  ",
+        "pinyin": "cǎidài",
+        "meaning": "dây màu"
+    },
+    {
+        "id": 64,
+        "hanzi": "惊喜",
+        "pinyin": "jīngxǐ  ",
+        "meaning": "niềm vui bất ngờ"
+    },
+    {
+        "id": 65,
+        "hanzi": "兵官",
+        "pinyin": "bīngguǎn",
+        "meaning": "khách sạn"
+    },
+    {
+        "id": 66,
+        "hanzi": "夫人",
+        "pinyin": "fūren",
+        "meaning": "phu nhân"
+    },
+    {
+        "id": 67,
+        "hanzi": "幅 ",
+        "pinyin": "fú ",
+        "meaning": "bức, tấm, tranh"
+    },
+    {
+        "id": 68,
+        "hanzi": "水仙",
+        "pinyin": " shuǐxiān  ",
+        "meaning": "thủy tiên, hoa thủy tiên"
+    },
+    {
+        "id": 69,
+        "hanzi": "字 ",
+        "pinyin": "zì ",
+        "meaning": "chữ"
+    },
+    {
+        "id": 70,
+        "hanzi": "对联",
+        "pinyin": "duìlián",
+        "meaning": "câu đối"
+    },
+    {
+        "id": 71,
+        "hanzi": "福",
+        "pinyin": "fú",
+        "meaning": "hạnh phúc"
+    },
+    {
+        "id": 72,
+        "hanzi": "新春",
+        "pinyin": "xīnchuān",
+        "meaning": "tân xuân, mùa xuân"
+    },
+    {
+        "id": 73,
+        "hanzi": "吉祥",
+        "pinyin": "Jíxiáng",
+        "meaning": "vận may, tốt lành"
+    },
+    {
+        "id": 74,
+        "hanzi": "行业",
+        "pinyin": "hángyè",
+        "meaning": "nghề nghiệp"
+    },
+    {
+        "id": 75,
+        "hanzi": " 兴旺",
+        "pinyin": "xìngwàng ",
+        "meaning": "thịnh vượng"
+    },
+    {
+        "id": 76,
+        "hanzi": "哦",
+        "pinyin": "ò",
+        "meaning": "à ồ"
+    },
+    {
+        "id": 77,
+        "hanzi": "认识",
+        "pinyin": " rènshi   ",
+        "meaning": "quen, biết, nhận thức"
+    },
+    {
+        "id": 78,
+        "hanzi": "声音",
+        "pinyin": "Shēngyīn  ",
+        "meaning": "tiếng, âm thanh"
+    },
+    {
+        "id": 79,
+        "hanzi": " 椅子",
+        "pinyin": "yǐzi",
+        "meaning": "ghế"
+    },
+    {
+        "id": 80,
+        "hanzi": "仔细",
+        "pinyin": "zǐxì ",
+        "meaning": "tỉ mỉ, kỹ lưỡng"
+    },
+    {
+        "id": 81,
+        "hanzi": "可不是",
+        "pinyin": "kěbúshǐ",
+        "meaning": "đúng thế"
+    },
+    {
+        "id": 82,
+        "hanzi": " 幸福",
+        "pinyin": "xìngfú",
+        "meaning": "hạnh phúc"
+    },
+    {
+        "id": 83,
+        "hanzi": "倒",
+        "pinyin": "dào",
+        "meaning": "đảo ngược, ngã, đổ"
+    },
+    {
+        "id": 84,
+        "hanzi": "沙发",
+        "pinyin": "shāfā ",
+        "meaning": "sô pha, salon"
+    },
+    {
+        "id": 85,
+        "hanzi": " 冰箱",
+        "pinyin": "bīngxiǎng",
+        "meaning": "tủ lạnh"
+    },
+    {
+        "id": 86,
+        "hanzi": "洗衣机",
+        "pinyin": "xǐyijī",
+        "meaning": "máy giặt"
+    },
+    {
+        "id": 87,
+        "hanzi": "空调",
+        "pinyin": "kōngtiáo ",
+        "meaning": "điều hòa"
+    },
+    {
+        "id": 88,
+        "hanzi": "国外",
+        "pinyin": "guówài",
+        "meaning": "nước ngoài"
+    },
+    {
+        "id": 89,
+        "hanzi": " 乘",
+        "pinyin": "chéng",
+        "meaning": "đáp, cưỡi, đi xe"
+    },
+    {
+        "id": 90,
+        "hanzi": "办理 ",
+        "pinyin": "bànlǐ",
+        "meaning": "xử lý, giải quyết"
+    },
+    {
+        "id": 91,
+        "hanzi": "登机",
+        "pinyin": "dēngjī",
+        "meaning": "lên máy bay"
+    },
+    {
+        "id": 92,
+        "hanzi": "手续 ",
+        "pinyin": "shǒuxù ",
+        "meaning": "thủ tục "
+    },
+    {
+        "id": 93,
+        "hanzi": "行李",
+        "pinyin": "xíngli  ",
+        "meaning": "hành lý"
+    },
+    {
+        "id": 94,
+        "hanzi": "托运  ",
+        "pinyin": "tuōyùn",
+        "meaning": "gửi vận chuyển"
+    },
+    {
+        "id": 95,
+        "hanzi": "机票 ",
+        "pinyin": "jīpiào",
+        "meaning": "vé máy bay"
+    },
+    {
+        "id": 96,
+        "hanzi": "票  ",
+        "pinyin": "piào  ",
+        "meaning": "phiếu, vé"
+    },
+    {
+        "id": 97,
+        "hanzi": "登机牌 ",
+        "pinyin": "dēngjīpái ",
+        "meaning": "thẻ lên máy bay"
+    },
+    {
+        "id": 98,
+        "hanzi": "通过",
+        "pinyin": "tōngguò ",
+        "meaning": "thông qua"
+    },
+    {
+        "id": 99,
+        "hanzi": "安全 ",
+        "pinyin": "ānquán     ",
+        "meaning": "an toàn"
+    },
+    {
+        "id": 100,
+        "hanzi": "发",
+        "pinyin": "fā",
+        "meaning": "phát ra"
+    },
+    {
+        "id": 101,
+        "hanzi": "响声 ",
+        "pinyin": "xiǎngshēng ",
+        "meaning": "tiếng, tiếng vang"
+    },
+    {
+        "id": 102,
+        "hanzi": "装",
+        "pinyin": "zhuāng ",
+        "meaning": "sắp xếp, dựng"
+    },
+    {
+        "id": 103,
+        "hanzi": "硬币",
+        "pinyin": "yìngbì  ",
+        "meaning": "tiền kim loại"
+    },
+    {
+        "id": 104,
+        "hanzi": "掏 ",
+        "pinyin": "tāo ",
+        "meaning": "móc "
+    },
+    {
+        "id": 105,
+        "hanzi": "画报",
+        "pinyin": "huābào  ",
+        "meaning": "họa báo, báo hình"
+    },
+    {
+        "id": 106,
+        "hanzi": "暗",
+        "pinyin": " àn ",
+        "meaning": "tối, âm u"
+    },
+    {
+        "id": 107,
+        "hanzi": "开关",
+        "pinyin": "kāiguān",
+        "meaning": "công tắc, khóa"
+    },
+    {
+        "id": 108,
+        "hanzi": "扶手",
+        "pinyin": "fúshǒu",
+        "meaning": "tay vịn"
+    },
+    {
+        "id": 109,
+        "hanzi": "空姐",
+        "pinyin": " kōngjiě ",
+        "meaning": "tiếp viên hàng không"
+    },
+    {
+        "id": 110,
+        "hanzi": " 起飞",
+        "pinyin": "qǐfēi",
+        "meaning": "cất cánh"
+    },
+    {
+        "id": 111,
+        "hanzi": "系",
+        "pinyin": " jì ",
+        "meaning": "buộc, thắt"
+    },
+    {
+        "id": 112,
+        "hanzi": "安全带 ",
+        "pinyin": "ānquándài ",
+        "meaning": "dây an toàn"
+    },
+    {
+        "id": 113,
+        "hanzi": "带",
+        "pinyin": "dài ",
+        "meaning": "dây, đai"
+    },
+    {
+        "id": 114,
+        "hanzi": "插头",
+        "pinyin": " chātóu   ",
+        "meaning": "phích cắm, đầu cắm"
+    },
+    {
+        "id": 115,
+        "hanzi": "凉 ",
+        "pinyin": "liáng   ",
+        "meaning": "nguội, lạnh, mát"
+    },
+    {
+        "id": 116,
+        "hanzi": "小心",
+        "pinyin": "xiǎoxīn",
+        "meaning": "cẩn thận "
+    },
+    {
+        "id": 117,
+        "hanzi": "杯子",
+        "pinyin": "bēizi ",
+        "meaning": "cái cốc, ly"
+    },
+    {
+        "id": 118,
+        "hanzi": "洒 ",
+        "pinyin": "sǎ",
+        "meaning": "rơi vãi,"
+    },
+    {
+        "id": 119,
+        "hanzi": "腿  ",
+        "pinyin": "tuǐ ",
+        "meaning": "chân"
+    },
+    {
+        "id": 120,
+        "hanzi": "上街",
+        "pinyin": "shàng jiē  ",
+        "meaning": "ra phố, lên phố"
+    },
+    {
+        "id": 121,
+        "hanzi": "被 ",
+        "pinyin": "bèi ",
+        "meaning": "bị, được"
+    },
+    {
+        "id": 122,
+        "hanzi": "撞  ",
+        "pinyin": "zhuàng",
+        "meaning": "va, chạm, đụng"
+    },
+    {
+        "id": 123,
+        "hanzi": "伤  ",
+        "pinyin": "shāng ",
+        "meaning": "tổn thương, bị thương"
+    },
+    {
+        "id": 124,
+        "hanzi": "流 ",
+        "pinyin": " liú ",
+        "meaning": "chảy, di động"
+    },
+    {
+        "id": 125,
+        "hanzi": "血",
+        "pinyin": "xuě ",
+        "meaning": "máu"
+    },
+    {
+        "id": 126,
+        "hanzi": "要紧 ",
+        "pinyin": "yàojǐn  ",
+        "meaning": "nghiêm trọng, quan trọng"
+    },
+    {
+        "id": 127,
+        "hanzi": "不要紧",
+        "pinyin": "bú yàojǐn  ",
+        "meaning": "không nghiêm trọng"
+    },
+    {
+        "id": 128,
+        "hanzi": "骨头",
+        "pinyin": "gǔtou ",
+        "meaning": "xương"
+    },
+    {
+        "id": 129,
+        "hanzi": "不好意思",
+        "pinyin": "bù hǎo yīsi",
+        "meaning": "xấu hổ, ngại"
+    },
+    {
+        "id": 130,
+        "hanzi": " 故意",
+        "pinyin": "gùyì ",
+        "meaning": "cố tình"
+    },
+    {
+        "id": 131,
+        "hanzi": "唉 ",
+        "pinyin": "ài       ",
+        "meaning": "thán từ"
+    },
+    {
+        "id": 132,
+        "hanzi": "钱包",
+        "pinyin": "qiánbāo",
+        "meaning": "ví tiền"
+    },
+    {
+        "id": 133,
+        "hanzi": "让",
+        "pinyin": "ràng ",
+        "meaning": "để, để cho"
+    },
+    {
+        "id": 134,
+        "hanzi": "小偷",
+        "pinyin": "xiǎotōu  ",
+        "meaning": "kẻ cắp"
+    },
+    {
+        "id": 135,
+        "hanzi": "偷 ",
+        "pinyin": "tōu",
+        "meaning": "trộm, cắp"
+    },
+    {
+        "id": 136,
+        "hanzi": "遇到",
+        "pinyin": "yùdào",
+        "meaning": "gặp phải"
+    },
+    {
+        "id": 137,
+        "hanzi": "叫   ",
+        "pinyin": " jiào",
+        "meaning": "gọi, kêu, bảo"
+    },
+    {
+        "id": 138,
+        "hanzi": "淋",
+        "pinyin": "lín",
+        "meaning": "thấm ướt, dầm"
+    },
+    {
+        "id": 139,
+        "hanzi": "落汤鸡",
+        "pinyin": "luòtāngjī",
+        "meaning": "ướt như chuột lột"
+    },
+    {
+        "id": 140,
+        "hanzi": "是的 ",
+        "pinyin": "shìde ",
+        "meaning": "như, tựa như"
+    },
+    {
+        "id": 141,
+        "hanzi": " 湿 ",
+        "pinyin": "shī  ",
+        "meaning": "ẩm, ướt"
+    },
+    {
+        "id": 142,
+        "hanzi": " 透",
+        "pinyin": "tòu",
+        "meaning": "thấm, xuyên qua"
+    },
+    {
+        "id": 143,
+        "hanzi": "首都",
+        "pinyin": "shǒudū",
+        "meaning": "thủ đô"
+    },
+    {
+        "id": 144,
+        "hanzi": "剧场",
+        "pinyin": " jùchǎng",
+        "meaning": "nhà hát"
+    },
+    {
+        "id": 145,
+        "hanzi": "司机",
+        "pinyin": "sījī",
+        "meaning": "tài xế"
+    },
+    {
+        "id": 146,
+        "hanzi": "拉",
+        "pinyin": "lā  ",
+        "meaning": "lôi, kéo đưa"
+    },
+    {
+        "id": 147,
+        "hanzi": "机场",
+        "pinyin": " jīchǎng  ",
+        "meaning": "sân bay"
+    },
+    {
+        "id": 148,
+        "hanzi": " 可气",
+        "pinyin": "kěqì ",
+        "meaning": "đáng giạn"
+    },
+    {
+        "id": 149,
+        "hanzi": "算命 ",
+        "pinyin": "suānmìng ",
+        "meaning": "bói toán"
+    },
+    {
+        "id": 150,
+        "hanzi": "运气",
+        "pinyin": "yùnqi",
+        "meaning": "vận mệnh, số phận"
+    },
+    {
+        "id": 151,
+        "hanzi": "傻 ",
+        "pinyin": "shǎ",
+        "meaning": "ngốc"
+    },
+    {
+        "id": 152,
+        "hanzi": "花",
+        "pinyin": " huā  ",
+        "meaning": "dùng thời gian, chỉ tiêu"
+    },
+    {
+        "id": 153,
+        "hanzi": "受骗",
+        "pinyin": "shòu piàn",
+        "meaning": "bị lừa"
+    },
+    {
+        "id": 154,
+        "hanzi": "受  ",
+        "pinyin": "shòu  ",
+        "meaning": "bị, chịu"
+    },
+    {
+        "id": 155,
+        "hanzi": "骗  ",
+        "pinyin": "piàn ",
+        "meaning": "lừa gạt"
+    },
+    {
+        "id": 156,
+        "hanzi": "抽烟 ",
+        "pinyin": "chōuyān",
+        "meaning": "hút thuốc"
+    },
+    {
+        "id": 157,
+        "hanzi": "罚",
+        "pinyin": "fá  ",
+        "meaning": "phạt"
+    },
+    {
+        "id": 158,
+        "hanzi": "烧",
+        "pinyin": "shāo ",
+        "meaning": "đốt, thiêu"
+    },
+    {
+        "id": 159,
+        "hanzi": "戒烟",
+        "pinyin": "jiè yān  ",
+        "meaning": "cai thuốc lá"
+    },
+    {
+        "id": 160,
+        "hanzi": "浪费",
+        "pinyin": "làngfèi ",
+        "meaning": "lãng phí"
+    },
+    {
+        "id": 161,
+        "hanzi": "演出 ",
+        "pinyin": "yǎnchū",
+        "meaning": "diễn xuất, biểu diễn"
+    },
+    {
+        "id": 162,
+        "hanzi": "猜",
+        "pinyin": "cāi ",
+        "meaning": "đoán"
+    },
+    {
+        "id": 163,
+        "hanzi": "演员  ",
+        "pinyin": "yǎnyán",
+        "meaning": "diễn viên"
+    },
+    {
+        "id": 164,
+        "hanzi": "武打 ",
+        "pinyin": "wǔdǎ",
+        "meaning": "múa võ"
+    },
+    {
+        "id": 165,
+        "hanzi": "动作",
+        "pinyin": "dòngzuò",
+        "meaning": "động tác"
+    },
+    {
+        "id": 166,
+        "hanzi": " 精彩 ",
+        "pinyin": " jīngcǎi ",
+        "meaning": "đặc sắc"
+    },
+    {
+        "id": 167,
+        "hanzi": "脸谱   ",
+        "pinyin": " liánpǔ  ",
+        "meaning": "vẻ mặt"
+    },
+    {
+        "id": 168,
+        "hanzi": "表现 ",
+        "pinyin": "biǎoxiàn",
+        "meaning": "biểu hiện"
+    },
+    {
+        "id": 169,
+        "hanzi": "人物 ",
+        "pinyin": "rènwù",
+        "meaning": "nhân vật"
+    },
+    {
+        "id": 170,
+        "hanzi": "社会 ",
+        "pinyin": "shèhuì  ",
+        "meaning": "xã hội"
+    },
+    {
+        "id": 171,
+        "hanzi": "地位 ",
+        "pinyin": "dìwèi",
+        "meaning": "địa vị"
+    },
+    {
+        "id": 172,
+        "hanzi": "性格",
+        "pinyin": "xìnggé",
+        "meaning": "tính cách"
+    },
+    {
+        "id": 173,
+        "hanzi": "十分",
+        "pinyin": " shífēn ",
+        "meaning": "rất, vô cùng"
+    },
+    {
+        "id": 174,
+        "hanzi": "有趣",
+        "pinyin": "yǒuqù",
+        "meaning": "thú vị, lý thú"
+    },
+    {
+        "id": 175,
+        "hanzi": " 服装",
+        "pinyin": "fúzhuāng ",
+        "meaning": "trang phục"
+    },
+    {
+        "id": 176,
+        "hanzi": "影响  ",
+        "pinyin": "yǐngxiǎng",
+        "meaning": "ảnh hưởng"
+    },
+    {
+        "id": 177,
+        "hanzi": "传统",
+        "pinyin": "chuántǒng",
+        "meaning": "truyền thống"
+    },
+    {
+        "id": 178,
+        "hanzi": "艺术",
+        "pinyin": "yìshù   ",
+        "meaning": "nghệ thuật"
+    },
+    {
+        "id": 179,
+        "hanzi": "了解 ",
+        "pinyin": "liǎojiě",
+        "meaning": "hiểu rõ, tìm hiểu"
+    },
+    {
+        "id": 180,
+        "hanzi": "的话 ",
+        "pinyin": "dehuà   ",
+        "meaning": "dùng sau câu biểu thị giả thiết"
+    },
+    {
+        "id": 181,
+        "hanzi": "约",
+        "pinyin": " yuē   ",
+        "meaning": "hẹn, mời"
+    },
+    {
+        "id": 182,
+        "hanzi": "了",
+        "pinyin": "liǎo  ",
+        "meaning": "xong, rồi"
+    },
+    {
+        "id": 183,
+        "hanzi": "决定",
+        "pinyin": " juédìng",
+        "meaning": "quyết định"
+    },
+    {
+        "id": 184,
+        "hanzi": "上下班",
+        "pinyin": "shàng xià bān",
+        "meaning": "đi làm và tan làm"
+    },
+    {
+        "id": 185,
+        "hanzi": "担心 ",
+        "pinyin": "dānxīn ",
+        "meaning": "lo lắng"
+    },
+    {
+        "id": 186,
+        "hanzi": "肯定 ",
+        "pinyin": "kěndìng ",
+        "meaning": "khẳng định"
+    },
+    {
+        "id": 187,
+        "hanzi": "排 ",
+        "pinyin": "pái  ",
+        "meaning": "hàng, loạt, băng"
+    },
+    {
+        "id": 188,
+        "hanzi": "估计 ",
+        "pinyin": "gūjì ",
+        "meaning": "áng chừng, phỏng đoán"
+    },
+    {
+        "id": 189,
+        "hanzi": "下  ",
+        "pinyin": "xià ",
+        "meaning": "xuống"
+    },
+    {
+        "id": 190,
+        "hanzi": "开演  ",
+        "pinyin": "kāiyǎn ",
+        "meaning": "bắt đầu biểu diễn"
+    },
+    {
+        "id": 191,
+        "hanzi": "满",
+        "pinyin": "mǎn",
+        "meaning": "đầy"
+    },
+    {
+        "id": 192,
+        "hanzi": "说明书 ",
+        "pinyin": "shuōmíngshū",
+        "meaning": "bản thuyết minh"
+    },
+    {
+        "id": 193,
+        "hanzi": "说明",
+        "pinyin": "shuōmíng",
+        "meaning": "thuyết minh"
+    },
+    {
+        "id": 194,
+        "hanzi": "古代",
+        "pinyin": "gǔdài ",
+        "meaning": "cổ đại"
+    },
+    {
+        "id": 195,
+        "hanzi": " 神话",
+        "pinyin": "shénhuà ",
+        "meaning": "thần thoại"
+    },
+    {
+        "id": 196,
+        "hanzi": "天上",
+        "pinyin": "tiānshàng ",
+        "meaning": "trên trời"
+    },
+    {
+        "id": 197,
+        "hanzi": "仙女",
+        "pinyin": "xiānnǚ",
+        "meaning": "tiên nữ"
+    },
+    {
+        "id": 198,
+        "hanzi": "羡慕 ",
+        "pinyin": "xiànmù",
+        "meaning": "ngưỡng mộ"
+    },
+    {
+        "id": 199,
+        "hanzi": "人间 ",
+        "pinyin": "rénjiān ",
+        "meaning": "nhân gian, trần gian"
+    },
+    {
+        "id": 200,
+        "hanzi": " 偷偷",
+        "pinyin": "tōutōu",
+        "meaning": "lén lút, vụng trộm"
+    },
+    {
+        "id": 201,
+        "hanzi": "内容 ",
+        "pinyin": "nèiróng",
+        "meaning": "nội dung"
+    }
+]
