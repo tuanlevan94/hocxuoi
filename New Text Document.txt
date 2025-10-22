@@ -1,7 +1,13 @@
-SELECT Id, Hanzi, Pinyin, Meaning, Example
+SELECT 
+  Id      AS [id],
+  Hanzi   AS [hanzi],
+  Pinyin  AS [pinyin],
+  Meaning AS [meaning],
+  Example AS [example]
 FROM page23
 ORDER BY Id
 FOR JSON PATH;
+
 
 
 Alt+Shift+F

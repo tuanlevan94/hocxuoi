@@ -1,1502 +1,1752 @@
 [
     {
-        "Id": 1,
-        "Hanzi": "停火后",
-        "Pinyin": "tínghuǒ hòu",
-        "Meaning": "sau khi ngừng bắn"
+        "id": 1,
+        "hanzi": "停火后",
+        "pinyin": "tínghuǒ hòu",
+        "meaning": "sau khi ngừng bắn",
+        "example": "after the ceasefire"
     },
     {
-        "Id": 2,
-        "Hanzi": "以军",
-        "Pinyin": "yǐjūn",
-        "Meaning": "quân đội Israel (viết tắt)"
+        "id": 2,
+        "hanzi": "以军",
+        "pinyin": "yǐjūn",
+        "meaning": "quân đội Israel (viết tắt)",
+        "example": "IDF; Israeli military"
     },
     {
-        "Id": 3,
-        "Hanzi": "加沙",
-        "Pinyin": "Jiāshā",
-        "Meaning": "Dải Gaza (khu vực Gaza)"
+        "id": 3,
+        "hanzi": "加沙",
+        "pinyin": "Jiāshā",
+        "meaning": "Dải Gaza (khu vực Gaza)",
+        "example": "Gaza"
     },
     {
-        "Id": 4,
-        "Hanzi": "加沙地带",
-        "Pinyin": "Jiāshā Dìdài",
-        "Meaning": "Dải Gaza"
+        "id": 4,
+        "hanzi": "加沙地带",
+        "pinyin": "Jiāshā Dìdài",
+        "meaning": "Dải Gaza",
+        "example": "Gaza Strip"
     },
     {
-        "Id": 5,
-        "Hanzi": "投下",
-        "Pinyin": "tóuxià",
-        "Meaning": "thả; ném (bom)"
+        "id": 5,
+        "hanzi": "投下",
+        "pinyin": "tóuxià",
+        "meaning": "thả; ném (bom)",
+        "example": "to drop (bombs)"
     },
     {
-        "Id": 6,
-        "Hanzi": "投放",
-        "Pinyin": "tófàng",
-        "Meaning": "thả; ném xuống; phóng thích (vật thể)"
+        "id": 6,
+        "hanzi": "投放",
+        "pinyin": "tófàng",
+        "meaning": "thả; ném xuống; phóng thích (vật thể)",
+        "example": "to drop; to release"
     },
     {
-        "Id": 7,
-        "Hanzi": "吨",
-        "Pinyin": "dūn",
-        "Meaning": "tấn (đơn vị khối lượng)"
+        "id": 7,
+        "hanzi": "吨",
+        "pinyin": "dūn",
+        "meaning": "tấn (đơn vị khối lượng)",
+        "example": "ton (metric)"
     },
     {
-        "Id": 8,
-        "Hanzi": "空袭",
-        "Pinyin": "kōngxí",
-        "Meaning": "không kích"
+        "id": 8,
+        "hanzi": "空袭",
+        "pinyin": "kōngxí",
+        "meaning": "không kích",
+        "example": "airstrike"
     },
     {
-        "Id": 9,
-        "Hanzi": "炮击",
-        "Pinyin": "pào​jī",
-        "Meaning": "pháo kích"
+        "id": 9,
+        "hanzi": "炮击",
+        "pinyin": "pào​jī",
+        "meaning": "pháo kích",
+        "example": "artillery strike; shelling"
     },
     {
-        "Id": 10,
-        "Hanzi": "地带",
-        "Pinyin": "dìdài",
-        "Meaning": "vùng; dải; khu vực"
+        "id": 10,
+        "hanzi": "地带",
+        "pinyin": "dìdài",
+        "meaning": "vùng; dải; khu vực",
+        "example": "zone; belt; region"
     },
     {
-        "Id": 11,
-        "Hanzi": "多地",
-        "Pinyin": "duōdì",
-        "Meaning": "nhiều nơi"
+        "id": 11,
+        "hanzi": "多地",
+        "pinyin": "duōdì",
+        "meaning": "nhiều nơi",
+        "example": "multiple locations"
     },
     {
-        "Id": 12,
-        "Hanzi": "称",
-        "Pinyin": "chēng",
-        "Meaning": "nói; cho rằng; tuyên bố"
+        "id": 12,
+        "hanzi": "称",
+        "pinyin": "chēng",
+        "meaning": "nói; cho rằng; tuyên bố",
+        "example": "to state; to claim"
     },
     {
-        "Id": 13,
-        "Hanzi": "哈马斯",
-        "Pinyin": "Hāmǎsī",
-        "Meaning": "Hamas"
+        "id": 13,
+        "hanzi": "哈马斯",
+        "pinyin": "Hāmǎsī",
+        "meaning": "Hamas",
+        "example": "Hamas"
     },
     {
-        "Id": 14,
-        "Hanzi": "违反",
-        "Pinyin": "wéifǎn",
-        "Meaning": "vi phạm"
+        "id": 14,
+        "hanzi": "违反",
+        "pinyin": "wéifǎn",
+        "meaning": "vi phạm",
+        "example": "to violate"
     },
     {
-        "Id": 15,
-        "Hanzi": "协议",
-        "Pinyin": "xiéyì",
-        "Meaning": "hiệp định; thỏa thuận"
+        "id": 15,
+        "hanzi": "协议",
+        "pinyin": "xiéyì",
+        "meaning": "hiệp định; thỏa thuận",
+        "example": "agreement; pact"
     },
     {
-        "Id": 16,
-        "Hanzi": "停火协议",
-        "Pinyin": "tínghuǒ xiéyì",
-        "Meaning": "hiệp định ngừng bắn"
+        "id": 16,
+        "hanzi": "停火协议",
+        "pinyin": "tínghuǒ xiéyì",
+        "meaning": "hiệp định ngừng bắn",
+        "example": "ceasefire agreement"
     },
     {
-        "Id": 17,
-        "Hanzi": "造成",
-        "Pinyin": "zàochéng",
-        "Meaning": "gây ra; dẫn đến"
+        "id": 17,
+        "hanzi": "造成",
+        "pinyin": "zàochéng",
+        "meaning": "gây ra; dẫn đến",
+        "example": "to cause; to lead to"
     },
     {
-        "Id": 18,
-        "Hanzi": "名（量词）",
-        "Pinyin": "míng",
-        "Meaning": "(lượng từ) người"
+        "id": 18,
+        "hanzi": "名（量词）",
+        "pinyin": "míng",
+        "meaning": "(lượng từ) người",
+        "example": "MW for people"
     },
     {
-        "Id": 19,
-        "Hanzi": "士兵",
-        "Pinyin": "shìbīng",
-        "Meaning": "lính; binh sĩ"
+        "id": 19,
+        "hanzi": "士兵",
+        "pinyin": "shìbīng",
+        "meaning": "lính; binh sĩ",
+        "example": "soldier"
     },
     {
-        "Id": 20,
-        "Hanzi": "否认",
-        "Pinyin": "fǒurèn",
-        "Meaning": "phủ nhận; bác bỏ"
+        "id": 20,
+        "hanzi": "否认",
+        "pinyin": "fǒurèn",
+        "meaning": "phủ nhận; bác bỏ",
+        "example": "to deny"
     },
     {
-        "Id": 21,
-        "Hanzi": "以方",
-        "Pinyin": "yǐfāng",
-        "Meaning": "phía Israel"
+        "id": 21,
+        "hanzi": "以方",
+        "pinyin": "yǐfāng",
+        "meaning": "phía Israel",
+        "example": "the Israeli side"
     },
     {
-        "Id": 22,
-        "Hanzi": "说法",
-        "Pinyin": "shuōfǎ",
-        "Meaning": "cách nói; lời nói; tuyên bố"
+        "id": 22,
+        "hanzi": "说法",
+        "pinyin": "shuōfǎ",
+        "meaning": "cách nói; lời nói; tuyên bố",
+        "example": "statement; version (of events)"
     },
     {
-        "Id": 23,
-        "Hanzi": "以色列",
-        "Pinyin": "Yǐsèliè",
-        "Meaning": "Israel"
+        "id": 23,
+        "hanzi": "以色列",
+        "pinyin": "Yǐsèliè",
+        "meaning": "Israel",
+        "example": "Israel"
     },
     {
-        "Id": 24,
-        "Hanzi": "总理",
-        "Pinyin": "zǒnglǐ",
-        "Meaning": "thủ tướng"
+        "id": 24,
+        "hanzi": "总理",
+        "pinyin": "zǒnglǐ",
+        "meaning": "thủ tướng",
+        "example": "prime minister"
     },
     {
-        "Id": 25,
-        "Hanzi": "内塔尼亚胡",
-        "Pinyin": "Nèi tǎ ní yà hú",
-        "Meaning": "Benjamin Netanyahu"
+        "id": 25,
+        "hanzi": "内塔尼亚胡",
+        "pinyin": "Nèi tǎ ní yà hú",
+        "meaning": "Benjamin Netanyahu",
+        "example": "Benjamin Netanyahu"
     },
     {
-        "Id": 26,
-        "Hanzi": "议会",
-        "Pinyin": "yìhuì",
-        "Meaning": "nghị viện; quốc hội"
+        "id": 26,
+        "hanzi": "议会",
+        "pinyin": "yìhuì",
+        "meaning": "nghị viện; quốc hội",
+        "example": "parliament"
     },
     {
-        "Id": 27,
-        "Hanzi": "谈及",
-        "Pinyin": "tánjí",
-        "Meaning": "bàn tới; đề cập; nói đến"
+        "id": 27,
+        "hanzi": "谈及",
+        "pinyin": "tánjí",
+        "meaning": "bàn tới; đề cập; nói đến",
+        "example": "to talk about; touch upon"
     },
     {
-        "Id": 28,
-        "Hanzi": "此事",
-        "Pinyin": "cǐshì",
-        "Meaning": "việc này; sự việc này"
+        "id": 28,
+        "hanzi": "此事",
+        "pinyin": "cǐshì",
+        "meaning": "việc này; sự việc này",
+        "example": "this matter"
     },
     {
-        "Id": 29,
-        "Hanzi": "据",
-        "Pinyin": "jù",
-        "Meaning": "theo; căn cứ theo"
+        "id": 29,
+        "hanzi": "据",
+        "pinyin": "jù",
+        "meaning": "theo; căn cứ theo",
+        "example": "according to; based on"
     },
     {
-        "Id": 30,
-        "Hanzi": "媒体",
-        "Pinyin": "méitǐ",
-        "Meaning": "truyền thông; phương tiện truyền thông"
+        "id": 30,
+        "hanzi": "媒体",
+        "pinyin": "méitǐ",
+        "meaning": "truyền thông; phương tiện truyền thông",
+        "example": "media"
     },
     {
-        "Id": 31,
-        "Hanzi": "报道",
-        "Pinyin": "bàodào",
-        "Meaning": "đưa tin; bản tin"
+        "id": 31,
+        "hanzi": "报道",
+        "pinyin": "bàodào",
+        "meaning": "đưa tin; bản tin",
+        "example": "report; coverage"
     },
     {
-        "Id": 32,
-        "Hanzi": "中东",
-        "Pinyin": "Zhōngdōng",
-        "Meaning": "Trung Đông"
+        "id": 32,
+        "hanzi": "中东",
+        "pinyin": "Zhōngdōng",
+        "meaning": "Trung Đông",
+        "example": "Middle East"
     },
     {
-        "Id": 33,
-        "Hanzi": "特使",
-        "Pinyin": "tèshǐ",
-        "Meaning": "đặc sứ; đặc phái viên"
+        "id": 33,
+        "hanzi": "特使",
+        "pinyin": "tèshǐ",
+        "meaning": "đặc sứ; đặc phái viên",
+        "example": "special envoy"
     },
     {
-        "Id": 34,
-        "Hanzi": "威特科夫",
-        "Pinyin": "Wēitèkēfū",
-        "Meaning": "Weitekoff (tên riêng phiên âm)"
+        "id": 34,
+        "hanzi": "威特科夫",
+        "pinyin": "Wēitèkēfū",
+        "meaning": "Weitekoff (tên riêng phiên âm)",
+        "example": "Weitekoff (proper name)"
     },
     {
-        "Id": 35,
-        "Hanzi": "白宫",
-        "Pinyin": "Bái Gōng",
-        "Meaning": "Nhà Trắng"
+        "id": 35,
+        "hanzi": "白宫",
+        "pinyin": "Bái Gōng",
+        "meaning": "Nhà Trắng",
+        "example": "the White House"
     },
     {
-        "Id": 36,
-        "Hanzi": "高级",
-        "Pinyin": "gāojí",
-        "Meaning": "cao cấp; cấp cao"
+        "id": 36,
+        "hanzi": "高级",
+        "pinyin": "gāojí",
+        "meaning": "cao cấp; cấp cao",
+        "example": "senior; high-level"
     },
     {
-        "Id": 37,
-        "Hanzi": "顾问",
-        "Pinyin": "gùwèn",
-        "Meaning": "cố vấn"
+        "id": 37,
+        "hanzi": "顾问",
+        "pinyin": "gùwèn",
+        "meaning": "cố vấn",
+        "example": "adviser; consultant"
     },
     {
-        "Id": 38,
-        "Hanzi": "会见",
-        "Pinyin": "huìjiàn",
-        "Meaning": "hội kiến; gặp gỡ (trang trọng)"
+        "id": 38,
+        "hanzi": "会见",
+        "pinyin": "huìjiàn",
+        "meaning": "hội kiến; gặp gỡ (trang trọng)",
+        "example": "to meet (formally)"
     },
     {
-        "Id": 39,
-        "Hanzi": "破坏",
-        "Pinyin": "pòhuài",
-        "Meaning": "phá hoại; làm tổn hại; gây phương hại"
+        "id": 39,
+        "hanzi": "破坏",
+        "pinyin": "pòhuài",
+        "meaning": "phá hoại; làm tổn hại; gây phương hại",
+        "example": "to undermine; to sabotage"
     },
     {
-        "Id": 40,
-        "Hanzi": "军方",
-        "Pinyin": "jūnfāng",
-        "Meaning": "phía quân đội; giới quân sự"
+        "id": 40,
+        "hanzi": "军方",
+        "pinyin": "jūnfāng",
+        "meaning": "phía quân đội; giới quân sự",
+        "example": "the military (authorities)"
     },
     {
-        "Id": 41,
-        "Hanzi": "发布",
-        "Pinyin": "fābù",
-        "Meaning": "ban hành; công bố; phát đi"
+        "id": 41,
+        "hanzi": "发布",
+        "pinyin": "fābù",
+        "meaning": "ban hành; công bố; phát đi",
+        "example": "to issue; to release"
     },
     {
-        "Id": 42,
-        "Hanzi": "声明",
-        "Pinyin": "shēngmíng",
-        "Meaning": "tuyên bố; thông cáo"
+        "id": 42,
+        "hanzi": "声明",
+        "pinyin": "shēngmíng",
+        "meaning": "tuyên bố; thông cáo",
+        "example": "statement; declaration"
     },
     {
-        "Id": 43,
-        "Hanzi": "第一阶段",
-        "Pinyin": "dì yī jiēduàn",
-        "Meaning": "giai đoạn thứ nhất"
+        "id": 43,
+        "hanzi": "第一阶段",
+        "pinyin": "dì yī jiēduàn",
+        "meaning": "giai đoạn thứ nhất",
+        "example": "first phase; phase I"
     },
     {
-        "Id": 44,
-        "Hanzi": "当天",
-        "Pinyin": "dāngtiān",
-        "Meaning": "ngay trong ngày đó"
+        "id": 44,
+        "hanzi": "当天",
+        "pinyin": "dāngtiān",
+        "meaning": "ngay trong ngày đó",
+        "example": "that very day; the same day"
     },
     {
-        "Id": 45,
-        "Hanzi": "生效",
-        "Pinyin": "shēngxiào",
-        "Meaning": "có hiệu lực"
+        "id": 45,
+        "hanzi": "生效",
+        "pinyin": "shēngxiào",
+        "meaning": "có hiệu lực",
+        "example": "to take effect; effective"
     },
     {
-        "Id": 46,
-        "Hanzi": "分析人士",
-        "Pinyin": "fēnxī rénshì",
-        "Meaning": "giới phân tích; các nhà phân tích"
+        "id": 46,
+        "hanzi": "分析人士",
+        "pinyin": "fēnxī rénshì",
+        "meaning": "giới phân tích; các nhà phân tích",
+        "example": "analysts"
     },
     {
-        "Id": 47,
-        "Hanzi": "指出",
-        "Pinyin": "zhǐchū",
-        "Meaning": "chỉ ra; nêu rõ"
+        "id": 47,
+        "hanzi": "指出",
+        "pinyin": "zhǐchū",
+        "meaning": "chỉ ra; nêu rõ",
+        "example": "to point out"
     },
     {
-        "Id": 48,
-        "Hanzi": "本就",
-        "Pinyin": "běnjiù",
-        "Meaning": "vốn dĩ; vốn đã"
+        "id": 48,
+        "hanzi": "本就",
+        "pinyin": "běnjiù",
+        "meaning": "vốn dĩ; vốn đã",
+        "example": "inherently; already"
     },
     {
-        "Id": 49,
-        "Hanzi": "军事打击",
-        "Pinyin": "jūnshì dǎjī",
-        "Meaning": "đòn tấn công quân sự"
+        "id": 49,
+        "hanzi": "军事打击",
+        "pinyin": "jūnshì dǎjī",
+        "meaning": "đòn tấn công quân sự",
+        "example": "military strike"
     },
     {
-        "Id": 50,
-        "Hanzi": "面临",
-        "Pinyin": "miànlín",
-        "Meaning": "đối mặt; phải đối diện"
+        "id": 50,
+        "hanzi": "面临",
+        "pinyin": "miànlín",
+        "meaning": "đối mặt; phải đối diện",
+        "example": "to face; to confront"
     },
     {
-        "Id": 51,
-        "Hanzi": "严峻",
-        "Pinyin": "yánjùn",
-        "Meaning": "nghiêm trọng; khắc nghiệt"
+        "id": 51,
+        "hanzi": "严峻",
+        "pinyin": "yánjùn",
+        "meaning": "nghiêm trọng; khắc nghiệt",
+        "example": "severe; grim"
     },
     {
-        "Id": 52,
-        "Hanzi": "考验",
-        "Pinyin": "kǎoyàn",
-        "Meaning": "thử thách; phép thử"
+        "id": 52,
+        "hanzi": "考验",
+        "pinyin": "kǎoyàn",
+        "meaning": "thử thách; phép thử",
+        "example": "test; ordeal"
     },
     {
-        "Id": 53,
-        "Hanzi": "有代表性",
-        "Pinyin": "yǒu dàibiǎoxìng",
-        "Meaning": "có tính đại diện; tiêu biểu"
+        "id": 53,
+        "hanzi": "有代表性",
+        "pinyin": "yǒu dàibiǎoxìng",
+        "meaning": "có tính đại diện; tiêu biểu",
+        "example": "representative"
     },
     {
-        "Id": 54,
-        "Hanzi": "代表性",
-        "Pinyin": "dàibiǎoxìng",
-        "Meaning": "tính đại diện; tính tiêu biểu"
+        "id": 54,
+        "hanzi": "代表性",
+        "pinyin": "dàibiǎoxìng",
+        "meaning": "tính đại diện; tính tiêu biểu",
+        "example": "representativeness"
     },
     {
-        "Id": 55,
-        "Hanzi": "抗日剧",
-        "Pinyin": "kàngrìjù",
-        "Meaning": "phim (kịch) kháng Nhật"
+        "id": 55,
+        "hanzi": "抗日剧",
+        "pinyin": "kàngrìjù",
+        "meaning": "phim (kịch) kháng Nhật",
+        "example": "Anti‑Japanese war drama"
     },
     {
-        "Id": 56,
-        "Hanzi": "《中国兄弟连》",
-        "Pinyin": "Zhōngguó Xiōngdìlián",
-        "Meaning": "“Trung Quốc Huynh Đệ Liên” (tên phim)"
+        "id": 56,
+        "hanzi": "《中国兄弟连》",
+        "pinyin": "Zhōngguó Xiōngdìlián",
+        "meaning": "“Trung Quốc Huynh Đệ Liên” (tên phim)",
+        "example": "TV drama title: 'Chinese Brothers Company'"
     },
     {
-        "Id": 57,
-        "Hanzi": "小日本",
-        "Pinyin": "xiǎo Rìběn",
-        "Meaning": "từ miệt thị chỉ người Nhật (KHÔNG nên dùng)"
+        "id": 57,
+        "hanzi": "小日本",
+        "pinyin": "xiǎo Rìběn",
+        "meaning": "từ miệt thị chỉ người Nhật (KHÔNG nên dùng)",
+        "example": "derogatory slur for Japanese (avoid)"
     },
     {
-        "Id": 58,
-        "Hanzi": "屠",
-        "Pinyin": "tú",
-        "Meaning": "tàn sát; giết chóc (thường trong 屠杀, 屠村)"
+        "id": 58,
+        "hanzi": "屠",
+        "pinyin": "tú",
+        "meaning": "tàn sát; giết chóc (thường trong 屠杀, 屠村)",
+        "example": "to massacre (as in 'túshā', 'túcūn')"
     },
     {
-        "Id": 59,
-        "Hanzi": "唐家庄",
-        "Pinyin": "Tángjiāzhuāng",
-        "Meaning": "Đường Gia Trang (tên địa danh\/làng)"
+        "id": 59,
+        "hanzi": "唐家庄",
+        "pinyin": "Tángjiāzhuāng",
+        "meaning": "Đường Gia Trang (tên địa danh\/làng)",
+        "example": "Tangjiazhuang (place name)"
     },
     {
-        "Id": 60,
-        "Hanzi": "情形",
-        "Pinyin": "qíngxíng",
-        "Meaning": "tình hình; tình cảnh; tình huống"
+        "id": 60,
+        "hanzi": "情形",
+        "pinyin": "qíngxíng",
+        "meaning": "tình hình; tình cảnh; tình huống",
+        "example": "situation; circumstances"
     },
     {
-        "Id": 61,
-        "Hanzi": "强大",
-        "Pinyin": "qiángdà",
-        "Meaning": "mạnh mẽ; hùng mạnh"
+        "id": 61,
+        "hanzi": "强大",
+        "pinyin": "qiángdà",
+        "meaning": "mạnh mẽ; hùng mạnh",
+        "example": "powerful; formidable"
     },
     {
-        "Id": 62,
-        "Hanzi": "无可奈何",
-        "Pinyin": "wú kě nàihé",
-        "Meaning": "bất lực; đành chịu; không còn cách nào"
+        "id": 62,
+        "hanzi": "无可奈何",
+        "pinyin": "wú kě nàihé",
+        "meaning": "bất lực; đành chịu; không còn cách nào",
+        "example": "helpless; have no alternative"
     },
     {
-        "Id": 63,
-        "Hanzi": "眼睁睁",
-        "Pinyin": "yǎnzhēngzhēng",
-        "Meaning": "trơ mắt ra (bất lực nhìn)"
+        "id": 63,
+        "hanzi": "眼睁睁",
+        "pinyin": "yǎnzhēngzhēng",
+        "meaning": "trơ mắt ra (bất lực nhìn)",
+        "example": "powerlessly; with eyes wide open (helplessly)"
     },
     {
-        "Id": 64,
-        "Hanzi": "眼睁睁看着",
-        "Pinyin": "yǎnzhēngzhēng kànzhe",
-        "Meaning": "trơ mắt nhìn; bất lực đứng nhìn"
+        "id": 64,
+        "hanzi": "眼睁睁看着",
+        "pinyin": "yǎnzhēngzhēng kànzhe",
+        "meaning": "trơ mắt nhìn; bất lực đứng nhìn",
+        "example": "to stand by and watch helplessly"
     },
     {
-        "Id": 65,
-        "Hanzi": "屠村",
-        "Pinyin": "túcūn",
-        "Meaning": "tàn sát cả làng"
+        "id": 65,
+        "hanzi": "屠村",
+        "pinyin": "túcūn",
+        "meaning": "tàn sát cả làng",
+        "example": "to massacre a village"
     },
     {
-        "Id": 66,
-        "Hanzi": "合十",
-        "Pinyin": "héshí",
-        "Meaning": "chắp tay (cử chỉ cầu nguyện)"
+        "id": 66,
+        "hanzi": "合十",
+        "pinyin": "héshí",
+        "meaning": "chắp tay (cử chỉ cầu nguyện)",
+        "example": "palms together (gesture)"
     },
     {
-        "Id": 67,
-        "Hanzi": "普通百姓",
-        "Pinyin": "pǔtōng bǎixìng",
-        "Meaning": "dân thường; người dân bình thường"
+        "id": 67,
+        "hanzi": "普通百姓",
+        "pinyin": "pǔtōng bǎixìng",
+        "meaning": "dân thường; người dân bình thường",
+        "example": "ordinary people; common folks"
     },
     {
-        "Id": 68,
-        "Hanzi": "完全不同",
-        "Pinyin": "wánquán bùtóng",
-        "Meaning": "hoàn toàn khác biệt"
+        "id": 68,
+        "hanzi": "完全不同",
+        "pinyin": "wánquán bùtóng",
+        "meaning": "hoàn toàn khác biệt",
+        "example": "completely different"
     },
     {
-        "Id": 69,
-        "Hanzi": "两类人",
-        "Pinyin": "liǎng lèi rén",
-        "Meaning": "hai loại người; hai nhóm người"
+        "id": 69,
+        "hanzi": "两类人",
+        "pinyin": "liǎng lèi rén",
+        "meaning": "hai loại người; hai nhóm người",
+        "example": "two categories of people"
     },
     {
-        "Id": 70,
-        "Hanzi": "这点",
-        "Pinyin": "zhèdiǎn",
-        "Meaning": "điểm này; điều này"
+        "id": 70,
+        "hanzi": "这点",
+        "pinyin": "zhèdiǎn",
+        "meaning": "điểm này; điều này",
+        "example": "this point"
     },
     {
-        "Id": 71,
-        "Hanzi": "分不清楚",
-        "Pinyin": "fēn bù qīngchu",
-        "Meaning": "không phân biệt\/nhận rõ; lẫn lộn"
+        "id": 71,
+        "hanzi": "分不清楚",
+        "pinyin": "fēn bù qīngchu",
+        "meaning": "không phân biệt\/nhận rõ; lẫn lộn",
+        "example": "cannot tell apart; indistinguishable"
     },
     {
-        "Id": 72,
-        "Hanzi": "居民",
-        "Pinyin": "jūmín",
-        "Meaning": "cư dân; dân cư; người dân"
+        "id": 72,
+        "hanzi": "居民",
+        "pinyin": "jūmín",
+        "meaning": "cư dân; dân cư; người dân",
+        "example": "resident; inhabitants"
     },
     {
-        "Id": 73,
-        "Hanzi": "因为什么",
-        "Pinyin": "yīnwèi shénme",
-        "Meaning": "vì lý do gì; vì sao"
+        "id": 73,
+        "hanzi": "因为什么",
+        "pinyin": "yīnwèi shénme",
+        "meaning": "vì lý do gì; vì sao",
+        "example": "for what reason; why"
     },
     {
-        "Id": 74,
-        "Hanzi": "团体",
-        "Pinyin": "tuántǐ",
-        "Meaning": "đoàn thể; nhóm; tổ chức"
+        "id": 74,
+        "hanzi": "团体",
+        "pinyin": "tuántǐ",
+        "meaning": "đoàn thể; nhóm; tổ chức",
+        "example": "group; organization"
     },
     {
-        "Id": 75,
-        "Hanzi": "平民",
-        "Pinyin": "píngmín",
-        "Meaning": "thường dân; dân thường"
+        "id": 75,
+        "hanzi": "平民",
+        "pinyin": "píngmín",
+        "meaning": "thường dân; dân thường",
+        "example": "civilians"
     },
     {
-        "Id": 76,
-        "Hanzi": "分开",
-        "Pinyin": "fēnkāi",
-        "Meaning": "tách ra; phân ra"
+        "id": 76,
+        "hanzi": "分开",
+        "pinyin": "fēnkāi",
+        "meaning": "tách ra; phân ra",
+        "example": "to separate"
     },
     {
-        "Id": 77,
-        "Hanzi": "支（量词）",
-        "Pinyin": "zhī",
-        "Meaning": "(lượng từ) cho đội\/quân\/nhóm vũ trang"
+        "id": 77,
+        "hanzi": "支（量词）",
+        "pinyin": "zhī",
+        "meaning": "(lượng từ) cho đội\/quân\/nhóm vũ trang",
+        "example": "MW for troops\/teams"
     },
     {
-        "Id": 78,
-        "Hanzi": "武装力量",
-        "Pinyin": "wǔzhuāng lìliàng",
-        "Meaning": "lực lượng vũ trang"
+        "id": 78,
+        "hanzi": "武装力量",
+        "pinyin": "wǔzhuāng lìliàng",
+        "meaning": "lực lượng vũ trang",
+        "example": "armed force"
     },
     {
-        "Id": 79,
-        "Hanzi": "诉求",
-        "Pinyin": "sùqiú",
-        "Meaning": "yêu cầu; đòi hỏi; nguyện vọng"
+        "id": 79,
+        "hanzi": "诉求",
+        "pinyin": "sùqiú",
+        "meaning": "yêu cầu; đòi hỏi; nguyện vọng",
+        "example": "appeal; demand"
     },
     {
-        "Id": 80,
-        "Hanzi": "力量",
-        "Pinyin": "lìliàng",
-        "Meaning": "sức mạnh; lực lượng"
+        "id": 80,
+        "hanzi": "力量",
+        "pinyin": "lìliàng",
+        "meaning": "sức mạnh; lực lượng",
+        "example": "strength; force; power"
     },
     {
-        "Id": 81,
-        "Hanzi": "源源不断",
-        "Pinyin": "yuányuán búduàn",
-        "Meaning": "liên tục; dồi dào không dứt"
+        "id": 81,
+        "hanzi": "源源不断",
+        "pinyin": "yuányuán búduàn",
+        "meaning": "liên tục; dồi dào không dứt",
+        "example": "in an endless stream; continuously"
     },
     {
-        "Id": 82,
-        "Hanzi": "打击",
-        "Pinyin": "dǎjī",
-        "Meaning": "đánh; trấn áp; trừng phạt"
+        "id": 82,
+        "hanzi": "打击",
+        "pinyin": "dǎjī",
+        "meaning": "đánh; trấn áp; trừng phạt",
+        "example": "to strike; to crack down"
     },
     {
-        "Id": 83,
-        "Hanzi": "经过",
-        "Pinyin": "jīngguò",
-        "Meaning": "trải qua; sau khi"
+        "id": 83,
+        "hanzi": "经过",
+        "pinyin": "jīngguò",
+        "meaning": "trải qua; sau khi",
+        "example": "to go through; after"
     },
     {
-        "Id": 84,
-        "Hanzi": "奢望",
-        "Pinyin": "shēwàng",
-        "Meaning": "ảo vọng; hy vọng xa vời"
+        "id": 84,
+        "hanzi": "奢望",
+        "pinyin": "shēwàng",
+        "meaning": "ảo vọng; hy vọng xa vời",
+        "example": "extravagant hope; pipe dream"
     },
     {
-        "Id": 85,
-        "Hanzi": "斗争",
-        "Pinyin": "dòuzhēng",
-        "Meaning": "đấu tranh"
+        "id": 85,
+        "hanzi": "斗争",
+        "pinyin": "dòuzhēng",
+        "meaning": "đấu tranh",
+        "example": "struggle"
     },
     {
-        "Id": 86,
-        "Hanzi": "手段",
-        "Pinyin": "shǒuduàn",
-        "Meaning": "thủ đoạn; biện pháp"
+        "id": 86,
+        "hanzi": "手段",
+        "pinyin": "shǒuduàn",
+        "meaning": "thủ đoạn; biện pháp",
+        "example": "means; method"
     },
     {
-        "Id": 87,
-        "Hanzi": "过上",
-        "Pinyin": "guòshàng",
-        "Meaning": "(đạt được để) sống\/ở trong (mức sống nào đó)"
+        "id": 87,
+        "hanzi": "过上",
+        "pinyin": "guòshàng",
+        "meaning": "(đạt được để) sống\/ở trong (mức sống nào đó)",
+        "example": "to manage to live (a certain life)"
     },
     {
-        "Id": 88,
-        "Hanzi": "同样",
-        "Pinyin": "tóngyàng",
-        "Meaning": "tương tự; giống như"
+        "id": 88,
+        "hanzi": "同样",
+        "pinyin": "tóngyàng",
+        "meaning": "tương tự; giống như",
+        "example": "similarly; likewise"
     },
     {
-        "Id": 89,
-        "Hanzi": "最终",
-        "Pinyin": "zuìzhōng",
-        "Meaning": "cuối cùng; rốt cuộc"
+        "id": 89,
+        "hanzi": "最终",
+        "pinyin": "zuìzhōng",
+        "meaning": "cuối cùng; rốt cuộc",
+        "example": "eventually; ultimately"
     },
     {
-        "Id": 90,
-        "Hanzi": "现实",
-        "Pinyin": "xiànshí",
-        "Meaning": "hiện thực; thực tế"
+        "id": 90,
+        "hanzi": "现实",
+        "pinyin": "xiànshí",
+        "meaning": "hiện thực; thực tế",
+        "example": "reality"
     },
     {
-        "Id": 91,
-        "Hanzi": "朝着",
-        "Pinyin": "cháozhe",
-        "Meaning": "hướng về; theo (phương hướng)"
+        "id": 91,
+        "hanzi": "朝着",
+        "pinyin": "cháozhe",
+        "meaning": "hướng về; theo (phương hướng)",
+        "example": "towards; in the direction of"
     },
     {
-        "Id": 92,
-        "Hanzi": "方向",
-        "Pinyin": "fāngxiàng",
-        "Meaning": "phương hướng; hướng đi"
+        "id": 92,
+        "hanzi": "方向",
+        "pinyin": "fāngxiàng",
+        "meaning": "phương hướng; hướng đi",
+        "example": "direction"
     },
     {
-        "Id": 93,
-        "Hanzi": "前进",
-        "Pinyin": "qiánjìn",
-        "Meaning": "tiến lên; tiến bước"
+        "id": 93,
+        "hanzi": "前进",
+        "pinyin": "qiánjìn",
+        "meaning": "tiến lên; tiến bước",
+        "example": "to advance; to move forward"
     },
     {
-        "Id": 94,
-        "Hanzi": "单方",
-        "Pinyin": "dānfāng",
-        "Meaning": "đơn phương; một phía"
+        "id": 94,
+        "hanzi": "单方",
+        "pinyin": "dānfāng",
+        "meaning": "đơn phương; một phía",
+        "example": "one‑sided; unilateral"
     },
     {
-        "Id": 95,
-        "Hanzi": "宣传",
-        "Pinyin": "xuānchuán",
-        "Meaning": "tuyên truyền; quảng bá"
+        "id": 95,
+        "hanzi": "宣传",
+        "pinyin": "xuānchuán",
+        "meaning": "tuyên truyền; quảng bá",
+        "example": "propaganda; publicity"
     },
     {
-        "Id": 96,
-        "Hanzi": "威胁",
-        "Pinyin": "wēixié",
-        "Meaning": "đe dọa; uy hiếp"
+        "id": 96,
+        "hanzi": "威胁",
+        "pinyin": "wēixié",
+        "meaning": "đe dọa; uy hiếp",
+        "example": "threat; to threaten"
     },
     {
-        "Id": 97,
-        "Hanzi": "弱者",
-        "Pinyin": "ruòzhě",
-        "Meaning": "kẻ yếu; người yếu thế"
+        "id": 97,
+        "hanzi": "弱者",
+        "pinyin": "ruòzhě",
+        "meaning": "kẻ yếu; người yếu thế",
+        "example": "the weak"
     },
     {
-        "Id": 98,
-        "Hanzi": "正义",
-        "Pinyin": "zhèngyì",
-        "Meaning": "chính nghĩa; công lý"
+        "id": 98,
+        "hanzi": "正义",
+        "pinyin": "zhèngyì",
+        "meaning": "chính nghĩa; công lý",
+        "example": "justice"
     },
     {
-        "Id": 99,
-        "Hanzi": "干预",
-        "Pinyin": "gānyù",
-        "Meaning": "can thiệp; xen vào"
+        "id": 99,
+        "hanzi": "干预",
+        "pinyin": "gānyù",
+        "meaning": "can thiệp; xen vào",
+        "example": "to intervene"
     },
     {
-        "Id": 100,
-        "Hanzi": "内政",
-        "Pinyin": "nèizhèng",
-        "Meaning": "nội chính; công việc nội bộ"
+        "id": 100,
+        "hanzi": "内政",
+        "pinyin": "nèizhèng",
+        "meaning": "nội chính; công việc nội bộ",
+        "example": "internal affairs"
     },
     {
-        "Id": 101,
-        "Hanzi": "几十年",
-        "Pinyin": "jǐshí nián",
-        "Meaning": "mấy chục năm"
+        "id": 101,
+        "hanzi": "几十年",
+        "pinyin": "jǐshí nián",
+        "meaning": "mấy chục năm",
+        "example": "dozens of years"
     },
     {
-        "Id": 102,
-        "Hanzi": "没能",
-        "Pinyin": "méi néng",
-        "Meaning": "không thể; không làm được"
+        "id": 102,
+        "hanzi": "没能",
+        "pinyin": "méi néng",
+        "meaning": "không thể; không làm được",
+        "example": "failed to; was not able to"
     },
     {
-        "Id": 103,
-        "Hanzi": "军服",
-        "Pinyin": "jūnfú",
-        "Meaning": "quân phục"
+        "id": 103,
+        "hanzi": "军服",
+        "pinyin": "jūnfú",
+        "meaning": "quân phục",
+        "example": "military uniform"
     },
     {
-        "Id": 104,
-        "Hanzi": "打仗",
-        "Pinyin": "dǎzhàng",
-        "Meaning": "đánh trận; chiến đấu (chiến tranh)"
+        "id": 104,
+        "hanzi": "打仗",
+        "pinyin": "dǎzhàng",
+        "meaning": "đánh trận; chiến đấu (chiến tranh)",
+        "example": "to fight a war"
     },
     {
-        "Id": 105,
-        "Hanzi": "便服",
-        "Pinyin": "biànfú",
-        "Meaning": "đồ thường; thường phục"
+        "id": 105,
+        "hanzi": "便服",
+        "pinyin": "biànfú",
+        "meaning": "đồ thường; thường phục",
+        "example": "civilian clothes"
     },
     {
-        "Id": 106,
-        "Hanzi": "老百姓",
-        "Pinyin": "lǎobǎixìng",
-        "Meaning": "người dân thường; bá tánh"
+        "id": 106,
+        "hanzi": "老百姓",
+        "pinyin": "lǎobǎixìng",
+        "meaning": "người dân thường; bá tánh",
+        "example": "ordinary people"
     },
     {
-        "Id": 107,
-        "Hanzi": "示威",
-        "Pinyin": "shìwēi",
-        "Meaning": "biểu tình; thị uy"
+        "id": 107,
+        "hanzi": "示威",
+        "pinyin": "shìwēi",
+        "meaning": "biểu tình; thị uy",
+        "example": "to demonstrate (protest)"
     },
     {
-        "Id": 108,
-        "Hanzi": "游行",
-        "Pinyin": "yóuxíng",
-        "Meaning": "diễu hành; tuần hành"
+        "id": 108,
+        "hanzi": "游行",
+        "pinyin": "yóuxíng",
+        "meaning": "diễu hành; tuần hành",
+        "example": "march; parade"
     },
     {
-        "Id": 109,
-        "Hanzi": "示威游行",
-        "Pinyin": "shìwēi yóuxíng",
-        "Meaning": "biểu tình tuần hành"
+        "id": 109,
+        "hanzi": "示威游行",
+        "pinyin": "shìwēi yóuxíng",
+        "meaning": "biểu tình tuần hành",
+        "example": "protest march; demonstration"
     },
     {
-        "Id": 110,
-        "Hanzi": "不全",
-        "Pinyin": "bùquán",
-        "Meaning": "không hoàn toàn; không phải tất cả"
+        "id": 110,
+        "hanzi": "不全",
+        "pinyin": "bùquán",
+        "meaning": "không hoàn toàn; không phải tất cả",
+        "example": "not all; not entirely"
     },
     {
-        "Id": 111,
-        "Hanzi": "因…而",
-        "Pinyin": "yīn … ér",
-        "Meaning": "vì… mà… (kết cấu nhân‑quả trang trọng)"
+        "id": 111,
+        "hanzi": "因…而",
+        "pinyin": "yīn … ér",
+        "meaning": "vì… mà… (kết cấu nhân‑quả trang trọng)",
+        "example": "because … therefore … (formal)"
     },
     {
-        "Id": 112,
-        "Hanzi": "圣战",
-        "Pinyin": "shèngzhàn",
-        "Meaning": "thánh chiến"
+        "id": 112,
+        "hanzi": "圣战",
+        "pinyin": "shèngzhàn",
+        "meaning": "thánh chiến",
+        "example": "holy war"
     },
     {
-        "Id": 113,
-        "Hanzi": "依据",
-        "Pinyin": "yījù",
-        "Meaning": "căn cứ; cơ sở (lý lẽ)"
+        "id": 113,
+        "hanzi": "依据",
+        "pinyin": "yījù",
+        "meaning": "căn cứ; cơ sở (lý lẽ)",
+        "example": "basis; grounds"
     },
     {
-        "Id": 114,
-        "Hanzi": "剧情",
-        "Pinyin": "jùqíng",
-        "Meaning": "cốt truyện; tình tiết (phim\/tiểu thuyết)"
+        "id": 114,
+        "hanzi": "剧情",
+        "pinyin": "jùqíng",
+        "meaning": "cốt truyện; tình tiết (phim\/tiểu thuyết)",
+        "example": "plot; storyline"
     },
     {
-        "Id": 115,
-        "Hanzi": "显现",
-        "Pinyin": "xiǎnxiàn",
-        "Meaning": "hiển hiện; bộc lộ; biểu lộ"
+        "id": 115,
+        "hanzi": "显现",
+        "pinyin": "xiǎnxiàn",
+        "meaning": "hiển hiện; bộc lộ; biểu lộ",
+        "example": "to manifest; to appear"
     },
     {
-        "Id": 116,
-        "Hanzi": "法定",
-        "Pinyin": "fǎdìng",
-        "Meaning": "pháp định; theo luật định"
+        "id": 116,
+        "hanzi": "法定",
+        "pinyin": "fǎdìng",
+        "meaning": "pháp định; theo luật định",
+        "example": "statutory; legal"
     },
     {
-        "Id": 117,
-        "Hanzi": "法定领土面积",
-        "Pinyin": "fǎdìng lǐngtǔ miànjī",
-        "Meaning": "diện tích lãnh thổ theo luật định"
+        "id": 117,
+        "hanzi": "法定领土面积",
+        "pinyin": "fǎdìng lǐngtǔ miànjī",
+        "meaning": "diện tích lãnh thổ theo luật định",
+        "example": "statutory territorial area"
     },
     {
-        "Id": 118,
-        "Hanzi": "土地财产",
-        "Pinyin": "tǔdì cáichǎn",
-        "Meaning": "đất đai và tài sản"
+        "id": 118,
+        "hanzi": "土地财产",
+        "pinyin": "tǔdì cáichǎn",
+        "meaning": "đất đai và tài sản",
+        "example": "land and property"
     },
     {
-        "Id": 119,
-        "Hanzi": "二等公民",
-        "Pinyin": "èrděng gōngmín",
-        "Meaning": "công dân hạng hai"
+        "id": 119,
+        "hanzi": "二等公民",
+        "pinyin": "èrděng gōngmín",
+        "meaning": "công dân hạng hai",
+        "example": "second‑class citizen"
     },
     {
-        "Id": 120,
-        "Hanzi": "给…带帽子",
-        "Pinyin": "gěi … dài màozi",
-        "Meaning": "gán nhãn\/đổ mũ (kết tội vô căn cứ)"
+        "id": 120,
+        "hanzi": "给…带帽子",
+        "pinyin": "gěi … dài màozi",
+        "meaning": "gán nhãn\/đổ mũ (kết tội vô căn cứ)",
+        "example": "to pin a label on; to stigmatize"
     },
     {
-        "Id": 121,
-        "Hanzi": "证据说话",
-        "Pinyin": "zhèngjù shuōhuà",
-        "Meaning": "nói bằng chứng; lấy chứng cứ làm chuẩn"
+        "id": 121,
+        "hanzi": "证据说话",
+        "pinyin": "zhèngjù shuōhuà",
+        "meaning": "nói bằng chứng; lấy chứng cứ làm chuẩn",
+        "example": "let the evidence speak"
     },
     {
-        "Id": 122,
-        "Hanzi": "想当然",
-        "Pinyin": "xiǎngdāngrán",
-        "Meaning": "tự cho là đúng; võ đoán"
+        "id": 122,
+        "hanzi": "想当然",
+        "pinyin": "xiǎngdāngrán",
+        "meaning": "tự cho là đúng; võ đoán",
+        "example": "take for granted; presumptuous"
     },
     {
-        "Id": 123,
-        "Hanzi": "应知",
-        "Pinyin": "yīngzhī",
-        "Meaning": "nên biết; cần phải biết"
+        "id": 123,
+        "hanzi": "应知",
+        "pinyin": "yīngzhī",
+        "meaning": "nên biết; cần phải biết",
+        "example": "should know; ought to know"
     },
     {
-        "Id": 124,
-        "Hanzi": "举头三尺有神明",
-        "Pinyin": "jǔtóu sān chǐ yǒu shénmíng",
-        "Meaning": "ngẩng đầu ba thước có thần linh (khuyên kính sợ, tự trọng)"
+        "id": 124,
+        "hanzi": "举头三尺有神明",
+        "pinyin": "jǔtóu sān chǐ yǒu shénmíng",
+        "meaning": "ngẩng đầu ba thước có thần linh (khuyên kính sợ, tự trọng)",
+        "example": "heaven sees all (idiom)"
     },
     {
-        "Id": 125,
-        "Hanzi": "犹太人",
-        "Pinyin": "Yóutàirén",
-        "Meaning": "người Do Thái"
+        "id": 125,
+        "hanzi": "犹太人",
+        "pinyin": "Yóutàirén",
+        "meaning": "người Do Thái",
+        "example": "Jewish people"
     },
     {
-        "Id": 126,
-        "Hanzi": "反犹",
-        "Pinyin": "fǎn‑yóu",
-        "Meaning": "bài Do Thái; chống Do Thái"
+        "id": 126,
+        "hanzi": "反犹",
+        "pinyin": "fǎn‑yóu",
+        "meaning": "bài Do Thái; chống Do Thái",
+        "example": "antisemitism; anti‑Jewish"
     },
     {
-        "Id": 127,
-        "Hanzi": "手势",
-        "Pinyin": "shǒushì",
-        "Meaning": "cử chỉ; ký hiệu bằng tay"
+        "id": 127,
+        "hanzi": "手势",
+        "pinyin": "shǒushì",
+        "meaning": "cử chỉ; ký hiệu bằng tay",
+        "example": "hand gesture"
     },
     {
-        "Id": 128,
-        "Hanzi": "文化程度",
-        "Pinyin": "wénhuà chéngdù",
-        "Meaning": "trình độ văn hóa"
+        "id": 128,
+        "hanzi": "文化程度",
+        "pinyin": "wénhuà chéngdù",
+        "meaning": "trình độ văn hóa",
+        "example": "educational level"
     },
     {
-        "Id": 129,
-        "Hanzi": "知识水平",
-        "Pinyin": "zhīshi shuǐpíng",
-        "Meaning": "trình độ tri thức"
+        "id": 129,
+        "hanzi": "知识水平",
+        "pinyin": "zhīshi shuǐpíng",
+        "meaning": "trình độ tri thức",
+        "example": "knowledge level"
     },
     {
-        "Id": 130,
-        "Hanzi": "认知能力",
-        "Pinyin": "rènzhī nénglì",
-        "Meaning": "năng lực nhận thức"
+        "id": 130,
+        "hanzi": "认知能力",
+        "pinyin": "rènzhī nénglì",
+        "meaning": "năng lực nhận thức",
+        "example": "cognitive ability"
     },
     {
-        "Id": 131,
-        "Hanzi": "格局境界",
-        "Pinyin": "géjú jìngjiè",
-        "Meaning": "tầm nhìn and cảnh giới (ẩn dụ: độ rộng tư duy)"
+        "id": 131,
+        "hanzi": "格局境界",
+        "pinyin": "géjú jìngjiè",
+        "meaning": "tầm nhìn and cảnh giới (ẩn dụ: độ rộng tư duy)",
+        "example": "breadth of vision; level of mind"
     },
     {
-        "Id": 132,
-        "Hanzi": "人性立场",
-        "Pinyin": "rénxìng lìchǎng",
-        "Meaning": "lập trường nhân tính\/nhân đạo"
+        "id": 132,
+        "hanzi": "人性立场",
+        "pinyin": "rénxìng lìchǎng",
+        "meaning": "lập trường nhân tính\/nhân đạo",
+        "example": "humanistic stance"
     },
     {
-        "Id": 133,
-        "Hanzi": "中华大地",
-        "Pinyin": "Zhōnghuá dàdì",
-        "Meaning": "đất nước Trung Hoa (cách nói văn chương)"
+        "id": 133,
+        "hanzi": "中华大地",
+        "pinyin": "Zhōnghuá dàdì",
+        "meaning": "đất nước Trung Hoa (cách nói văn chương)",
+        "example": "the land of China (literary)"
     },
     {
-        "Id": 134,
-        "Hanzi": "犯下",
-        "Pinyin": "fànxià",
-        "Meaning": "phạm (tội); gây ra (tội ác)"
+        "id": 134,
+        "hanzi": "犯下",
+        "pinyin": "fànxià",
+        "meaning": "phạm (tội); gây ra (tội ác)",
+        "example": "to commit (a crime)"
     },
     {
-        "Id": 135,
-        "Hanzi": "滔天罪行",
-        "Pinyin": "tāotiān zuìxíng",
-        "Meaning": "tội ác tày trời"
+        "id": 135,
+        "hanzi": "滔天罪行",
+        "pinyin": "tāotiān zuìxíng",
+        "meaning": "tội ác tày trời",
+        "example": "heinous crimes; monstrous crimes"
     },
     {
-        "Id": 136,
-        "Hanzi": "惨绝人道",
-        "Pinyin": "cǎnjué réndào",
-        "Meaning": "tàn bạo vô nhân đạo"
+        "id": 136,
+        "hanzi": "惨绝人道",
+        "pinyin": "cǎnjué réndào",
+        "meaning": "tàn bạo vô nhân đạo",
+        "example": "inhuman; atrocious"
     },
     {
-        "Id": 137,
-        "Hanzi": "吞并",
-        "Pinyin": "tūnbìng",
-        "Meaning": "thôn tính; sáp nhập (lãnh thổ)"
+        "id": 137,
+        "hanzi": "吞并",
+        "pinyin": "tūnbìng",
+        "meaning": "thôn tính; sáp nhập (lãnh thổ)",
+        "example": "to annex"
     },
     {
-        "Id": 138,
-        "Hanzi": "借口",
-        "Pinyin": "jièkǒu",
-        "Meaning": "cớ; cái cớ; viện cớ"
+        "id": 138,
+        "hanzi": "借口",
+        "pinyin": "jièkǒu",
+        "meaning": "cớ; cái cớ; viện cớ",
+        "example": "pretext; excuse"
     },
     {
-        "Id": 139,
-        "Hanzi": "国际秩序",
-        "Pinyin": "guójì zhìxù",
-        "Meaning": "trật tự quốc tế"
+        "id": 139,
+        "hanzi": "国际秩序",
+        "pinyin": "guójì zhìxù",
+        "meaning": "trật tự quốc tế",
+        "example": "international order"
     },
     {
-        "Id": 140,
-        "Hanzi": "由…变成…",
-        "Pinyin": "yóu … biànchéng …",
-        "Meaning": "từ … trở thành …"
+        "id": 140,
+        "hanzi": "由…变成…",
+        "pinyin": "yóu … biànchéng …",
+        "meaning": "từ … trở thành …",
+        "example": "to change from … into …"
     },
     {
-        "Id": 141,
-        "Hanzi": "公民",
-        "Pinyin": "gōngmín",
-        "Meaning": "công dân"
+        "id": 141,
+        "hanzi": "公民",
+        "pinyin": "gōngmín",
+        "meaning": "công dân",
+        "example": "citizen"
     },
     {
-        "Id": 142,
-        "Hanzi": "发言",
-        "Pinyin": "fāyán",
-        "Meaning": "phát biểu; lên tiếng"
+        "id": 142,
+        "hanzi": "发言",
+        "pinyin": "fāyán",
+        "meaning": "phát biểu; lên tiếng",
+        "example": "to speak; make a statement"
     },
     {
-        "Id": 143,
-        "Hanzi": "当做",
-        "Pinyin": "dāngzuò",
-        "Meaning": "coi như; xem như"
+        "id": 143,
+        "hanzi": "当做",
+        "pinyin": "dāngzuò",
+        "meaning": "coi như; xem như",
+        "example": "to regard as; treat as"
     },
     {
-        "Id": 144,
-        "Hanzi": "敌人",
-        "Pinyin": "dírén",
-        "Meaning": "kẻ địch; kẻ thù"
+        "id": 144,
+        "hanzi": "敌人",
+        "pinyin": "dírén",
+        "meaning": "kẻ địch; kẻ thù",
+        "example": "enemy"
     },
     {
-        "Id": 145,
-        "Hanzi": "构成威胁",
-        "Pinyin": "gòuchéng wēixié",
-        "Meaning": "cấu thành\/đe dọa"
+        "id": 145,
+        "hanzi": "构成威胁",
+        "pinyin": "gòuchéng wēixié",
+        "meaning": "cấu thành\/đe dọa",
+        "example": "to pose a threat"
     },
     {
-        "Id": 146,
-        "Hanzi": "令人惊讶",
-        "Pinyin": "lìngrén jīngyà",
-        "Meaning": "khiến người ta kinh ngạc"
+        "id": 146,
+        "hanzi": "令人惊讶",
+        "pinyin": "lìngrén jīngyà",
+        "meaning": "khiến người ta kinh ngạc",
+        "example": "surprising; astonishing"
     },
     {
-        "Id": 147,
-        "Hanzi": "当回事",
-        "Pinyin": "dāng huí shì",
-        "Meaning": "coi là chuyện nghiêm túc; xem là việc quan trọng"
+        "id": 147,
+        "hanzi": "当回事",
+        "pinyin": "dāng huí shì",
+        "meaning": "coi là chuyện nghiêm túc; xem là việc quan trọng",
+        "example": "to take seriously"
     },
     {
-        "Id": 148,
-        "Hanzi": "他国",
-        "Pinyin": "tāguó",
-        "Meaning": "nước khác; quốc gia khác"
+        "id": 148,
+        "hanzi": "他国",
+        "pinyin": "tāguó",
+        "meaning": "nước khác; quốc gia khác",
+        "example": "another country; foreign state"
     },
     {
-        "Id": 149,
-        "Hanzi": "罢了（语气）",
-        "Pinyin": "bàle",
-        "Meaning": "…mà thôi; …chỉ là (trợ từ ngữ khí)"
+        "id": 149,
+        "hanzi": "罢了（语气）",
+        "pinyin": "bàle",
+        "meaning": "…mà thôi; …chỉ là (trợ từ ngữ khí)",
+        "example": "that’s all; merely"
     },
     {
-        "Id": 150,
-        "Hanzi": "表达",
-        "Pinyin": "biǎodá",
-        "Meaning": "biểu đạt; diễn đạt"
+        "id": 150,
+        "hanzi": "表达",
+        "pinyin": "biǎodá",
+        "meaning": "biểu đạt; diễn đạt",
+        "example": "to express; articulation"
     },
     {
-        "Id": 151,
-        "Hanzi": "看不懂",
-        "Pinyin": "kàn bu dǒng",
-        "Meaning": "không hiểu (khi đọc\/xem)"
+        "id": 151,
+        "hanzi": "看不懂",
+        "pinyin": "kàn bu dǒng",
+        "meaning": "không hiểu (khi đọc\/xem)",
+        "example": "cannot understand (by reading\/seeing)"
     },
     {
-        "Id": 152,
-        "Hanzi": "看多（网语）",
-        "Pinyin": "kàn duō",
-        "Meaning": "xem quá nhiều; sa đà xem (cách nói trên mạng)"
+        "id": 152,
+        "hanzi": "看多（网语）",
+        "pinyin": "kàn duō",
+        "meaning": "xem quá nhiều; sa đà xem (cách nói trên mạng)",
+        "example": "to watch\/read too much (internet usage)"
     },
     {
-        "Id": 153,
-        "Hanzi": "夸奖",
-        "Pinyin": "kuājiǎng",
-        "Meaning": "khen ngợi; tán dương"
+        "id": 153,
+        "hanzi": "夸奖",
+        "pinyin": "kuājiǎng",
+        "meaning": "khen ngợi; tán dương",
+        "example": "to praise; compliment"
     },
     {
-        "Id": 154,
-        "Hanzi": "一下子",
-        "Pinyin": "yíxiàzi",
-        "Meaning": "bất chợt; trong nháy mắt; đột ngột"
+        "id": 154,
+        "hanzi": "一下子",
+        "pinyin": "yíxiàzi",
+        "meaning": "bất chợt; trong nháy mắt; đột ngột",
+        "example": "all of a sudden; suddenly"
     },
     {
-        "Id": 155,
-        "Hanzi": "收入",
-        "Pinyin": "shōurù",
-        "Meaning": "thu nhập"
+        "id": 155,
+        "hanzi": "收入",
+        "pinyin": "shōurù",
+        "meaning": "thu nhập",
+        "example": "income; earnings"
     },
     {
-        "Id": 156,
-        "Hanzi": "拉高",
-        "Pinyin": "lāgāo",
-        "Meaning": "kéo lên; đẩy lên (giá trị\/thu nhập…)"
+        "id": 156,
+        "hanzi": "拉高",
+        "pinyin": "lāgāo",
+        "meaning": "kéo lên; đẩy lên (giá trị\/thu nhập…)",
+        "example": "to push up; to raise"
     },
     {
-        "Id": 157,
-        "Hanzi": "浙江",
-        "Pinyin": "Zhèjiāng",
-        "Meaning": "Chiết Giang (tỉnh TQ)"
+        "id": 157,
+        "hanzi": "浙江",
+        "pinyin": "Zhèjiāng",
+        "meaning": "Chiết Giang (tỉnh TQ)",
+        "example": "Zhejiang (province)"
     },
     {
-        "Id": 158,
-        "Hanzi": "扶植",
-        "Pinyin": "fúzhí",
-        "Meaning": "chống lưng; đỡ đầu; bồi dưỡng (tổ chức\/lực lượng)"
+        "id": 158,
+        "hanzi": "扶植",
+        "pinyin": "fúzhí",
+        "meaning": "chống lưng; đỡ đầu; bồi dưỡng (tổ chức\/lực lượng)",
+        "example": "to foster; to back; to prop up"
     },
     {
-        "Id": 159,
-        "Hanzi": "究竟",
-        "Pinyin": "jiūjìng",
-        "Meaning": "rốt cuộc;究竟 (nhấn mạnh truy vấn đến cùng)"
+        "id": 159,
+        "hanzi": "究竟",
+        "pinyin": "jiūjìng",
+        "meaning": "rốt cuộc;究竟 (nhấn mạnh truy vấn đến cùng)",
+        "example": "after all; exactly"
     },
     {
-        "Id": 160,
-        "Hanzi": "领",
-        "Pinyin": "lǐng",
-        "Meaning": "lĩnh; nhận (tiền\/quà…)"
+        "id": 160,
+        "hanzi": "领",
+        "pinyin": "lǐng",
+        "meaning": "lĩnh; nhận (tiền\/quà…)",
+        "example": "to receive; to draw (money)"
     },
     {
-        "Id": 161,
-        "Hanzi": "良知",
-        "Pinyin": "liángzhī",
-        "Meaning": "lương tri; lương tâm"
+        "id": 161,
+        "hanzi": "良知",
+        "pinyin": "liángzhī",
+        "meaning": "lương tri; lương tâm",
+        "example": "conscience"
     },
     {
-        "Id": 162,
-        "Hanzi": "来龙去脉",
-        "Pinyin": "láilóng qùmài",
-        "Meaning": "ngọn nguồn and mạch lạc (đầu đuôi sự việc)"
+        "id": 162,
+        "hanzi": "来龙去脉",
+        "pinyin": "láilóng qùmài",
+        "meaning": "ngọn nguồn and mạch lạc (đầu đuôi sự việc)",
+        "example": "the ins and outs; the whole story"
     },
     {
-        "Id": 163,
-        "Hanzi": "惨状",
-        "Pinyin": "cǎnzhuàng",
-        "Meaning": "thảm trạng; cảnh ngộ bi thảm"
+        "id": 163,
+        "hanzi": "惨状",
+        "pinyin": "cǎnzhuàng",
+        "meaning": "thảm trạng; cảnh ngộ bi thảm",
+        "example": "tragic condition; misery"
     },
     {
-        "Id": 164,
-        "Hanzi": "争斗",
-        "Pinyin": "zhēngdòu",
-        "Meaning": "tranh đấu; xung đột"
+        "id": 164,
+        "hanzi": "争斗",
+        "pinyin": "zhēngdòu",
+        "meaning": "tranh đấu; xung đột",
+        "example": "strife; conflict"
     },
     {
-        "Id": 165,
-        "Hanzi": "分歧",
-        "Pinyin": "fēnqí",
-        "Meaning": "bất đồng; chia rẽ; khác biệt quan điểm"
+        "id": 165,
+        "hanzi": "分歧",
+        "pinyin": "fēnqí",
+        "meaning": "bất đồng; chia rẽ; khác biệt quan điểm",
+        "example": "divergence; disagreement"
     },
     {
-        "Id": 166,
-        "Hanzi": "悲哀",
-        "Pinyin": "bēi’āi",
-        "Meaning": "bi ai; buồn thảm; đáng buồn"
+        "id": 166,
+        "hanzi": "悲哀",
+        "pinyin": "bēi’āi",
+        "meaning": "bi ai; buồn thảm; đáng buồn",
+        "example": "sadness; lamentable"
     },
     {
-        "Id": 167,
-        "Hanzi": "团结",
-        "Pinyin": "tuánjié",
-        "Meaning": "đoàn kết"
+        "id": 167,
+        "hanzi": "团结",
+        "pinyin": "tuánjié",
+        "meaning": "đoàn kết",
+        "example": "to unite; unity"
     },
     {
-        "Id": 168,
-        "Hanzi": "塑造",
-        "Pinyin": "sùzào",
-        "Meaning": "kiến tạo; định hình; tạo dựng"
+        "id": 168,
+        "hanzi": "塑造",
+        "pinyin": "sùzào",
+        "meaning": "kiến tạo; định hình; tạo dựng",
+        "example": "to shape; to forge"
     },
     {
-        "Id": 169,
-        "Hanzi": "和谐",
-        "Pinyin": "héxié",
-        "Meaning": "hài hòa; hòa hợp"
+        "id": 169,
+        "hanzi": "和谐",
+        "pinyin": "héxié",
+        "meaning": "hài hòa; hòa hợp",
+        "example": "harmonious; harmony"
     },
     {
-        "Id": 170,
-        "Hanzi": "公投",
-        "Pinyin": "gōngtóu",
-        "Meaning": "trưng cầu dân ý"
+        "id": 170,
+        "hanzi": "公投",
+        "pinyin": "gōngtóu",
+        "meaning": "trưng cầu dân ý",
+        "example": "referendum"
     },
     {
-        "Id": 171,
-        "Hanzi": "武装",
-        "Pinyin": "wǔzhuāng",
-        "Meaning": "vũ trang; lực lượng vũ trang (danh từ\/động từ)"
+        "id": 171,
+        "hanzi": "武装",
+        "pinyin": "wǔzhuāng",
+        "meaning": "vũ trang; lực lượng vũ trang (danh từ\/động từ)",
+        "example": "armed; armed group"
     },
     {
-        "Id": 172,
-        "Hanzi": "对岸",
-        "Pinyin": "duì’àn",
-        "Meaning": "bờ bên kia; (bóng) phía bên kia"
+        "id": 172,
+        "hanzi": "对岸",
+        "pinyin": "duì’àn",
+        "meaning": "bờ bên kia; (bóng) phía bên kia",
+        "example": "the opposite shore; the other side"
     },
     {
-        "Id": 173,
-        "Hanzi": "看多上瘾",
-        "Pinyin": "kàn duō shàngyǐn",
-        "Meaning": "xem nhiều thành nghiện (cụm dùng trên mạng)"
+        "id": 173,
+        "hanzi": "看多上瘾",
+        "pinyin": "kàn duō shàngyǐn",
+        "meaning": "xem nhiều thành nghiện (cụm dùng trên mạng)",
+        "example": "to binge‑watch and get addicted"
     },
     {
-        "Id": 174,
-        "Hanzi": "做人做事",
-        "Pinyin": "zuòrén zuòshì",
-        "Meaning": "đối nhân xử thế; làm người làm việc"
+        "id": 174,
+        "hanzi": "做人做事",
+        "pinyin": "zuòrén zuòshì",
+        "meaning": "đối nhân xử thế; làm người làm việc",
+        "example": "conduct oneself and handle affairs"
     },
     {
-        "Id": 175,
-        "Hanzi": "道理",
-        "Pinyin": "dàolǐ",
-        "Meaning": "đạo lý; lẽ phải; lý lẽ"
+        "id": 175,
+        "hanzi": "道理",
+        "pinyin": "dàolǐ",
+        "meaning": "đạo lý; lẽ phải; lý lẽ",
+        "example": "reason; principle"
     },
     {
-        "Id": 176,
-        "Hanzi": "民众",
-        "Pinyin": "mínzhòng",
-        "Meaning": "quần chúng; người dân"
+        "id": 176,
+        "hanzi": "民众",
+        "pinyin": "mínzhòng",
+        "meaning": "quần chúng; người dân",
+        "example": "the masses; the public"
     },
     {
-        "Id": 177,
-        "Hanzi": "不当回事",
-        "Pinyin": "bù dāng huí shì",
-        "Meaning": "không xem ra gì; không coi là chuyện nghiêm túc"
+        "id": 177,
+        "hanzi": "不当回事",
+        "pinyin": "bù dāng huí shì",
+        "meaning": "không xem ra gì; không coi là chuyện nghiêm túc",
+        "example": "to not take seriously"
     },
     {
-        "Id": 178,
-        "Hanzi": "组成",
-        "Pinyin": "zǔchéng",
-        "Meaning": "cấu thành; tổ thành; gồm bởi"
+        "id": 178,
+        "hanzi": "组成",
+        "pinyin": "zǔchéng",
+        "meaning": "cấu thành; tổ thành; gồm bởi",
+        "example": "to compose; to make up"
     },
     {
-        "Id": 179,
-        "Hanzi": "夺权",
-        "Pinyin": "duóquán",
-        "Meaning": "đoạt quyền; cướp quyền"
+        "id": 179,
+        "hanzi": "夺权",
+        "pinyin": "duóquán",
+        "meaning": "đoạt quyền; cướp quyền",
+        "example": "to seize power"
     },
     {
-        "Id": 180,
-        "Hanzi": "着想",
-        "Pinyin": "zhuóxiǎng",
-        "Meaning": "nghĩ cho; lo nghĩ vì (ai\/điều gì)"
+        "id": 180,
+        "hanzi": "着想",
+        "pinyin": "zhuóxiǎng",
+        "meaning": "nghĩ cho; lo nghĩ vì (ai\/điều gì)",
+        "example": "to think for (someone); consider"
     },
     {
-        "Id": 181,
-        "Hanzi": "真相",
-        "Pinyin": "zhēnxiàng",
-        "Meaning": "chân tướng; sự thật"
+        "id": 181,
+        "hanzi": "真相",
+        "pinyin": "zhēnxiàng",
+        "meaning": "chân tướng; sự thật",
+        "example": "the truth; the real situation"
     },
     {
-        "Id": 182,
-        "Hanzi": "胡乱",
-        "Pinyin": "húluàn",
-        "Meaning": "cẩu thả; bừa bãi; vô tội vạ"
+        "id": 182,
+        "hanzi": "胡乱",
+        "pinyin": "húluàn",
+        "meaning": "cẩu thả; bừa bãi; vô tội vạ",
+        "example": "recklessly; at random"
     },
     {
-        "Id": 183,
-        "Hanzi": "轰炸",
-        "Pinyin": "hōngzhà",
-        "Meaning": "oanh tạc; ném bom"
+        "id": 183,
+        "hanzi": "轰炸",
+        "pinyin": "hōngzhà",
+        "meaning": "oanh tạc; ném bom",
+        "example": "to bomb; bombard"
     },
     {
-        "Id": 184,
-        "Hanzi": "国际社会",
-        "Pinyin": "guójì shèhuì",
-        "Meaning": "cộng đồng quốc tế"
+        "id": 184,
+        "hanzi": "国际社会",
+        "pinyin": "guójì shèhuì",
+        "meaning": "cộng đồng quốc tế",
+        "example": "international community"
     },
     {
-        "Id": 185,
-        "Hanzi": "人道主义",
-        "Pinyin": "réndào zhǔyì",
-        "Meaning": "chủ nghĩa nhân đạo"
+        "id": 185,
+        "hanzi": "人道主义",
+        "pinyin": "réndào zhǔyì",
+        "meaning": "chủ nghĩa nhân đạo",
+        "example": "humanitarianism"
     },
     {
-        "Id": 186,
-        "Hanzi": "救援",
-        "Pinyin": "jiùyuán",
-        "Meaning": "cứu trợ; cứu viện; cứu hộ"
+        "id": 186,
+        "hanzi": "救援",
+        "pinyin": "jiùyuán",
+        "meaning": "cứu trợ; cứu viện; cứu hộ",
+        "example": "relief; rescue; aid"
     },
     {
-        "Id": 187,
-        "Hanzi": "网警",
-        "Pinyin": "wǎngjǐng",
-        "Meaning": "cảnh sát mạng; an ninh mạng (cơ quan)"
+        "id": 187,
+        "hanzi": "网警",
+        "pinyin": "wǎngjǐng",
+        "meaning": "cảnh sát mạng; an ninh mạng (cơ quan)",
+        "example": "internet police (cyber police)"
     },
     {
-        "Id": 188,
-        "Hanzi": "逮捕",
-        "Pinyin": "dǎibǔ",
-        "Meaning": "bắt giữ; bắt giam (hình thức)"
+        "id": 188,
+        "hanzi": "逮捕",
+        "pinyin": "dǎibǔ",
+        "meaning": "bắt giữ; bắt giam (hình thức)",
+        "example": "to arrest; apprehend"
     },
     {
-        "Id": 189,
-        "Hanzi": "当人看",
-        "Pinyin": "dāng rén kàn",
-        "Meaning": "coi như con người (đối xử như con người)"
+        "id": 189,
+        "hanzi": "当人看",
+        "pinyin": "dāng rén kàn",
+        "meaning": "coi như con người (đối xử như con người)",
+        "example": "to treat as human beings"
     },
     {
-        "Id": 190,
-        "Hanzi": "抗战",
-        "Pinyin": "kàngzhàn",
-        "Meaning": "Kháng chiến (chống Nhật)"
+        "id": 190,
+        "hanzi": "抗战",
+        "pinyin": "kàngzhàn",
+        "meaning": "Kháng chiến (chống Nhật)",
+        "example": "War of Resistance (Sino‑Japanese War)"
     },
     {
-        "Id": 191,
-        "Hanzi": "倭寇（贬称）",
-        "Pinyin": "wōkòu",
-        "Meaning": "Oa khấu (từ miệt thị lịch sử chỉ giặc biển Nhật)"
+        "id": 191,
+        "hanzi": "倭寇（贬称）",
+        "pinyin": "wōkòu",
+        "meaning": "Oa khấu (từ miệt thị lịch sử chỉ giặc biển Nhật)",
+        "example": "Wokou (derog. for Japanese pirates)"
     },
     {
-        "Id": 192,
-        "Hanzi": "残害",
-        "Pinyin": "cánhài",
-        "Meaning": "tàn hại; giết hại"
+        "id": 192,
+        "hanzi": "残害",
+        "pinyin": "cánhài",
+        "meaning": "tàn hại; giết hại",
+        "example": "to brutalize; kill cruelly"
     },
     {
-        "Id": 193,
-        "Hanzi": "反犹主义",
-        "Pinyin": "fǎnyóu zhǔyì",
-        "Meaning": "chủ nghĩa bài Do Thái; chống Do Thái"
+        "id": 193,
+        "hanzi": "反犹主义",
+        "pinyin": "fǎnyóu zhǔyì",
+        "meaning": "chủ nghĩa bài Do Thái; chống Do Thái",
+        "example": "antisemitism"
     },
     {
-        "Id": 194,
-        "Hanzi": "百试不爽",
-        "Pinyin": "bǎishì bùshuǎng",
-        "Meaning": "trăm lần không trật (ý nói: luôn hiệu nghiệm)"
+        "id": 194,
+        "hanzi": "百试不爽",
+        "pinyin": "bǎishì bùshuǎng",
+        "meaning": "trăm lần không trật (ý nói: luôn hiệu nghiệm)",
+        "example": "never fails (works every time)"
     },
     {
-        "Id": 195,
-        "Hanzi": "利剑",
-        "Pinyin": "lìjiàn",
-        "Meaning": "lợi kiếm; thanh kiếm sắc (bóng: vũ khí lợi hại)"
+        "id": 195,
+        "hanzi": "利剑",
+        "pinyin": "lìjiàn",
+        "meaning": "lợi kiếm; thanh kiếm sắc (bóng: vũ khí lợi hại)",
+        "example": "sharp sword (figurative: potent tool)"
     },
     {
-        "Id": 196,
-        "Hanzi": "人道主义救援",
-        "Pinyin": "réndào zhǔyì jiùyuán",
-        "Meaning": "cứu trợ nhân đạo"
+        "id": 196,
+        "hanzi": "人道主义救援",
+        "pinyin": "réndào zhǔyì jiùyuán",
+        "meaning": "cứu trợ nhân đạo",
+        "example": "humanitarian aid\/relief"
     },
     {
-        "Id": 197,
-        "Hanzi": "同胞",
-        "Pinyin": "tóngbāo",
-        "Meaning": "đồng bào; người cùng một nước"
+        "id": 197,
+        "hanzi": "同胞",
+        "pinyin": "tóngbāo",
+        "meaning": "đồng bào; người cùng một nước",
+        "example": "compatriots"
     },
     {
-        "Id": 198,
-        "Hanzi": "分治方案",
-        "Pinyin": "fēnzhì fāng'àn",
-        "Meaning": "phương án phân trị; kế hoạch chia cắt"
+        "id": 198,
+        "hanzi": "分治方案",
+        "pinyin": "fēnzhì fāng'àn",
+        "meaning": "phương án phân trị; kế hoạch chia cắt",
+        "example": "partition plan"
     },
     {
-        "Id": 199,
-        "Hanzi": "国界",
-        "Pinyin": "guójiè",
-        "Meaning": "biên giới quốc gia"
+        "id": 199,
+        "hanzi": "国界",
+        "pinyin": "guójiè",
+        "meaning": "biên giới quốc gia",
+        "example": "national border"
     },
     {
-        "Id": 200,
-        "Hanzi": "历史上",
-        "Pinyin": "lìshǐ shàng",
-        "Meaning": "trong lịch sử; về mặt lịch sử"
+        "id": 200,
+        "hanzi": "历史上",
+        "pinyin": "lìshǐ shàng",
+        "meaning": "trong lịch sử; về mặt lịch sử",
+        "example": "in history; historically"
     },
     {
-        "Id": 201,
-        "Hanzi": "历经上（误写）",
-        "Pinyin": "lìjīng shàng",
-        "Meaning": "(viết nhầm) → đúng: 历史上"
+        "id": 201,
+        "hanzi": "历经上（误写）",
+        "pinyin": "lìjīng shàng",
+        "meaning": "(viết nhầm) → đúng: 历史上",
+        "example": "misspelling of 历史上"
     },
     {
-        "Id": 202,
-        "Hanzi": "地盘",
-        "Pinyin": "dìpán",
-        "Meaning": "địa bàn; lãnh địa (khẩu ngữ)"
+        "id": 202,
+        "hanzi": "地盘",
+        "pinyin": "dìpán",
+        "meaning": "địa bàn; lãnh địa (khẩu ngữ)",
+        "example": "turf; territory (colloq.)"
     },
     {
-        "Id": 203,
-        "Hanzi": "占（占着）",
-        "Pinyin": "zhàn (zhànzhe)",
-        "Meaning": "chiếm; chiếm giữ"
+        "id": 203,
+        "hanzi": "占（占着）",
+        "pinyin": "zhàn (zhànzhe)",
+        "meaning": "chiếm; chiếm giữ",
+        "example": "to occupy; hold"
     },
     {
-        "Id": 204,
-        "Hanzi": "建国",
-        "Pinyin": "jiàn guó",
-        "Meaning": "lập quốc; xây dựng nhà nước"
+        "id": 204,
+        "hanzi": "建国",
+        "pinyin": "jiàn guó",
+        "meaning": "lập quốc; xây dựng nhà nước",
+        "example": "to found a state"
     },
     {
-        "Id": 205,
-        "Hanzi": "绝对的实力",
-        "Pinyin": "juéduì de shílì",
-        "Meaning": "thực lực tuyệt đối; sức mạnh áp đảo"
+        "id": 205,
+        "hanzi": "绝对的实力",
+        "pinyin": "juéduì de shílì",
+        "meaning": "thực lực tuyệt đối; sức mạnh áp đảo",
+        "example": "absolute power\/strength"
     },
     {
-        "Id": 206,
-        "Hanzi": "枉然",
-        "Pinyin": "wǎngrán",
-        "Meaning": "vô ích; uổng công"
+        "id": 206,
+        "hanzi": "枉然",
+        "pinyin": "wǎngrán",
+        "meaning": "vô ích; uổng công",
+        "example": "in vain; futile"
     },
     {
-        "Id": 207,
-        "Hanzi": "永远…不了",
-        "Pinyin": "yǒngyuǎn … bùliǎo",
-        "Meaning": "mãi mãi không thể …"
+        "id": 207,
+        "hanzi": "永远…不了",
+        "pinyin": "yǒngyuǎn … bùliǎo",
+        "meaning": "mãi mãi không thể …",
+        "example": "can never …"
     },
     {
-        "Id": 208,
-        "Hanzi": "打来打去",
-        "Pinyin": "dǎ lái dǎ qù",
-        "Meaning": "đánh qua đánh lại; đấu đá lẫn nhau"
+        "id": 208,
+        "hanzi": "打来打去",
+        "pinyin": "dǎ lái dǎ qù",
+        "meaning": "đánh qua đánh lại; đấu đá lẫn nhau",
+        "example": "fight each other repeatedly"
     },
     {
-        "Id": 209,
-        "Hanzi": "分多大地盘",
-        "Pinyin": "fēn duō dà dìpán",
-        "Meaning": "chia bao nhiêu ‘địa bàn’ (khẩu ngữ)"
+        "id": 209,
+        "hanzi": "分多大地盘",
+        "pinyin": "fēn duō dà dìpán",
+        "meaning": "chia bao nhiêu ‘địa bàn’ (khẩu ngữ)",
+        "example": "how big a turf was allotted"
     },
     {
-        "Id": 210,
-        "Hanzi": "占着多大地盘",
-        "Pinyin": "zhànzhe duō dà dìpán",
-        "Meaning": "đang chiếm bao nhiêu đất"
+        "id": 210,
+        "hanzi": "占着多大地盘",
+        "pinyin": "zhànzhe duō dà dìpán",
+        "meaning": "đang chiếm bao nhiêu đất",
+        "example": "occupying how much territory"
     },
     {
-        "Id": 211,
-        "Hanzi": "这么简单的逻辑",
-        "Pinyin": "zhème jiǎndān de luójí",
-        "Meaning": "lô‑gic đơn giản như vậy"
+        "id": 211,
+        "hanzi": "这么简单的逻辑",
+        "pinyin": "zhème jiǎndān de luójí",
+        "meaning": "lô‑gic đơn giản như vậy",
+        "example": "such simple logic"
     },
     {
-        "Id": 212,
-        "Hanzi": "真正目的",
-        "Pinyin": "zhēnzhèng mùdì",
-        "Meaning": "mục đích thực sự"
+        "id": 212,
+        "hanzi": "真正目的",
+        "pinyin": "zhēnzhèng mùdì",
+        "meaning": "mục đích thực sự",
+        "example": "real aim; true objective"
     },
     {
-        "Id": 213,
-        "Hanzi": "人民\/民众",
-        "Pinyin": "rénmín \/ mínzhòng",
-        "Meaning": "nhân dân \/ quần chúng"
+        "id": 213,
+        "hanzi": "人民\/民众",
+        "pinyin": "rénmín \/ mínzhòng",
+        "meaning": "nhân dân \/ quần chúng",
+        "example": "the people \/ the masses"
     },
     {
-        "Id": 214,
-        "Hanzi": "当初…现在…",
-        "Pinyin": "dāngchū … xiànzài …",
-        "Meaning": "lúc đầu … hiện nay … (so sánh thời điểm)"
+        "id": 214,
+        "hanzi": "当初…现在…",
+        "pinyin": "dāngchū … xiànzài …",
+        "meaning": "lúc đầu … hiện nay … (so sánh thời điểm)",
+        "example": "at first … now …"
     },
     {
-        "Id": 215,
-        "Hanzi": "分治",
-        "Pinyin": "fēnzhì",
-        "Meaning": "phân trị; chia cắt để quản lý"
+        "id": 215,
+        "hanzi": "分治",
+        "pinyin": "fēnzhì",
+        "meaning": "phân trị; chia cắt để quản lý",
+        "example": "partition (governance)"
     },
     {
-        "Id": 216,
-        "Hanzi": "目的",
-        "Pinyin": "mùdì",
-        "Meaning": "mục đích; mục tiêu"
+        "id": 216,
+        "hanzi": "目的",
+        "pinyin": "mùdì",
+        "meaning": "mục đích; mục tiêu",
+        "example": "purpose; objective"
     },
     {
-        "Id": 217,
-        "Hanzi": "家园",
-        "Pinyin": "jiāyuán",
-        "Meaning": "quê nhà; quê hương; tổ ấm"
+        "id": 217,
+        "hanzi": "家园",
+        "pinyin": "jiāyuán",
+        "meaning": "quê nhà; quê hương; tổ ấm",
+        "example": "homeland; home"
     },
     {
-        "Id": 218,
-        "Hanzi": "反抗者",
-        "Pinyin": "fǎnkàngzhě",
-        "Meaning": "người phản kháng; người chống đối"
+        "id": 218,
+        "hanzi": "反抗者",
+        "pinyin": "fǎnkàngzhě",
+        "meaning": "người phản kháng; người chống đối",
+        "example": "resister; dissenter"
     },
     {
-        "Id": 219,
-        "Hanzi": "捏爆",
-        "Pinyin": "niēbào",
-        "Meaning": "bóp nát; bóp cho nổ (cách nói thô bạo)"
+        "id": 219,
+        "hanzi": "捏爆",
+        "pinyin": "niēbào",
+        "meaning": "bóp nát; bóp cho nổ (cách nói thô bạo)",
+        "example": "to squeeze and burst (violent phrase)"
     },
     {
-        "Id": 220,
-        "Hanzi": "丛林法则",
-        "Pinyin": "cónglín fǎzé",
-        "Meaning": "luật rừng; quy luật kẻ mạnh"
+        "id": 220,
+        "hanzi": "丛林法则",
+        "pinyin": "cónglín fǎzé",
+        "meaning": "luật rừng; quy luật kẻ mạnh",
+        "example": "law of the jungle"
     },
     {
-        "Id": 221,
-        "Hanzi": "版图",
-        "Pinyin": "bǎntú",
-        "Meaning": "bản đồ lãnh thổ; cương vực"
+        "id": 221,
+        "hanzi": "版图",
+        "pinyin": "bǎntú",
+        "meaning": "bản đồ lãnh thổ; cương vực",
+        "example": "territorial map; domain"
     },
     {
-        "Id": 222,
-        "Hanzi": "加沙人",
-        "Pinyin": "Jiāshā rén",
-        "Meaning": "người Gaza"
+        "id": 222,
+        "hanzi": "加沙人",
+        "pinyin": "Jiāshā rén",
+        "meaning": "người Gaza",
+        "example": "people of Gaza"
     },
     {
-        "Id": 223,
-        "Hanzi": "哈玛斯（异写）",
-        "Pinyin": "Hāmǎsī",
-        "Meaning": "Hamas (cách viết khác\/nhầm)"
+        "id": 223,
+        "hanzi": "哈玛斯（异写）",
+        "pinyin": "Hāmǎsī",
+        "meaning": "Hamas (cách viết khác\/nhầm)",
+        "example": "Hamas (alt.\/misspelling)"
     },
     {
-        "Id": 224,
-        "Hanzi": "几千年来",
-        "Pinyin": "jǐ qiān nián lái",
-        "Meaning": "suốt mấy nghìn năm nay"
+        "id": 224,
+        "hanzi": "几千年来",
+        "pinyin": "jǐ qiān nián lái",
+        "meaning": "suốt mấy nghìn năm nay",
+        "example": "for thousands of years"
     },
     {
-        "Id": 225,
-        "Hanzi": "建立过",
-        "Pinyin": "jiànlì guò",
-        "Meaning": "từng lập nên; đã từng thành lập"
+        "id": 225,
+        "hanzi": "建立过",
+        "pinyin": "jiànlì guò",
+        "meaning": "từng lập nên; đã từng thành lập",
+        "example": "ever established"
     },
     {
-        "Id": 226,
-        "Hanzi": "建立国家",
-        "Pinyin": "jiànlì guójiā",
-        "Meaning": "xây dựng\/lập quốc"
+        "id": 226,
+        "hanzi": "建立国家",
+        "pinyin": "jiànlì guójiā",
+        "meaning": "xây dựng\/lập quốc",
+        "example": "to establish a state"
     },
     {
-        "Id": 227,
-        "Hanzi": "幌子",
-        "Pinyin": "huǎngzi",
-        "Meaning": "bình phong; cái cớ; ‘mặt nạ’"
+        "id": 227,
+        "hanzi": "幌子",
+        "pinyin": "huǎngzi",
+        "meaning": "bình phong; cái cớ; ‘mặt nạ’",
+        "example": "front; pretext; cover"
     },
     {
-        "Id": 228,
-        "Hanzi": "武装人员",
-        "Pinyin": "wǔzhuāng rényuán",
-        "Meaning": "nhân viên\/nhóm vũ trang"
+        "id": 228,
+        "hanzi": "武装人员",
+        "pinyin": "wǔzhuāng rényuán",
+        "meaning": "nhân viên\/nhóm vũ trang",
+        "example": "armed personnel"
     },
     {
-        "Id": 229,
-        "Hanzi": "谴责",
-        "Pinyin": "qiǎnzé",
-        "Meaning": "lên án; chỉ trích; khiển trách"
+        "id": 229,
+        "hanzi": "谴责",
+        "pinyin": "qiǎnzé",
+        "meaning": "lên án; chỉ trích; khiển trách",
+        "example": "to condemn; censure"
     },
     {
-        "Id": 230,
-        "Hanzi": "网络安全",
-        "Pinyin": "wǎngluò ānquán",
-        "Meaning": "an ninh mạng"
+        "id": 230,
+        "hanzi": "网络安全",
+        "pinyin": "wǎngluò ānquán",
+        "meaning": "an ninh mạng",
+        "example": "cybersecurity"
     },
     {
-        "Id": 231,
-        "Hanzi": "任重而道远",
-        "Pinyin": "rèn zhòng ér dào yuǎn",
-        "Meaning": "trách nhiệm nặng nề, đường còn dài"
+        "id": 231,
+        "hanzi": "任重而道远",
+        "pinyin": "rèn zhòng ér dào yuǎn",
+        "meaning": "trách nhiệm nặng nề, đường còn dài",
+        "example": "a long and arduous task (idiom)"
     },
     {
-        "Id": 232,
-        "Hanzi": "许可证",
-        "Pinyin": "xǔkězhèng",
-        "Meaning": "giấy phép; giấy chứng nhận"
+        "id": 232,
+        "hanzi": "许可证",
+        "pinyin": "xǔkězhèng",
+        "meaning": "giấy phép; giấy chứng nhận",
+        "example": "permit; license"
     },
     {
-        "Id": 233,
-        "Hanzi": "问题是…",
-        "Pinyin": "wèntí shì …",
-        "Meaning": "vấn đề là …"
+        "id": 233,
+        "hanzi": "问题是…",
+        "pinyin": "wèntí shì …",
+        "meaning": "vấn đề là …",
+        "example": "the problem is …"
     },
     {
-        "Id": 234,
-        "Hanzi": "没把…当回事",
-        "Pinyin": "méi bǎ … dāng huí shì",
-        "Meaning": "không xem ra gì; không coi là chuyện nghiêm túc"
+        "id": 234,
+        "hanzi": "没把…当回事",
+        "pinyin": "méi bǎ … dāng huí shì",
+        "meaning": "không xem ra gì; không coi là chuyện nghiêm túc",
+        "example": "not take … seriously"
     },
     {
-        "Id": 235,
-        "Hanzi": "文案",
-        "Pinyin": "wén’àn",
-        "Meaning": "bản thảo nội dung; copy (quảng cáo\/bài đăng…)"
+        "id": 235,
+        "hanzi": "文案",
+        "pinyin": "wén’àn",
+        "meaning": "bản thảo nội dung; copy (quảng cáo\/bài đăng…)",
+        "example": "copy; text (for ads\/posts)"
     },
     {
-        "Id": 236,
-        "Hanzi": "好几遍",
-        "Pinyin": "hǎo jǐ biàn",
-        "Meaning": "mấy lần liền; nhiều lượt"
+        "id": 236,
+        "hanzi": "好几遍",
+        "pinyin": "hǎo jǐ biàn",
+        "meaning": "mấy lần liền; nhiều lượt",
+        "example": "many times; several times"
     },
     {
-        "Id": 237,
-        "Hanzi": "一字不改",
-        "Pinyin": "yí zì bù gǎi",
-        "Meaning": "không đổi một chữ nào; y nguyên"
+        "id": 237,
+        "hanzi": "一字不改",
+        "pinyin": "yí zì bù gǎi",
+        "meaning": "không đổi một chữ nào; y nguyên",
+        "example": "not change a single word"
     },
     {
-        "Id": 238,
-        "Hanzi": "表达…什么意思",
-        "Pinyin": "biǎodá … shénme yìsi",
-        "Meaning": "biểu đạt … nghĩa là gì"
+        "id": 238,
+        "hanzi": "表达…什么意思",
+        "pinyin": "biǎodá … shénme yìsi",
+        "meaning": "biểu đạt … nghĩa là gì",
+        "example": "to express … what meaning"
     },
     {
-        "Id": 239,
-        "Hanzi": "境界（误写：境畀）",
-        "Pinyin": "jìngjiè",
-        "Meaning": "(đúng: 境界) cảnh giới; tầm mức (sai: 境畀)"
+        "id": 239,
+        "hanzi": "境界（误写：境畀）",
+        "pinyin": "jìngjiè",
+        "meaning": "(đúng: 境界) cảnh giới; tầm mức (sai: 境畀)",
+        "example": "level; realm (misspelled as 境畀)"
     },
     {
-        "Id": 240,
-        "Hanzi": "人性（善与恶）",
-        "Pinyin": "rénxìng (shàn yǔ è)",
-        "Meaning": "nhân tính (thiện and ác)"
+        "id": 240,
+        "hanzi": "人性（善与恶）",
+        "pinyin": "rénxìng (shàn yǔ è)",
+        "meaning": "nhân tính (thiện and ác)",
+        "example": "human nature (good and evil)"
     },
     {
-        "Id": 241,
-        "Hanzi": "品行",
-        "Pinyin": "pǐnxíng",
-        "Meaning": "phẩm hạnh; hạnh kiểm"
+        "id": 241,
+        "hanzi": "品行",
+        "pinyin": "pǐnxíng",
+        "meaning": "phẩm hạnh; hạnh kiểm",
+        "example": "conduct; moral character"
     },
     {
-        "Id": 242,
-        "Hanzi": "内胆",
-        "Pinyin": "nèidǎn",
-        "Meaning": "ruột (nồi\/bình) → ẩn dụ chế giễu"
+        "id": 242,
+        "hanzi": "内胆",
+        "pinyin": "nèidǎn",
+        "meaning": "ruột (nồi\/bình) → ẩn dụ chế giễu",
+        "example": "inner liner (metaphor)"
     },
     {
-        "Id": 243,
-        "Hanzi": "夜壶（绰号）",
-        "Pinyin": "yèhú",
-        "Meaning": "‘bô đêm’—biệt danh mạng (ám chỉ内塔尼亚胡)"
+        "id": 243,
+        "hanzi": "夜壶（绰号）",
+        "pinyin": "yèhú",
+        "meaning": "‘bô đêm’—biệt danh mạng (ám chỉ内塔尼亚胡)",
+        "example": "‘chamber pot’—online nickname (Netanyahu)"
     },
     {
-        "Id": 244,
-        "Hanzi": "不讲武德",
-        "Pinyin": "bù jiǎng wǔdé",
-        "Meaning": "không nói võ đức (meme: chơi bẩn\/không fair)"
+        "id": 244,
+        "hanzi": "不讲武德",
+        "pinyin": "bù jiǎng wǔdé",
+        "meaning": "không nói võ đức (meme: chơi bẩn\/không fair)",
+        "example": "not respecting martial ethics (meme)"
     },
     {
-        "Id": 245,
-        "Hanzi": "表情：[捂脸]",
-        "Pinyin": "biǎoqíng: [wǔliǎn]",
-        "Meaning": "emoji ‘che mặt’"
+        "id": 245,
+        "hanzi": "表情：[捂脸]",
+        "pinyin": "biǎoqíng: [wǔliǎn]",
+        "meaning": "emoji ‘che mặt’",
+        "example": "facepalm emoji"
     },
     {
-        "Id": 246,
-        "Hanzi": "三项",
-        "Pinyin": "sān xiàng",
-        "Meaning": "ba hạng mục"
+        "id": 246,
+        "hanzi": "三项",
+        "pinyin": "sān xiàng",
+        "meaning": "ba hạng mục",
+        "example": "three items"
     },
     {
-        "Id": 247,
-        "Hanzi": "重点",
-        "Pinyin": "zhòngdiǎn",
-        "Meaning": "trọng điểm; điểm chính"
+        "id": 247,
+        "hanzi": "重点",
+        "pinyin": "zhòngdiǎn",
+        "meaning": "trọng điểm; điểm chính",
+        "example": "key point; focus"
     },
     {
-        "Id": 248,
-        "Hanzi": "交还",
-        "Pinyin": "jiāohuán",
-        "Meaning": "trao trả lại; giao hoàn"
+        "id": 248,
+        "hanzi": "交还",
+        "pinyin": "jiāohuán",
+        "meaning": "trao trả lại; giao hoàn",
+        "example": "to hand back; return"
     },
     {
-        "Id": 249,
-        "Hanzi": "人质",
-        "Pinyin": "rénzhì",
-        "Meaning": "con tin"
+        "id": 249,
+        "hanzi": "人质",
+        "pinyin": "rénzhì",
+        "meaning": "con tin",
+        "example": "hostage"
     },
     {
-        "Id": 250,
-        "Hanzi": "解除武装",
-        "Pinyin": "jiěchú wǔzhuāng",
-        "Meaning": "giải trừ vũ trang"
+        "id": 250,
+        "hanzi": "解除武装",
+        "pinyin": "jiěchú wǔzhuāng",
+        "meaning": "giải trừ vũ trang",
+        "example": "to disarm"
     }
 ]

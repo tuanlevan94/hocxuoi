@@ -1,1502 +1,1752 @@
 [
     {
-        "Id": 1,
-        "Hanzi": "游",
-        "Pinyin": "yóu",
-        "Meaning": "bơi; dạo chơi"
+        "id": 1,
+        "hanzi": "游",
+        "pinyin": "yóu",
+        "meaning": "bơi; dạo chơi",
+        "example": "to swim; to roam"
     },
     {
-        "Id": 2,
-        "Hanzi": "队",
-        "Pinyin": "duì",
-        "Meaning": "đội; hàng"
+        "id": 2,
+        "hanzi": "队",
+        "pinyin": "duì",
+        "meaning": "đội; hàng",
+        "example": "team; line"
     },
     {
-        "Id": 3,
-        "Hanzi": "毛笔",
-        "Pinyin": "máobǐ",
-        "Meaning": "bút lông"
+        "id": 3,
+        "hanzi": "毛笔",
+        "pinyin": "máobǐ",
+        "meaning": "bút lông",
+        "example": "writing brush"
     },
     {
-        "Id": 4,
-        "Hanzi": "练",
-        "Pinyin": "liàn",
-        "Meaning": "luyện; tập"
+        "id": 4,
+        "hanzi": "练",
+        "pinyin": "liàn",
+        "meaning": "luyện; tập",
+        "example": "to practice"
     },
     {
-        "Id": 5,
-        "Hanzi": "打",
-        "Pinyin": "dǎ",
-        "Meaning": "đánh; chơi (banh)"
+        "id": 5,
+        "hanzi": "打",
+        "pinyin": "dǎ",
+        "meaning": "đánh; chơi (banh)",
+        "example": "to hit; to play (ball games)"
     },
     {
-        "Id": 6,
-        "Hanzi": "简直",
-        "Pinyin": "jiǎnzhí",
-        "Meaning": "quả là; đúng là; dứt khoát (nhấn mạnh)"
+        "id": 6,
+        "hanzi": "简直",
+        "pinyin": "jiǎnzhí",
+        "meaning": "quả là; đúng là; dứt khoát (nhấn mạnh)",
+        "example": "simply; really"
     },
     {
-        "Id": 7,
-        "Hanzi": "放弃",
-        "Pinyin": "fàngqì",
-        "Meaning": "bỏ cuộc; từ bỏ"
+        "id": 7,
+        "hanzi": "放弃",
+        "pinyin": "fàngqì",
+        "meaning": "bỏ cuộc; từ bỏ",
+        "example": "to give up; abandon"
     },
     {
-        "Id": 8,
-        "Hanzi": "的确",
-        "Pinyin": "díquè",
-        "Meaning": "đích thực; quả thật"
+        "id": 8,
+        "hanzi": "的确",
+        "pinyin": "díquè",
+        "meaning": "đích thực; quả thật",
+        "example": "indeed; really"
     },
     {
-        "Id": 9,
-        "Hanzi": "留下",
-        "Pinyin": "liú xià",
-        "Meaning": "lưu lại; để lại; ở lại"
+        "id": 9,
+        "hanzi": "留下",
+        "pinyin": "liú xià",
+        "meaning": "lưu lại; để lại; ở lại",
+        "example": "to stay; to leave behind"
     },
     {
-        "Id": 10,
-        "Hanzi": "方式",
-        "Pinyin": "fāngshì",
-        "Meaning": "phương thức; cách thức; kiểu"
+        "id": 10,
+        "hanzi": "方式",
+        "pinyin": "fāngshì",
+        "meaning": "phương thức; cách thức; kiểu",
+        "example": "way; manner; mode"
     },
     {
-        "Id": 11,
-        "Hanzi": "重新",
-        "Pinyin": "chóngxīn",
-        "Meaning": "lại lần nữa; làm lại từ đầu"
+        "id": 11,
+        "hanzi": "重新",
+        "pinyin": "chóngxīn",
+        "meaning": "lại lần nữa; làm lại từ đầu",
+        "example": "again; anew"
     },
     {
-        "Id": 12,
-        "Hanzi": "疯狂",
-        "Pinyin": "fēngkuáng",
-        "Meaning": "điên rồ"
+        "id": 12,
+        "hanzi": "疯狂",
+        "pinyin": "fēngkuáng",
+        "meaning": "điên rồ",
+        "example": "crazy; frantic"
     },
     {
-        "Id": 13,
-        "Hanzi": "收到",
-        "Pinyin": "shōu dào",
-        "Meaning": "nhận được"
+        "id": 13,
+        "hanzi": "收到",
+        "pinyin": "shōu dào",
+        "meaning": "nhận được",
+        "example": "to receive"
     },
     {
-        "Id": 14,
-        "Hanzi": "其中",
-        "Pinyin": "qízhōng",
-        "Meaning": "trong đó; trong số đó"
+        "id": 14,
+        "hanzi": "其中",
+        "pinyin": "qízhōng",
+        "meaning": "trong đó; trong số đó",
+        "example": "among them; of which"
     },
     {
-        "Id": 15,
-        "Hanzi": "想法",
-        "Pinyin": "xiǎngfǎ",
-        "Meaning": "cách nghĩ; ý nghĩ; quan điểm"
+        "id": 15,
+        "hanzi": "想法",
+        "pinyin": "xiǎngfǎ",
+        "meaning": "cách nghĩ; ý nghĩ; quan điểm",
+        "example": "idea; opinion"
     },
     {
-        "Id": 16,
-        "Hanzi": "家里",
-        "Pinyin": "jiā lǐ",
-        "Meaning": "trong nhà; ở nhà"
+        "id": 16,
+        "hanzi": "家里",
+        "pinyin": "jiā lǐ",
+        "meaning": "trong nhà; ở nhà",
+        "example": "at home; in the family"
     },
     {
-        "Id": 17,
-        "Hanzi": "带来",
-        "Pinyin": "dài lái",
-        "Meaning": "mang lại; đem lại"
+        "id": 17,
+        "hanzi": "带来",
+        "pinyin": "dài lái",
+        "meaning": "mang lại; đem lại",
+        "example": "to bring about"
     },
     {
-        "Id": 18,
-        "Hanzi": "来自",
-        "Pinyin": "láizì",
-        "Meaning": "đến từ"
+        "id": 18,
+        "hanzi": "来自",
+        "pinyin": "láizì",
+        "meaning": "đến từ",
+        "example": "to come from"
     },
     {
-        "Id": 19,
-        "Hanzi": "照顾",
-        "Pinyin": "zhàogù",
-        "Meaning": "chăm sóc; trông nom"
+        "id": 19,
+        "hanzi": "照顾",
+        "pinyin": "zhàogù",
+        "meaning": "chăm sóc; trông nom",
+        "example": "to take care of"
     },
     {
-        "Id": 20,
-        "Hanzi": "聪明",
-        "Pinyin": "cōngmíng",
-        "Meaning": "thông minh"
+        "id": 20,
+        "hanzi": "聪明",
+        "pinyin": "cōngmíng",
+        "meaning": "thông minh",
+        "example": "clever; intelligent"
     },
     {
-        "Id": 21,
-        "Hanzi": "本来",
-        "Pinyin": "běnlái",
-        "Meaning": "ban đầu; vốn dĩ; lẽ ra"
+        "id": 21,
+        "hanzi": "本来",
+        "pinyin": "běnlái",
+        "meaning": "ban đầu; vốn dĩ; lẽ ra",
+        "example": "originally; supposedly"
     },
     {
-        "Id": 22,
-        "Hanzi": "加油",
-        "Pinyin": "jiāyóu",
-        "Meaning": "cố lên; tiếp thêm sức"
+        "id": 22,
+        "hanzi": "加油",
+        "pinyin": "jiāyóu",
+        "meaning": "cố lên; tiếp thêm sức",
+        "example": "come on!; cheer up"
     },
     {
-        "Id": 23,
-        "Hanzi": "多久",
-        "Pinyin": "duōjiǔ",
-        "Meaning": "bao lâu"
+        "id": 23,
+        "hanzi": "多久",
+        "pinyin": "duōjiǔ",
+        "meaning": "bao lâu",
+        "example": "how long"
     },
     {
-        "Id": 24,
-        "Hanzi": "并且",
-        "Pinyin": "bìngqiě",
-        "Meaning": "đồng thời; hơn nữa; vả lại"
+        "id": 24,
+        "hanzi": "并且",
+        "pinyin": "bìngqiě",
+        "meaning": "đồng thời; hơn nữa; vả lại",
+        "example": "and; moreover"
     },
     {
-        "Id": 25,
-        "Hanzi": "直接",
-        "Pinyin": "zhíjiē",
-        "Meaning": "trực tiếp"
+        "id": 25,
+        "hanzi": "直接",
+        "pinyin": "zhíjiē",
+        "meaning": "trực tiếp",
+        "example": "direct; directly"
     },
     {
-        "Id": 26,
-        "Hanzi": "对于",
-        "Pinyin": "duìyú",
-        "Meaning": "về; đối với"
+        "id": 26,
+        "hanzi": "对于",
+        "pinyin": "duìyú",
+        "meaning": "về; đối với",
+        "example": "regarding; for"
     },
     {
-        "Id": 27,
-        "Hanzi": "突然",
-        "Pinyin": "tūrán",
-        "Meaning": "đột nhiên; bất ngờ"
+        "id": 27,
+        "hanzi": "突然",
+        "pinyin": "tūrán",
+        "meaning": "đột nhiên; bất ngờ",
+        "example": "suddenly"
     },
     {
-        "Id": 28,
-        "Hanzi": "除非",
-        "Pinyin": "chúfēi",
-        "Meaning": "trừ khi; nếu không thì"
+        "id": 28,
+        "hanzi": "除非",
+        "pinyin": "chúfēi",
+        "meaning": "trừ khi; nếu không thì",
+        "example": "unless"
     },
     {
-        "Id": 29,
-        "Hanzi": "阻止",
-        "Pinyin": "zǔzhǐ",
-        "Meaning": "ngăn trở; ngăn cản"
+        "id": 29,
+        "hanzi": "阻止",
+        "pinyin": "zǔzhǐ",
+        "meaning": "ngăn trở; ngăn cản",
+        "example": "to prevent; to stop"
     },
     {
-        "Id": 30,
-        "Hanzi": "想象",
-        "Pinyin": "xiǎngxiàng",
-        "Meaning": "tưởng tượng"
+        "id": 30,
+        "hanzi": "想象",
+        "pinyin": "xiǎngxiàng",
+        "meaning": "tưởng tượng",
+        "example": "to imagine"
     },
     {
-        "Id": 31,
-        "Hanzi": "冷静",
-        "Pinyin": "lěngjìng",
-        "Meaning": "bình tĩnh; điềm tĩnh"
+        "id": 31,
+        "hanzi": "冷静",
+        "pinyin": "lěngjìng",
+        "meaning": "bình tĩnh; điềm tĩnh",
+        "example": "calm; cool-headed"
     },
     {
-        "Id": 32,
-        "Hanzi": "方法",
-        "Pinyin": "fāngfǎ",
-        "Meaning": "phương pháp; cách làm"
+        "id": 32,
+        "hanzi": "方法",
+        "pinyin": "fāngfǎ",
+        "meaning": "phương pháp; cách làm",
+        "example": "method; way"
     },
     {
-        "Id": 33,
-        "Hanzi": "能力",
-        "Pinyin": "nénglì",
-        "Meaning": "năng lực; khả năng"
+        "id": 33,
+        "hanzi": "能力",
+        "pinyin": "nénglì",
+        "meaning": "năng lực; khả năng",
+        "example": "ability; capability"
     },
     {
-        "Id": 34,
-        "Hanzi": "有关",
-        "Pinyin": "yǒuguān",
-        "Meaning": "liên quan"
+        "id": 34,
+        "hanzi": "有关",
+        "pinyin": "yǒuguān",
+        "meaning": "liên quan",
+        "example": "related; concerning"
     },
     {
-        "Id": 35,
-        "Hanzi": "精神",
-        "Pinyin": "jīngshén",
-        "Meaning": "tinh thần"
+        "id": 35,
+        "hanzi": "精神",
+        "pinyin": "jīngshén",
+        "meaning": "tinh thần",
+        "example": "spirit; mental state"
     },
     {
-        "Id": 36,
-        "Hanzi": "另外",
-        "Pinyin": "lìngwài",
-        "Meaning": "ngoài ra; mặt khác"
+        "id": 36,
+        "hanzi": "另外",
+        "pinyin": "lìngwài",
+        "meaning": "ngoài ra; mặt khác",
+        "example": "in addition; besides"
     },
     {
-        "Id": 37,
-        "Hanzi": "放松",
-        "Pinyin": "fàngsōng",
-        "Meaning": "thả lỏng; thư giãn; lơ là"
+        "id": 37,
+        "hanzi": "放松",
+        "pinyin": "fàngsōng",
+        "meaning": "thả lỏng; thư giãn; lơ là",
+        "example": "to relax; to loosen"
     },
     {
-        "Id": 38,
-        "Hanzi": "介意",
-        "Pinyin": "jièyì",
-        "Meaning": "để ý; để bụng; lưu tâm"
+        "id": 38,
+        "hanzi": "介意",
+        "pinyin": "jièyì",
+        "meaning": "để ý; để bụng; lưu tâm",
+        "example": "to mind; to care about"
     },
     {
-        "Id": 39,
-        "Hanzi": "那天",
-        "Pinyin": "nèitiān",
-        "Meaning": "hôm đó; ngày hôm ấy"
+        "id": 39,
+        "hanzi": "那天",
+        "pinyin": "nèitiān",
+        "meaning": "hôm đó; ngày hôm ấy",
+        "example": "that day"
     },
     {
-        "Id": 40,
-        "Hanzi": "系统",
-        "Pinyin": "xìtǒng",
-        "Meaning": "hệ thống"
+        "id": 40,
+        "hanzi": "系统",
+        "pinyin": "xìtǒng",
+        "meaning": "hệ thống",
+        "example": "system"
     },
     {
-        "Id": 41,
-        "Hanzi": "礼物",
-        "Pinyin": "lǐwù",
-        "Meaning": "món quà"
+        "id": 41,
+        "hanzi": "礼物",
+        "pinyin": "lǐwù",
+        "meaning": "món quà",
+        "example": "gift; present"
     },
     {
-        "Id": 42,
-        "Hanzi": "错误",
-        "Pinyin": "cuòwù",
-        "Meaning": "sai lầm; lỗi lầm"
+        "id": 42,
+        "hanzi": "错误",
+        "pinyin": "cuòwù",
+        "meaning": "sai lầm; lỗi lầm",
+        "example": "error; mistake"
     },
     {
-        "Id": 43,
-        "Hanzi": "随便",
-        "Pinyin": "suíbiàn",
-        "Meaning": "tùy tiện; tùy ý"
+        "id": 43,
+        "hanzi": "随便",
+        "pinyin": "suíbiàn",
+        "meaning": "tùy tiện; tùy ý",
+        "example": "casual; as one pleases"
     },
     {
-        "Id": 44,
-        "Hanzi": "头发",
-        "Pinyin": "tóufa",
-        "Meaning": "tóc"
+        "id": 44,
+        "hanzi": "头发",
+        "pinyin": "tóufa",
+        "meaning": "tóc",
+        "example": "hair"
     },
     {
-        "Id": 45,
-        "Hanzi": "关心",
-        "Pinyin": "guānxīn",
-        "Meaning": "quan tâm; lo lắng cho"
+        "id": 45,
+        "hanzi": "关心",
+        "pinyin": "guānxīn",
+        "meaning": "quan tâm; lo lắng cho",
+        "example": "to care about"
     },
     {
-        "Id": 46,
-        "Hanzi": "干嘛",
-        "Pinyin": "gànmá",
-        "Meaning": "làm gì?; sao vậy?"
+        "id": 46,
+        "hanzi": "干嘛",
+        "pinyin": "gànmá",
+        "meaning": "làm gì?; sao vậy?",
+        "example": "what for?; why"
     },
     {
-        "Id": 47,
-        "Hanzi": "兴趣",
-        "Pinyin": "xìngqù",
-        "Meaning": "hứng thú; sở thích"
+        "id": 47,
+        "hanzi": "兴趣",
+        "pinyin": "xìngqù",
+        "meaning": "hứng thú; sở thích",
+        "example": "interest"
     },
     {
-        "Id": 48,
-        "Hanzi": "报告",
-        "Pinyin": "bàogào",
-        "Meaning": "báo cáo; bản báo cáo; phát biểu"
+        "id": 48,
+        "hanzi": "报告",
+        "pinyin": "bàogào",
+        "meaning": "báo cáo; bản báo cáo; phát biểu",
+        "example": "report; presentation"
     },
     {
-        "Id": 49,
-        "Hanzi": "从没",
-        "Pinyin": "cóngméi",
-        "Meaning": "chưa bao giờ; không bao giờ"
+        "id": 49,
+        "hanzi": "从没",
+        "pinyin": "cóngméi",
+        "meaning": "chưa bao giờ; không bao giờ",
+        "example": "never (before)"
     },
     {
-        "Id": 50,
-        "Hanzi": "经历",
-        "Pinyin": "jīnglì",
-        "Meaning": "từng trải; những việc trải qua"
+        "id": 50,
+        "hanzi": "经历",
+        "pinyin": "jīnglì",
+        "meaning": "từng trải; những việc trải qua",
+        "example": "experience; to go through"
     },
     {
-        "Id": 51,
-        "Hanzi": "人类",
-        "Pinyin": "rénlèi",
-        "Meaning": "loài người; nhân loại"
+        "id": 51,
+        "hanzi": "人类",
+        "pinyin": "rénlèi",
+        "meaning": "loài người; nhân loại",
+        "example": "humankind"
     },
     {
-        "Id": 52,
-        "Hanzi": "自由",
-        "Pinyin": "zìyóu",
-        "Meaning": "tự do"
+        "id": 52,
+        "hanzi": "自由",
+        "pinyin": "zìyóu",
+        "meaning": "tự do",
+        "example": "freedom; free"
     },
     {
-        "Id": 53,
-        "Hanzi": "支持",
-        "Pinyin": "zhīchí",
-        "Meaning": "ủng hộ; hỗ trợ"
+        "id": 53,
+        "hanzi": "支持",
+        "pinyin": "zhīchí",
+        "meaning": "ủng hộ; hỗ trợ",
+        "example": "to support"
     },
     {
-        "Id": 54,
-        "Hanzi": "生气",
-        "Pinyin": "shēngqì",
-        "Meaning": "tức giận; giận dỗi"
+        "id": 54,
+        "hanzi": "生气",
+        "pinyin": "shēngqì",
+        "meaning": "tức giận; giận dỗi",
+        "example": "angry; to get angry"
     },
     {
-        "Id": 55,
-        "Hanzi": "建议",
-        "Pinyin": "jiànyì",
-        "Meaning": "kiến nghị; đề xuất; sáng kiến"
+        "id": 55,
+        "hanzi": "建议",
+        "pinyin": "jiànyì",
+        "meaning": "kiến nghị; đề xuất; sáng kiến",
+        "example": "suggestion; to propose"
     },
     {
-        "Id": 56,
-        "Hanzi": "做到",
-        "Pinyin": "zuò dào",
-        "Meaning": "làm được; đạt tới"
+        "id": 56,
+        "hanzi": "做到",
+        "pinyin": "zuò dào",
+        "meaning": "làm được; đạt tới",
+        "example": "to accomplish; manage to do"
     },
     {
-        "Id": 57,
-        "Hanzi": "屁股",
-        "Pinyin": "pìgu",
-        "Meaning": "mông; đít"
+        "id": 57,
+        "hanzi": "屁股",
+        "pinyin": "pìgu",
+        "meaning": "mông; đít",
+        "example": "buttocks"
     },
     {
-        "Id": 58,
-        "Hanzi": "否则",
-        "Pinyin": "fǒuzé",
-        "Meaning": "bằng không; nếu không"
+        "id": 58,
+        "hanzi": "否则",
+        "pinyin": "fǒuzé",
+        "meaning": "bằng không; nếu không",
+        "example": "otherwise"
     },
     {
-        "Id": 59,
-        "Hanzi": "安排",
-        "Pinyin": "ānpái",
-        "Meaning": "sắp xếp; bố trí; an bài"
+        "id": 59,
+        "hanzi": "安排",
+        "pinyin": "ānpái",
+        "meaning": "sắp xếp; bố trí; an bài",
+        "example": "to arrange; arrangement"
     },
     {
-        "Id": 60,
-        "Hanzi": "年轻",
-        "Pinyin": "niánqīng",
-        "Meaning": "tuổi trẻ; thanh niên"
+        "id": 60,
+        "hanzi": "年轻",
+        "pinyin": "niánqīng",
+        "meaning": "tuổi trẻ; thanh niên",
+        "example": "young; youth"
     },
     {
-        "Id": 61,
-        "Hanzi": "钥匙",
-        "Pinyin": "yàoshi",
-        "Meaning": "chìa khóa"
+        "id": 61,
+        "hanzi": "钥匙",
+        "pinyin": "yàoshi",
+        "meaning": "chìa khóa",
+        "example": "key"
     },
     {
-        "Id": 62,
-        "Hanzi": "信息",
-        "Pinyin": "xìnxī",
-        "Meaning": "tin tức; thông tin"
+        "id": 62,
+        "hanzi": "信息",
+        "pinyin": "xìnxī",
+        "meaning": "tin tức; thông tin",
+        "example": "information"
     },
     {
-        "Id": 63,
-        "Hanzi": "必要",
-        "Pinyin": "bìyào",
-        "Meaning": "cần thiết; thiết yếu"
+        "id": 63,
+        "hanzi": "必要",
+        "pinyin": "bìyào",
+        "meaning": "cần thiết; thiết yếu",
+        "example": "necessary; essential"
     },
     {
-        "Id": 64,
-        "Hanzi": "撒谎",
-        "Pinyin": "sāhuǎng",
-        "Meaning": "nói dối; bịa đặt"
+        "id": 64,
+        "hanzi": "撒谎",
+        "pinyin": "sāhuǎng",
+        "meaning": "nói dối; bịa đặt",
+        "example": "to lie"
     },
     {
-        "Id": 65,
-        "Hanzi": "武器",
-        "Pinyin": "wǔqì",
-        "Meaning": "vũ khí"
+        "id": 65,
+        "hanzi": "武器",
+        "pinyin": "wǔqì",
+        "meaning": "vũ khí",
+        "example": "weapon"
     },
     {
-        "Id": 66,
-        "Hanzi": "痛苦",
-        "Pinyin": "tòngkǔ",
-        "Meaning": "đau khổ; thống khổ"
+        "id": 66,
+        "hanzi": "痛苦",
+        "pinyin": "tòngkǔ",
+        "meaning": "đau khổ; thống khổ",
+        "example": "painful; suffering"
     },
     {
-        "Id": 67,
-        "Hanzi": "全部",
-        "Pinyin": "quánbù",
-        "Meaning": "toàn bộ; tất cả"
+        "id": 67,
+        "hanzi": "全部",
+        "pinyin": "quánbù",
+        "meaning": "toàn bộ; tất cả",
+        "example": "all; entire"
     },
     {
-        "Id": 68,
-        "Hanzi": "手机",
-        "Pinyin": "shǒujī",
-        "Meaning": "điện thoại di động"
+        "id": 68,
+        "hanzi": "手机",
+        "pinyin": "shǒujī",
+        "meaning": "điện thoại di động",
+        "example": "mobile phone"
     },
     {
-        "Id": 69,
-        "Hanzi": "忘记",
-        "Pinyin": "wàngjì",
-        "Meaning": "quên"
+        "id": 69,
+        "hanzi": "忘记",
+        "pinyin": "wàngjì",
+        "meaning": "quên",
+        "example": "to forget"
     },
     {
-        "Id": 70,
-        "Hanzi": "存在",
-        "Pinyin": "cúnzài",
-        "Meaning": "tồn tại; hiện hữu"
+        "id": 70,
+        "hanzi": "存在",
+        "pinyin": "cúnzài",
+        "meaning": "tồn tại; hiện hữu",
+        "example": "to exist; existence"
     },
     {
-        "Id": 71,
-        "Hanzi": "首先",
-        "Pinyin": "shǒuxiān",
-        "Meaning": "đầu tiên; trước hết"
+        "id": 71,
+        "hanzi": "首先",
+        "pinyin": "shǒuxiān",
+        "meaning": "đầu tiên; trước hết",
+        "example": "first; firstly"
     },
     {
-        "Id": 72,
-        "Hanzi": "坚持",
-        "Pinyin": "jiānchí",
-        "Meaning": "kiên trì; bền bỉ"
+        "id": 72,
+        "hanzi": "坚持",
+        "pinyin": "jiānchí",
+        "meaning": "kiên trì; bền bỉ",
+        "example": "to persist; to insist"
     },
     {
-        "Id": 73,
-        "Hanzi": "意义",
-        "Pinyin": "yìyì",
-        "Meaning": "ý nghĩa"
+        "id": 73,
+        "hanzi": "意义",
+        "pinyin": "yìyì",
+        "meaning": "ý nghĩa",
+        "example": "meaning; significance"
     },
     {
-        "Id": 74,
-        "Hanzi": "承认",
-        "Pinyin": "chéngrèn",
-        "Meaning": "thừa nhận; công nhận"
+        "id": 74,
+        "hanzi": "承认",
+        "pinyin": "chéngrèn",
+        "meaning": "thừa nhận; công nhận",
+        "example": "to admit; to acknowledge"
     },
     {
-        "Id": 75,
-        "Hanzi": "发誓",
-        "Pinyin": "fāshì",
-        "Meaning": "thề; lời thề"
+        "id": 75,
+        "hanzi": "发誓",
+        "pinyin": "fāshì",
+        "meaning": "thề; lời thề",
+        "example": "to swear; oath"
     },
     {
-        "Id": 76,
-        "Hanzi": "理由",
-        "Pinyin": "lǐyóu",
-        "Meaning": "lý do; nguyên do"
+        "id": 76,
+        "hanzi": "理由",
+        "pinyin": "lǐyóu",
+        "meaning": "lý do; nguyên do",
+        "example": "reason; justification"
     },
     {
-        "Id": 77,
-        "Hanzi": "显然",
-        "Pinyin": "xiǎnrán",
-        "Meaning": "hiển nhiên; rõ ràng"
+        "id": 77,
+        "hanzi": "显然",
+        "pinyin": "xiǎnrán",
+        "meaning": "hiển nhiên; rõ ràng",
+        "example": "obvious; clearly"
     },
     {
-        "Id": 78,
-        "Hanzi": "政府",
-        "Pinyin": "zhèngfǔ",
-        "Meaning": "chính phủ"
+        "id": 78,
+        "hanzi": "政府",
+        "pinyin": "zhèngfǔ",
+        "meaning": "chính phủ",
+        "example": "government"
     },
     {
-        "Id": 79,
-        "Hanzi": "这次",
-        "Pinyin": "zhè cì",
-        "Meaning": "lần này"
+        "id": 79,
+        "hanzi": "这次",
+        "pinyin": "zhè cì",
+        "meaning": "lần này",
+        "example": "this time"
     },
     {
-        "Id": 80,
-        "Hanzi": "生意",
-        "Pinyin": "shēngyi",
-        "Meaning": "buôn bán; làm ăn; kinh doanh"
+        "id": 80,
+        "hanzi": "生意",
+        "pinyin": "shēngyi",
+        "meaning": "buôn bán; làm ăn; kinh doanh",
+        "example": "business; trade"
     },
     {
-        "Id": 81,
-        "Hanzi": "遇到",
-        "Pinyin": "yù dào",
-        "Meaning": "gặp phải; bắt gặp"
+        "id": 81,
+        "hanzi": "遇到",
+        "pinyin": "yù dào",
+        "meaning": "gặp phải; bắt gặp",
+        "example": "to encounter; to come across"
     },
     {
-        "Id": 82,
-        "Hanzi": "即使",
-        "Pinyin": "jíshǐ",
-        "Meaning": "cho dù; dù cho"
+        "id": 82,
+        "hanzi": "即使",
+        "pinyin": "jíshǐ",
+        "meaning": "cho dù; dù cho",
+        "example": "even if; even though"
     },
     {
-        "Id": 83,
-        "Hanzi": "记住",
-        "Pinyin": "jìzhù",
-        "Meaning": "ghi nhớ; nhớ kỹ"
+        "id": 83,
+        "hanzi": "记住",
+        "pinyin": "jìzhù",
+        "meaning": "ghi nhớ; nhớ kỹ",
+        "example": "to remember; to keep in mind"
     },
     {
-        "Id": 84,
-        "Hanzi": "到处",
-        "Pinyin": "dàochù",
-        "Meaning": "khắp nơi; mọi nơi"
+        "id": 84,
+        "hanzi": "到处",
+        "pinyin": "dàochù",
+        "meaning": "khắp nơi; mọi nơi",
+        "example": "everywhere; all over"
     },
     {
-        "Id": 85,
-        "Hanzi": "特别",
-        "Pinyin": "tèbié",
-        "Meaning": "đặc biệt"
+        "id": 85,
+        "hanzi": "特别",
+        "pinyin": "tèbié",
+        "meaning": "đặc biệt",
+        "example": "special"
     },
     {
-        "Id": 86,
-        "Hanzi": "注意",
-        "Pinyin": "zhùyì",
-        "Meaning": "chú ý"
+        "id": 86,
+        "hanzi": "注意",
+        "pinyin": "zhùyì",
+        "meaning": "chú ý",
+        "example": "pay attention"
     },
     {
-        "Id": 87,
-        "Hanzi": "甚至",
-        "Pinyin": "shènzhì",
-        "Meaning": "thậm chí"
+        "id": 87,
+        "hanzi": "甚至",
+        "pinyin": "shènzhì",
+        "meaning": "thậm chí",
+        "example": "even"
     },
     {
-        "Id": 88,
-        "Hanzi": "保护",
-        "Pinyin": "bǎohù",
-        "Meaning": "bảo hộ; bảo vệ"
+        "id": 88,
+        "hanzi": "保护",
+        "pinyin": "bǎohù",
+        "meaning": "bảo hộ; bảo vệ",
+        "example": "to protect"
     },
     {
-        "Id": 89,
-        "Hanzi": "真正",
-        "Pinyin": "zhēnzhèng",
-        "Meaning": "chân chính; thật sự"
+        "id": 89,
+        "hanzi": "真正",
+        "pinyin": "zhēnzhèng",
+        "meaning": "chân chính; thật sự",
+        "example": "genuine; real"
     },
     {
-        "Id": 90,
-        "Hanzi": "表现",
-        "Pinyin": "biǎoxiàn",
-        "Meaning": "thể hiện; biểu hiện; tỏ ra"
+        "id": 90,
+        "hanzi": "表现",
+        "pinyin": "biǎoxiàn",
+        "meaning": "thể hiện; biểu hiện; tỏ ra",
+        "example": "to show; performance"
     },
     {
-        "Id": 91,
-        "Hanzi": "其实",
-        "Pinyin": "qíshí",
-        "Meaning": "kì thực; thực ra"
+        "id": 91,
+        "hanzi": "其实",
+        "pinyin": "qíshí",
+        "meaning": "kì thực; thực ra",
+        "example": "actually; in fact"
     },
     {
-        "Id": 92,
-        "Hanzi": "小心",
-        "Pinyin": "xiǎoxīn",
-        "Meaning": "cẩn thận"
+        "id": 92,
+        "hanzi": "小心",
+        "pinyin": "xiǎoxīn",
+        "meaning": "cẩn thận",
+        "example": "be careful"
     },
     {
-        "Id": 93,
-        "Hanzi": "近来",
-        "Pinyin": "jìnlái",
-        "Meaning": "gần đây; vừa qua"
+        "id": 93,
+        "hanzi": "近来",
+        "pinyin": "jìnlái",
+        "meaning": "gần đây; vừa qua",
+        "example": "recently; lately"
     },
     {
-        "Id": 94,
-        "Hanzi": "当时",
-        "Pinyin": "dāngshí",
-        "Meaning": "lúc đó; khi đó; ngay lúc ấy"
+        "id": 94,
+        "hanzi": "当时",
+        "pinyin": "dāngshí",
+        "meaning": "lúc đó; khi đó; ngay lúc ấy",
+        "example": "at that time; then"
     },
     {
-        "Id": 95,
-        "Hanzi": "绝对",
-        "Pinyin": "juéduì",
-        "Meaning": "tuyệt đối"
+        "id": 95,
+        "hanzi": "绝对",
+        "pinyin": "juéduì",
+        "meaning": "tuyệt đối",
+        "example": "absolute; absolutely"
     },
     {
-        "Id": 96,
-        "Hanzi": "长官",
-        "Pinyin": "zhǎngguān",
-        "Meaning": "quan trên; quan lớn; cấp trên"
+        "id": 96,
+        "hanzi": "长官",
+        "pinyin": "zhǎngguān",
+        "meaning": "quan trên; quan lớn; cấp trên",
+        "example": "senior official; superior"
     },
     {
-        "Id": 97,
-        "Hanzi": "至少",
-        "Pinyin": "zhìshǎo",
-        "Meaning": "chí ít; ít nhất"
+        "id": 97,
+        "hanzi": "至少",
+        "pinyin": "zhìshǎo",
+        "meaning": "chí ít; ít nhất",
+        "example": "at least"
     },
     {
-        "Id": 98,
-        "Hanzi": "律师",
-        "Pinyin": "lǜshī",
-        "Meaning": "luật sư"
+        "id": 98,
+        "hanzi": "律师",
+        "pinyin": "lǜshī",
+        "meaning": "luật sư",
+        "example": "lawyer"
     },
     {
-        "Id": 99,
-        "Hanzi": "整个",
-        "Pinyin": "zhěnggè",
-        "Meaning": "toàn bộ; tất cả"
+        "id": 99,
+        "hanzi": "整个",
+        "pinyin": "zhěnggè",
+        "meaning": "toàn bộ; tất cả",
+        "example": "the whole; entire"
     },
     {
-        "Id": 100,
-        "Hanzi": "听到",
-        "Pinyin": "tīngdào",
-        "Meaning": "nghe được"
+        "id": 100,
+        "hanzi": "听到",
+        "pinyin": "tīngdào",
+        "meaning": "nghe được",
+        "example": "to hear"
     },
     {
-        "Id": 101,
-        "Hanzi": "表演",
-        "Pinyin": "biǎoyǎn",
-        "Meaning": "biểu diễn"
+        "id": 101,
+        "hanzi": "表演",
+        "pinyin": "biǎoyǎn",
+        "meaning": "biểu diễn",
+        "example": "performance; to perform"
     },
     {
-        "Id": 102,
-        "Hanzi": "感到",
-        "Pinyin": "gǎndào",
-        "Meaning": "cảm thấy"
+        "id": 102,
+        "hanzi": "感到",
+        "pinyin": "gǎndào",
+        "meaning": "cảm thấy",
+        "example": "to feel"
     },
     {
-        "Id": 103,
-        "Hanzi": "故事",
-        "Pinyin": "gùshi",
-        "Meaning": "câu chuyện"
+        "id": 103,
+        "hanzi": "故事",
+        "pinyin": "gùshi",
+        "meaning": "câu chuyện",
+        "example": "story"
     },
     {
-        "Id": 104,
-        "Hanzi": "进行",
-        "Pinyin": "jìnxíng",
-        "Meaning": "tiến hành"
+        "id": 104,
+        "hanzi": "进行",
+        "pinyin": "jìnxíng",
+        "meaning": "tiến hành",
+        "example": "to carry out; to conduct"
     },
     {
-        "Id": 105,
-        "Hanzi": "是否",
-        "Pinyin": "shìfǒu",
-        "Meaning": "phải chăng; hay không"
+        "id": 105,
+        "hanzi": "是否",
+        "pinyin": "shìfǒu",
+        "meaning": "phải chăng; hay không",
+        "example": "whether; if"
     },
     {
-        "Id": 106,
-        "Hanzi": "行动",
-        "Pinyin": "xíngdòng",
-        "Meaning": "hành động"
+        "id": 106,
+        "hanzi": "行动",
+        "pinyin": "xíngdòng",
+        "meaning": "hành động",
+        "example": "action; to act"
     },
     {
-        "Id": 107,
-        "Hanzi": "害怕",
-        "Pinyin": "hàipà",
-        "Meaning": "sợ hãi; sợ sệt"
+        "id": 107,
+        "hanzi": "害怕",
+        "pinyin": "hàipà",
+        "meaning": "sợ hãi; sợ sệt",
+        "example": "to be afraid"
     },
     {
-        "Id": 108,
-        "Hanzi": "调查",
-        "Pinyin": "diàochá",
-        "Meaning": "điều tra"
+        "id": 108,
+        "hanzi": "调查",
+        "pinyin": "diàochá",
+        "meaning": "điều tra",
+        "example": "investigation; to investigate"
     },
     {
-        "Id": 109,
-        "Hanzi": "失去",
-        "Pinyin": "shīqù",
-        "Meaning": "mất; đánh mất"
+        "id": 109,
+        "hanzi": "失去",
+        "pinyin": "shīqù",
+        "meaning": "mất; đánh mất",
+        "example": "to lose"
     },
     {
-        "Id": 110,
-        "Hanzi": "成功",
-        "Pinyin": "chénggōng",
-        "Meaning": "thành công"
+        "id": 110,
+        "hanzi": "成功",
+        "pinyin": "chénggōng",
+        "meaning": "thành công",
+        "example": "success; to succeed"
     },
     {
-        "Id": 111,
-        "Hanzi": "约会",
-        "Pinyin": "yuēhuì",
-        "Meaning": "hẹn hò; hẹn gặp"
+        "id": 111,
+        "hanzi": "约会",
+        "pinyin": "yuēhuì",
+        "meaning": "hẹn hò; hẹn gặp",
+        "example": "date; appointment"
     },
     {
-        "Id": 112,
-        "Hanzi": "通过",
-        "Pinyin": "tōngguò",
-        "Meaning": "thông qua; nhờ; đi qua"
+        "id": 112,
+        "hanzi": "通过",
+        "pinyin": "tōngguò",
+        "meaning": "thông qua; nhờ; đi qua",
+        "example": "through; by means of"
     },
     {
-        "Id": 113,
-        "Hanzi": "开心",
-        "Pinyin": "kāixīn",
-        "Meaning": "vui vẻ"
+        "id": 113,
+        "hanzi": "开心",
+        "pinyin": "kāixīn",
+        "meaning": "vui vẻ",
+        "example": "happy"
     },
     {
-        "Id": 114,
-        "Hanzi": "丈夫",
-        "Pinyin": "zhàngfū",
-        "Meaning": "chồng"
+        "id": 114,
+        "hanzi": "丈夫",
+        "pinyin": "zhàngfū",
+        "meaning": "chồng",
+        "example": "husband"
     },
     {
-        "Id": 115,
-        "Hanzi": "变成",
-        "Pinyin": "biàn chéng",
-        "Meaning": "biến thành; trở thành"
+        "id": 115,
+        "hanzi": "变成",
+        "pinyin": "biàn chéng",
+        "meaning": "biến thành; trở thành",
+        "example": "to become; turn into"
     },
     {
-        "Id": 116,
-        "Hanzi": "解释",
-        "Pinyin": "jiěshì",
-        "Meaning": "giải thích"
+        "id": 116,
+        "hanzi": "解释",
+        "pinyin": "jiěshì",
+        "meaning": "giải thích",
+        "example": "to explain; explanation"
     },
     {
-        "Id": 117,
-        "Hanzi": "联系",
-        "Pinyin": "liánxì",
-        "Meaning": "liên hệ; liên lạc"
+        "id": 117,
+        "hanzi": "联系",
+        "pinyin": "liánxì",
+        "meaning": "liên hệ; liên lạc",
+        "example": "to contact; connection"
     },
     {
-        "Id": 118,
-        "Hanzi": "证明",
-        "Pinyin": "zhèngmíng",
-        "Meaning": "chứng minh; giấy chứng nhận"
+        "id": 118,
+        "hanzi": "证明",
+        "pinyin": "zhèngmíng",
+        "meaning": "chứng minh; giấy chứng nhận",
+        "example": "to prove; certificate"
     },
     {
-        "Id": 119,
-        "Hanzi": "生命",
-        "Pinyin": "shēngmìng",
-        "Meaning": "sinh mệnh; mạng sống"
+        "id": 119,
+        "hanzi": "生命",
+        "pinyin": "shēngmìng",
+        "meaning": "sinh mệnh; mạng sống",
+        "example": "life"
     },
     {
-        "Id": 120,
-        "Hanzi": "解决",
-        "Pinyin": "jiějué",
-        "Meaning": "giải quyết"
+        "id": 120,
+        "hanzi": "解决",
+        "pinyin": "jiějué",
+        "meaning": "giải quyết",
+        "example": "to solve; to resolve"
     },
     {
-        "Id": 121,
-        "Hanzi": "难道",
-        "Pinyin": "nándào",
-        "Meaning": "lẽ nào; chẳng lẽ (dùng nhấn mạnh nghi vấn)"
+        "id": 121,
+        "hanzi": "难道",
+        "pinyin": "nándào",
+        "meaning": "lẽ nào; chẳng lẽ (dùng nhấn mạnh nghi vấn)",
+        "example": "could it be that…"
     },
     {
-        "Id": 122,
-        "Hanzi": "作为",
-        "Pinyin": "zuòwéi",
-        "Meaning": "với tư cách; coi như; làm (như là)"
+        "id": 122,
+        "hanzi": "作为",
+        "pinyin": "zuòwéi",
+        "meaning": "với tư cách; coi như; làm (như là)",
+        "example": "as; to act as"
     },
     {
-        "Id": 123,
-        "Hanzi": "奇怪",
-        "Pinyin": "qíguài",
-        "Meaning": "kì lạ; kì quái"
+        "id": 123,
+        "hanzi": "奇怪",
+        "pinyin": "qíguài",
+        "meaning": "kì lạ; kì quái",
+        "example": "strange; odd"
     },
     {
-        "Id": 124,
-        "Hanzi": "危险",
-        "Pinyin": "wēixiǎn",
-        "Meaning": "nguy hiểm"
+        "id": 124,
+        "hanzi": "危险",
+        "pinyin": "wēixiǎn",
+        "meaning": "nguy hiểm",
+        "example": "dangerous; danger"
     },
     {
-        "Id": 125,
-        "Hanzi": "讨厌",
-        "Pinyin": "tǎoyàn",
-        "Meaning": "đáng ghét; ghét"
+        "id": 125,
+        "hanzi": "讨厌",
+        "pinyin": "tǎoyàn",
+        "meaning": "đáng ghét; ghét",
+        "example": "to dislike; annoying"
     },
     {
-        "Id": 126,
-        "Hanzi": "曾经",
-        "Pinyin": "céngjīng",
-        "Meaning": "đã từng; từng"
+        "id": 126,
+        "hanzi": "曾经",
+        "pinyin": "céngjīng",
+        "meaning": "đã từng; từng",
+        "example": "once; formerly"
     },
     {
-        "Id": 127,
-        "Hanzi": "眼睛",
-        "Pinyin": "yǎnjing",
-        "Meaning": "đôi mắt"
+        "id": 127,
+        "hanzi": "眼睛",
+        "pinyin": "yǎnjing",
+        "meaning": "đôi mắt",
+        "example": "eyes"
     },
     {
-        "Id": 128,
-        "Hanzi": "国家",
-        "Pinyin": "guójiā",
-        "Meaning": "quốc gia; đất nước"
+        "id": 128,
+        "hanzi": "国家",
+        "pinyin": "guójiā",
+        "meaning": "quốc gia; đất nước",
+        "example": "country; state"
     },
     {
-        "Id": 129,
-        "Hanzi": "总统",
-        "Pinyin": "zǒngtǒng",
-        "Meaning": "tổng thống"
+        "id": 129,
+        "hanzi": "总统",
+        "pinyin": "zǒngtǒng",
+        "meaning": "tổng thống",
+        "example": "president"
     },
     {
-        "Id": 130,
-        "Hanzi": "伤害",
-        "Pinyin": "shānghài",
-        "Meaning": "tổn thương; làm hại"
+        "id": 130,
+        "hanzi": "伤害",
+        "pinyin": "shānghài",
+        "meaning": "tổn thương; làm hại",
+        "example": "to harm; to hurt"
     },
     {
-        "Id": 131,
-        "Hanzi": "控制",
-        "Pinyin": "kòngzhì",
-        "Meaning": "khống chế; kiểm soát"
+        "id": 131,
+        "hanzi": "控制",
+        "pinyin": "kòngzhì",
+        "meaning": "khống chế; kiểm soát",
+        "example": "to control"
     },
     {
-        "Id": 132,
-        "Hanzi": "最近",
-        "Pinyin": "zuìjìn",
-        "Meaning": "dạo này; gần đây"
+        "id": 132,
+        "hanzi": "最近",
+        "pinyin": "zuìjìn",
+        "meaning": "dạo này; gần đây",
+        "example": "recently; lately"
     },
     {
-        "Id": 133,
-        "Hanzi": "声音",
-        "Pinyin": "shēngyīn",
-        "Meaning": "âm thanh; tiếng động"
+        "id": 133,
+        "hanzi": "声音",
+        "pinyin": "shēngyīn",
+        "meaning": "âm thanh; tiếng động",
+        "example": "sound; voice"
     },
     {
-        "Id": 134,
-        "Hanzi": "快乐",
-        "Pinyin": "kuàilè",
-        "Meaning": "vui vẻ; hạnh phúc"
+        "id": 134,
+        "hanzi": "快乐",
+        "pinyin": "kuàilè",
+        "meaning": "vui vẻ; hạnh phúc",
+        "example": "happy; joyful"
     },
     {
-        "Id": 135,
-        "Hanzi": "可爱",
-        "Pinyin": "kě'ài",
-        "Meaning": "đáng yêu"
+        "id": 135,
+        "hanzi": "可爱",
+        "pinyin": "kě'ài",
+        "meaning": "đáng yêu",
+        "example": "lovely; cute"
     },
     {
-        "Id": 136,
-        "Hanzi": "进入",
-        "Pinyin": "jìnrù",
-        "Meaning": "tiến vào; đi vào"
+        "id": 136,
+        "hanzi": "进入",
+        "pinyin": "jìnrù",
+        "meaning": "tiến vào; đi vào",
+        "example": "to enter"
     },
     {
-        "Id": 137,
-        "Hanzi": "能够",
-        "Pinyin": "nénggòu",
-        "Meaning": "đủ; có thể"
+        "id": 137,
+        "hanzi": "能够",
+        "pinyin": "nénggòu",
+        "meaning": "đủ; có thể",
+        "example": "to be able to; can"
     },
     {
-        "Id": 138,
-        "Hanzi": "完成",
-        "Pinyin": "wánchéng",
-        "Meaning": "hoàn thành"
+        "id": 138,
+        "hanzi": "完成",
+        "pinyin": "wánchéng",
+        "meaning": "hoàn thành",
+        "example": "to complete; accomplish"
     },
     {
-        "Id": 139,
-        "Hanzi": "不行",
-        "Pinyin": "bùxíng",
-        "Meaning": "không được; không ổn"
+        "id": 139,
+        "hanzi": "不行",
+        "pinyin": "bùxíng",
+        "meaning": "không được; không ổn",
+        "example": "no good; not allowed"
     },
     {
-        "Id": 140,
-        "Hanzi": "而已",
-        "Pinyin": "éryǐ",
-        "Meaning": "mà thôi; chỉ thế thôi"
+        "id": 140,
+        "hanzi": "而已",
+        "pinyin": "éryǐ",
+        "meaning": "mà thôi; chỉ thế thôi",
+        "example": "that's all; only"
     },
     {
-        "Id": 141,
-        "Hanzi": "真的",
-        "Pinyin": "zhēn de",
-        "Meaning": "thật mà; thật sự"
+        "id": 141,
+        "hanzi": "真的",
+        "pinyin": "zhēn de",
+        "meaning": "thật mà; thật sự",
+        "example": "really; truly"
     },
     {
-        "Id": 142,
-        "Hanzi": "除了",
-        "Pinyin": "chúle",
-        "Meaning": "ngoài ra; trừ ra"
+        "id": 142,
+        "hanzi": "除了",
+        "pinyin": "chúle",
+        "meaning": "ngoài ra; trừ ra",
+        "example": "except; besides"
     },
     {
-        "Id": 143,
-        "Hanzi": "保持",
-        "Pinyin": "bǎochí",
-        "Meaning": "duy trì; gìn giữ"
+        "id": 143,
+        "hanzi": "保持",
+        "pinyin": "bǎochí",
+        "meaning": "duy trì; gìn giữ",
+        "example": "to keep; to maintain"
     },
     {
-        "Id": 144,
-        "Hanzi": "虽然",
-        "Pinyin": "suīrán",
-        "Meaning": "mặc dù; tuy"
+        "id": 144,
+        "hanzi": "虽然",
+        "pinyin": "suīrán",
+        "meaning": "mặc dù; tuy",
+        "example": "although; though"
     },
     {
-        "Id": 145,
-        "Hanzi": "想到",
-        "Pinyin": "xiǎngdào",
-        "Meaning": "nghĩ đến; nghĩ ra"
+        "id": 145,
+        "hanzi": "想到",
+        "pinyin": "xiǎngdào",
+        "meaning": "nghĩ đến; nghĩ ra",
+        "example": "to think of; come up with"
     },
     {
-        "Id": 146,
-        "Hanzi": "证据",
-        "Pinyin": "zhèngjù",
-        "Meaning": "chứng cứ; bằng chứng"
+        "id": 146,
+        "hanzi": "证据",
+        "pinyin": "zhèngjù",
+        "meaning": "chứng cứ; bằng chứng",
+        "example": "evidence; proof"
     },
     {
-        "Id": 147,
-        "Hanzi": "简单",
-        "Pinyin": "jiǎndān",
-        "Meaning": "đơn giản"
+        "id": 147,
+        "hanzi": "简单",
+        "pinyin": "jiǎndān",
+        "meaning": "đơn giản",
+        "example": "simple"
     },
     {
-        "Id": 148,
-        "Hanzi": "不同",
-        "Pinyin": "bùtóng",
-        "Meaning": "không giống; khác nhau"
+        "id": 148,
+        "hanzi": "不同",
+        "pinyin": "bùtóng",
+        "meaning": "không giống; khác nhau",
+        "example": "different"
     },
     {
-        "Id": 149,
-        "Hanzi": "父母",
-        "Pinyin": "fùmǔ",
-        "Meaning": "cha mẹ"
+        "id": 149,
+        "hanzi": "父母",
+        "pinyin": "fùmǔ",
+        "meaning": "cha mẹ",
+        "example": "parents"
     },
     {
-        "Id": 150,
-        "Hanzi": "事实",
-        "Pinyin": "shìshí",
-        "Meaning": "sự thực; sự thật"
+        "id": 150,
+        "hanzi": "事实",
+        "pinyin": "shìshí",
+        "meaning": "sự thực; sự thật",
+        "example": "fact"
     },
     {
-        "Id": 151,
-        "Hanzi": "家庭",
-        "Pinyin": "jiātíng",
-        "Meaning": "gia đình"
+        "id": 151,
+        "hanzi": "家庭",
+        "pinyin": "jiātíng",
+        "meaning": "gia đình",
+        "example": "family (household)"
     },
     {
-        "Id": 152,
-        "Hanzi": "秘密",
-        "Pinyin": "mìmì",
-        "Meaning": "bí mật"
+        "id": 152,
+        "hanzi": "秘密",
+        "pinyin": "mìmì",
+        "meaning": "bí mật",
+        "example": "secret"
     },
     {
-        "Id": 153,
-        "Hanzi": "打开",
-        "Pinyin": "dǎkāi",
-        "Meaning": "mở ra"
+        "id": 153,
+        "hanzi": "打开",
+        "pinyin": "dǎkāi",
+        "meaning": "mở ra",
+        "example": "to open"
     },
     {
-        "Id": 154,
-        "Hanzi": "玩笑",
-        "Pinyin": "wánxiào",
-        "Meaning": "đùa; trò đùa"
+        "id": 154,
+        "hanzi": "玩笑",
+        "pinyin": "wánxiào",
+        "meaning": "đùa; trò đùa",
+        "example": "joke"
     },
     {
-        "Id": 155,
-        "Hanzi": "任务",
-        "Pinyin": "rènwu",
-        "Meaning": "nhiệm vụ"
+        "id": 155,
+        "hanzi": "任务",
+        "pinyin": "rènwu",
+        "meaning": "nhiệm vụ",
+        "example": "task; mission"
     },
     {
-        "Id": 156,
-        "Hanzi": "紧张",
-        "Pinyin": "jǐnzhāng",
-        "Meaning": "lo lắng; hồi hộp; căng thẳng"
+        "id": 156,
+        "hanzi": "紧张",
+        "pinyin": "jǐnzhāng",
+        "meaning": "lo lắng; hồi hộp; căng thẳng",
+        "example": "nervous; tense"
     },
     {
-        "Id": 157,
-        "Hanzi": "第一",
-        "Pinyin": "dì yī",
-        "Meaning": "thứ nhất; hạng nhất; quan trọng nhất"
+        "id": 157,
+        "hanzi": "第一",
+        "pinyin": "dì yī",
+        "meaning": "thứ nhất; hạng nhất; quan trọng nhất",
+        "example": "first; foremost"
     },
     {
-        "Id": 158,
-        "Hanzi": "那样",
-        "Pinyin": "nà yàng",
-        "Meaning": "như vậy; như thế (kiểu kia)"
+        "id": 158,
+        "hanzi": "那样",
+        "pinyin": "nà yàng",
+        "meaning": "như vậy; như thế (kiểu kia)",
+        "example": "like that; such"
     },
     {
-        "Id": 159,
-        "Hanzi": "一些",
-        "Pinyin": "yīxiē",
-        "Meaning": "một ít; một số; vài"
+        "id": 159,
+        "hanzi": "一些",
+        "pinyin": "yīxiē",
+        "meaning": "một ít; một số; vài",
+        "example": "some; a few"
     },
     {
-        "Id": 160,
-        "Hanzi": "过来",
-        "Pinyin": "guò lái",
-        "Meaning": "đến; qua đây"
+        "id": 160,
+        "hanzi": "过来",
+        "pinyin": "guò lái",
+        "meaning": "đến; qua đây",
+        "example": "come over; come here"
     },
     {
-        "Id": 161,
-        "Hanzi": "等等",
-        "Pinyin": "děngděng",
-        "Meaning": "vân vân; (cũng dùng trong 等一等: đợi một chút)"
+        "id": 161,
+        "hanzi": "等等",
+        "pinyin": "děngděng",
+        "meaning": "vân vân; (cũng dùng trong 等一等: đợi một chút)",
+        "example": "etc.; (in děng yī děng: wait a moment)"
     },
     {
-        "Id": 162,
-        "Hanzi": "最后",
-        "Pinyin": "zuìhòu",
-        "Meaning": "cuối cùng; sau cùng"
+        "id": 162,
+        "hanzi": "最后",
+        "pinyin": "zuìhòu",
+        "meaning": "cuối cùng; sau cùng",
+        "example": "last; finally"
     },
     {
-        "Id": 163,
-        "Hanzi": "伙计",
-        "Pinyin": "huǒji",
-        "Meaning": "bạn cùng nghề; người cộng tác (khẩu ngữ); trợ lý quầy"
+        "id": 163,
+        "hanzi": "伙计",
+        "pinyin": "huǒji",
+        "meaning": "bạn cùng nghề; người cộng tác (khẩu ngữ); trợ lý quầy",
+        "example": "mate; buddy; shop assistant"
     },
     {
-        "Id": 164,
-        "Hanzi": "任何",
-        "Pinyin": "rènhé",
-        "Meaning": "bất luận cái gì; bất kỳ"
+        "id": 164,
+        "hanzi": "任何",
+        "pinyin": "rènhé",
+        "meaning": "bất luận cái gì; bất kỳ",
+        "example": "any; whatever"
     },
     {
-        "Id": 165,
-        "Hanzi": "很多",
-        "Pinyin": "hěn duō",
-        "Meaning": "rất nhiều"
+        "id": 165,
+        "hanzi": "很多",
+        "pinyin": "hěn duō",
+        "meaning": "rất nhiều",
+        "example": "many; a lot"
     },
     {
-        "Id": 166,
-        "Hanzi": "这种",
-        "Pinyin": "zhè zhǒng",
-        "Meaning": "kiểu này; loại này"
+        "id": 166,
+        "hanzi": "这种",
+        "pinyin": "zhè zhǒng",
+        "meaning": "kiểu này; loại này",
+        "example": "this kind; this type"
     },
     {
-        "Id": 167,
-        "Hanzi": "今晚",
-        "Pinyin": "jīn wǎn",
-        "Meaning": "tối nay"
+        "id": 167,
+        "hanzi": "今晚",
+        "pinyin": "jīn wǎn",
+        "meaning": "tối nay",
+        "example": "tonight"
     },
     {
-        "Id": 168,
-        "Hanzi": "其他",
-        "Pinyin": "qítā",
-        "Meaning": "cái khác; khác"
+        "id": 168,
+        "hanzi": "其他",
+        "pinyin": "qítā",
+        "meaning": "cái khác; khác",
+        "example": "other; else"
     },
     {
-        "Id": 169,
-        "Hanzi": "记得",
-        "Pinyin": "jìde",
-        "Meaning": "nhớ; còn nhớ; nhớ lại"
+        "id": 169,
+        "hanzi": "记得",
+        "pinyin": "jìde",
+        "meaning": "nhớ; còn nhớ; nhớ lại",
+        "example": "to remember"
     },
     {
-        "Id": 170,
-        "Hanzi": "或者",
-        "Pinyin": "huòzhě",
-        "Meaning": "hoặc là; hay là"
+        "id": 170,
+        "hanzi": "或者",
+        "pinyin": "huòzhě",
+        "meaning": "hoặc là; hay là",
+        "example": "or"
     },
     {
-        "Id": 171,
-        "Hanzi": "担心",
-        "Pinyin": "dānxīn",
-        "Meaning": "lo lắng; không yên tâm"
+        "id": 171,
+        "hanzi": "担心",
+        "pinyin": "dānxīn",
+        "meaning": "lo lắng; không yên tâm",
+        "example": "to worry; anxious"
     },
     {
-        "Id": 172,
-        "Hanzi": "女孩",
-        "Pinyin": "nǚhái",
-        "Meaning": "cô gái"
+        "id": 172,
+        "hanzi": "女孩",
+        "pinyin": "nǚhái",
+        "meaning": "cô gái",
+        "example": "girl"
     },
     {
-        "Id": 173,
-        "Hanzi": "亲爱",
-        "Pinyin": "qīn'ài",
-        "Meaning": "thân ái; thương yêu"
+        "id": 173,
+        "hanzi": "亲爱",
+        "pinyin": "qīn'ài",
+        "meaning": "thân ái; thương yêu",
+        "example": "dear; beloved"
     },
     {
-        "Id": 174,
-        "Hanzi": "下来",
-        "Pinyin": "xiàlai",
-        "Meaning": "xuống; (tiếp tục\/giữ nguyên trạng thái)"
+        "id": 174,
+        "hanzi": "下来",
+        "pinyin": "xiàlai",
+        "meaning": "xuống; (tiếp tục\/giữ nguyên trạng thái)",
+        "example": "come down; (continue\/retain)"
     },
     {
-        "Id": 175,
-        "Hanzi": "完全",
-        "Pinyin": "wánquán",
-        "Meaning": "đầy đủ; trọn vẹn; hoàn toàn"
+        "id": 175,
+        "hanzi": "完全",
+        "pinyin": "wánquán",
+        "meaning": "đầy đủ; trọn vẹn; hoàn toàn",
+        "example": "completely; entirely"
     },
     {
-        "Id": 176,
-        "Hanzi": "宝贝",
-        "Pinyin": "bǎobèi",
-        "Meaning": "bảo bối; cục cưng; của báu"
+        "id": 176,
+        "hanzi": "宝贝",
+        "pinyin": "bǎobèi",
+        "meaning": "bảo bối; cục cưng; của báu",
+        "example": "treasure; baby; darling"
     },
     {
-        "Id": 177,
-        "Hanzi": "世界",
-        "Pinyin": "shìjiè",
-        "Meaning": "thế giới"
+        "id": 177,
+        "hanzi": "世界",
+        "pinyin": "shìjiè",
+        "meaning": "thế giới",
+        "example": "world"
     },
     {
-        "Id": 178,
-        "Hanzi": "小时",
-        "Pinyin": "xiǎoshí",
-        "Meaning": "giờ; tiếng đồng hồ"
+        "id": 178,
+        "hanzi": "小时",
+        "pinyin": "xiǎoshí",
+        "meaning": "giờ; tiếng đồng hồ",
+        "example": "hour"
     },
     {
-        "Id": 179,
-        "Hanzi": "重要",
-        "Pinyin": "zhòngyào",
-        "Meaning": "trọng yếu; quan trọng"
+        "id": 179,
+        "hanzi": "重要",
+        "pinyin": "zhòngyào",
+        "meaning": "trọng yếu; quan trọng",
+        "example": "important"
     },
     {
-        "Id": 180,
-        "Hanzi": "别人",
-        "Pinyin": "biérén",
-        "Meaning": "người khác; người ta"
+        "id": 180,
+        "hanzi": "别人",
+        "pinyin": "biérén",
+        "meaning": "người khác; người ta",
+        "example": "others; other people"
     },
     {
-        "Id": 181,
-        "Hanzi": "机会",
-        "Pinyin": "jīhuì",
-        "Meaning": "cơ hội; dịp; thời cơ"
+        "id": 181,
+        "hanzi": "机会",
+        "pinyin": "jīhuì",
+        "meaning": "cơ hội; dịp; thời cơ",
+        "example": "opportunity; chance"
     },
     {
-        "Id": 182,
-        "Hanzi": "看见",
-        "Pinyin": "kànjiàn",
-        "Meaning": "trông thấy; nhìn thấy"
+        "id": 182,
+        "hanzi": "看见",
+        "pinyin": "kànjiàn",
+        "meaning": "trông thấy; nhìn thấy",
+        "example": "to see"
     },
     {
-        "Id": 183,
-        "Hanzi": "好像",
-        "Pinyin": "hǎoxiàng",
-        "Meaning": "hình như; giống như; na ná"
+        "id": 183,
+        "hanzi": "好像",
+        "pinyin": "hǎoxiàng",
+        "meaning": "hình như; giống như; na ná",
+        "example": "seem; as if; be like"
     },
     {
-        "Id": 184,
-        "Hanzi": "得到",
-        "Pinyin": "dédào",
-        "Meaning": "đạt được; nhận được"
+        "id": 184,
+        "hanzi": "得到",
+        "pinyin": "dédào",
+        "meaning": "đạt được; nhận được",
+        "example": "to obtain; to get"
     },
     {
-        "Id": 185,
-        "Hanzi": "警察",
-        "Pinyin": "jǐngchá",
-        "Meaning": "cảnh sát"
+        "id": 185,
+        "hanzi": "警察",
+        "pinyin": "jǐngchá",
+        "meaning": "cảnh sát",
+        "example": "police"
     },
     {
-        "Id": 186,
-        "Hanzi": "儿子",
-        "Pinyin": "érzi",
-        "Meaning": "con trai"
+        "id": 186,
+        "hanzi": "儿子",
+        "pinyin": "érzi",
+        "meaning": "con trai",
+        "example": "son"
     },
     {
-        "Id": 187,
-        "Hanzi": "之后",
-        "Pinyin": "zhīhòu",
-        "Meaning": "sau khi; về sau"
+        "id": 187,
+        "hanzi": "之后",
+        "pinyin": "zhīhòu",
+        "meaning": "sau khi; về sau",
+        "example": "after; afterwards"
     },
     {
-        "Id": 188,
-        "Hanzi": "如何",
-        "Pinyin": "rúhé",
-        "Meaning": "làm sao; như thế nào"
+        "id": 188,
+        "hanzi": "如何",
+        "pinyin": "rúhé",
+        "meaning": "làm sao; như thế nào",
+        "example": "how; in what way"
     },
     {
-        "Id": 189,
-        "Hanzi": "比赛",
-        "Pinyin": "bǐsài",
-        "Meaning": "thi đấu; trận đấu"
+        "id": 189,
+        "hanzi": "比赛",
+        "pinyin": "bǐsài",
+        "meaning": "thi đấu; trận đấu",
+        "example": "match; competition"
     },
     {
-        "Id": 190,
-        "Hanzi": "情况",
-        "Pinyin": "qíngkuàng",
-        "Meaning": "tình hình; tình huống"
+        "id": 190,
+        "hanzi": "情况",
+        "pinyin": "qíngkuàng",
+        "meaning": "tình hình; tình huống",
+        "example": "situation; circumstance"
     },
     {
-        "Id": 191,
-        "Hanzi": "真是",
-        "Pinyin": "zhēn shì",
-        "Meaning": "rõ là; thật là (thường diễn cảm không hài lòng)"
+        "id": 191,
+        "hanzi": "真是",
+        "pinyin": "zhēn shì",
+        "meaning": "rõ là; thật là (thường diễn cảm không hài lòng)",
+        "example": "really!; honestly (exasperation)"
     },
     {
-        "Id": 192,
-        "Hanzi": "决定",
-        "Pinyin": "juédìng",
-        "Meaning": "quyết định"
+        "id": 192,
+        "hanzi": "决定",
+        "pinyin": "juédìng",
+        "meaning": "quyết định",
+        "example": "to decide; decision"
     },
     {
-        "Id": 193,
-        "Hanzi": "见到",
-        "Pinyin": "jiàndào",
-        "Meaning": "nhìn thấy; gặp (mặt)"
+        "id": 193,
+        "hanzi": "见到",
+        "pinyin": "jiàndào",
+        "meaning": "nhìn thấy; gặp (mặt)",
+        "example": "to see; to meet"
     },
     {
-        "Id": 194,
-        "Hanzi": "只要",
-        "Pinyin": "zhǐyào",
-        "Meaning": "chỉ cần; miễn là"
+        "id": 194,
+        "hanzi": "只要",
+        "pinyin": "zhǐyào",
+        "meaning": "chỉ cần; miễn là",
+        "example": "as long as; provided that"
     },
     {
-        "Id": 195,
-        "Hanzi": "到底",
-        "Pinyin": "dàodǐ",
-        "Meaning": "đến cùng; rốt cuộc; tóm lại"
+        "id": 195,
+        "hanzi": "到底",
+        "pinyin": "dàodǐ",
+        "meaning": "đến cùng; rốt cuộc; tóm lại",
+        "example": "after all; in the end"
     },
     {
-        "Id": 196,
-        "Hanzi": "了解",
-        "Pinyin": "liǎojiě",
-        "Meaning": "hiểu rõ; tìm hiểu; hỏi thăm"
+        "id": 196,
+        "hanzi": "了解",
+        "pinyin": "liǎojiě",
+        "meaning": "hiểu rõ; tìm hiểu; hỏi thăm",
+        "example": "to understand; to find out"
     },
     {
-        "Id": 197,
-        "Hanzi": "结束",
-        "Pinyin": "jiéshù",
-        "Meaning": "kết thúc; chấm dứt"
+        "id": 197,
+        "hanzi": "结束",
+        "pinyin": "jiéshù",
+        "meaning": "kết thúc; chấm dứt",
+        "example": "to end; to finish"
     },
     {
-        "Id": 198,
-        "Hanzi": "成为",
-        "Pinyin": "chéngwéi",
-        "Meaning": "trở thành; biến thành"
+        "id": 198,
+        "hanzi": "成为",
+        "pinyin": "chéngwéi",
+        "meaning": "trở thành; biến thành",
+        "example": "to become"
     },
     {
-        "Id": 199,
-        "Hanzi": "永远",
-        "Pinyin": "yǒngyuǎn",
-        "Meaning": "vĩnh viễn; mãi mãi"
+        "id": 199,
+        "hanzi": "永远",
+        "pinyin": "yǒngyuǎn",
+        "meaning": "vĩnh viễn; mãi mãi",
+        "example": "forever; always"
     },
     {
-        "Id": 200,
-        "Hanzi": "确定",
-        "Pinyin": "quèdìng",
-        "Meaning": "xác định; khẳng định"
+        "id": 200,
+        "hanzi": "确定",
+        "pinyin": "quèdìng",
+        "meaning": "xác định; khẳng định",
+        "example": "to determine; to affirm"
     },
     {
-        "Id": 201,
-        "Hanzi": "有人",
-        "Pinyin": "yǒu rén",
-        "Meaning": "có người; ai đó"
+        "id": 201,
+        "hanzi": "有人",
+        "pinyin": "yǒu rén",
+        "meaning": "có người; ai đó",
+        "example": "someone; there is\/are people"
     },
     {
-        "Id": 202,
-        "Hanzi": "安全",
-        "Pinyin": "ānquán",
-        "Meaning": "an toàn"
+        "id": 202,
+        "hanzi": "安全",
+        "pinyin": "ānquán",
+        "meaning": "an toàn",
+        "example": "safe; safety"
     },
     {
-        "Id": 203,
-        "Hanzi": "怎样",
-        "Pinyin": "zěnyàng",
-        "Meaning": "thế nào; ra sao"
+        "id": 203,
+        "hanzi": "怎样",
+        "pinyin": "zěnyàng",
+        "meaning": "thế nào; ra sao",
+        "example": "how; what kind"
     },
     {
-        "Id": 204,
-        "Hanzi": "计划",
-        "Pinyin": "jìhuà",
-        "Meaning": "kế hoạch; lập kế hoạch"
+        "id": 204,
+        "hanzi": "计划",
+        "pinyin": "jìhuà",
+        "meaning": "kế hoạch; lập kế hoạch",
+        "example": "plan; to plan"
     },
     {
-        "Id": 205,
-        "Hanzi": "说话",
-        "Pinyin": "shuōhuà",
-        "Meaning": "nói chuyện; lời nói"
+        "id": 205,
+        "hanzi": "说话",
+        "pinyin": "shuōhuà",
+        "meaning": "nói chuyện; lời nói",
+        "example": "to speak; talk"
     },
     {
-        "Id": 206,
-        "Hanzi": "有些",
-        "Pinyin": "yǒuxiē",
-        "Meaning": "có một số; hơi; đôi chút"
+        "id": 206,
+        "hanzi": "有些",
+        "pinyin": "yǒuxiē",
+        "meaning": "có một số; hơi; đôi chút",
+        "example": "some; rather; somewhat"
     },
     {
-        "Id": 207,
-        "Hanzi": "谈谈",
-        "Pinyin": "tán tán",
-        "Meaning": "bàn về; thảo luận (một chút)"
+        "id": 207,
+        "hanzi": "谈谈",
+        "pinyin": "tán tán",
+        "meaning": "bàn về; thảo luận (một chút)",
+        "example": "to talk about; to discuss (briefly)"
     },
     {
-        "Id": 208,
-        "Hanzi": "每个",
-        "Pinyin": "měi gè",
-        "Meaning": "mỗi cái; mỗi người"
+        "id": 208,
+        "hanzi": "每个",
+        "pinyin": "měi gè",
+        "meaning": "mỗi cái; mỗi người",
+        "example": "each; every"
     },
     {
-        "Id": 209,
-        "Hanzi": "从来",
-        "Pinyin": "cónglái",
-        "Meaning": "từ trước tới nay; chưa hề (dùng với phủ định)"
+        "id": 209,
+        "hanzi": "从来",
+        "pinyin": "cónglái",
+        "meaning": "từ trước tới nay; chưa hề (dùng với phủ định)",
+        "example": "always; never (with neg.)"
     },
     {
-        "Id": 210,
-        "Hanzi": "总是",
-        "Pinyin": "zǒng shì",
-        "Meaning": "luôn luôn; lúc nào cũng"
+        "id": 210,
+        "hanzi": "总是",
+        "pinyin": "zǒng shì",
+        "meaning": "luôn luôn; lúc nào cũng",
+        "example": "always; invariably"
     },
     {
-        "Id": 211,
-        "Hanzi": "拜托",
-        "Pinyin": "bàituō",
-        "Meaning": "xin nhờ; kính nhờ"
+        "id": 211,
+        "hanzi": "拜托",
+        "pinyin": "bàituō",
+        "meaning": "xin nhờ; kính nhờ",
+        "example": "please; I beg you"
     },
     {
-        "Id": 212,
-        "Hanzi": "消息",
-        "Pinyin": "xiāoxi",
-        "Meaning": "tin tức; thông tin"
+        "id": 212,
+        "hanzi": "消息",
+        "pinyin": "xiāoxi",
+        "meaning": "tin tức; thông tin",
+        "example": "news; information"
     },
     {
-        "Id": 213,
-        "Hanzi": "或许",
-        "Pinyin": "huòxǔ",
-        "Meaning": "có lẽ; có thể"
+        "id": 213,
+        "hanzi": "或许",
+        "pinyin": "huòxǔ",
+        "meaning": "có lẽ; có thể",
+        "example": "perhaps; maybe"
     },
     {
-        "Id": 214,
-        "Hanzi": "如此",
-        "Pinyin": "rúcǐ",
-        "Meaning": "như thế; như vậy"
+        "id": 214,
+        "hanzi": "如此",
+        "pinyin": "rúcǐ",
+        "meaning": "như thế; như vậy",
+        "example": "so; such; like this"
     },
     {
-        "Id": 215,
-        "Hanzi": "无法",
-        "Pinyin": "wúfǎ",
-        "Meaning": "không còn\/có cách nào; không thể"
+        "id": 215,
+        "hanzi": "无法",
+        "pinyin": "wúfǎ",
+        "meaning": "không còn\/có cách nào; không thể",
+        "example": "unable; no way to"
     },
     {
-        "Id": 216,
-        "Hanzi": "办法",
-        "Pinyin": "bànfǎ",
-        "Meaning": "cách; biện pháp"
+        "id": 216,
+        "hanzi": "办法",
+        "pinyin": "bànfǎ",
+        "meaning": "cách; biện pháp",
+        "example": "method; way"
     },
     {
-        "Id": 217,
-        "Hanzi": "唯一",
-        "Pinyin": "wéiyī",
-        "Meaning": "duy nhất"
+        "id": 217,
+        "hanzi": "唯一",
+        "pinyin": "wéiyī",
+        "meaning": "duy nhất",
+        "example": "only; sole"
     },
     {
-        "Id": 218,
-        "Hanzi": "人们",
-        "Pinyin": "rénmen",
-        "Meaning": "mọi người; người ta"
+        "id": 218,
+        "hanzi": "人们",
+        "pinyin": "rénmen",
+        "meaning": "mọi người; người ta",
+        "example": "people"
     },
     {
-        "Id": 219,
-        "Hanzi": "该死",
-        "Pinyin": "gāisǐ",
-        "Meaning": "đáng chết; chết tiệt (khẩu ngữ mạnh)"
+        "id": 219,
+        "hanzi": "该死",
+        "pinyin": "gāisǐ",
+        "meaning": "đáng chết; chết tiệt (khẩu ngữ mạnh)",
+        "example": "damn; damn it"
     },
     {
-        "Id": 220,
-        "Hanzi": "选择",
-        "Pinyin": "xuǎnzé",
-        "Meaning": "lựa chọn; tuyển chọn"
+        "id": 220,
+        "hanzi": "选择",
+        "pinyin": "xuǎnzé",
+        "meaning": "lựa chọn; tuyển chọn",
+        "example": "to choose; choice"
     },
     {
-        "Id": 221,
-        "Hanzi": "原因",
-        "Pinyin": "yuányīn",
-        "Meaning": "nguyên nhân"
+        "id": 221,
+        "hanzi": "原因",
+        "pinyin": "yuányīn",
+        "meaning": "nguyên nhân",
+        "example": "cause; reason"
     },
     {
-        "Id": 222,
-        "Hanzi": "混蛋",
-        "Pinyin": "húndàn",
-        "Meaning": "thằng khốn; đồ khốn nạn (thô tục)"
+        "id": 222,
+        "hanzi": "混蛋",
+        "pinyin": "húndàn",
+        "meaning": "thằng khốn; đồ khốn nạn (thô tục)",
+        "example": "bastard; scoundrel"
     },
     {
-        "Id": 223,
-        "Hanzi": "保证",
-        "Pinyin": "bǎozhèng",
-        "Meaning": "bảo đảm; cam đoan"
+        "id": 223,
+        "hanzi": "保证",
+        "pinyin": "bǎozhèng",
+        "meaning": "bảo đảm; cam đoan",
+        "example": "to guarantee; assurance"
     },
     {
-        "Id": 224,
-        "Hanzi": "接受",
-        "Pinyin": "jiēshòu",
-        "Meaning": "tiếp nhận; tiếp thu; nhận"
+        "id": 224,
+        "hanzi": "接受",
+        "pinyin": "jiēshòu",
+        "meaning": "tiếp nhận; tiếp thu; nhận",
+        "example": "to accept; to receive"
     },
     {
-        "Id": 225,
-        "Hanzi": "改变",
-        "Pinyin": "gǎibiàn",
-        "Meaning": "thay đổi; sửa đổi"
+        "id": 225,
+        "hanzi": "改变",
+        "pinyin": "gǎibiàn",
+        "meaning": "thay đổi; sửa đổi",
+        "example": "to change; to alter"
     },
     {
-        "Id": 226,
-        "Hanzi": "看来",
-        "Pinyin": "kànlái",
-        "Meaning": "xem ra; có vẻ"
+        "id": 226,
+        "hanzi": "看来",
+        "pinyin": "kànlái",
+        "meaning": "xem ra; có vẻ",
+        "example": "it seems; apparently"
     },
     {
-        "Id": 227,
-        "Hanzi": "出现",
-        "Pinyin": "chūxiàn",
-        "Meaning": "xuất hiện; hiện ra"
+        "id": 227,
+        "hanzi": "出现",
+        "pinyin": "chūxiàn",
+        "meaning": "xuất hiện; hiện ra",
+        "example": "to appear; to emerge"
     },
     {
-        "Id": 228,
-        "Hanzi": "打算",
-        "Pinyin": "dǎsuan",
-        "Meaning": "dự định; dự kiến; tính"
+        "id": 228,
+        "hanzi": "打算",
+        "pinyin": "dǎsuan",
+        "meaning": "dự định; dự kiến; tính",
+        "example": "to plan; to intend"
     },
     {
-        "Id": 229,
-        "Hanzi": "身上",
-        "Pinyin": "shēnshang",
-        "Meaning": "trên người; trên cơ thể"
+        "id": 229,
+        "hanzi": "身上",
+        "pinyin": "shēnshang",
+        "meaning": "trên người; trên cơ thể",
+        "example": "on the body; on oneself"
     },
     {
-        "Id": 230,
-        "Hanzi": "不管",
-        "Pinyin": "bùguǎn",
-        "Meaning": "bất luận; mặc kệ; cho dù"
+        "id": 230,
+        "hanzi": "不管",
+        "pinyin": "bùguǎn",
+        "meaning": "bất luận; mặc kệ; cho dù",
+        "example": "no matter; regardless of"
     },
     {
-        "Id": 231,
-        "Hanzi": "遗憾",
-        "Pinyin": "yíhàn",
-        "Meaning": "đáng tiếc"
+        "id": 231,
+        "hanzi": "遗憾",
+        "pinyin": "yíhàn",
+        "meaning": "đáng tiếc",
+        "example": "regretful; a pity"
     },
     {
-        "Id": 232,
-        "Hanzi": "急",
-        "Pinyin": "jí",
-        "Meaning": "gấp; khẩn"
+        "id": 232,
+        "hanzi": "急",
+        "pinyin": "jí",
+        "meaning": "gấp; khẩn",
+        "example": "urgent; anxious"
     },
     {
-        "Id": 233,
-        "Hanzi": "马上",
-        "Pinyin": "mǎshàng",
-        "Meaning": "liền; ngay; tức khắc"
+        "id": 233,
+        "hanzi": "马上",
+        "pinyin": "mǎshàng",
+        "meaning": "liền; ngay; tức khắc",
+        "example": "immediately; at once"
     },
     {
-        "Id": 234,
-        "Hanzi": "见",
-        "Pinyin": "jiàn",
-        "Meaning": "gặp; thấy"
+        "id": 234,
+        "hanzi": "见",
+        "pinyin": "jiàn",
+        "meaning": "gặp; thấy",
+        "example": "to meet; to see"
     },
     {
-        "Id": 235,
-        "Hanzi": "胶卷儿",
-        "Pinyin": "jiāojuǎnr",
-        "Meaning": "cuộn phim"
+        "id": 235,
+        "hanzi": "胶卷儿",
+        "pinyin": "jiāojuǎnr",
+        "meaning": "cuộn phim",
+        "example": "a roll of film"
     },
     {
-        "Id": 236,
-        "Hanzi": "白",
-        "Pinyin": "bái",
-        "Meaning": "trắng"
+        "id": 236,
+        "hanzi": "白",
+        "pinyin": "bái",
+        "meaning": "trắng",
+        "example": "white"
     },
     {
-        "Id": 237,
-        "Hanzi": "漂亮",
-        "Pinyin": "piàoliang",
-        "Meaning": "đẹp; xinh"
+        "id": 237,
+        "hanzi": "漂亮",
+        "pinyin": "piàoliang",
+        "meaning": "đẹp; xinh",
+        "example": "pretty; beautiful"
     },
     {
-        "Id": 238,
-        "Hanzi": "难",
-        "Pinyin": "nán",
-        "Meaning": "khó"
+        "id": 238,
+        "hanzi": "难",
+        "pinyin": "nán",
+        "meaning": "khó",
+        "example": "difficult"
     },
     {
-        "Id": 239,
-        "Hanzi": "容易",
-        "Pinyin": "róngyì",
-        "Meaning": "dễ"
+        "id": 239,
+        "hanzi": "容易",
+        "pinyin": "róngyì",
+        "meaning": "dễ",
+        "example": "easy"
     },
     {
-        "Id": 240,
-        "Hanzi": "检查",
-        "Pinyin": "jiǎnchá",
-        "Meaning": "khám; kiểm tra"
+        "id": 240,
+        "hanzi": "检查",
+        "pinyin": "jiǎnchá",
+        "meaning": "khám; kiểm tra",
+        "example": "to examine; to check"
     },
     {
-        "Id": 241,
-        "Hanzi": "回答",
-        "Pinyin": "huídá",
-        "Meaning": "trả lời; hồi đáp"
+        "id": 241,
+        "hanzi": "回答",
+        "pinyin": "huídá",
+        "meaning": "trả lời; hồi đáp",
+        "example": "to answer; reply"
     },
     {
-        "Id": 242,
-        "Hanzi": "问题",
-        "Pinyin": "wèntí",
-        "Meaning": "câu hỏi; vấn đề"
+        "id": 242,
+        "hanzi": "问题",
+        "pinyin": "wèntí",
+        "meaning": "câu hỏi; vấn đề",
+        "example": "question; problem"
     },
     {
-        "Id": 243,
-        "Hanzi": "查",
-        "Pinyin": "chá",
-        "Meaning": "xét; rà soát; tra"
+        "id": 243,
+        "hanzi": "查",
+        "pinyin": "chá",
+        "meaning": "xét; rà soát; tra",
+        "example": "to check; to look up"
     },
     {
-        "Id": 244,
-        "Hanzi": "丢",
-        "Pinyin": "diū",
-        "Meaning": "mất; đánh mất"
+        "id": 244,
+        "hanzi": "丢",
+        "pinyin": "diū",
+        "meaning": "mất; đánh mất",
+        "example": "to lose; to misplace"
     },
     {
-        "Id": 245,
-        "Hanzi": "大家",
-        "Pinyin": "dàjiā",
-        "Meaning": "mọi người"
+        "id": 245,
+        "hanzi": "大家",
+        "pinyin": "dàjiā",
+        "meaning": "mọi người",
+        "example": "everyone"
     },
     {
-        "Id": 246,
-        "Hanzi": "红",
-        "Pinyin": "hóng",
-        "Meaning": "đỏ"
+        "id": 246,
+        "hanzi": "红",
+        "pinyin": "hóng",
+        "meaning": "đỏ",
+        "example": "red"
     },
     {
-        "Id": 247,
-        "Hanzi": "黄",
-        "Pinyin": "huáng",
-        "Meaning": "vàng"
+        "id": 247,
+        "hanzi": "黄",
+        "pinyin": "huáng",
+        "meaning": "vàng",
+        "example": "yellow"
     },
     {
-        "Id": 248,
-        "Hanzi": "布置",
-        "Pinyin": "bùzhì",
-        "Meaning": "trang trí; bố trí"
+        "id": 248,
+        "hanzi": "布置",
+        "pinyin": "bùzhì",
+        "meaning": "trang trí; bố trí",
+        "example": "to decorate; to arrange"
     },
     {
-        "Id": 249,
-        "Hanzi": "画儿",
-        "Pinyin": "huàr",
-        "Meaning": "tranh vẽ"
+        "id": 249,
+        "hanzi": "画儿",
+        "pinyin": "huàr",
+        "meaning": "tranh vẽ",
+        "example": "painting; picture"
     },
     {
-        "Id": 250,
-        "Hanzi": "美",
-        "Pinyin": "měi",
-        "Meaning": "đẹp; mỹ"
+        "id": 250,
+        "hanzi": "美",
+        "pinyin": "měi",
+        "meaning": "đẹp; mỹ",
+        "example": "beautiful"
     }
 ]

@@ -1,1502 +1,1752 @@
 [
     {
-        "Id": 1,
-        "Hanzi": "不要紧",
-        "Pinyin": "búyàojǐn",
-        "Meaning": "không sao"
+        "id": 1,
+        "hanzi": "不要紧",
+        "pinyin": "búyàojǐn",
+        "meaning": "không sao",
+        "example": "it doesn’t matter"
     },
     {
-        "Id": 2,
-        "Hanzi": "不许碰",
-        "Pinyin": "bùxǔ pèng",
-        "Meaning": "đừng động vào"
+        "id": 2,
+        "hanzi": "不许碰",
+        "pinyin": "bùxǔ pèng",
+        "meaning": "đừng động vào",
+        "example": "do not touch"
     },
     {
-        "Id": 3,
-        "Hanzi": "我不做了",
-        "Pinyin": "wǒ bù zuò le",
-        "Meaning": "tôi không làm nữa"
+        "id": 3,
+        "hanzi": "我不做了",
+        "pinyin": "wǒ bù zuò le",
+        "meaning": "tôi không làm nữa",
+        "example": "I quit \/ I’m not doing it"
     },
     {
-        "Id": 4,
-        "Hanzi": "差不多了",
-        "Pinyin": "chàbuduō le",
-        "Meaning": "sắp xong rồi"
+        "id": 4,
+        "hanzi": "差不多了",
+        "pinyin": "chàbuduō le",
+        "meaning": "sắp xong rồi",
+        "example": "almost done"
     },
     {
-        "Id": 5,
-        "Hanzi": "完全正确",
-        "Pinyin": "wánquán zhèngquè",
-        "Meaning": "hoàn toàn chính xác"
+        "id": 5,
+        "hanzi": "完全正确",
+        "pinyin": "wánquán zhèngquè",
+        "meaning": "hoàn toàn chính xác",
+        "example": "absolutely correct"
     },
     {
-        "Id": 6,
-        "Hanzi": "不可思议",
-        "Pinyin": "bùkě sīyì",
-        "Meaning": "không thể tin được"
+        "id": 6,
+        "hanzi": "不可思议",
+        "pinyin": "bùkě sīyì",
+        "meaning": "không thể tin được",
+        "example": "incredible"
     },
     {
-        "Id": 7,
-        "Hanzi": "马马虎虎",
-        "Pinyin": "mǎmǎhūhū",
-        "Meaning": "tàm tạm"
+        "id": 7,
+        "hanzi": "马马虎虎",
+        "pinyin": "mǎmǎhūhū",
+        "meaning": "tàm tạm",
+        "example": "so‑so"
     },
     {
-        "Id": 8,
-        "Hanzi": "一点没错",
-        "Pinyin": "yìdiǎn méi cuò",
-        "Meaning": "chuẩn không cần chỉnh"
+        "id": 8,
+        "hanzi": "一点没错",
+        "pinyin": "yìdiǎn méi cuò",
+        "meaning": "chuẩn không cần chỉnh",
+        "example": "spot on \/ exactly right"
     },
     {
-        "Id": 9,
-        "Hanzi": "不必介意",
-        "Pinyin": "búbì jièyì",
-        "Meaning": "không cần bận tâm"
+        "id": 9,
+        "hanzi": "不必介意",
+        "pinyin": "búbì jièyì",
+        "meaning": "không cần bận tâm",
+        "example": "no need to mind"
     },
     {
-        "Id": 10,
-        "Hanzi": "我做到了",
-        "Pinyin": "wǒ zuò dào le",
-        "Meaning": "tôi đã làm được rồi"
+        "id": 10,
+        "hanzi": "我做到了",
+        "pinyin": "wǒ zuò dào le",
+        "meaning": "tôi đã làm được rồi",
+        "example": "I made it \/ I did it"
     },
     {
-        "Id": 11,
-        "Hanzi": "你做得对",
-        "Pinyin": "nǐ zuò de duì",
-        "Meaning": "bạn làm đúng rồi"
+        "id": 11,
+        "hanzi": "你做得对",
+        "pinyin": "nǐ zuò de duì",
+        "meaning": "bạn làm đúng rồi",
+        "example": "you did it right"
     },
     {
-        "Id": 12,
-        "Hanzi": "太遗憾了",
-        "Pinyin": "tài yíhàn le",
-        "Meaning": "tiếc quá"
+        "id": 12,
+        "hanzi": "太遗憾了",
+        "pinyin": "tài yíhàn le",
+        "meaning": "tiếc quá",
+        "example": "what a pity"
     },
     {
-        "Id": 13,
-        "Hanzi": "有病得治",
-        "Pinyin": "yǒu bìng děi zhì",
-        "Meaning": "có bệnh thì lo chữa đi"
+        "id": 13,
+        "hanzi": "有病得治",
+        "pinyin": "yǒu bìng děi zhì",
+        "meaning": "có bệnh thì lo chữa đi",
+        "example": "if you’re ill, get treated"
     },
     {
-        "Id": 14,
-        "Hanzi": "好点了吗？",
-        "Pinyin": "hǎo diǎn le ma",
-        "Meaning": "đỡ hơn chưa"
+        "id": 14,
+        "hanzi": "好点了吗？",
+        "pinyin": "hǎo diǎn le ma",
+        "meaning": "đỡ hơn chưa",
+        "example": "feeling any better?"
     },
     {
-        "Id": 15,
-        "Hanzi": "快到了吗？",
-        "Pinyin": "kuài dào le ma",
-        "Meaning": "sắp tới chưa"
+        "id": 15,
+        "hanzi": "快到了吗？",
+        "pinyin": "kuài dào le ma",
+        "meaning": "sắp tới chưa",
+        "example": "almost there?"
     },
     {
-        "Id": 16,
-        "Hanzi": "就这样了",
-        "Pinyin": "jiù zhèyàng le",
-        "Meaning": "cứ như vậy nhé"
+        "id": 16,
+        "hanzi": "就这样了",
+        "pinyin": "jiù zhèyàng le",
+        "meaning": "cứ như vậy nhé",
+        "example": "let’s leave it at that"
     },
     {
-        "Id": 17,
-        "Hanzi": "让我看看",
-        "Pinyin": "ràng wǒ kànkan",
-        "Meaning": "để tôi xem nào"
+        "id": 17,
+        "hanzi": "让我看看",
+        "pinyin": "ràng wǒ kànkan",
+        "meaning": "để tôi xem nào",
+        "example": "let me take a look"
     },
     {
-        "Id": 18,
-        "Hanzi": "不要夸张",
-        "Pinyin": "búyào kuāzhāng",
-        "Meaning": "đừng phóng đại (không phải 'khoe khoang')"
+        "id": 18,
+        "hanzi": "不要夸张",
+        "pinyin": "búyào kuāzhāng",
+        "meaning": "đừng phóng đại (không phải 'khoe khoang')",
+        "example": "don’t exaggerate"
     },
     {
-        "Id": 19,
-        "Hanzi": "你有多高？",
-        "Pinyin": "nǐ yǒu duō gāo",
-        "Meaning": "bạn cao bao nhiêu"
+        "id": 19,
+        "hanzi": "你有多高？",
+        "pinyin": "nǐ yǒu duō gāo",
+        "meaning": "bạn cao bao nhiêu",
+        "example": "how tall are you?"
     },
     {
-        "Id": 20,
-        "Hanzi": "你有多重？",
-        "Pinyin": "nǐ yǒu duō zhòng",
-        "Meaning": "bạn nặng bao nhiêu"
+        "id": 20,
+        "hanzi": "你有多重？",
+        "pinyin": "nǐ yǒu duō zhòng",
+        "meaning": "bạn nặng bao nhiêu",
+        "example": "how much do you weigh?"
     },
     {
-        "Id": 21,
-        "Hanzi": "我习惯了",
-        "Pinyin": "wǒ xíguàn le",
-        "Meaning": "tôi quen rồi"
+        "id": 21,
+        "hanzi": "我习惯了",
+        "pinyin": "wǒ xíguàn le",
+        "meaning": "tôi quen rồi",
+        "example": "I’m used to it"
     },
     {
-        "Id": 22,
-        "Hanzi": "我不相信",
-        "Pinyin": "wǒ bù xiāngxìn",
-        "Meaning": "tôi không tin"
+        "id": 22,
+        "hanzi": "我不相信",
+        "pinyin": "wǒ bù xiāngxìn",
+        "meaning": "tôi không tin",
+        "example": "I don’t believe it"
     },
     {
-        "Id": 23,
-        "Hanzi": "怎样都行",
-        "Pinyin": "zěnyàng dōu xíng",
-        "Meaning": "sao cũng được"
+        "id": 23,
+        "hanzi": "怎样都行",
+        "pinyin": "zěnyàng dōu xíng",
+        "meaning": "sao cũng được",
+        "example": "anything works"
     },
     {
-        "Id": 24,
-        "Hanzi": "太无聊了",
-        "Pinyin": "tài wúliáo le",
-        "Meaning": "chán quá"
+        "id": 24,
+        "hanzi": "太无聊了",
+        "pinyin": "tài wúliáo le",
+        "meaning": "chán quá",
+        "example": "so boring"
     },
     {
-        "Id": 25,
-        "Hanzi": "我在节食",
-        "Pinyin": "wǒ zài jiéshí",
-        "Meaning": "tôi đang ăn kiêng"
+        "id": 25,
+        "hanzi": "我在节食",
+        "pinyin": "wǒ zài jiéshí",
+        "meaning": "tôi đang ăn kiêng",
+        "example": "I’m on a diet"
     },
     {
-        "Id": 26,
-        "Hanzi": "怎么可能",
-        "Pinyin": "zěnme kěnéng",
-        "Meaning": "sao lại thế được"
+        "id": 26,
+        "hanzi": "怎么可能",
+        "pinyin": "zěnme kěnéng",
+        "meaning": "sao lại thế được",
+        "example": "how could that be"
     },
     {
-        "Id": 27,
-        "Hanzi": "就一点点",
-        "Pinyin": "jiù yì diǎndiǎn",
-        "Meaning": "chỉ một chút thôi"
+        "id": 27,
+        "hanzi": "就一点点",
+        "pinyin": "jiù yì diǎndiǎn",
+        "meaning": "chỉ một chút thôi",
+        "example": "just a little bit"
     },
     {
-        "Id": 28,
-        "Hanzi": "不是我的",
-        "Pinyin": "bú shì wǒ de",
-        "Meaning": "không phải của tôi"
+        "id": 28,
+        "hanzi": "不是我的",
+        "pinyin": "bú shì wǒ de",
+        "meaning": "không phải của tôi",
+        "example": "not mine"
     },
     {
-        "Id": 29,
-        "Hanzi": "好的",
-        "Pinyin": "hǎo de",
-        "Meaning": "được rồi"
+        "id": 29,
+        "hanzi": "好的",
+        "pinyin": "hǎo de",
+        "meaning": "được rồi",
+        "example": "okay \/ all right"
     },
     {
-        "Id": 30,
-        "Hanzi": "差不多",
-        "Pinyin": "chàbuduō",
-        "Meaning": "cũng được; gần như"
+        "id": 30,
+        "hanzi": "差不多",
+        "pinyin": "chàbuduō",
+        "meaning": "cũng được; gần như",
+        "example": "almost; pretty much"
     },
     {
-        "Id": 31,
-        "Hanzi": "太好了",
-        "Pinyin": "tài hǎo le",
-        "Meaning": "quá tốt rồi"
+        "id": 31,
+        "hanzi": "太好了",
+        "pinyin": "tài hǎo le",
+        "meaning": "quá tốt rồi",
+        "example": "great!"
     },
     {
-        "Id": 32,
-        "Hanzi": "你叫什么名字？",
-        "Pinyin": "nǐ jiào shénme míngzi?",
-        "Meaning": "tên bạn là gì"
+        "id": 32,
+        "hanzi": "你叫什么名字？",
+        "pinyin": "nǐ jiào shénme míngzi?",
+        "meaning": "tên bạn là gì",
+        "example": "what’s your name?"
     },
     {
-        "Id": 33,
-        "Hanzi": "回见",
-        "Pinyin": "huíjiàn",
-        "Meaning": "hẹn gặp lại"
+        "id": 33,
+        "hanzi": "回见",
+        "pinyin": "huíjiàn",
+        "meaning": "hẹn gặp lại",
+        "example": "see you"
     },
     {
-        "Id": 34,
-        "Hanzi": "你怎么样？",
-        "Pinyin": "nǐ zěnme yàng?",
-        "Meaning": "bạn sao vậy \/ bạn thế nào"
+        "id": 34,
+        "hanzi": "你怎么样？",
+        "pinyin": "nǐ zěnme yàng?",
+        "meaning": "bạn sao vậy \/ bạn thế nào",
+        "example": "how are you?"
     },
     {
-        "Id": 35,
-        "Hanzi": "很高兴见到你",
-        "Pinyin": "hěn gāoxìng jiàn dào nǐ",
-        "Meaning": "rất vui được gặp bạn"
+        "id": 35,
+        "hanzi": "很高兴见到你",
+        "pinyin": "hěn gāoxìng jiàn dào nǐ",
+        "meaning": "rất vui được gặp bạn",
+        "example": "nice to meet you"
     },
     {
-        "Id": 36,
-        "Hanzi": "有段时间没联系了",
-        "Pinyin": "yǒu duàn shíjiān méi liánxì le",
-        "Meaning": "lâu rồi không liên lạc\/gặp"
+        "id": 36,
+        "hanzi": "有段时间没联系了",
+        "pinyin": "yǒu duàn shíjiān méi liánxì le",
+        "meaning": "lâu rồi không liên lạc\/gặp",
+        "example": "long time no contact"
     },
     {
-        "Id": 37,
-        "Hanzi": "我来自…",
-        "Pinyin": "wǒ láizì …",
-        "Meaning": "tôi đến từ…"
+        "id": 37,
+        "hanzi": "我来自…",
+        "pinyin": "wǒ láizì …",
+        "meaning": "tôi đến từ…",
+        "example": "I’m from …"
     },
     {
-        "Id": 38,
-        "Hanzi": "你多大了？",
-        "Pinyin": "nǐ duōdà le?",
-        "Meaning": "bạn bao nhiêu tuổi"
+        "id": 38,
+        "hanzi": "你多大了？",
+        "pinyin": "nǐ duōdà le?",
+        "meaning": "bạn bao nhiêu tuổi",
+        "example": "how old are you?"
     },
     {
-        "Id": 39,
-        "Hanzi": "请再说一遍",
-        "Pinyin": "qǐng zài shuō yí biàn",
-        "Meaning": "làm ơn nói lại lần nữa"
+        "id": 39,
+        "hanzi": "请再说一遍",
+        "pinyin": "qǐng zài shuō yí biàn",
+        "meaning": "làm ơn nói lại lần nữa",
+        "example": "please say it again"
     },
     {
-        "Id": 40,
-        "Hanzi": "很抱歉",
-        "Pinyin": "hěn bàoqiàn",
-        "Meaning": "tôi lấy làm tiếc"
+        "id": 40,
+        "hanzi": "很抱歉",
+        "pinyin": "hěn bàoqiàn",
+        "meaning": "tôi lấy làm tiếc",
+        "example": "I’m sorry"
     },
     {
-        "Id": 41,
-        "Hanzi": "我没事",
-        "Pinyin": "wǒ méi shì",
-        "Meaning": "tôi không sao"
+        "id": 41,
+        "hanzi": "我没事",
+        "pinyin": "wǒ méi shì",
+        "meaning": "tôi không sao",
+        "example": "I’m fine"
     },
     {
-        "Id": 42,
-        "Hanzi": "不用谢",
-        "Pinyin": "búyòng xiè",
-        "Meaning": "không cần cảm ơn"
+        "id": 42,
+        "hanzi": "不用谢",
+        "pinyin": "búyòng xiè",
+        "meaning": "không cần cảm ơn",
+        "example": "you’re welcome \/ no need to thank"
     },
     {
-        "Id": 43,
-        "Hanzi": "很荣幸",
-        "Pinyin": "hěn róngxìng",
-        "Meaning": "rất vinh hạnh"
+        "id": 43,
+        "hanzi": "很荣幸",
+        "pinyin": "hěn róngxìng",
+        "meaning": "rất vinh hạnh",
+        "example": "it’s an honor"
     },
     {
-        "Id": 44,
-        "Hanzi": "可以借你的电话用一下吗？",
-        "Pinyin": "kěyǐ jiè nǐ de diànhuà yòng yíxià ma?",
-        "Meaning": "cho mình mượn điện thoại được không"
+        "id": 44,
+        "hanzi": "可以借你的电话用一下吗？",
+        "pinyin": "kěyǐ jiè nǐ de diànhuà yòng yíxià ma?",
+        "meaning": "cho mình mượn điện thoại được không",
+        "example": "may I borrow your phone?"
     },
     {
-        "Id": 45,
-        "Hanzi": "这是什么意思？",
-        "Pinyin": "zhè shì shénme yìsi?",
-        "Meaning": "nó nghĩa là gì"
+        "id": 45,
+        "hanzi": "这是什么意思？",
+        "pinyin": "zhè shì shénme yìsi?",
+        "meaning": "nó nghĩa là gì",
+        "example": "what does this mean?"
     },
     {
-        "Id": 46,
-        "Hanzi": "这个怎么读？",
-        "Pinyin": "zhège zěnme dú?",
-        "Meaning": "từ này phát âm thế nào"
+        "id": 46,
+        "hanzi": "这个怎么读？",
+        "pinyin": "zhège zěnme dú?",
+        "meaning": "từ này phát âm thế nào",
+        "example": "how do you pronounce this?"
     },
     {
-        "Id": 47,
-        "Hanzi": "那个怎么说，你能帮我写下来吗？",
-        "Pinyin": "nàge zěnme shuō, nǐ néng bāng wǒ xiě xiàlái ma?",
-        "Meaning": "cái đó nói thế nào? bạn viết giúp được không"
+        "id": 47,
+        "hanzi": "那个怎么说，你能帮我写下来吗？",
+        "pinyin": "nàge zěnme shuō, nǐ néng bāng wǒ xiě xiàlái ma?",
+        "meaning": "cái đó nói thế nào? bạn viết giúp được không",
+        "example": "how to say that? could you write it down?"
     },
     {
-        "Id": 48,
-        "Hanzi": "你能帮我用中文写下来吗？",
-        "Pinyin": "nǐ néng bāng wǒ yòng Zhōngwén xiě xiàlái ma?",
-        "Meaning": "bạn có thể viết bằng tiếng Trung giúp không"
+        "id": 48,
+        "hanzi": "你能帮我用中文写下来吗？",
+        "pinyin": "nǐ néng bāng wǒ yòng Zhōngwén xiě xiàlái ma?",
+        "meaning": "bạn có thể viết bằng tiếng Trung giúp không",
+        "example": "can you write it in Chinese for me?"
     },
     {
-        "Id": 49,
-        "Hanzi": "你能帮我把这个的拼音写下来吗？",
-        "Pinyin": "nǐ néng bāng wǒ bǎ zhège de pīnyīn xiě xiàlái ma?",
-        "Meaning": "bạn có thể ghi pinyin giúp không"
+        "id": 49,
+        "hanzi": "你能帮我把这个的拼音写下来吗？",
+        "pinyin": "nǐ néng bāng wǒ bǎ zhège de pīnyīn xiě xiàlái ma?",
+        "meaning": "bạn có thể ghi pinyin giúp không",
+        "example": "can you write the pinyin for this?"
     },
     {
-        "Id": 50,
-        "Hanzi": "不，错了",
-        "Pinyin": "bù, cuò le",
-        "Meaning": "không, sai rồi"
+        "id": 50,
+        "hanzi": "不，错了",
+        "pinyin": "bù, cuò le",
+        "meaning": "không, sai rồi",
+        "example": "no, that’s wrong"
     },
     {
-        "Id": 51,
-        "Hanzi": "没错",
-        "Pinyin": "méi cuò",
-        "Meaning": "đúng rồi"
+        "id": 51,
+        "hanzi": "没错",
+        "pinyin": "méi cuò",
+        "meaning": "đúng rồi",
+        "example": "that’s right"
     },
     {
-        "Id": 52,
-        "Hanzi": "对的",
-        "Pinyin": "duì de",
-        "Meaning": "đúng rồi"
+        "id": 52,
+        "hanzi": "对的",
+        "pinyin": "duì de",
+        "meaning": "đúng rồi",
+        "example": "correct"
     },
     {
-        "Id": 53,
-        "Hanzi": "怎么卖？",
-        "Pinyin": "zěnme mài?",
-        "Meaning": "bán như thế nào"
+        "id": 53,
+        "hanzi": "怎么卖？",
+        "pinyin": "zěnme mài?",
+        "meaning": "bán như thế nào",
+        "example": "how much \/ how do you sell it?"
     },
     {
-        "Id": 54,
-        "Hanzi": "多长时间？",
-        "Pinyin": "duō cháng shíjiān?",
-        "Meaning": "bao lâu"
+        "id": 54,
+        "hanzi": "多长时间？",
+        "pinyin": "duō cháng shíjiān?",
+        "meaning": "bao lâu",
+        "example": "how long (time)?"
     },
     {
-        "Id": 55,
-        "Hanzi": "多久？",
-        "Pinyin": "duōjiǔ?",
-        "Meaning": "bao lâu"
+        "id": 55,
+        "hanzi": "多久？",
+        "pinyin": "duōjiǔ?",
+        "meaning": "bao lâu",
+        "example": "how long?"
     },
     {
-        "Id": 56,
-        "Hanzi": "为什么不呢？",
-        "Pinyin": "wèi shénme bù ne?",
-        "Meaning": "tại sao không"
+        "id": 56,
+        "hanzi": "为什么不呢？",
+        "pinyin": "wèi shénme bù ne?",
+        "meaning": "tại sao không",
+        "example": "why not?"
     },
     {
-        "Id": 57,
-        "Hanzi": "这是谁的？",
-        "Pinyin": "zhè shì shéi de?",
-        "Meaning": "cái này của ai"
+        "id": 57,
+        "hanzi": "这是谁的？",
+        "pinyin": "zhè shì shéi de?",
+        "meaning": "cái này của ai",
+        "example": "whose is this?"
     },
     {
-        "Id": 58,
-        "Hanzi": "这个用中文怎么说？",
-        "Pinyin": "zhège yòng Zhōngwén zěnme shuō?",
-        "Meaning": "nói bằng tiếng Trung như thế nào"
+        "id": 58,
+        "hanzi": "这个用中文怎么说？",
+        "pinyin": "zhège yòng Zhōngwén zěnme shuō?",
+        "meaning": "nói bằng tiếng Trung như thế nào",
+        "example": "how do you say this in Chinese?"
     },
     {
-        "Id": 59,
-        "Hanzi": "你要去哪里？",
-        "Pinyin": "nǐ yào qù nǎlǐ?",
-        "Meaning": "bạn đang đi đâu"
+        "id": 59,
+        "hanzi": "你要去哪里？",
+        "pinyin": "nǐ yào qù nǎlǐ?",
+        "meaning": "bạn đang đi đâu",
+        "example": "where are you going?"
     },
     {
-        "Id": 60,
-        "Hanzi": "你们要到哪儿去？",
-        "Pinyin": "nǐmen yào dào nǎr qù?",
-        "Meaning": "các bạn muốn đi đâu"
+        "id": 60,
+        "hanzi": "你们要到哪儿去？",
+        "pinyin": "nǐmen yào dào nǎr qù?",
+        "meaning": "các bạn muốn đi đâu",
+        "example": "where are you (pl.) going to?"
     },
     {
-        "Id": 61,
-        "Hanzi": "出什么事儿了？",
-        "Pinyin": "chū shénme shìr le?",
-        "Meaning": "đã xảy ra chuyện gì rồi"
+        "id": 61,
+        "hanzi": "出什么事儿了？",
+        "pinyin": "chū shénme shìr le?",
+        "meaning": "đã xảy ra chuyện gì rồi",
+        "example": "what happened?"
     },
     {
-        "Id": 62,
-        "Hanzi": "你的生日是什么时候？",
-        "Pinyin": "nǐ de shēngrì shì shénme shíhou?",
-        "Meaning": "sinh nhật bạn khi nào"
+        "id": 62,
+        "hanzi": "你的生日是什么时候？",
+        "pinyin": "nǐ de shēngrì shì shénme shíhou?",
+        "meaning": "sinh nhật bạn khi nào",
+        "example": "when is your birthday?"
     },
     {
-        "Id": 63,
-        "Hanzi": "别忘了",
-        "Pinyin": "bié wàng le",
-        "Meaning": "đừng quên"
+        "id": 63,
+        "hanzi": "别忘了",
+        "pinyin": "bié wàng le",
+        "meaning": "đừng quên",
+        "example": "don’t forget"
     },
     {
-        "Id": 64,
-        "Hanzi": "对不起，打扰一下",
-        "Pinyin": "duìbuqǐ, dǎrǎo yíxià",
-        "Meaning": "xin lỗi, làm phiền chút"
+        "id": 64,
+        "hanzi": "对不起，打扰一下",
+        "pinyin": "duìbuqǐ, dǎrǎo yíxià",
+        "meaning": "xin lỗi, làm phiền chút",
+        "example": "sorry to bother you"
     },
     {
-        "Id": 65,
-        "Hanzi": "我想先去购物再看电影",
-        "Pinyin": "wǒ xiǎng xiān qù gòuwù zài kàn diànyǐng",
-        "Meaning": "tôi muốn đi mua sắm rồi xem phim"
+        "id": 65,
+        "hanzi": "我想先去购物再看电影",
+        "pinyin": "wǒ xiǎng xiān qù gòuwù zài kàn diànyǐng",
+        "meaning": "tôi muốn đi mua sắm rồi xem phim",
+        "example": "I want to shop first, then watch a movie"
     },
     {
-        "Id": 66,
-        "Hanzi": "我想先购物再看电影",
-        "Pinyin": "wǒ xiǎng xiān gòuwù zài kàn diànyǐng",
-        "Meaning": "tôi sẽ xem phim sau khi mua sắm"
+        "id": 66,
+        "hanzi": "我想先购物再看电影",
+        "pinyin": "wǒ xiǎng xiān gòuwù zài kàn diànyǐng",
+        "meaning": "tôi sẽ xem phim sau khi mua sắm",
+        "example": "I’ll watch a movie after shopping"
     },
     {
-        "Id": 67,
-        "Hanzi": "到达",
-        "Pinyin": "dàodá",
-        "Meaning": "đến (tới nơi)"
+        "id": 67,
+        "hanzi": "到达",
+        "pinyin": "dàodá",
+        "meaning": "đến (tới nơi)",
+        "example": "arrive"
     },
     {
-        "Id": 68,
-        "Hanzi": "我明天才去",
-        "Pinyin": "wǒ míngtiān cái qù",
-        "Meaning": "ngày mai tôi mới đi"
+        "id": 68,
+        "hanzi": "我明天才去",
+        "pinyin": "wǒ míngtiān cái qù",
+        "meaning": "ngày mai tôi mới đi",
+        "example": "I’ll only go tomorrow"
     },
     {
-        "Id": 69,
-        "Hanzi": "你住这里吗？",
-        "Pinyin": "nǐ zhù zhèlǐ ma?",
-        "Meaning": "bạn ở đây à"
+        "id": 69,
+        "hanzi": "你住这里吗？",
+        "pinyin": "nǐ zhù zhèlǐ ma?",
+        "meaning": "bạn ở đây à",
+        "example": "do you live here?"
     },
     {
-        "Id": 70,
-        "Hanzi": "你喜欢这里吗？",
-        "Pinyin": "nǐ xǐhuan zhèlǐ ma?",
-        "Meaning": "bạn có thích nơi này không"
+        "id": 70,
+        "hanzi": "你喜欢这里吗？",
+        "pinyin": "nǐ xǐhuan zhèlǐ ma?",
+        "meaning": "bạn có thích nơi này không",
+        "example": "do you like it here?"
     },
     {
-        "Id": 71,
-        "Hanzi": "我来这里度假",
-        "Pinyin": "wǒ lái zhèlǐ dùjià",
-        "Meaning": "tôi đến đây để nghỉ lễ\/du lịch"
+        "id": 71,
+        "hanzi": "我来这里度假",
+        "pinyin": "wǒ lái zhèlǐ dùjià",
+        "meaning": "tôi đến đây để nghỉ lễ\/du lịch",
+        "example": "I came here for vacation"
     },
     {
-        "Id": 72,
-        "Hanzi": "出差",
-        "Pinyin": "chūchāi",
-        "Meaning": "đi công tác"
+        "id": 72,
+        "hanzi": "出差",
+        "pinyin": "chūchāi",
+        "meaning": "đi công tác",
+        "example": "business trip"
     },
     {
-        "Id": 73,
-        "Hanzi": "开玩笑啦",
-        "Pinyin": "kāi wánxiào la",
-        "Meaning": "đùa thôi mà"
+        "id": 73,
+        "hanzi": "开玩笑啦",
+        "pinyin": "kāi wánxiào la",
+        "meaning": "đùa thôi mà",
+        "example": "just kidding"
     },
     {
-        "Id": 74,
-        "Hanzi": "我第一次来这里",
-        "Pinyin": "wǒ dì yī cì lái zhèlǐ",
-        "Meaning": "lần đầu tôi đến đây"
+        "id": 74,
+        "hanzi": "我第一次来这里",
+        "pinyin": "wǒ dì yī cì lái zhèlǐ",
+        "meaning": "lần đầu tôi đến đây",
+        "example": "my first time here"
     },
     {
-        "Id": 75,
-        "Hanzi": "我们在度蜜月",
-        "Pinyin": "wǒmen zài dù mìyuè",
-        "Meaning": "chúng tôi đang đi tuần trăng mật"
+        "id": 75,
+        "hanzi": "我们在度蜜月",
+        "pinyin": "wǒmen zài dù mìyuè",
+        "meaning": "chúng tôi đang đi tuần trăng mật",
+        "example": "we’re on our honeymoon"
     },
     {
-        "Id": 76,
-        "Hanzi": "一个小时",
-        "Pinyin": "yí gè xiǎoshí",
-        "Meaning": "một tiếng đồng hồ"
+        "id": 76,
+        "hanzi": "一个小时",
+        "pinyin": "yí gè xiǎoshí",
+        "meaning": "một tiếng đồng hồ",
+        "example": "one hour"
     },
     {
-        "Id": 77,
-        "Hanzi": "半小时",
-        "Pinyin": "bàn xiǎoshí",
-        "Meaning": "nửa tiếng"
+        "id": 77,
+        "hanzi": "半小时",
+        "pinyin": "bàn xiǎoshí",
+        "meaning": "nửa tiếng",
+        "example": "half an hour"
     },
     {
-        "Id": 78,
-        "Hanzi": "上午九点开始",
-        "Pinyin": "shàngwǔ jiǔ diǎn kāishǐ",
-        "Meaning": "bắt đầu lúc 9h sáng"
+        "id": 78,
+        "hanzi": "上午九点开始",
+        "pinyin": "shàngwǔ jiǔ diǎn kāishǐ",
+        "meaning": "bắt đầu lúc 9h sáng",
+        "example": "starts at 9 a.m."
     },
     {
-        "Id": 79,
-        "Hanzi": "要几个小时？",
-        "Pinyin": "yào jǐ gè xiǎoshí?",
-        "Meaning": "sẽ kéo dài mấy tiếng"
+        "id": 79,
+        "hanzi": "要几个小时？",
+        "pinyin": "yào jǐ gè xiǎoshí?",
+        "meaning": "sẽ kéo dài mấy tiếng",
+        "example": "how many hours will it take?"
     },
     {
-        "Id": 80,
-        "Hanzi": "要几天？",
-        "Pinyin": "yào jǐ tiān?",
-        "Meaning": "sẽ kéo dài mấy ngày"
+        "id": 80,
+        "hanzi": "要几天？",
+        "pinyin": "yào jǐ tiān?",
+        "meaning": "sẽ kéo dài mấy ngày",
+        "example": "how many days will it take?"
     },
     {
-        "Id": 81,
-        "Hanzi": "午夜",
-        "Pinyin": "wǔyè",
-        "Meaning": "nửa đêm"
+        "id": 81,
+        "hanzi": "午夜",
+        "pinyin": "wǔyè",
+        "meaning": "nửa đêm",
+        "example": "midnight"
     },
     {
-        "Id": 82,
-        "Hanzi": "傍晚",
-        "Pinyin": "bàngwǎn",
-        "Meaning": "xế chiều \/ buổi tối sớm"
+        "id": 82,
+        "hanzi": "傍晚",
+        "pinyin": "bàngwǎn",
+        "meaning": "xế chiều \/ buổi tối sớm",
+        "example": "dusk \/ early evening"
     },
     {
-        "Id": 83,
-        "Hanzi": "不久",
-        "Pinyin": "bùjiǔ",
-        "Meaning": "chẳng mấy chốc; không lâu nữa"
+        "id": 83,
+        "hanzi": "不久",
+        "pinyin": "bùjiǔ",
+        "meaning": "chẳng mấy chốc; không lâu nữa",
+        "example": "soon; before long"
     },
     {
-        "Id": 84,
-        "Hanzi": "周末",
-        "Pinyin": "zhōumò",
-        "Meaning": "cuối tuần"
+        "id": 84,
+        "hanzi": "周末",
+        "pinyin": "zhōumò",
+        "meaning": "cuối tuần",
+        "example": "weekend"
     },
     {
-        "Id": 85,
-        "Hanzi": "周",
-        "Pinyin": "zhōu",
-        "Meaning": "tuần"
+        "id": 85,
+        "hanzi": "周",
+        "pinyin": "zhōu",
+        "meaning": "tuần",
+        "example": "week"
     },
     {
-        "Id": 86,
-        "Hanzi": "每天",
-        "Pinyin": "měitiān",
-        "Meaning": "mỗi ngày"
+        "id": 86,
+        "hanzi": "每天",
+        "pinyin": "měitiān",
+        "meaning": "mỗi ngày",
+        "example": "every day"
     },
     {
-        "Id": 87,
-        "Hanzi": "每隔一天",
-        "Pinyin": "měi gé yì tiān",
-        "Meaning": "cách một ngày"
+        "id": 87,
+        "hanzi": "每隔一天",
+        "pinyin": "měi gé yì tiān",
+        "meaning": "cách một ngày",
+        "example": "every other day"
     },
     {
-        "Id": 88,
-        "Hanzi": "每两周",
-        "Pinyin": "měi liǎng zhōu",
-        "Meaning": "mỗi hai tuần"
+        "id": 88,
+        "hanzi": "每两周",
+        "pinyin": "měi liǎng zhōu",
+        "meaning": "mỗi hai tuần",
+        "example": "every two weeks"
     },
     {
-        "Id": 89,
-        "Hanzi": "每天晚上",
-        "Pinyin": "měitiān wǎnshang",
-        "Meaning": "mỗi tối"
+        "id": 89,
+        "hanzi": "每天晚上",
+        "pinyin": "měitiān wǎnshang",
+        "meaning": "mỗi tối",
+        "example": "every evening"
     },
     {
-        "Id": 90,
-        "Hanzi": "每隔一晚",
-        "Pinyin": "měi gé yì wǎn",
-        "Meaning": "mỗi hai tối"
+        "id": 90,
+        "hanzi": "每隔一晚",
+        "pinyin": "měi gé yì wǎn",
+        "meaning": "mỗi hai tối",
+        "example": "every other night"
     },
     {
-        "Id": 91,
-        "Hanzi": "今天星期几？",
-        "Pinyin": "jīntiān xīngqī jǐ?",
-        "Meaning": "hôm nay thứ mấy"
+        "id": 91,
+        "hanzi": "今天星期几？",
+        "pinyin": "jīntiān xīngqī jǐ?",
+        "meaning": "hôm nay thứ mấy",
+        "example": "what day is it today?"
     },
     {
-        "Id": 92,
-        "Hanzi": "现在几月？",
-        "Pinyin": "xiànzài jǐ yuè?",
-        "Meaning": "bây giờ tháng mấy"
+        "id": 92,
+        "hanzi": "现在几月？",
+        "pinyin": "xiànzài jǐ yuè?",
+        "meaning": "bây giờ tháng mấy",
+        "example": "what month is it now?"
     },
     {
-        "Id": 93,
-        "Hanzi": "本周",
-        "Pinyin": "běn zhōu",
-        "Meaning": "tuần này"
+        "id": 93,
+        "hanzi": "本周",
+        "pinyin": "běn zhōu",
+        "meaning": "tuần này",
+        "example": "this week"
     },
     {
-        "Id": 94,
-        "Hanzi": "上周",
-        "Pinyin": "shàng zhōu",
-        "Meaning": "tuần trước"
+        "id": 94,
+        "hanzi": "上周",
+        "pinyin": "shàng zhōu",
+        "meaning": "tuần trước",
+        "example": "last week"
     },
     {
-        "Id": 95,
-        "Hanzi": "上个星期",
-        "Pinyin": "shàng gè xīngqī",
-        "Meaning": "tuần trước"
+        "id": 95,
+        "hanzi": "上个星期",
+        "pinyin": "shàng gè xīngqī",
+        "meaning": "tuần trước",
+        "example": "last week"
     },
     {
-        "Id": 96,
-        "Hanzi": "下周",
-        "Pinyin": "xià zhōu",
-        "Meaning": "tuần sau"
+        "id": 96,
+        "hanzi": "下周",
+        "pinyin": "xià zhōu",
+        "meaning": "tuần sau",
+        "example": "next week"
     },
     {
-        "Id": 97,
-        "Hanzi": "下个星期",
-        "Pinyin": "xià gè xīngqī",
-        "Meaning": "tuần sau"
+        "id": 97,
+        "hanzi": "下个星期",
+        "pinyin": "xià gè xīngqī",
+        "meaning": "tuần sau",
+        "example": "next week"
     },
     {
-        "Id": 98,
-        "Hanzi": "这个周末",
-        "Pinyin": "zhège zhōumò",
-        "Meaning": "cuối tuần này"
+        "id": 98,
+        "hanzi": "这个周末",
+        "pinyin": "zhège zhōumò",
+        "meaning": "cuối tuần này",
+        "example": "this weekend"
     },
     {
-        "Id": 99,
-        "Hanzi": "本周末",
-        "Pinyin": "běn zhōumò",
-        "Meaning": "cuối tuần này"
+        "id": 99,
+        "hanzi": "本周末",
+        "pinyin": "běn zhōumò",
+        "meaning": "cuối tuần này",
+        "example": "this weekend"
     },
     {
-        "Id": 100,
-        "Hanzi": "上周末",
-        "Pinyin": "shàng zhōumò",
-        "Meaning": "cuối tuần trước"
+        "id": 100,
+        "hanzi": "上周末",
+        "pinyin": "shàng zhōumò",
+        "meaning": "cuối tuần trước",
+        "example": "last weekend"
     },
     {
-        "Id": 101,
-        "Hanzi": "下周末",
-        "Pinyin": "xià zhōumò",
-        "Meaning": "cuối tuần sau"
+        "id": 101,
+        "hanzi": "下周末",
+        "pinyin": "xià zhōumò",
+        "meaning": "cuối tuần sau",
+        "example": "next weekend"
     },
     {
-        "Id": 102,
-        "Hanzi": "季节",
-        "Pinyin": "jìjié",
-        "Meaning": "mùa"
+        "id": 102,
+        "hanzi": "季节",
+        "pinyin": "jìjié",
+        "meaning": "mùa",
+        "example": "season"
     },
     {
-        "Id": 103,
-        "Hanzi": "雨季",
-        "Pinyin": "yǔjì",
-        "Meaning": "mùa mưa"
+        "id": 103,
+        "hanzi": "雨季",
+        "pinyin": "yǔjì",
+        "meaning": "mùa mưa",
+        "example": "rainy season"
     },
     {
-        "Id": 104,
-        "Hanzi": "有多远？",
-        "Pinyin": "yǒu duō yuǎn?",
-        "Meaning": "xa bao nhiêu"
+        "id": 104,
+        "hanzi": "有多远？",
+        "pinyin": "yǒu duō yuǎn?",
+        "meaning": "xa bao nhiêu",
+        "example": "how far is it?"
     },
     {
-        "Id": 105,
-        "Hanzi": "电动调节阀门",
-        "Pinyin": "diàndòng tiáojié fámén",
-        "Meaning": "van điều tiết điện (điều khiển bằng mô-tơ)"
+        "id": 105,
+        "hanzi": "电动调节阀门",
+        "pinyin": "diàndòng tiáojié fámén",
+        "meaning": "van điều tiết điện (điều khiển bằng mô-tơ)",
+        "example": "electric control valve"
     },
     {
-        "Id": 106,
-        "Hanzi": "盲板",
-        "Pinyin": "mángbǎn",
-        "Meaning": "mặt bích (bịt kín\/blank)"
+        "id": 106,
+        "hanzi": "盲板",
+        "pinyin": "mángbǎn",
+        "meaning": "mặt bích (bịt kín\/blank)",
+        "example": "blind flange\/blanking plate"
     },
     {
-        "Id": 107,
-        "Hanzi": "润滑脂",
-        "Pinyin": "rùnhuázhī",
-        "Meaning": "mỡ bôi trơn"
+        "id": 107,
+        "hanzi": "润滑脂",
+        "pinyin": "rùnhuázhī",
+        "meaning": "mỡ bôi trơn",
+        "example": "lubricating grease"
     },
     {
-        "Id": 108,
-        "Hanzi": "贯彻",
-        "Pinyin": "guànchè",
-        "Meaning": "quán triệt; thực thi triệt để"
+        "id": 108,
+        "hanzi": "贯彻",
+        "pinyin": "guànchè",
+        "meaning": "quán triệt; thực thi triệt để",
+        "example": "carry out thoroughly; implement"
     },
     {
-        "Id": 109,
-        "Hanzi": "督促",
-        "Pinyin": "dūcù",
-        "Meaning": "thúc giục; đôn đốc"
+        "id": 109,
+        "hanzi": "督促",
+        "pinyin": "dūcù",
+        "meaning": "thúc giục; đôn đốc",
+        "example": "urge; press; supervise"
     },
     {
-        "Id": 110,
-        "Hanzi": "成品",
-        "Pinyin": "chéngpǐn",
-        "Meaning": "sản phẩm; thành phẩm"
+        "id": 110,
+        "hanzi": "成品",
+        "pinyin": "chéngpǐn",
+        "meaning": "sản phẩm; thành phẩm",
+        "example": "finished product"
     },
     {
-        "Id": 111,
-        "Hanzi": "复核",
-        "Pinyin": "fùhé",
-        "Meaning": "kiểm soát; soát lại"
+        "id": 111,
+        "hanzi": "复核",
+        "pinyin": "fùhé",
+        "meaning": "kiểm soát; soát lại",
+        "example": "recheck; review"
     },
     {
-        "Id": 112,
-        "Hanzi": "干扰",
-        "Pinyin": "gānrǎo",
-        "Meaning": "nhiễu; sự nhiễu"
+        "id": 112,
+        "hanzi": "干扰",
+        "pinyin": "gānrǎo",
+        "meaning": "nhiễu; sự nhiễu",
+        "example": "interference; disturbance"
     },
     {
-        "Id": 113,
-        "Hanzi": "还行",
-        "Pinyin": "hái xíng",
-        "Meaning": "cũng tàm tạm; ổn"
+        "id": 113,
+        "hanzi": "还行",
+        "pinyin": "hái xíng",
+        "meaning": "cũng tàm tạm; ổn",
+        "example": "not bad; okay"
     },
     {
-        "Id": 114,
-        "Hanzi": "抱闸",
-        "Pinyin": "bào zhá",
-        "Meaning": "phanh (khoá giữ, có chỉnh lưu)"
+        "id": 114,
+        "hanzi": "抱闸",
+        "pinyin": "bào zhá",
+        "meaning": "phanh (khoá giữ, có chỉnh lưu)",
+        "example": "electromagnetic holding brake (with rectifier)"
     },
     {
-        "Id": 115,
-        "Hanzi": "轴瓦",
-        "Pinyin": "zhóuwǎ",
-        "Meaning": "bạc trục; bạc đạn (dạng bạc lót)"
+        "id": 115,
+        "hanzi": "轴瓦",
+        "pinyin": "zhóuwǎ",
+        "meaning": "bạc trục; bạc đạn (dạng bạc lót)",
+        "example": "bearing bush\/journal bearing"
     },
     {
-        "Id": 116,
-        "Hanzi": "放散塔",
-        "Pinyin": "fàngsàn tǎ",
-        "Meaning": "tháp xả"
+        "id": 116,
+        "hanzi": "放散塔",
+        "pinyin": "fàngsàn tǎ",
+        "meaning": "tháp xả",
+        "example": "vent stack\/vent tower"
     },
     {
-        "Id": 117,
-        "Hanzi": "配电箱",
-        "Pinyin": "pèidiànxiāng",
-        "Meaning": "tủ phối điện"
+        "id": 117,
+        "hanzi": "配电箱",
+        "pinyin": "pèidiànxiāng",
+        "meaning": "tủ phối điện",
+        "example": "power distribution box\/panel"
     },
     {
-        "Id": 118,
-        "Hanzi": "电焊机",
-        "Pinyin": "diànhànjī",
-        "Meaning": "máy hàn"
+        "id": 118,
+        "hanzi": "电焊机",
+        "pinyin": "diànhànjī",
+        "meaning": "máy hàn",
+        "example": "welding machine"
     },
     {
-        "Id": 119,
-        "Hanzi": "活动扳手",
-        "Pinyin": "huódòng bānshǒu",
-        "Meaning": "mỏ lết (cờ-lê răng lược)"
+        "id": 119,
+        "hanzi": "活动扳手",
+        "pinyin": "huódòng bānshǒu",
+        "meaning": "mỏ lết (cờ-lê răng lược)",
+        "example": "adjustable wrench"
     },
     {
-        "Id": 120,
-        "Hanzi": "真空泵",
-        "Pinyin": "zhēnkōng bèng",
-        "Meaning": "bơm chân không"
+        "id": 120,
+        "hanzi": "真空泵",
+        "pinyin": "zhēnkōng bèng",
+        "meaning": "bơm chân không",
+        "example": "vacuum pump"
     },
     {
-        "Id": 121,
-        "Hanzi": "千斤顶",
-        "Pinyin": "qiānjīndǐng",
-        "Meaning": "cái kích"
+        "id": 121,
+        "hanzi": "千斤顶",
+        "pinyin": "qiānjīndǐng",
+        "meaning": "cái kích",
+        "example": "jack"
     },
     {
-        "Id": 122,
-        "Hanzi": "蓄能器",
-        "Pinyin": "xùnéngqì",
-        "Meaning": "bình tích áp"
+        "id": 122,
+        "hanzi": "蓄能器",
+        "pinyin": "xùnéngqì",
+        "meaning": "bình tích áp",
+        "example": "accumulator (hydraulic)"
     },
     {
-        "Id": 123,
-        "Hanzi": "拆模",
-        "Pinyin": "chāi mó",
-        "Meaning": "tháo dỡ (tháo khuôn\/ván khuôn)"
+        "id": 123,
+        "hanzi": "拆模",
+        "pinyin": "chāi mó",
+        "meaning": "tháo dỡ (tháo khuôn\/ván khuôn)",
+        "example": "dismantle formwork"
     },
     {
-        "Id": 124,
-        "Hanzi": "支模",
-        "Pinyin": "zhī mó",
-        "Meaning": "lắp ráp (dựng khuôn\/ván khuôn)"
+        "id": 124,
+        "hanzi": "支模",
+        "pinyin": "zhī mó",
+        "meaning": "lắp ráp (dựng khuôn\/ván khuôn)",
+        "example": "erect formwork"
     },
     {
-        "Id": 125,
-        "Hanzi": "弹簧",
-        "Pinyin": "tánhuáng",
-        "Meaning": "lò xo"
+        "id": 125,
+        "hanzi": "弹簧",
+        "pinyin": "tánhuáng",
+        "meaning": "lò xo",
+        "example": "spring"
     },
     {
-        "Id": 126,
-        "Hanzi": "切割",
-        "Pinyin": "qiēgē",
-        "Meaning": "cắt kim loại"
+        "id": 126,
+        "hanzi": "切割",
+        "pinyin": "qiēgē",
+        "meaning": "cắt kim loại",
+        "example": "cutting"
     },
     {
-        "Id": 127,
-        "Hanzi": "夹住",
-        "Pinyin": "jiāzhù",
-        "Meaning": "kẹp chặt"
+        "id": 127,
+        "hanzi": "夹住",
+        "pinyin": "jiāzhù",
+        "meaning": "kẹp chặt",
+        "example": "clamp; grip tightly"
     },
     {
-        "Id": 128,
-        "Hanzi": "手套",
-        "Pinyin": "shǒutào",
-        "Meaning": "găng tay"
+        "id": 128,
+        "hanzi": "手套",
+        "pinyin": "shǒutào",
+        "meaning": "găng tay",
+        "example": "gloves"
     },
     {
-        "Id": 129,
-        "Hanzi": "协调",
-        "Pinyin": "xiétiáo",
-        "Meaning": "điều chỉnh; điều phối"
+        "id": 129,
+        "hanzi": "协调",
+        "pinyin": "xiétiáo",
+        "meaning": "điều chỉnh; điều phối",
+        "example": "coordinate; harmonize"
     },
     {
-        "Id": 130,
-        "Hanzi": "液压站",
-        "Pinyin": "yèyā zhàn",
-        "Meaning": "trạm dầu thủy lực"
+        "id": 130,
+        "hanzi": "液压站",
+        "pinyin": "yèyā zhàn",
+        "meaning": "trạm dầu thủy lực",
+        "example": "hydraulic station"
     },
     {
-        "Id": 131,
-        "Hanzi": "升速率",
-        "Pinyin": "shēng sù lǜ",
-        "Meaning": "tốc độ tăng tốc (tốc độ tăng của vận tốc)"
+        "id": 131,
+        "hanzi": "升速率",
+        "pinyin": "shēng sù lǜ",
+        "meaning": "tốc độ tăng tốc (tốc độ tăng của vận tốc)",
+        "example": "speed-up rate; acceleration (context)"
     },
     {
-        "Id": 132,
-        "Hanzi": "变比",
-        "Pinyin": "biàn bǐ",
-        "Meaning": "tỉ số biến dòng\/biến áp"
+        "id": 132,
+        "hanzi": "变比",
+        "pinyin": "biàn bǐ",
+        "meaning": "tỉ số biến dòng\/biến áp",
+        "example": "transformation ratio (CT\/PT)"
     },
     {
-        "Id": 133,
-        "Hanzi": "发电机",
-        "Pinyin": "fādiànjī",
-        "Meaning": "máy phát điện"
+        "id": 133,
+        "hanzi": "发电机",
+        "pinyin": "fādiànjī",
+        "meaning": "máy phát điện",
+        "example": "generator"
     },
     {
-        "Id": 134,
-        "Hanzi": "功率因数",
-        "Pinyin": "gōnglǜ yīnsù",
-        "Meaning": "hệ số công suất (cos φ)"
+        "id": 134,
+        "hanzi": "功率因数",
+        "pinyin": "gōnglǜ yīnsù",
+        "meaning": "hệ số công suất (cos φ)",
+        "example": "power factor (cos φ)"
     },
     {
-        "Id": 135,
-        "Hanzi": "相位表",
-        "Pinyin": "xiàngwèi biǎo",
-        "Meaning": "đồng hồ chỉ thị pha\/đo góc pha"
+        "id": 135,
+        "hanzi": "相位表",
+        "pinyin": "xiàngwèi biǎo",
+        "meaning": "đồng hồ chỉ thị pha\/đo góc pha",
+        "example": "phase meter"
     },
     {
-        "Id": 136,
-        "Hanzi": "量程",
-        "Pinyin": "liàngchéng",
-        "Meaning": "dải đo; phạm vi đo"
+        "id": 136,
+        "hanzi": "量程",
+        "pinyin": "liàngchéng",
+        "meaning": "dải đo; phạm vi đo",
+        "example": "measuring range"
     },
     {
-        "Id": 137,
-        "Hanzi": "电动势",
-        "Pinyin": "diàndòngshì",
-        "Meaning": "lực điện động; sức điện động"
+        "id": 137,
+        "hanzi": "电动势",
+        "pinyin": "diàndòngshì",
+        "meaning": "lực điện động; sức điện động",
+        "example": "electromotive force (EMF)"
     },
     {
-        "Id": 138,
-        "Hanzi": "磁通量",
-        "Pinyin": "cí tōngliàng",
-        "Meaning": "từ thông"
+        "id": 138,
+        "hanzi": "磁通量",
+        "pinyin": "cí tōngliàng",
+        "meaning": "từ thông",
+        "example": "magnetic flux"
     },
     {
-        "Id": 139,
-        "Hanzi": "常数",
-        "Pinyin": "chángshù",
-        "Meaning": "hằng số"
+        "id": 139,
+        "hanzi": "常数",
+        "pinyin": "chángshù",
+        "meaning": "hằng số",
+        "example": "constant"
     },
     {
-        "Id": 140,
-        "Hanzi": "正比",
-        "Pinyin": "zhèngbǐ",
-        "Meaning": "tỉ lệ thuận"
+        "id": 140,
+        "hanzi": "正比",
+        "pinyin": "zhèngbǐ",
+        "meaning": "tỉ lệ thuận",
+        "example": "direct proportion"
     },
     {
-        "Id": 141,
-        "Hanzi": "零线",
-        "Pinyin": "língxiàn",
-        "Meaning": "dây trung tính"
+        "id": 141,
+        "hanzi": "零线",
+        "pinyin": "língxiàn",
+        "meaning": "dây trung tính",
+        "example": "neutral wire"
     },
     {
-        "Id": 142,
-        "Hanzi": "火线",
-        "Pinyin": "huǒxiàn",
-        "Meaning": "dây nóng; dây pha"
+        "id": 142,
+        "hanzi": "火线",
+        "pinyin": "huǒxiàn",
+        "meaning": "dây nóng; dây pha",
+        "example": "live\/hot wire"
     },
     {
-        "Id": 143,
-        "Hanzi": "单片机",
-        "Pinyin": "dānpiànjī",
-        "Meaning": "vi điều khiển (Microcontroller)"
+        "id": 143,
+        "hanzi": "单片机",
+        "pinyin": "dānpiànjī",
+        "meaning": "vi điều khiển (Microcontroller)",
+        "example": "microcontroller"
     },
     {
-        "Id": 144,
-        "Hanzi": "毫伏",
-        "Pinyin": "háofú",
-        "Meaning": "milivôn; millivolt"
+        "id": 144,
+        "hanzi": "毫伏",
+        "pinyin": "háofú",
+        "meaning": "milivôn; millivolt",
+        "example": "millivolt (mV)"
     },
     {
-        "Id": 145,
-        "Hanzi": "可控硅",
-        "Pinyin": "kěkòngguī",
-        "Meaning": "thyristor; chỉnh lưu silic có điều khiển (SCR)"
+        "id": 145,
+        "hanzi": "可控硅",
+        "pinyin": "kěkòngguī",
+        "meaning": "thyristor; chỉnh lưu silic có điều khiển (SCR)",
+        "example": "thyristor (SCR)"
     },
     {
-        "Id": 146,
-        "Hanzi": "安培",
-        "Pinyin": "ānpéi",
-        "Meaning": "ampe (A)"
+        "id": 146,
+        "hanzi": "安培",
+        "pinyin": "ānpéi",
+        "meaning": "ampe (A)",
+        "example": "ampere (A)"
     },
     {
-        "Id": 147,
-        "Hanzi": "安时",
-        "Pinyin": "ānshí",
-        "Meaning": "ampe-giờ (Ah)"
+        "id": 147,
+        "hanzi": "安时",
+        "pinyin": "ānshí",
+        "meaning": "ampe-giờ (Ah)",
+        "example": "ampere‑hour (Ah)"
     },
     {
-        "Id": 148,
-        "Hanzi": "伏特",
-        "Pinyin": "fútè",
-        "Meaning": "vôn (V)"
+        "id": 148,
+        "hanzi": "伏特",
+        "pinyin": "fútè",
+        "meaning": "vôn (V)",
+        "example": "volt (V)"
     },
     {
-        "Id": 149,
-        "Hanzi": "放电",
-        "Pinyin": "fàngdiàn",
-        "Meaning": "xả điện; phóng điện"
+        "id": 149,
+        "hanzi": "放电",
+        "pinyin": "fàngdiàn",
+        "meaning": "xả điện; phóng điện",
+        "example": "discharge"
     },
     {
-        "Id": 150,
-        "Hanzi": "变电站",
-        "Pinyin": "biàndiànzhàn",
-        "Meaning": "trạm biến áp"
+        "id": 150,
+        "hanzi": "变电站",
+        "pinyin": "biàndiànzhàn",
+        "meaning": "trạm biến áp",
+        "example": "substation"
     },
     {
-        "Id": 151,
-        "Hanzi": "变电所",
-        "Pinyin": "biàndiànsuǒ",
-        "Meaning": "trạm biến áp"
+        "id": 151,
+        "hanzi": "变电所",
+        "pinyin": "biàndiànsuǒ",
+        "meaning": "trạm biến áp",
+        "example": "substation"
     },
     {
-        "Id": 152,
-        "Hanzi": "扼流圈",
-        "Pinyin": "èliúquān",
-        "Meaning": "cuộn kháng (choke); cuộn cảm"
+        "id": 152,
+        "hanzi": "扼流圈",
+        "pinyin": "èliúquān",
+        "meaning": "cuộn kháng (choke); cuộn cảm",
+        "example": "choke coil (inductor)"
     },
     {
-        "Id": 153,
-        "Hanzi": "电感线圈",
-        "Pinyin": "diàngǎn xiànquān",
-        "Meaning": "cuộn cảm; cuộn cảm ứng"
+        "id": 153,
+        "hanzi": "电感线圈",
+        "pinyin": "diàngǎn xiànquān",
+        "meaning": "cuộn cảm; cuộn cảm ứng",
+        "example": "inductor coil"
     },
     {
-        "Id": 154,
-        "Hanzi": "模拟量",
-        "Pinyin": "mónǐ liàng",
-        "Meaning": "tín hiệu\/giá trị analog"
+        "id": 154,
+        "hanzi": "模拟量",
+        "pinyin": "mónǐ liàng",
+        "meaning": "tín hiệu\/giá trị analog",
+        "example": "analog quantity\/signal"
     },
     {
-        "Id": 155,
-        "Hanzi": "数字量",
-        "Pinyin": "shùzì liàng",
-        "Meaning": "tín hiệu\/giá trị số"
+        "id": 155,
+        "hanzi": "数字量",
+        "pinyin": "shùzì liàng",
+        "meaning": "tín hiệu\/giá trị số",
+        "example": "digital quantity\/signal"
     },
     {
-        "Id": 156,
-        "Hanzi": "阻抗",
-        "Pinyin": "zǔkàng",
-        "Meaning": "trở kháng"
+        "id": 156,
+        "hanzi": "阻抗",
+        "pinyin": "zǔkàng",
+        "meaning": "trở kháng",
+        "example": "impedance"
     },
     {
-        "Id": 157,
-        "Hanzi": "吸收",
-        "Pinyin": "xīshōu",
-        "Meaning": "hấp thu; hấp thụ"
+        "id": 157,
+        "hanzi": "吸收",
+        "pinyin": "xīshōu",
+        "meaning": "hấp thu; hấp thụ",
+        "example": "absorb; absorption"
     },
     {
-        "Id": 158,
-        "Hanzi": "接口",
-        "Pinyin": "jiēkǒu",
-        "Meaning": "cổng kết nối; cổng giao tiếp"
+        "id": 158,
+        "hanzi": "接口",
+        "pinyin": "jiēkǒu",
+        "meaning": "cổng kết nối; cổng giao tiếp",
+        "example": "interface; port"
     },
     {
-        "Id": 159,
-        "Hanzi": "米每秒",
-        "Pinyin": "mǐ měi miǎo",
-        "Meaning": "mét trên giây (m\/s)"
+        "id": 159,
+        "hanzi": "米每秒",
+        "pinyin": "mǐ měi miǎo",
+        "meaning": "mét trên giây (m\/s)",
+        "example": "metres per second (m\/s)"
     },
     {
-        "Id": 160,
-        "Hanzi": "波特率",
-        "Pinyin": "bōtèlǜ",
-        "Meaning": "tốc độ truyền (baud)"
+        "id": 160,
+        "hanzi": "波特率",
+        "pinyin": "bōtèlǜ",
+        "meaning": "tốc độ truyền (baud)",
+        "example": "baud rate"
     },
     {
-        "Id": 161,
-        "Hanzi": "桌面",
-        "Pinyin": "zhuōmiàn",
-        "Meaning": "màn hình nền; desktop"
+        "id": 161,
+        "hanzi": "桌面",
+        "pinyin": "zhuōmiàn",
+        "meaning": "màn hình nền; desktop",
+        "example": "desktop"
     },
     {
-        "Id": 162,
-        "Hanzi": "插拔座",
-        "Pinyin": "chābázuò",
-        "Meaning": "domino\/ổ cắm rút‑cắm; đầu nối rời"
+        "id": 162,
+        "hanzi": "插拔座",
+        "pinyin": "chābázuò",
+        "meaning": "domino\/ổ cắm rút‑cắm; đầu nối rời",
+        "example": "plug‑in socket (terminal block)"
     },
     {
-        "Id": 163,
-        "Hanzi": "印制电路板",
-        "Pinyin": "yìnzhì diànlù bǎn",
-        "Meaning": "bảng mạch PCB"
+        "id": 163,
+        "hanzi": "印制电路板",
+        "pinyin": "yìnzhì diànlù bǎn",
+        "meaning": "bảng mạch PCB",
+        "example": "printed circuit board (PCB)"
     },
     {
-        "Id": 164,
-        "Hanzi": "电路板",
-        "Pinyin": "diànlù bǎn",
-        "Meaning": "bảng mạch (PCB)"
+        "id": 164,
+        "hanzi": "电路板",
+        "pinyin": "diànlù bǎn",
+        "meaning": "bảng mạch (PCB)",
+        "example": "circuit board"
     },
     {
-        "Id": 165,
-        "Hanzi": "万用表",
-        "Pinyin": "wànyòngbiǎo",
-        "Meaning": "đồng hồ vạn năng"
+        "id": 165,
+        "hanzi": "万用表",
+        "pinyin": "wànyòngbiǎo",
+        "meaning": "đồng hồ vạn năng",
+        "example": "multimeter"
     },
     {
-        "Id": 166,
-        "Hanzi": "串电阻",
-        "Pinyin": "chuàn diànzǔ",
-        "Meaning": "điện trở nối tiếp"
+        "id": 166,
+        "hanzi": "串电阻",
+        "pinyin": "chuàn diànzǔ",
+        "meaning": "điện trở nối tiếp",
+        "example": "series resistor"
     },
     {
-        "Id": 167,
-        "Hanzi": "缺相",
-        "Pinyin": "quēxiàng",
-        "Meaning": "thiếu pha; khuyết pha"
+        "id": 167,
+        "hanzi": "缺相",
+        "pinyin": "quēxiàng",
+        "meaning": "thiếu pha; khuyết pha",
+        "example": "phase loss"
     },
     {
-        "Id": 168,
-        "Hanzi": "熔芯",
-        "Pinyin": "róngxīn",
-        "Meaning": "lõi cầu chì (dây chảy)"
+        "id": 168,
+        "hanzi": "熔芯",
+        "pinyin": "róngxīn",
+        "meaning": "lõi cầu chì (dây chảy)",
+        "example": "fuse element\/core"
     },
     {
-        "Id": 169,
-        "Hanzi": "秒表",
-        "Pinyin": "miǎobiǎo",
-        "Meaning": "đồng hồ bấm giây"
+        "id": 169,
+        "hanzi": "秒表",
+        "pinyin": "miǎobiǎo",
+        "meaning": "đồng hồ bấm giây",
+        "example": "stopwatch"
     },
     {
-        "Id": 170,
-        "Hanzi": "二极管",
-        "Pinyin": "èrjíguǎn",
-        "Meaning": "đi‑ốt"
+        "id": 170,
+        "hanzi": "二极管",
+        "pinyin": "èrjíguǎn",
+        "meaning": "đi‑ốt",
+        "example": "diode"
     },
     {
-        "Id": 171,
-        "Hanzi": "恒压",
-        "Pinyin": "héngyā",
-        "Meaning": "điện áp không đổi; điện áp ổn định"
+        "id": 171,
+        "hanzi": "恒压",
+        "pinyin": "héngyā",
+        "meaning": "điện áp không đổi; điện áp ổn định",
+        "example": "constant voltage"
     },
     {
-        "Id": 172,
-        "Hanzi": "谐波",
-        "Pinyin": "xiébō",
-        "Meaning": "sóng hài"
+        "id": 172,
+        "hanzi": "谐波",
+        "pinyin": "xiébō",
+        "meaning": "sóng hài",
+        "example": "harmonics"
     },
     {
-        "Id": 173,
-        "Hanzi": "半导体",
-        "Pinyin": "bàndǎotǐ",
-        "Meaning": "bán dẫn; chất bán dẫn"
+        "id": 173,
+        "hanzi": "半导体",
+        "pinyin": "bàndǎotǐ",
+        "meaning": "bán dẫn; chất bán dẫn",
+        "example": "semiconductor"
     },
     {
-        "Id": 174,
-        "Hanzi": "脉冲频率",
-        "Pinyin": "màichōng pínlǜ",
-        "Meaning": "tần số xung"
+        "id": 174,
+        "hanzi": "脉冲频率",
+        "pinyin": "màichōng pínlǜ",
+        "meaning": "tần số xung",
+        "example": "pulse frequency"
     },
     {
-        "Id": 175,
-        "Hanzi": "谐波滤波器",
-        "Pinyin": "xiébō lǜbōqì",
-        "Meaning": "bộ lọc sóng hài"
+        "id": 175,
+        "hanzi": "谐波滤波器",
+        "pinyin": "xiébō lǜbōqì",
+        "meaning": "bộ lọc sóng hài",
+        "example": "harmonic filter"
     },
     {
-        "Id": 176,
-        "Hanzi": "晶体管",
-        "Pinyin": "jīngtǐguǎn",
-        "Meaning": "transistor"
+        "id": 176,
+        "hanzi": "晶体管",
+        "pinyin": "jīngtǐguǎn",
+        "meaning": "transistor",
+        "example": "transistor"
     },
     {
-        "Id": 177,
-        "Hanzi": "瓦",
-        "Pinyin": "wǎ",
-        "Meaning": "oát (W)"
+        "id": 177,
+        "hanzi": "瓦",
+        "pinyin": "wǎ",
+        "meaning": "oát (W)",
+        "example": "watt (W)"
     },
     {
-        "Id": 178,
-        "Hanzi": "千瓦",
-        "Pinyin": "qiānwǎ",
-        "Meaning": "kilo oát (kW)"
+        "id": 178,
+        "hanzi": "千瓦",
+        "pinyin": "qiānwǎ",
+        "meaning": "kilo oát (kW)",
+        "example": "kilowatt (kW)"
     },
     {
-        "Id": 179,
-        "Hanzi": "兆瓦",
-        "Pinyin": "zhàowǎ",
-        "Meaning": "mê‑ga oát (MW)"
+        "id": 179,
+        "hanzi": "兆瓦",
+        "pinyin": "zhàowǎ",
+        "meaning": "mê‑ga oát (MW)",
+        "example": "megawatt (MW)"
     },
     {
-        "Id": 180,
-        "Hanzi": "笼式电机",
-        "Pinyin": "lóngshì diànjī",
-        "Meaning": "động cơ lồng sóc"
+        "id": 180,
+        "hanzi": "笼式电机",
+        "pinyin": "lóngshì diànjī",
+        "meaning": "động cơ lồng sóc",
+        "example": "squirrel‑cage motor"
     },
     {
-        "Id": 181,
-        "Hanzi": "笼型异步电动机",
-        "Pinyin": "lóngxíng yìbù diàndòngjī",
-        "Meaning": "động cơ lồng sóc (động cơ không đồng bộ)"
+        "id": 181,
+        "hanzi": "笼型异步电动机",
+        "pinyin": "lóngxíng yìbù diàndòngjī",
+        "meaning": "động cơ lồng sóc (động cơ không đồng bộ)",
+        "example": "squirrel‑cage induction motor"
     },
     {
-        "Id": 182,
-        "Hanzi": "定子",
-        "Pinyin": "dìngzǐ",
-        "Meaning": "stato"
+        "id": 182,
+        "hanzi": "定子",
+        "pinyin": "dìngzǐ",
+        "meaning": "stato",
+        "example": "stator"
     },
     {
-        "Id": 183,
-        "Hanzi": "转子",
-        "Pinyin": "zhuànzǐ",
-        "Meaning": "roto"
+        "id": 183,
+        "hanzi": "转子",
+        "pinyin": "zhuànzǐ",
+        "meaning": "roto",
+        "example": "rotor"
     },
     {
-        "Id": 184,
-        "Hanzi": "光缆",
-        "Pinyin": "guānglǎn",
-        "Meaning": "cáp quang"
+        "id": 184,
+        "hanzi": "光缆",
+        "pinyin": "guānglǎn",
+        "meaning": "cáp quang",
+        "example": "optical cable"
     },
     {
-        "Id": 185,
-        "Hanzi": "蓄电池",
-        "Pinyin": "xùdiànchí",
-        "Meaning": "bình ắc quy"
+        "id": 185,
+        "hanzi": "蓄电池",
+        "pinyin": "xùdiànchí",
+        "meaning": "bình ắc quy",
+        "example": "storage battery"
     },
     {
-        "Id": 186,
-        "Hanzi": "并联",
-        "Pinyin": "bìnglián",
-        "Meaning": "song song"
+        "id": 186,
+        "hanzi": "并联",
+        "pinyin": "bìnglián",
+        "meaning": "song song",
+        "example": "parallel connection"
     },
     {
-        "Id": 187,
-        "Hanzi": "串联",
-        "Pinyin": "chuànlián",
-        "Meaning": "nối tiếp"
+        "id": 187,
+        "hanzi": "串联",
+        "pinyin": "chuànlián",
+        "meaning": "nối tiếp",
+        "example": "series connection"
     },
     {
-        "Id": 188,
-        "Hanzi": "日光灯",
-        "Pinyin": "rìguāngdēng",
-        "Meaning": "đèn huỳnh quang; đèn neon"
+        "id": 188,
+        "hanzi": "日光灯",
+        "pinyin": "rìguāngdēng",
+        "meaning": "đèn huỳnh quang; đèn neon",
+        "example": "fluorescent lamp"
     },
     {
-        "Id": 189,
-        "Hanzi": "视在功率",
-        "Pinyin": "shìzài gōnglǜ",
-        "Meaning": "công suất biểu kiến"
+        "id": 189,
+        "hanzi": "视在功率",
+        "pinyin": "shìzài gōnglǜ",
+        "meaning": "công suất biểu kiến",
+        "example": "apparent power"
     },
     {
-        "Id": 190,
-        "Hanzi": "有功功率",
-        "Pinyin": "yǒugōng gōnglǜ",
-        "Meaning": "công suất hữu công (tác dụng)"
+        "id": 190,
+        "hanzi": "有功功率",
+        "pinyin": "yǒugōng gōnglǜ",
+        "meaning": "công suất hữu công (tác dụng)",
+        "example": "active power (real power)"
     },
     {
-        "Id": 191,
-        "Hanzi": "无功功率",
-        "Pinyin": "wúgōng gōnglǜ",
-        "Meaning": "công suất phản kháng"
+        "id": 191,
+        "hanzi": "无功功率",
+        "pinyin": "wúgōng gōnglǜ",
+        "meaning": "công suất phản kháng",
+        "example": "reactive power"
     },
     {
-        "Id": 192,
-        "Hanzi": "电压降",
-        "Pinyin": "diànyā jiàng",
-        "Meaning": "sụt áp"
+        "id": 192,
+        "hanzi": "电压降",
+        "pinyin": "diànyā jiàng",
+        "meaning": "sụt áp",
+        "example": "voltage drop"
     },
     {
-        "Id": 193,
-        "Hanzi": "相电压",
-        "Pinyin": "xiāng diànyā",
-        "Meaning": "điện áp pha"
+        "id": 193,
+        "hanzi": "相电压",
+        "pinyin": "xiāng diànyā",
+        "meaning": "điện áp pha",
+        "example": "phase voltage"
     },
     {
-        "Id": 194,
-        "Hanzi": "防水",
-        "Pinyin": "fángshuǐ",
-        "Meaning": "chống thấm nước; không ngấm nước"
+        "id": 194,
+        "hanzi": "防水",
+        "pinyin": "fángshuǐ",
+        "meaning": "chống thấm nước; không ngấm nước",
+        "example": "waterproof"
     },
     {
-        "Id": 195,
-        "Hanzi": "绝缘",
-        "Pinyin": "juéyuán",
-        "Meaning": "cách điện"
+        "id": 195,
+        "hanzi": "绝缘",
+        "pinyin": "juéyuán",
+        "meaning": "cách điện",
+        "example": "insulation"
     },
     {
-        "Id": 196,
-        "Hanzi": "相序",
-        "Pinyin": "xiāngxù",
-        "Meaning": "thứ tự pha"
+        "id": 196,
+        "hanzi": "相序",
+        "pinyin": "xiāngxù",
+        "meaning": "thứ tự pha",
+        "example": "phase sequence"
     },
     {
-        "Id": 197,
-        "Hanzi": "转速",
-        "Pinyin": "zhuǎnsù",
-        "Meaning": "vận tốc quay; số vòng\/phút"
+        "id": 197,
+        "hanzi": "转速",
+        "pinyin": "zhuǎnsù",
+        "meaning": "vận tốc quay; số vòng\/phút",
+        "example": "rotational speed (rpm)"
     },
     {
-        "Id": 198,
-        "Hanzi": "额定转速",
-        "Pinyin": "édìng zhuǎnsù",
-        "Meaning": "tốc độ định mức"
+        "id": 198,
+        "hanzi": "额定转速",
+        "pinyin": "édìng zhuǎnsù",
+        "meaning": "tốc độ định mức",
+        "example": "rated speed"
     },
     {
-        "Id": 199,
-        "Hanzi": "额定功率",
-        "Pinyin": "édìng gōnglǜ",
-        "Meaning": "công suất định mức"
+        "id": 199,
+        "hanzi": "额定功率",
+        "pinyin": "édìng gōnglǜ",
+        "meaning": "công suất định mức",
+        "example": "rated power"
     },
     {
-        "Id": 200,
-        "Hanzi": "相数",
-        "Pinyin": "xiàngshù",
-        "Meaning": "số pha"
+        "id": 200,
+        "hanzi": "相数",
+        "pinyin": "xiàngshù",
+        "meaning": "số pha",
+        "example": "number of phases"
     },
     {
-        "Id": 201,
-        "Hanzi": "极数",
-        "Pinyin": "jíshù",
-        "Meaning": "số cực"
+        "id": 201,
+        "hanzi": "极数",
+        "pinyin": "jíshù",
+        "meaning": "số cực",
+        "example": "number of poles"
     },
     {
-        "Id": 202,
-        "Hanzi": "满负载",
-        "Pinyin": "mǎn fùzǎi",
-        "Meaning": "đủ tải; đầy tải"
+        "id": 202,
+        "hanzi": "满负载",
+        "pinyin": "mǎn fùzǎi",
+        "meaning": "đủ tải; đầy tải",
+        "example": "full load"
     },
     {
-        "Id": 203,
-        "Hanzi": "调制解调器",
-        "Pinyin": "tiáozhì jiětiáo qì",
-        "Meaning": "modem"
+        "id": 203,
+        "hanzi": "调制解调器",
+        "pinyin": "tiáozhì jiětiáo qì",
+        "meaning": "modem",
+        "example": "modem"
     },
     {
-        "Id": 204,
-        "Hanzi": "反比",
-        "Pinyin": "fǎnbǐ",
-        "Meaning": "tỉ lệ nghịch"
+        "id": 204,
+        "hanzi": "反比",
+        "pinyin": "fǎnbǐ",
+        "meaning": "tỉ lệ nghịch",
+        "example": "inverse proportion"
     },
     {
-        "Id": 205,
-        "Hanzi": "反比例",
-        "Pinyin": "fǎn bǐlì",
-        "Meaning": "tỉ lệ nghịch"
+        "id": 205,
+        "hanzi": "反比例",
+        "pinyin": "fǎn bǐlì",
+        "meaning": "tỉ lệ nghịch",
+        "example": "inversely proportional relation"
     },
     {
-        "Id": 206,
-        "Hanzi": "沙子",
-        "Pinyin": "shāzi",
-        "Meaning": "cát"
+        "id": 206,
+        "hanzi": "沙子",
+        "pinyin": "shāzi",
+        "meaning": "cát",
+        "example": "sand"
     },
     {
-        "Id": 207,
-        "Hanzi": "低压",
-        "Pinyin": "dīyā",
-        "Meaning": "hạ thế; hạ áp"
+        "id": 207,
+        "hanzi": "低压",
+        "pinyin": "dīyā",
+        "meaning": "hạ thế; hạ áp",
+        "example": "low voltage"
     },
     {
-        "Id": 208,
-        "Hanzi": "压缩空气",
-        "Pinyin": "yāsuō kōngqì",
-        "Meaning": "khí nén"
+        "id": 208,
+        "hanzi": "压缩空气",
+        "pinyin": "yāsuō kōngqì",
+        "meaning": "khí nén",
+        "example": "compressed air"
     },
     {
-        "Id": 209,
-        "Hanzi": "空压机",
-        "Pinyin": "kōngyājī",
-        "Meaning": "máy nén khí"
+        "id": 209,
+        "hanzi": "空压机",
+        "pinyin": "kōngyājī",
+        "meaning": "máy nén khí",
+        "example": "air compressor"
     },
     {
-        "Id": 210,
-        "Hanzi": "起重机",
-        "Pinyin": "qǐzhòngjī",
-        "Meaning": "xe cẩu; cần cẩu"
+        "id": 210,
+        "hanzi": "起重机",
+        "pinyin": "qǐzhòngjī",
+        "meaning": "xe cẩu; cần cẩu",
+        "example": "crane"
     },
     {
-        "Id": 211,
-        "Hanzi": "天车",
-        "Pinyin": "tiānchē",
-        "Meaning": "cầu trục (overhead crane)"
+        "id": 211,
+        "hanzi": "天车",
+        "pinyin": "tiānchē",
+        "meaning": "cầu trục (overhead crane)",
+        "example": "overhead crane"
     },
     {
-        "Id": 212,
-        "Hanzi": "电动葫芦",
-        "Pinyin": "diàndòng húlu",
-        "Meaning": "pa lăng điện"
+        "id": 212,
+        "hanzi": "电动葫芦",
+        "pinyin": "diàndòng húlu",
+        "meaning": "pa lăng điện",
+        "example": "electric hoist"
     },
     {
-        "Id": 213,
-        "Hanzi": "行车",
-        "Pinyin": "xíngchē",
-        "Meaning": "cầu trục (xe con chạy dầm)"
+        "id": 213,
+        "hanzi": "行车",
+        "pinyin": "xíngchē",
+        "meaning": "cầu trục (xe con chạy dầm)",
+        "example": "overhead traveling crane"
     },
     {
-        "Id": 214,
-        "Hanzi": "电缆桥架",
-        "Pinyin": "diànlǎn qiáojià",
-        "Meaning": "thang\/máng cáp"
+        "id": 214,
+        "hanzi": "电缆桥架",
+        "pinyin": "diànlǎn qiáojià",
+        "meaning": "thang\/máng cáp",
+        "example": "cable tray\/ladder"
     },
     {
-        "Id": 215,
-        "Hanzi": "功能",
-        "Pinyin": "gōngnéng",
-        "Meaning": "chức năng"
+        "id": 215,
+        "hanzi": "功能",
+        "pinyin": "gōngnéng",
+        "meaning": "chức năng",
+        "example": "function"
     },
     {
-        "Id": 216,
-        "Hanzi": "定期进行",
-        "Pinyin": "dìngqī jìnxíng",
-        "Meaning": "thực hiện định kỳ"
+        "id": 216,
+        "hanzi": "定期进行",
+        "pinyin": "dìngqī jìnxíng",
+        "meaning": "thực hiện định kỳ",
+        "example": "carry out periodically"
     },
     {
-        "Id": 217,
-        "Hanzi": "中修",
-        "Pinyin": "zhōngxiū",
-        "Meaning": "trung tu"
+        "id": 217,
+        "hanzi": "中修",
+        "pinyin": "zhōngxiū",
+        "meaning": "trung tu",
+        "example": "medium repair"
     },
     {
-        "Id": 218,
-        "Hanzi": "断路器",
-        "Pinyin": "duànlùqì",
-        "Meaning": "CB tép; aptomat tép"
+        "id": 218,
+        "hanzi": "断路器",
+        "pinyin": "duànlùqì",
+        "meaning": "CB tép; aptomat tép",
+        "example": "miniature circuit breaker (MCB)"
     },
     {
-        "Id": 219,
-        "Hanzi": "电容器",
-        "Pinyin": "diànróngqì",
-        "Meaning": "tụ điện"
+        "id": 219,
+        "hanzi": "电容器",
+        "pinyin": "diànróngqì",
+        "meaning": "tụ điện",
+        "example": "capacitor"
     },
     {
-        "Id": 220,
-        "Hanzi": "端子",
-        "Pinyin": "duānzǐ",
-        "Meaning": "đầu cốt; đầu nối"
+        "id": 220,
+        "hanzi": "端子",
+        "pinyin": "duānzǐ",
+        "meaning": "đầu cốt; đầu nối",
+        "example": "terminal (lug)"
     },
     {
-        "Id": 221,
-        "Hanzi": "接线端子排",
-        "Pinyin": "jiēxiàn duānzǐpái",
-        "Meaning": "cầu đấu; domino (hàng nhiều lỗ)"
+        "id": 221,
+        "hanzi": "接线端子排",
+        "pinyin": "jiēxiàn duānzǐpái",
+        "meaning": "cầu đấu; domino (hàng nhiều lỗ)",
+        "example": "terminal block"
     },
     {
-        "Id": 222,
-        "Hanzi": "电抗器",
-        "Pinyin": "diànkàngqì",
-        "Meaning": "cuộn kháng"
+        "id": 222,
+        "hanzi": "电抗器",
+        "pinyin": "diànkàngqì",
+        "meaning": "cuộn kháng",
+        "example": "reactor (inductor)"
     },
     {
-        "Id": 223,
-        "Hanzi": "超重",
-        "Pinyin": "chāozhòng",
-        "Meaning": "quá tải; quá cân (hành lý, cân nặng)"
+        "id": 223,
+        "hanzi": "超重",
+        "pinyin": "chāozhòng",
+        "meaning": "quá tải; quá cân (hành lý, cân nặng)",
+        "example": "overweight; overload (context)"
     },
     {
-        "Id": 224,
-        "Hanzi": "海运",
-        "Pinyin": "hǎiyùn",
-        "Meaning": "vận chuyển đường biển"
+        "id": 224,
+        "hanzi": "海运",
+        "pinyin": "hǎiyùn",
+        "meaning": "vận chuyển đường biển",
+        "example": "ocean shipping"
     },
     {
-        "Id": 225,
-        "Hanzi": "为了",
-        "Pinyin": "wèile",
-        "Meaning": "để; vì (in order to)"
+        "id": 225,
+        "hanzi": "为了",
+        "pinyin": "wèile",
+        "meaning": "để; vì (in order to)",
+        "example": "in order to; for"
     },
     {
-        "Id": 226,
-        "Hanzi": "顾客",
-        "Pinyin": "gùkè",
-        "Meaning": "khách hàng (nhà hàng, khách sạn…)"
+        "id": 226,
+        "hanzi": "顾客",
+        "pinyin": "gùkè",
+        "meaning": "khách hàng (nhà hàng, khách sạn…)",
+        "example": "customer; patron"
     },
     {
-        "Id": 227,
-        "Hanzi": "取",
-        "Pinyin": "qǔ",
-        "Meaning": "lấy; lĩnh; nhận (to get, to claim)"
+        "id": 227,
+        "hanzi": "取",
+        "pinyin": "qǔ",
+        "meaning": "lấy; lĩnh; nhận (to get, to claim)",
+        "example": "to take; to claim"
     },
     {
-        "Id": 228,
-        "Hanzi": "包裹",
-        "Pinyin": "bāoguǒ",
-        "Meaning": "bưu phẩm; gói hàng (parcel)"
+        "id": 228,
+        "hanzi": "包裹",
+        "pinyin": "bāoguǒ",
+        "meaning": "bưu phẩm; gói hàng (parcel)",
+        "example": "parcel; package"
     },
     {
-        "Id": 229,
-        "Hanzi": "电",
-        "Pinyin": "diàn",
-        "Meaning": "điện; điện lực"
+        "id": 229,
+        "hanzi": "电",
+        "pinyin": "diàn",
+        "meaning": "điện; điện lực",
+        "example": "electricity"
     },
     {
-        "Id": 230,
-        "Hanzi": "大使馆",
-        "Pinyin": "dàshǐguǎn",
-        "Meaning": "đại sứ quán"
+        "id": 230,
+        "hanzi": "大使馆",
+        "pinyin": "dàshǐguǎn",
+        "meaning": "đại sứ quán",
+        "example": "embassy"
     },
     {
-        "Id": 231,
-        "Hanzi": "办公",
-        "Pinyin": "bàngōng",
-        "Meaning": "làm việc (văn phòng)"
+        "id": 231,
+        "hanzi": "办公",
+        "pinyin": "bàngōng",
+        "meaning": "làm việc (văn phòng)",
+        "example": "to work (in an office)"
     },
     {
-        "Id": 232,
-        "Hanzi": "替",
-        "Pinyin": "tì",
-        "Meaning": "làm giùm; thay cho (for; on behalf of)"
+        "id": 232,
+        "hanzi": "替",
+        "pinyin": "tì",
+        "meaning": "làm giùm; thay cho (for; on behalf of)",
+        "example": "to substitute; for (prep.)"
     },
     {
-        "Id": 233,
-        "Hanzi": "正",
-        "Pinyin": "zhèng",
-        "Meaning": "đang; đúng lúc (đang làm gì)"
+        "id": 233,
+        "hanzi": "正",
+        "pinyin": "zhèng",
+        "meaning": "đang; đúng lúc (đang làm gì)",
+        "example": "in the process of; just"
     },
     {
-        "Id": 234,
-        "Hanzi": "添",
-        "Pinyin": "tiān",
-        "Meaning": "thêm; bổ sung (to add)"
+        "id": 234,
+        "hanzi": "添",
+        "pinyin": "tiān",
+        "meaning": "thêm; bổ sung (to add)",
+        "example": "to add"
     },
     {
-        "Id": 235,
-        "Hanzi": "乱",
-        "Pinyin": "luàn",
-        "Meaning": "loạn; lộn xộn"
+        "id": 235,
+        "hanzi": "乱",
+        "pinyin": "luàn",
+        "meaning": "loạn; lộn xộn",
+        "example": "chaotic; disorderly"
     },
     {
-        "Id": 236,
-        "Hanzi": "手提包",
-        "Pinyin": "shǒutíbāo",
-        "Meaning": "túi xách tay (handbag)"
+        "id": 236,
+        "hanzi": "手提包",
+        "pinyin": "shǒutíbāo",
+        "meaning": "túi xách tay (handbag)",
+        "example": "handbag"
     },
     {
-        "Id": 237,
-        "Hanzi": "随身",
-        "Pinyin": "suíshēn",
-        "Meaning": "mang theo người"
+        "id": 237,
+        "hanzi": "随身",
+        "pinyin": "suíshēn",
+        "meaning": "mang theo người",
+        "example": "to carry on one's person"
     },
     {
-        "Id": 238,
-        "Hanzi": "轻",
-        "Pinyin": "qīng",
-        "Meaning": "nhẹ (trọng lượng)"
+        "id": 238,
+        "hanzi": "轻",
+        "pinyin": "qīng",
+        "meaning": "nhẹ (trọng lượng)",
+        "example": "light (weight)"
     },
     {
-        "Id": 239,
-        "Hanzi": "报名",
-        "Pinyin": "bàomíng",
-        "Meaning": "đăng ký; ghi tên"
+        "id": 239,
+        "hanzi": "报名",
+        "pinyin": "bàomíng",
+        "meaning": "đăng ký; ghi tên",
+        "example": "to sign up; register"
     },
     {
-        "Id": 240,
-        "Hanzi": "鞋",
-        "Pinyin": "xié",
-        "Meaning": "giày"
+        "id": 240,
+        "hanzi": "鞋",
+        "pinyin": "xié",
+        "meaning": "giày",
+        "example": "shoes"
     },
     {
-        "Id": 241,
-        "Hanzi": "结实",
-        "Pinyin": "jiēshi",
-        "Meaning": "rắn chắc; bền"
+        "id": 241,
+        "hanzi": "结实",
+        "pinyin": "jiēshi",
+        "meaning": "rắn chắc; bền",
+        "example": "sturdy; durable"
     },
     {
-        "Id": 242,
-        "Hanzi": "街",
-        "Pinyin": "jiē",
-        "Meaning": "đường phố"
+        "id": 242,
+        "hanzi": "街",
+        "pinyin": "jiē",
+        "meaning": "đường phố",
+        "example": "street"
     },
     {
-        "Id": 243,
-        "Hanzi": "安静",
-        "Pinyin": "ānjìng",
-        "Meaning": "yên tĩnh"
+        "id": 243,
+        "hanzi": "安静",
+        "pinyin": "ānjìng",
+        "meaning": "yên tĩnh",
+        "example": "quiet"
     },
     {
-        "Id": 244,
-        "Hanzi": "病房",
-        "Pinyin": "bìngfáng",
-        "Meaning": "phòng bệnh nhân (buồng bệnh)"
+        "id": 244,
+        "hanzi": "病房",
+        "pinyin": "bìngfáng",
+        "meaning": "phòng bệnh nhân (buồng bệnh)",
+        "example": "ward (hospital)"
     },
     {
-        "Id": 245,
-        "Hanzi": "冷饮",
-        "Pinyin": "lěngyǐn",
-        "Meaning": "nước giải khát ướp lạnh"
+        "id": 245,
+        "hanzi": "冷饮",
+        "pinyin": "lěngyǐn",
+        "meaning": "nước giải khát ướp lạnh",
+        "example": "cold drink"
     },
     {
-        "Id": 246,
-        "Hanzi": "出境",
-        "Pinyin": "chūjìng",
-        "Meaning": "xuất cảnh"
+        "id": 246,
+        "hanzi": "出境",
+        "pinyin": "chūjìng",
+        "meaning": "xuất cảnh",
+        "example": "exit the country"
     },
     {
-        "Id": 247,
-        "Hanzi": "保重",
-        "Pinyin": "bǎozhòng",
-        "Meaning": "bảo trọng"
+        "id": 247,
+        "hanzi": "保重",
+        "pinyin": "bǎozhòng",
+        "meaning": "bảo trọng",
+        "example": "take care (of oneself)"
     },
     {
-        "Id": 248,
-        "Hanzi": "平安",
-        "Pinyin": "píng'ān",
-        "Meaning": "bình an; an toàn"
+        "id": 248,
+        "hanzi": "平安",
+        "pinyin": "píng'ān",
+        "meaning": "bình an; an toàn",
+        "example": "safe and sound"
     },
     {
-        "Id": 249,
-        "Hanzi": "候机室",
-        "Pinyin": "hòujīshì",
-        "Meaning": "phòng chờ ở sân bay"
+        "id": 249,
+        "hanzi": "候机室",
+        "pinyin": "hòujīshì",
+        "meaning": "phòng chờ ở sân bay",
+        "example": "airport lounge"
     },
     {
-        "Id": 250,
-        "Hanzi": "挤",
-        "Pinyin": "jǐ",
-        "Meaning": "chật; chen chúc; ép"
+        "id": 250,
+        "hanzi": "挤",
+        "pinyin": "jǐ",
+        "meaning": "chật; chen chúc; ép",
+        "example": "to squeeze; crowded"
     }
 ]
