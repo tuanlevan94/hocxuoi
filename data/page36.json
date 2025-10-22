@@ -1,0 +1,1502 @@
+[
+    {
+        "Id": 1,
+        "Hanzi": "想起来",
+        "Pinyin": "xiǎng qǐlái",
+        "Meaning": "nhớ ra"
+    },
+    {
+        "Id": 2,
+        "Hanzi": "想出来",
+        "Pinyin": "xiǎng chūlái",
+        "Meaning": "nghĩ ra (tự nghĩ cách giải quyết)"
+    },
+    {
+        "Id": 3,
+        "Hanzi": "名册",
+        "Pinyin": "míngcè",
+        "Meaning": "danh sách (danh bạ\/tên)"
+    },
+    {
+        "Id": 4,
+        "Hanzi": "户主",
+        "Pinyin": "hùzhǔ",
+        "Meaning": "chủ hộ"
+    },
+    {
+        "Id": 5,
+        "Hanzi": "业务",
+        "Pinyin": "yèwù",
+        "Meaning": "nghiệp vụ; kinh doanh"
+    },
+    {
+        "Id": 6,
+        "Hanzi": "业主",
+        "Pinyin": "yèzhǔ",
+        "Meaning": "chủ doanh nghiệp\/chủ sở hữu"
+    },
+    {
+        "Id": 7,
+        "Hanzi": "之前",
+        "Pinyin": "zhīqián",
+        "Meaning": "trước khi"
+    },
+    {
+        "Id": 8,
+        "Hanzi": "仆从",
+        "Pinyin": "púcóng",
+        "Meaning": "tay sai; thuộc hạ"
+    },
+    {
+        "Id": 9,
+        "Hanzi": "仆人",
+        "Pinyin": "púrén",
+        "Meaning": "người ở; đầy tớ"
+    },
+    {
+        "Id": 10,
+        "Hanzi": "术语",
+        "Pinyin": "shùyǔ",
+        "Meaning": "thuật ngữ"
+    },
+    {
+        "Id": 11,
+        "Hanzi": "金属",
+        "Pinyin": "jīnshǔ",
+        "Meaning": "kim loại"
+    },
+    {
+        "Id": 12,
+        "Hanzi": "关口",
+        "Pinyin": "guānkǒu",
+        "Meaning": "cửa khẩu; cửa ải"
+    },
+    {
+        "Id": 13,
+        "Hanzi": "海关申报",
+        "Pinyin": "hǎiguān shēnbào",
+        "Meaning": "khai báo hải quan"
+    },
+    {
+        "Id": 14,
+        "Hanzi": "通行证",
+        "Pinyin": "tōngxíngzhèng",
+        "Meaning": "giấy thông hành"
+    },
+    {
+        "Id": 15,
+        "Hanzi": "出入境",
+        "Pinyin": "chū rùjìng",
+        "Meaning": "xuất nhập cảnh"
+    },
+    {
+        "Id": 16,
+        "Hanzi": "过境",
+        "Pinyin": "guòjìng",
+        "Meaning": "quá cảnh"
+    },
+    {
+        "Id": 17,
+        "Hanzi": "外币",
+        "Pinyin": "wàibì",
+        "Meaning": "ngoại tệ"
+    },
+    {
+        "Id": 18,
+        "Hanzi": "饮酒",
+        "Pinyin": "yǐnjiǔ",
+        "Meaning": "nhậu nhẹt; uống rượu"
+    },
+    {
+        "Id": 19,
+        "Hanzi": "举杯",
+        "Pinyin": "jǔ bēi",
+        "Meaning": "nâng ly"
+    },
+    {
+        "Id": 20,
+        "Hanzi": "一口干",
+        "Pinyin": "yì kǒu gān",
+        "Meaning": "uống 100% (cạn ly)"
+    },
+    {
+        "Id": 21,
+        "Hanzi": "下酒菜",
+        "Pinyin": "xià jiǔcài",
+        "Meaning": "mồi nhắm rượu"
+    },
+    {
+        "Id": 22,
+        "Hanzi": "不醉不归",
+        "Pinyin": "bú zuì bú guī",
+        "Meaning": "không say không về"
+    },
+    {
+        "Id": 23,
+        "Hanzi": "借酒浇愁",
+        "Pinyin": "jiè jiǔ jiāo chóu",
+        "Meaning": "mượn rượu giải sầu"
+    },
+    {
+        "Id": 24,
+        "Hanzi": "民族",
+        "Pinyin": "mínzú",
+        "Meaning": "dân tộc"
+    },
+    {
+        "Id": 25,
+        "Hanzi": "民主",
+        "Pinyin": "mínzhǔ",
+        "Meaning": "dân chủ"
+    },
+    {
+        "Id": 26,
+        "Hanzi": "人情冷漠",
+        "Pinyin": "rénqíng lěngmò",
+        "Meaning": "sự thờ ơ của lòng người"
+    },
+    {
+        "Id": 27,
+        "Hanzi": "岁月的沧桑",
+        "Pinyin": "suìyuè de cāngsāng",
+        "Meaning": "thăng trầm của năm tháng"
+    },
+    {
+        "Id": 28,
+        "Hanzi": "白头偕老",
+        "Pinyin": "báitóu xié lǎo",
+        "Meaning": "răng long đầu bạc"
+    },
+    {
+        "Id": 29,
+        "Hanzi": "赚钱",
+        "Pinyin": "zhuànqián",
+        "Meaning": "kiếm tiền"
+    },
+    {
+        "Id": 30,
+        "Hanzi": "辅导",
+        "Pinyin": "fǔdǎo",
+        "Meaning": "phụ đạo; kèm học"
+    },
+    {
+        "Id": 31,
+        "Hanzi": "导航",
+        "Pinyin": "dǎoháng",
+        "Meaning": "dẫn đường; điều hướng"
+    },
+    {
+        "Id": 32,
+        "Hanzi": "未尝",
+        "Pinyin": "wèicháng",
+        "Meaning": "chưa từng"
+    },
+    {
+        "Id": 33,
+        "Hanzi": "冻结",
+        "Pinyin": "dòngjié",
+        "Meaning": "đóng băng; phong tỏa"
+    },
+    {
+        "Id": 34,
+        "Hanzi": "丑陋",
+        "Pinyin": "chǒulòu",
+        "Meaning": "xấu xí"
+    },
+    {
+        "Id": 35,
+        "Hanzi": "闭幕",
+        "Pinyin": "bìmù",
+        "Meaning": "bế mạc; khép màn"
+    },
+    {
+        "Id": 36,
+        "Hanzi": "针头",
+        "Pinyin": "zhēntóu",
+        "Meaning": "mũi kim; đầu kim"
+    },
+    {
+        "Id": 37,
+        "Hanzi": "思考",
+        "Pinyin": "sīkǎo",
+        "Meaning": "suy nghĩ"
+    },
+    {
+        "Id": 38,
+        "Hanzi": "思想",
+        "Pinyin": "sīxiǎng",
+        "Meaning": "tư tưởng"
+    },
+    {
+        "Id": 39,
+        "Hanzi": "忙碌",
+        "Pinyin": "mánglù",
+        "Meaning": "bận rộn"
+    },
+    {
+        "Id": 40,
+        "Hanzi": "闷气",
+        "Pinyin": "mènqì",
+        "Meaning": "ngột ngạt; bức bối (khí\/mood)"
+    },
+    {
+        "Id": 41,
+        "Hanzi": "闷热",
+        "Pinyin": "mēnrè",
+        "Meaning": "oi bức"
+    },
+    {
+        "Id": 42,
+        "Hanzi": "获得",
+        "Pinyin": "huòdé",
+        "Meaning": "thu được; đạt được"
+    },
+    {
+        "Id": 43,
+        "Hanzi": "收获",
+        "Pinyin": "shōuhuò",
+        "Meaning": "thu hoạch"
+    },
+    {
+        "Id": 44,
+        "Hanzi": "闹事",
+        "Pinyin": "nào shì",
+        "Meaning": "gây sự; quấy rối"
+    },
+    {
+        "Id": 45,
+        "Hanzi": "长笛",
+        "Pinyin": "chángdí",
+        "Meaning": "ống sáo"
+    },
+    {
+        "Id": 46,
+        "Hanzi": "换换心情",
+        "Pinyin": "huàn huan xīnqíng",
+        "Meaning": "đổi chút tâm trạng"
+    },
+    {
+        "Id": 47,
+        "Hanzi": "穷乏",
+        "Pinyin": "qióngfá",
+        "Meaning": "nghèo khó"
+    },
+    {
+        "Id": 48,
+        "Hanzi": "穷人",
+        "Pinyin": "qióngrén",
+        "Meaning": "người nghèo"
+    },
+    {
+        "Id": 49,
+        "Hanzi": "亮点",
+        "Pinyin": "liàngdiǎn",
+        "Meaning": "điểm nổi bật"
+    },
+    {
+        "Id": 50,
+        "Hanzi": "亮度",
+        "Pinyin": "liàngdù",
+        "Meaning": "độ sáng"
+    },
+    {
+        "Id": 51,
+        "Hanzi": "市郊",
+        "Pinyin": "shìjiāo",
+        "Meaning": "ngoại ô"
+    },
+    {
+        "Id": 52,
+        "Hanzi": "占有",
+        "Pinyin": "zhànyǒu",
+        "Meaning": "chiếm hữu"
+    },
+    {
+        "Id": 53,
+        "Hanzi": "乖张",
+        "Pinyin": "guāizhāng",
+        "Meaning": "ngang ngược; bướng bỉnh"
+    },
+    {
+        "Id": 54,
+        "Hanzi": "台风",
+        "Pinyin": "táifēng",
+        "Meaning": "bão (áp thấp nhiệt đới mạnh)"
+    },
+    {
+        "Id": 55,
+        "Hanzi": "台灯",
+        "Pinyin": "táidēng",
+        "Meaning": "đèn bàn"
+    },
+    {
+        "Id": 56,
+        "Hanzi": "抬价",
+        "Pinyin": "tái jià",
+        "Meaning": "tăng\/đẩy giá (làm giá)"
+    },
+    {
+        "Id": 57,
+        "Hanzi": "节日",
+        "Pinyin": "jiérì",
+        "Meaning": "ngày lễ"
+    },
+    {
+        "Id": 58,
+        "Hanzi": "去取快递",
+        "Pinyin": "qù qǔ kuàidì",
+        "Meaning": "đi nhận bưu phẩm"
+    },
+    {
+        "Id": 59,
+        "Hanzi": "树叶",
+        "Pinyin": "shùyè",
+        "Meaning": "lá cây"
+    },
+    {
+        "Id": 60,
+        "Hanzi": "歌曲",
+        "Pinyin": "gēqǔ",
+        "Meaning": "ca khúc; bài hát"
+    },
+    {
+        "Id": 61,
+        "Hanzi": "挂钩",
+        "Pinyin": "guàgōu",
+        "Meaning": "móc treo; cái móc"
+    },
+    {
+        "Id": 62,
+        "Hanzi": "扎眼",
+        "Pinyin": "zhāyǎn",
+        "Meaning": "ngứa mắt; chói mắt"
+    },
+    {
+        "Id": 63,
+        "Hanzi": "庄重",
+        "Pinyin": "zhuāngzhòng",
+        "Meaning": "trang trọng"
+    },
+    {
+        "Id": 64,
+        "Hanzi": "大坝",
+        "Pinyin": "dàbà",
+        "Meaning": "đập; đê chắn nước"
+    },
+    {
+        "Id": 65,
+        "Hanzi": "甩掉",
+        "Pinyin": "shuǎi diào",
+        "Meaning": "vứt bỏ; bỏ rơi"
+    },
+    {
+        "Id": 66,
+        "Hanzi": "甩卖",
+        "Pinyin": "shuǎimài",
+        "Meaning": "bán phá giá; xả hàng"
+    },
+    {
+        "Id": 67,
+        "Hanzi": "灾祸",
+        "Pinyin": "zāihuò",
+        "Meaning": "tai họa"
+    },
+    {
+        "Id": 68,
+        "Hanzi": "灾难",
+        "Pinyin": "zāinàn",
+        "Meaning": "tai nạn\/thảm họa"
+    },
+    {
+        "Id": 69,
+        "Hanzi": "皮肤",
+        "Pinyin": "pífū",
+        "Meaning": "da"
+    },
+    {
+        "Id": 70,
+        "Hanzi": "皮鞋",
+        "Pinyin": "píxié",
+        "Meaning": "giày da"
+    },
+    {
+        "Id": 71,
+        "Hanzi": "替代",
+        "Pinyin": "tìdài",
+        "Meaning": "thay thế"
+    },
+    {
+        "Id": 72,
+        "Hanzi": "替换",
+        "Pinyin": "tìhuàn",
+        "Meaning": "đổi; thay đổi"
+    },
+    {
+        "Id": 73,
+        "Hanzi": "爽快",
+        "Pinyin": "shuǎngkuài",
+        "Meaning": "sảng khoái; thẳng thắn"
+    },
+    {
+        "Id": 74,
+        "Hanzi": "爽直",
+        "Pinyin": "shuǎngzhí",
+        "Meaning": "thẳng thắn"
+    },
+    {
+        "Id": 75,
+        "Hanzi": "安慰",
+        "Pinyin": "ānwèi",
+        "Meaning": "an ủi"
+    },
+    {
+        "Id": 76,
+        "Hanzi": "安心",
+        "Pinyin": "ānxīn",
+        "Meaning": "an tâm; yên lòng"
+    },
+    {
+        "Id": 77,
+        "Hanzi": "西红柿",
+        "Pinyin": "xīhóngshì",
+        "Meaning": "cà chua"
+    },
+    {
+        "Id": 78,
+        "Hanzi": "问候",
+        "Pinyin": "wènhòu",
+        "Meaning": "chào hỏi"
+    },
+    {
+        "Id": 79,
+        "Hanzi": "斧头",
+        "Pinyin": "fǔtóu",
+        "Meaning": "cái rìu"
+    },
+    {
+        "Id": 80,
+        "Hanzi": "危害",
+        "Pinyin": "wēihài",
+        "Meaning": "nguy hại; nguy hiểm (gây hại)"
+    },
+    {
+        "Id": 81,
+        "Hanzi": "危机",
+        "Pinyin": "wēijī",
+        "Meaning": "nguy cơ; khủng hoảng"
+    },
+    {
+        "Id": 82,
+        "Hanzi": "舞台",
+        "Pinyin": "wǔtái",
+        "Meaning": "sân khấu"
+    },
+    {
+        "Id": 83,
+        "Hanzi": "用具",
+        "Pinyin": "yòngjù",
+        "Meaning": "đồ dùng; dụng cụ"
+    },
+    {
+        "Id": 84,
+        "Hanzi": "用心",
+        "Pinyin": "yòngxīn",
+        "Meaning": "chuyên tâm; tận tâm"
+    },
+    {
+        "Id": 85,
+        "Hanzi": "盘点",
+        "Pinyin": "pándiǎn",
+        "Meaning": "kiểm kê"
+    },
+    {
+        "Id": 86,
+        "Hanzi": "研究",
+        "Pinyin": "yánjiū",
+        "Meaning": "nghiên cứu"
+    },
+    {
+        "Id": 87,
+        "Hanzi": "追究",
+        "Pinyin": "zhuījiū",
+        "Meaning": "truy cứu; điều tra trách nhiệm"
+    },
+    {
+        "Id": 88,
+        "Hanzi": "旧日",
+        "Pinyin": "jiùrì",
+        "Meaning": "ngày xưa"
+    },
+    {
+        "Id": 89,
+        "Hanzi": "种子",
+        "Pinyin": "zhǒngzi",
+        "Meaning": "hạt giống"
+    },
+    {
+        "Id": 90,
+        "Hanzi": "种地",
+        "Pinyin": "zhòng dì",
+        "Meaning": "làm ruộng"
+    },
+    {
+        "Id": 91,
+        "Hanzi": "茄子",
+        "Pinyin": "qiézi",
+        "Meaning": "quả cà tím"
+    },
+    {
+        "Id": 92,
+        "Hanzi": "昆虫",
+        "Pinyin": "kūnchóng",
+        "Meaning": "côn trùng"
+    },
+    {
+        "Id": 93,
+        "Hanzi": "春联",
+        "Pinyin": "chūnlián",
+        "Meaning": "câu đối (Tết)"
+    },
+    {
+        "Id": 94,
+        "Hanzi": "尺码",
+        "Pinyin": "chǐmǎ",
+        "Meaning": "số đo (size quần áo)"
+    },
+    {
+        "Id": 95,
+        "Hanzi": "此时",
+        "Pinyin": "cǐshí",
+        "Meaning": "lúc này"
+    },
+    {
+        "Id": 96,
+        "Hanzi": "此人",
+        "Pinyin": "cǐrén",
+        "Meaning": "người này"
+    },
+    {
+        "Id": 97,
+        "Hanzi": "向上",
+        "Pinyin": "xiàngshàng",
+        "Meaning": "vươn lên; hướng lên"
+    },
+    {
+        "Id": 98,
+        "Hanzi": "向导",
+        "Pinyin": "xiàngdǎo",
+        "Meaning": "hướng dẫn (người dẫn đường)"
+    },
+    {
+        "Id": 99,
+        "Hanzi": "信誉",
+        "Pinyin": "xìnyù",
+        "Meaning": "uy tín"
+    },
+    {
+        "Id": 100,
+        "Hanzi": "卖家",
+        "Pinyin": "màijiā",
+        "Meaning": "người bán"
+    },
+    {
+        "Id": 101,
+        "Hanzi": "买家",
+        "Pinyin": "mǎijiā",
+        "Meaning": "người mua"
+    },
+    {
+        "Id": 102,
+        "Hanzi": "促销价",
+        "Pinyin": "cùxiāo jià",
+        "Meaning": "giá khuyến mãi"
+    },
+    {
+        "Id": 103,
+        "Hanzi": "讨价还价",
+        "Pinyin": "tǎojià huánjià",
+        "Meaning": "mặc cả"
+    },
+    {
+        "Id": 104,
+        "Hanzi": "优惠活动",
+        "Pinyin": "yōuhuì huódòng",
+        "Meaning": "chương trình khuyến mãi"
+    },
+    {
+        "Id": 105,
+        "Hanzi": "优惠券",
+        "Pinyin": "yōuhuì quàn",
+        "Meaning": "voucher; phiếu giảm giá"
+    },
+    {
+        "Id": 106,
+        "Hanzi": "快递",
+        "Pinyin": "kuàidì",
+        "Meaning": "chuyển phát nhanh"
+    },
+    {
+        "Id": 107,
+        "Hanzi": "收货地址",
+        "Pinyin": "shōuhuò dìzhǐ",
+        "Meaning": "địa chỉ nhận hàng"
+    },
+    {
+        "Id": 108,
+        "Hanzi": "急救",
+        "Pinyin": "jíjiù",
+        "Meaning": "cấp cứu"
+    },
+    {
+        "Id": 109,
+        "Hanzi": "人工呼吸",
+        "Pinyin": "réngōng hūxī",
+        "Meaning": "hô hấp nhân tạo"
+    },
+    {
+        "Id": 110,
+        "Hanzi": "窒息",
+        "Pinyin": "zhìxī",
+        "Meaning": "nghẹt thở"
+    },
+    {
+        "Id": 111,
+        "Hanzi": "绷带",
+        "Pinyin": "bēngdài",
+        "Meaning": "vải băng"
+    },
+    {
+        "Id": 112,
+        "Hanzi": "扭伤",
+        "Pinyin": "niǔshāng",
+        "Meaning": "bong gân"
+    },
+    {
+        "Id": 113,
+        "Hanzi": "骨折",
+        "Pinyin": "gǔzhé",
+        "Meaning": "gãy xương"
+    },
+    {
+        "Id": 114,
+        "Hanzi": "划伤",
+        "Pinyin": "huáshāng",
+        "Meaning": "vết cắt"
+    },
+    {
+        "Id": 115,
+        "Hanzi": "擦伤",
+        "Pinyin": "cāshāng",
+        "Meaning": "trầy xước"
+    },
+    {
+        "Id": 116,
+        "Hanzi": "瘀伤",
+        "Pinyin": "yūshāng",
+        "Meaning": "bầm tím"
+    },
+    {
+        "Id": 117,
+        "Hanzi": "烧伤",
+        "Pinyin": "shāoshāng",
+        "Meaning": "bị bỏng"
+    },
+    {
+        "Id": 118,
+        "Hanzi": "咬伤",
+        "Pinyin": "yǎoshāng",
+        "Meaning": "bị cắn"
+    },
+    {
+        "Id": 119,
+        "Hanzi": "触电",
+        "Pinyin": "chùdiàn",
+        "Meaning": "bị điện giật"
+    },
+    {
+        "Id": 120,
+        "Hanzi": "水痘",
+        "Pinyin": "shuǐdòu",
+        "Meaning": "thủy đậu"
+    },
+    {
+        "Id": 121,
+        "Hanzi": "呕吐",
+        "Pinyin": "ǒutù",
+        "Meaning": "nôn mửa"
+    },
+    {
+        "Id": 122,
+        "Hanzi": "感染",
+        "Pinyin": "gǎnrǎn",
+        "Meaning": "nhiễm trùng; nhiễm bệnh"
+    },
+    {
+        "Id": 123,
+        "Hanzi": "体重",
+        "Pinyin": "tǐzhòng",
+        "Meaning": "cân nặng"
+    },
+    {
+        "Id": 124,
+        "Hanzi": "缴费",
+        "Pinyin": "jiǎofèi",
+        "Meaning": "nộp phí"
+    },
+    {
+        "Id": 125,
+        "Hanzi": "身高",
+        "Pinyin": "shēngāo",
+        "Meaning": "chiều cao"
+    },
+    {
+        "Id": 126,
+        "Hanzi": "体温计",
+        "Pinyin": "tǐwēnjì",
+        "Meaning": "nhiệt kế"
+    },
+    {
+        "Id": 127,
+        "Hanzi": "恶心",
+        "Pinyin": "ěxin",
+        "Meaning": "buồn nôn"
+    },
+    {
+        "Id": 128,
+        "Hanzi": "交友",
+        "Pinyin": "jiāoyǒu",
+        "Meaning": "kết bạn"
+    },
+    {
+        "Id": 129,
+        "Hanzi": "去世",
+        "Pinyin": "qùshì",
+        "Meaning": "qua đời"
+    },
+    {
+        "Id": 130,
+        "Hanzi": "台式电脑",
+        "Pinyin": "táishì diànnǎo",
+        "Meaning": "máy tính để bàn"
+    },
+    {
+        "Id": 131,
+        "Hanzi": "平板电脑",
+        "Pinyin": "píngbǎn diànnǎo",
+        "Meaning": "máy tính bảng"
+    },
+    {
+        "Id": 132,
+        "Hanzi": "移动硬盘",
+        "Pinyin": "yídòng yìngpán",
+        "Meaning": "ổ cứng di động"
+    },
+    {
+        "Id": 133,
+        "Hanzi": "服务器",
+        "Pinyin": "fúwùqì",
+        "Meaning": "máy chủ"
+    },
+    {
+        "Id": 134,
+        "Hanzi": "处理器",
+        "Pinyin": "chǔlǐqì",
+        "Meaning": "bộ xử lý"
+    },
+    {
+        "Id": 135,
+        "Hanzi": "应用程序",
+        "Pinyin": "yìngyòng chéngxù",
+        "Meaning": "ứng dụng; phần mềm"
+    },
+    {
+        "Id": 136,
+        "Hanzi": "劳斯莱斯",
+        "Pinyin": "Láosī Láisī",
+        "Meaning": "Rolls‑Royce"
+    },
+    {
+        "Id": 137,
+        "Hanzi": "兰博基尼",
+        "Pinyin": "Lánbójīní",
+        "Meaning": "Lamborghini"
+    },
+    {
+        "Id": 138,
+        "Hanzi": "法拉利",
+        "Pinyin": "Fǎlálì",
+        "Meaning": "Ferrari"
+    },
+    {
+        "Id": 139,
+        "Hanzi": "雷克萨斯",
+        "Pinyin": "Léikèsàsī",
+        "Meaning": "Lexus"
+    },
+    {
+        "Id": 140,
+        "Hanzi": "福特",
+        "Pinyin": "Fútè",
+        "Meaning": "Ford"
+    },
+    {
+        "Id": 141,
+        "Hanzi": "宝马",
+        "Pinyin": "Bǎomǎ",
+        "Meaning": "BMW"
+    },
+    {
+        "Id": 142,
+        "Hanzi": "奔驰",
+        "Pinyin": "Bēnchí",
+        "Meaning": "Mercedes‑Benz"
+    },
+    {
+        "Id": 143,
+        "Hanzi": "马自达",
+        "Pinyin": "Mǎzìdá",
+        "Meaning": "Mazda"
+    },
+    {
+        "Id": 144,
+        "Hanzi": "奥迪",
+        "Pinyin": "Àodí",
+        "Meaning": "Audi"
+    },
+    {
+        "Id": 145,
+        "Hanzi": "保时捷",
+        "Pinyin": "Bǎoshíjié",
+        "Meaning": "Porsche"
+    },
+    {
+        "Id": 146,
+        "Hanzi": "起亚",
+        "Pinyin": "Qǐyà",
+        "Meaning": "Kia"
+    },
+    {
+        "Id": 147,
+        "Hanzi": "丰田",
+        "Pinyin": "Fēngtián",
+        "Meaning": "Toyota"
+    },
+    {
+        "Id": 148,
+        "Hanzi": "注册账号",
+        "Pinyin": "zhùcè zhànghào",
+        "Meaning": "đăng ký tài khoản"
+    },
+    {
+        "Id": 149,
+        "Hanzi": "免费注册",
+        "Pinyin": "miǎnfèi zhùcè",
+        "Meaning": "đăng ký miễn phí"
+    },
+    {
+        "Id": 150,
+        "Hanzi": "用户名",
+        "Pinyin": "yònghù míng",
+        "Meaning": "tên người dùng"
+    },
+    {
+        "Id": 151,
+        "Hanzi": "手机号",
+        "Pinyin": "shǒujī hào",
+        "Meaning": "số điện thoại"
+    },
+    {
+        "Id": 152,
+        "Hanzi": "验证",
+        "Pinyin": "yànzhèng",
+        "Meaning": "xác minh"
+    },
+    {
+        "Id": 153,
+        "Hanzi": "验证码",
+        "Pinyin": "yànzhèng mǎ",
+        "Meaning": "mã xác minh"
+    },
+    {
+        "Id": 154,
+        "Hanzi": "登录密码",
+        "Pinyin": "dēnglù mìmǎ",
+        "Meaning": "mật khẩu đăng nhập"
+    },
+    {
+        "Id": 155,
+        "Hanzi": "确认密码",
+        "Pinyin": "quèrèn mìmǎ",
+        "Meaning": "xác nhận mật khẩu"
+    },
+    {
+        "Id": 156,
+        "Hanzi": "注册成功",
+        "Pinyin": "zhùcè chénggōng",
+        "Meaning": "đăng ký thành công"
+    },
+    {
+        "Id": 157,
+        "Hanzi": "聚餐",
+        "Pinyin": "jùcān",
+        "Meaning": "liên hoan; ăn chung"
+    },
+    {
+        "Id": 158,
+        "Hanzi": "宴会",
+        "Pinyin": "yànhuì",
+        "Meaning": "yến tiệc"
+    },
+    {
+        "Id": 159,
+        "Hanzi": "派对",
+        "Pinyin": "pàiduì",
+        "Meaning": "bữa tiệc"
+    },
+    {
+        "Id": 160,
+        "Hanzi": "自助餐",
+        "Pinyin": "zìzhùcān",
+        "Meaning": "ăn buffet"
+    },
+    {
+        "Id": 161,
+        "Hanzi": "仓管员",
+        "Pinyin": "cāng guǎn yuán",
+        "Meaning": "thủ kho; quản lý kho"
+    },
+    {
+        "Id": 162,
+        "Hanzi": "建造",
+        "Pinyin": "jiànzào",
+        "Meaning": "xây dựng"
+    },
+    {
+        "Id": 163,
+        "Hanzi": "建筑工人",
+        "Pinyin": "jiànzhù gōngrén",
+        "Meaning": "thợ xây"
+    },
+    {
+        "Id": 164,
+        "Hanzi": "脚手架",
+        "Pinyin": "jiǎoshǒujià",
+        "Meaning": "giàn giáo"
+    },
+    {
+        "Id": 165,
+        "Hanzi": "请问怎么称呼您？",
+        "Pinyin": "qǐngwèn zěnme chēnghu nín?",
+        "Meaning": "xin hỏi tôi phải xưng hô với ông\/bà thế nào?"
+    },
+    {
+        "Id": 166,
+        "Hanzi": "你不要再说了。",
+        "Pinyin": "nǐ bú yào zài shuō le.",
+        "Meaning": "bạn đừng nói nữa"
+    },
+    {
+        "Id": 167,
+        "Hanzi": "你怎么来了？",
+        "Pinyin": "nǐ zěnme lái le?",
+        "Meaning": "sao bạn tới đây?"
+    },
+    {
+        "Id": 168,
+        "Hanzi": "你这是干什么？",
+        "Pinyin": "nǐ zhè shì gàn shénme?",
+        "Meaning": "bạn đang làm gì vậy?"
+    },
+    {
+        "Id": 169,
+        "Hanzi": "还用问吗？",
+        "Pinyin": "hái yòng wèn ma?",
+        "Meaning": "còn phải hỏi nữa hả?"
+    },
+    {
+        "Id": 170,
+        "Hanzi": "讲重点",
+        "Pinyin": "jiǎng zhòngdiǎn",
+        "Meaning": "vô thẳng vấn đề; nói trọng điểm"
+    },
+    {
+        "Id": 171,
+        "Hanzi": "爱惜",
+        "Pinyin": "àixī",
+        "Meaning": "yêu quý; trân trọng"
+    },
+    {
+        "Id": 172,
+        "Hanzi": "爱心",
+        "Pinyin": "àixīn",
+        "Meaning": "lòng yêu thương"
+    },
+    {
+        "Id": 173,
+        "Hanzi": "感觉如何",
+        "Pinyin": "gǎnjué rúhé",
+        "Meaning": "cảm thấy thế nào"
+    },
+    {
+        "Id": 174,
+        "Hanzi": "我亲眼所见",
+        "Pinyin": "wǒ qīnyǎn suǒ jiàn",
+        "Meaning": "chính mắt tôi nhìn thấy"
+    },
+    {
+        "Id": 175,
+        "Hanzi": "后会有期",
+        "Pinyin": "hòu huì yǒu qī",
+        "Meaning": "hẹn ngày gặp lại"
+    },
+    {
+        "Id": 176,
+        "Hanzi": "如此看来",
+        "Pinyin": "rúcǐ kànlái",
+        "Meaning": "từ đó có thể thấy…"
+    },
+    {
+        "Id": 177,
+        "Hanzi": "怎么说呢",
+        "Pinyin": "zěnme shuō ne",
+        "Meaning": "nói sao đây…"
+    },
+    {
+        "Id": 178,
+        "Hanzi": "怎么说话呢",
+        "Pinyin": "zěnme shuōhuà ne",
+        "Meaning": "ăn nói kiểu gì vậy"
+    },
+    {
+        "Id": 179,
+        "Hanzi": "继续说",
+        "Pinyin": "jìxù shuō",
+        "Meaning": "nói tiếp đi"
+    },
+    {
+        "Id": 180,
+        "Hanzi": "从一开始",
+        "Pinyin": "cóng yī kāishǐ",
+        "Meaning": "từ lúc đầu là…"
+    },
+    {
+        "Id": 181,
+        "Hanzi": "自我介绍一下",
+        "Pinyin": "zìwǒ jièshào yíxià",
+        "Meaning": "xin được tự giới thiệu"
+    },
+    {
+        "Id": 182,
+        "Hanzi": "不干了",
+        "Pinyin": "bù gàn le",
+        "Meaning": "không làm nữa"
+    },
+    {
+        "Id": 183,
+        "Hanzi": "销售员",
+        "Pinyin": "xiāoshòu yuán",
+        "Meaning": "nhân viên bán hàng"
+    },
+    {
+        "Id": 184,
+        "Hanzi": "会计",
+        "Pinyin": "kuàijì",
+        "Meaning": "nhân viên kế toán"
+    },
+    {
+        "Id": 185,
+        "Hanzi": "采购员",
+        "Pinyin": "cǎigòu yuán",
+        "Meaning": "nhân viên thu mua"
+    },
+    {
+        "Id": 186,
+        "Hanzi": "职称",
+        "Pinyin": "zhíchēng",
+        "Meaning": "chức danh"
+    },
+    {
+        "Id": 187,
+        "Hanzi": "你哪不舒服啊？",
+        "Pinyin": "nǐ nǎ bù shūfu a?",
+        "Meaning": "bạn không khỏe chỗ nào hả?"
+    },
+    {
+        "Id": 188,
+        "Hanzi": "我没病",
+        "Pinyin": "wǒ méi bìng",
+        "Meaning": "tôi không có bị bệnh"
+    },
+    {
+        "Id": 189,
+        "Hanzi": "我很快就回来",
+        "Pinyin": "wǒ hěn kuài jiù huílai",
+        "Meaning": "tôi sẽ về sớm thôi"
+    },
+    {
+        "Id": 190,
+        "Hanzi": "酒量好",
+        "Pinyin": "jiǔliàng hǎo",
+        "Meaning": "uống giỏi đấy"
+    },
+    {
+        "Id": 191,
+        "Hanzi": "拍手",
+        "Pinyin": "pāishǒu",
+        "Meaning": "vỗ tay"
+    },
+    {
+        "Id": 192,
+        "Hanzi": "伸手",
+        "Pinyin": "shēnshǒu",
+        "Meaning": "đưa tay ra"
+    },
+    {
+        "Id": 193,
+        "Hanzi": "牵手",
+        "Pinyin": "qiānshǒu",
+        "Meaning": "nắm tay"
+    },
+    {
+        "Id": 194,
+        "Hanzi": "真的假的",
+        "Pinyin": "zhēn de jiǎ de",
+        "Meaning": "thiệt hay giả vậy"
+    },
+    {
+        "Id": 195,
+        "Hanzi": "你说得太快了",
+        "Pinyin": "nǐ shuō de tài kuài le",
+        "Meaning": "bạn nói nhanh quá"
+    },
+    {
+        "Id": 196,
+        "Hanzi": "看什么看",
+        "Pinyin": "kàn shénme kàn",
+        "Meaning": "nhìn gì mà nhìn"
+    },
+    {
+        "Id": 197,
+        "Hanzi": "笑什么笑",
+        "Pinyin": "xiào shénme xiào",
+        "Meaning": "cười gì mà cười"
+    },
+    {
+        "Id": 198,
+        "Hanzi": "你是搞错了吧",
+        "Pinyin": "nǐ shì gǎo cuò le ba",
+        "Meaning": "cậu nhầm gì à"
+    },
+    {
+        "Id": 199,
+        "Hanzi": "打饭",
+        "Pinyin": "dǎ fàn",
+        "Meaning": "lấy cơm"
+    },
+    {
+        "Id": 200,
+        "Hanzi": "打住",
+        "Pinyin": "dǎzhù",
+        "Meaning": "dừng lại"
+    },
+    {
+        "Id": 201,
+        "Hanzi": "打断",
+        "Pinyin": "dǎduàn",
+        "Meaning": "ngắt lời"
+    },
+    {
+        "Id": 202,
+        "Hanzi": "工程",
+        "Pinyin": "gōngchéng",
+        "Meaning": "công trình"
+    },
+    {
+        "Id": 203,
+        "Hanzi": "工地",
+        "Pinyin": "gōngdì",
+        "Meaning": "công trường"
+    },
+    {
+        "Id": 204,
+        "Hanzi": "可悲",
+        "Pinyin": "kěbēi",
+        "Meaning": "đáng buồn"
+    },
+    {
+        "Id": 205,
+        "Hanzi": "可靠",
+        "Pinyin": "kěkào",
+        "Meaning": "đáng tin"
+    },
+    {
+        "Id": 206,
+        "Hanzi": "可口",
+        "Pinyin": "kěkǒu",
+        "Meaning": "ngon miệng"
+    },
+    {
+        "Id": 207,
+        "Hanzi": "无论",
+        "Pinyin": "wúlùn",
+        "Meaning": "bất luận"
+    },
+    {
+        "Id": 208,
+        "Hanzi": "充满",
+        "Pinyin": "chōngmǎn",
+        "Meaning": "tràn đầy (hy vọng…)"
+    },
+    {
+        "Id": 209,
+        "Hanzi": "一钱不值",
+        "Pinyin": "yì qián bù zhí",
+        "Meaning": "không chút giá trị"
+    },
+    {
+        "Id": 210,
+        "Hanzi": "事与愿违",
+        "Pinyin": "shì yǔ yuàn wéi",
+        "Meaning": "không như ý muốn"
+    },
+    {
+        "Id": 211,
+        "Hanzi": "出乎意料",
+        "Pinyin": "chūhū yìliào",
+        "Meaning": "ngoài dự liệu"
+    },
+    {
+        "Id": 212,
+        "Hanzi": "我不比她矮",
+        "Pinyin": "wǒ bù bǐ tā ǎi",
+        "Meaning": "tôi đâu có thấp hơn cô ấy"
+    },
+    {
+        "Id": 213,
+        "Hanzi": "他没有哥哥这么高",
+        "Pinyin": "tā méiyǒu gēge zhème gāo",
+        "Meaning": "anh ấy không cao bằng anh trai"
+    },
+    {
+        "Id": 214,
+        "Hanzi": "破财免灾",
+        "Pinyin": "pòcái miǎn zāi",
+        "Meaning": "của đi thay người"
+    },
+    {
+        "Id": 215,
+        "Hanzi": "三方对质",
+        "Pinyin": "sān fāng duìzhì",
+        "Meaning": "ba mặt một lời"
+    },
+    {
+        "Id": 216,
+        "Hanzi": "惜墨如金",
+        "Pinyin": "xī mò rú jīn",
+        "Meaning": "văn phong ít chữ như vàng"
+    },
+    {
+        "Id": 217,
+        "Hanzi": "入乡随俗",
+        "Pinyin": "rù xiāng suí sú",
+        "Meaning": "nhập gia tùy tục"
+    },
+    {
+        "Id": 218,
+        "Hanzi": "喜新厌旧",
+        "Pinyin": "xǐ xīn yàn jiù",
+        "Meaning": "có mới nới cũ"
+    },
+    {
+        "Id": 219,
+        "Hanzi": "礼尚往来",
+        "Pinyin": "lǐ shàng wǎng lái",
+        "Meaning": "có qua có lại"
+    },
+    {
+        "Id": 220,
+        "Hanzi": "风调雨顺",
+        "Pinyin": "fēng tiáo yǔ shùn",
+        "Meaning": "mưa thuận gió hòa"
+    },
+    {
+        "Id": 221,
+        "Hanzi": "欲速不达",
+        "Pinyin": "yù sù bù dá",
+        "Meaning": "giục tốc bất đạt"
+    },
+    {
+        "Id": 222,
+        "Hanzi": "错过",
+        "Pinyin": "cuòguò",
+        "Meaning": "bỏ lỡ"
+    },
+    {
+        "Id": 223,
+        "Hanzi": "一颗星",
+        "Pinyin": "yì kē xīng",
+        "Meaning": "một ngôi sao"
+    },
+    {
+        "Id": 224,
+        "Hanzi": "一栋楼",
+        "Pinyin": "yí dòng lóu",
+        "Meaning": "một tòa nhà"
+    },
+    {
+        "Id": 225,
+        "Hanzi": "一场大雨",
+        "Pinyin": "yì chǎng dàyǔ",
+        "Meaning": "một trận mưa to"
+    },
+    {
+        "Id": 226,
+        "Hanzi": "一串钥匙",
+        "Pinyin": "yí chuàn yàoshi",
+        "Meaning": "một chùm chìa khóa"
+    },
+    {
+        "Id": 227,
+        "Hanzi": "一朵花",
+        "Pinyin": "yì duǒ huā",
+        "Meaning": "một bông hoa"
+    },
+    {
+        "Id": 228,
+        "Hanzi": "一把伞",
+        "Pinyin": "yì bǎ sǎn",
+        "Meaning": "một chiếc ô"
+    },
+    {
+        "Id": 229,
+        "Hanzi": "一封信",
+        "Pinyin": "yì fēng xìn",
+        "Meaning": "một lá thư"
+    },
+    {
+        "Id": 230,
+        "Hanzi": "赏心悦目",
+        "Pinyin": "shǎngxīn yuèmù",
+        "Meaning": "sướng tai vui mắt"
+    },
+    {
+        "Id": 231,
+        "Hanzi": "流连忘返",
+        "Pinyin": "liúlián wàngfǎn",
+        "Meaning": "quên lối về (muốn nán lại)"
+    },
+    {
+        "Id": 232,
+        "Hanzi": "毫无疑问",
+        "Pinyin": "háo wú yíwèn",
+        "Meaning": "không còn nghi ngờ gì nữa"
+    },
+    {
+        "Id": 233,
+        "Hanzi": "谷歌",
+        "Pinyin": "Gǔgē",
+        "Meaning": "Google"
+    },
+    {
+        "Id": 234,
+        "Hanzi": "油管",
+        "Pinyin": "yóuguǎn",
+        "Meaning": "YouTube (khẩu ngữ)"
+    },
+    {
+        "Id": 235,
+        "Hanzi": "见底",
+        "Pinyin": "jiàn dǐ",
+        "Meaning": "uống cạn (thấy đáy ly)"
+    },
+    {
+        "Id": 236,
+        "Hanzi": "倒酒",
+        "Pinyin": "dàojiǔ",
+        "Meaning": "rót rượu"
+    },
+    {
+        "Id": 237,
+        "Hanzi": "不会喝酒",
+        "Pinyin": "bù huì hējiǔ",
+        "Meaning": "không biết uống (rượu)"
+    },
+    {
+        "Id": 238,
+        "Hanzi": "别说谎",
+        "Pinyin": "bié shuōhuǎng",
+        "Meaning": "đừng nói dối"
+    },
+    {
+        "Id": 239,
+        "Hanzi": "靠你了",
+        "Pinyin": "kào nǐ le",
+        "Meaning": "trông cậy vào bạn"
+    },
+    {
+        "Id": 240,
+        "Hanzi": "没礼貌",
+        "Pinyin": "méi lǐmào",
+        "Meaning": "mất lịch sự"
+    },
+    {
+        "Id": 241,
+        "Hanzi": "没做好",
+        "Pinyin": "méi zuò hǎo",
+        "Meaning": "làm chưa tốt"
+    },
+    {
+        "Id": 242,
+        "Hanzi": "没事干",
+        "Pinyin": "méi shì gàn",
+        "Meaning": "không có việc gì làm"
+    },
+    {
+        "Id": 243,
+        "Hanzi": "不满意",
+        "Pinyin": "bù mǎnyì",
+        "Meaning": "không hài lòng"
+    },
+    {
+        "Id": 244,
+        "Hanzi": "打架",
+        "Pinyin": "dǎjià",
+        "Meaning": "đánh nhau"
+    },
+    {
+        "Id": 245,
+        "Hanzi": "打字",
+        "Pinyin": "dǎzì",
+        "Meaning": "đánh chữ"
+    },
+    {
+        "Id": 246,
+        "Hanzi": "钱没了可以再挣",
+        "Pinyin": "qián méi le kěyǐ zài zhèng",
+        "Meaning": "tiền mất có thể kiếm lại"
+    },
+    {
+        "Id": 247,
+        "Hanzi": "你什么都不缺",
+        "Pinyin": "nǐ shénme dōu bù quē",
+        "Meaning": "bạn không thiếu thứ gì"
+    },
+    {
+        "Id": 248,
+        "Hanzi": "好好生活",
+        "Pinyin": "hǎo hǎo shēnghuó",
+        "Meaning": "hãy sống thật tốt"
+    },
+    {
+        "Id": 249,
+        "Hanzi": "你在吗",
+        "Pinyin": "nǐ zài ma",
+        "Meaning": "có đó không"
+    },
+    {
+        "Id": 250,
+        "Hanzi": "笨蛋",
+        "Pinyin": "bèndàn",
+        "Meaning": "đồ ngốc"
+    }
+]

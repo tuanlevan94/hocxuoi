@@ -1,0 +1,1502 @@
+[
+    {
+        "Id": 1,
+        "Hanzi": "撤出",
+        "Pinyin": "chèchū",
+        "Meaning": "rút khỏi; rút quân"
+    },
+    {
+        "Id": 2,
+        "Hanzi": "目标达不到",
+        "Pinyin": "mùbiāo dá bù dào",
+        "Meaning": "không đạt mục tiêu"
+    },
+    {
+        "Id": 3,
+        "Hanzi": "达到…就和平",
+        "Pinyin": "dá dào … jiù hépíng",
+        "Meaning": "đạt được … thì hoà bình"
+    },
+    {
+        "Id": 4,
+        "Hanzi": "枝节问题",
+        "Pinyin": "zhījié wèntí",
+        "Meaning": "vấn đề thứ yếu; chi tiết lặt vặt"
+    },
+    {
+        "Id": 5,
+        "Hanzi": "不影响大局",
+        "Pinyin": "bù yǐngxiǎng dàjú",
+        "Meaning": "không ảnh hưởng cục diện"
+    },
+    {
+        "Id": 6,
+        "Hanzi": "占领地区",
+        "Pinyin": "zhànlǐng dìqū",
+        "Meaning": "khu vực bị chiếm đóng"
+    },
+    {
+        "Id": 7,
+        "Hanzi": "还给",
+        "Pinyin": "huán gěi",
+        "Meaning": "trả lại cho"
+    },
+    {
+        "Id": 8,
+        "Hanzi": "愿意不愿意",
+        "Pinyin": "yuànyì bù yuànyì",
+        "Meaning": "có sẵn lòng hay không"
+    },
+    {
+        "Id": 9,
+        "Hanzi": "不会有好日子过",
+        "Pinyin": "bú huì yǒu hǎo rìzi guò",
+        "Meaning": "không có ngày tháng tốt đẹp"
+    },
+    {
+        "Id": 10,
+        "Hanzi": "毫无阻碍",
+        "Pinyin": "háo wú zǔ'ài",
+        "Meaning": "không hề bị cản trở"
+    },
+    {
+        "Id": 11,
+        "Hanzi": "直接管理",
+        "Pinyin": "zhíjiē guǎnlǐ",
+        "Meaning": "quản lý trực tiếp"
+    },
+    {
+        "Id": 12,
+        "Hanzi": "终极目的",
+        "Pinyin": "zhōngjí mùdì",
+        "Meaning": "mục tiêu\/đích cuối cùng"
+    },
+    {
+        "Id": 13,
+        "Hanzi": "占领",
+        "Pinyin": "zhànlǐng",
+        "Meaning": "chiếm đóng; chiếm lĩnh"
+    },
+    {
+        "Id": 14,
+        "Hanzi": "交出",
+        "Pinyin": "jiāochū",
+        "Meaning": "giao nộp; trao ra"
+    },
+    {
+        "Id": 15,
+        "Hanzi": "停不了",
+        "Pinyin": "tíng bù liǎo",
+        "Meaning": "không thể dừng lại"
+    },
+    {
+        "Id": 16,
+        "Hanzi": "回到…以前",
+        "Pinyin": "huídào … yǐqián",
+        "Meaning": "trở về … trước kia"
+    },
+    {
+        "Id": 17,
+        "Hanzi": "才会",
+        "Pinyin": "cái huì",
+        "Meaning": "lúc đó mới sẽ …"
+    },
+    {
+        "Id": 18,
+        "Hanzi": "缴械投降",
+        "Pinyin": "jiǎoxiè tóuxiáng",
+        "Meaning": "nộp vũ khí đầu hàng"
+    },
+    {
+        "Id": 19,
+        "Hanzi": "才有希望",
+        "Pinyin": "cái yǒu xīwàng",
+        "Meaning": "mới có hy vọng"
+    },
+    {
+        "Id": 20,
+        "Hanzi": "伊朗",
+        "Pinyin": "Yīlǎng",
+        "Meaning": "Iran"
+    },
+    {
+        "Id": 21,
+        "Hanzi": "也门",
+        "Pinyin": "Yěmén",
+        "Meaning": "Yemen"
+    },
+    {
+        "Id": 22,
+        "Hanzi": "叙利亚",
+        "Pinyin": "Xùlìyà",
+        "Meaning": "Syria"
+    },
+    {
+        "Id": 23,
+        "Hanzi": "问问",
+        "Pinyin": "wènwen",
+        "Meaning": "hỏi thử xem; hỏi cái đã (khẩu ngữ)"
+    },
+    {
+        "Id": 24,
+        "Hanzi": "当年",
+        "Pinyin": "dāngnián",
+        "Meaning": "năm ấy; thời đó"
+    },
+    {
+        "Id": 25,
+        "Hanzi": "伊拉克",
+        "Pinyin": "Yīlākè",
+        "Meaning": "Iraq"
+    },
+    {
+        "Id": 26,
+        "Hanzi": "面粉",
+        "Pinyin": "miànfěn",
+        "Meaning": "bột mì"
+    },
+    {
+        "Id": 27,
+        "Hanzi": "化学武器",
+        "Pinyin": "huàxué wǔqì",
+        "Meaning": "vũ khí hoá học"
+    },
+    {
+        "Id": 28,
+        "Hanzi": "证实",
+        "Pinyin": "zhèngshí",
+        "Meaning": "chứng thực; xác nhận"
+    },
+    {
+        "Id": 29,
+        "Hanzi": "洗衣粉",
+        "Pinyin": "xǐyīfěn",
+        "Meaning": "bột giặt"
+    },
+    {
+        "Id": 30,
+        "Hanzi": "国际法院",
+        "Pinyin": "guójì fǎyuàn",
+        "Meaning": "toà án quốc tế"
+    },
+    {
+        "Id": 31,
+        "Hanzi": "通缉",
+        "Pinyin": "tōngjī",
+        "Meaning": "truy nã; lệnh truy nã"
+    },
+    {
+        "Id": 32,
+        "Hanzi": "走出国门",
+        "Pinyin": "zǒu chū guómén",
+        "Meaning": "ra nước ngoài; bước ra khỏi biên giới"
+    },
+    {
+        "Id": 33,
+        "Hanzi": "秋后算账",
+        "Pinyin": "qiūhòu suànzhàng",
+        "Meaning": "đợi sau mới tính; ‘tính sổ’ sau này (thành ngữ)"
+    },
+    {
+        "Id": 34,
+        "Hanzi": "格局",
+        "Pinyin": "géjú",
+        "Meaning": "cục diện; tầm nhìn; ‘mindset’ (ẩn dụ)"
+    },
+    {
+        "Id": 35,
+        "Hanzi": "老天爷",
+        "Pinyin": "lǎotiānyé",
+        "Meaning": "ông trời (cách nói dân gian)"
+    },
+    {
+        "Id": 36,
+        "Hanzi": "救人质",
+        "Pinyin": "jiù rénzhì",
+        "Meaning": "cứu con tin"
+    },
+    {
+        "Id": 37,
+        "Hanzi": "连在一起",
+        "Pinyin": "lián zài yīqǐ",
+        "Meaning": "liên kết\/chắp nối với nhau"
+    },
+    {
+        "Id": 38,
+        "Hanzi": "放人",
+        "Pinyin": "fàng rén",
+        "Meaning": "thả người; trả người"
+    },
+    {
+        "Id": 39,
+        "Hanzi": "交出武器",
+        "Pinyin": "jiāochū wǔqì",
+        "Meaning": "giao nộp vũ khí"
+    },
+    {
+        "Id": 40,
+        "Hanzi": "不讲信用",
+        "Pinyin": "bù jiǎng xìnyòng",
+        "Meaning": "không giữ chữ tín; thất tín"
+    },
+    {
+        "Id": 41,
+        "Hanzi": "交出来",
+        "Pinyin": "jiāo chūlái",
+        "Meaning": "giao nộp\/trao ra; nộp lại"
+    },
+    {
+        "Id": 42,
+        "Hanzi": "交还人质",
+        "Pinyin": "jiāohuán rénzhì",
+        "Meaning": "trao trả con tin"
+    },
+    {
+        "Id": 43,
+        "Hanzi": "吐口水",
+        "Pinyin": "tǔ kǒushuǐ",
+        "Meaning": "nhổ\/khạc nhổ; nhổ nước bọt"
+    },
+    {
+        "Id": 44,
+        "Hanzi": "前仆后继",
+        "Pinyin": "qiánpū hòujì",
+        "Meaning": "lớp sau tiếp bước lớp trước (hết lớp này đến lớp khác)"
+    },
+    {
+        "Id": 45,
+        "Hanzi": "谈判",
+        "Pinyin": "tánpàn",
+        "Meaning": "đàm phán; thương lượng"
+    },
+    {
+        "Id": 46,
+        "Hanzi": "伤害平民",
+        "Pinyin": "shānghài píngmín",
+        "Meaning": "làm hại dân thường"
+    },
+    {
+        "Id": 47,
+        "Hanzi": "发动战争",
+        "Pinyin": "fādòng zhànzhēng",
+        "Meaning": "phát động chiến tranh"
+    },
+    {
+        "Id": 48,
+        "Hanzi": "历史的罪人",
+        "Pinyin": "lìshǐ de zuìrén",
+        "Meaning": "kẻ có tội với lịch sử"
+    },
+    {
+        "Id": 49,
+        "Hanzi": "立场与观点",
+        "Pinyin": "lìchǎng yǔ guāndiǎn",
+        "Meaning": "lập trường và quan điểm"
+    },
+    {
+        "Id": 50,
+        "Hanzi": "对…来说",
+        "Pinyin": "duì … láishuō",
+        "Meaning": "đối với… mà nói (cấu trúc đánh giá)"
+    },
+    {
+        "Id": 51,
+        "Hanzi": "不可信",
+        "Pinyin": "bù kěxìn",
+        "Meaning": "không đáng tin; không thể tin"
+    },
+    {
+        "Id": 52,
+        "Hanzi": "混进",
+        "Pinyin": "hùnjìn",
+        "Meaning": "lẫn vào; trà trộn vào"
+    },
+    {
+        "Id": 53,
+        "Hanzi": "出尔反尔",
+        "Pinyin": "chū ěr fǎn ěr",
+        "Meaning": "nuốt lời; tiền hậu bất nhất"
+    },
+    {
+        "Id": 54,
+        "Hanzi": "救回人质",
+        "Pinyin": "jiù huí rénzhì",
+        "Meaning": "giải cứu\/đưa con tin về"
+    },
+    {
+        "Id": 55,
+        "Hanzi": "挺搞笑",
+        "Pinyin": "tǐng gǎoxiào",
+        "Meaning": "khá buồn cười (mỉa mai)"
+    },
+    {
+        "Id": 56,
+        "Hanzi": "停战",
+        "Pinyin": "tíngzhàn",
+        "Meaning": "đình chiến; ngừng bắn (truce)"
+    },
+    {
+        "Id": 57,
+        "Hanzi": "逐步撤军",
+        "Pinyin": "zhúbù chèjūn",
+        "Meaning": "rút quân dần dần"
+    },
+    {
+        "Id": 58,
+        "Hanzi": "谈妥",
+        "Pinyin": "tán tuǒ",
+        "Meaning": "đàm phán xong xuôi; đạt được thoả thuận"
+    },
+    {
+        "Id": 59,
+        "Hanzi": "继续开火",
+        "Pinyin": "jìxù kāihuǒ",
+        "Meaning": "tiếp tục nổ súng; tiếp tục tấn công"
+    },
+    {
+        "Id": 60,
+        "Hanzi": "根据…协议",
+        "Pinyin": "gēnjù … xiéyì",
+        "Meaning": "căn cứ theo… thoả thuận"
+    },
+    {
+        "Id": 61,
+        "Hanzi": "治理体系",
+        "Pinyin": "zhìlǐ tǐxì",
+        "Meaning": "hệ thống\/cơ chế quản trị"
+    },
+    {
+        "Id": 62,
+        "Hanzi": "一切都会好",
+        "Pinyin": "yíqiè dōu huì hǎo",
+        "Meaning": "mọi chuyện sẽ ổn cả"
+    },
+    {
+        "Id": 63,
+        "Hanzi": "生来就是",
+        "Pinyin": "shēnglái jiù shì",
+        "Meaning": "sinh ra đã là…; vốn dĩ là…"
+    },
+    {
+        "Id": 64,
+        "Hanzi": "战争狂",
+        "Pinyin": "zhànzhēng kuáng",
+        "Meaning": "kẻ cuồng chiến; hiếu chiến"
+    },
+    {
+        "Id": 65,
+        "Hanzi": "承认输了",
+        "Pinyin": "chéngrèn shū le",
+        "Meaning": "thừa nhận thua cuộc"
+    },
+    {
+        "Id": 66,
+        "Hanzi": "筹码",
+        "Pinyin": "chóumǎ",
+        "Meaning": "con bài; đòn bẩy; lợi thế đàm phán"
+    },
+    {
+        "Id": 67,
+        "Hanzi": "卡塔尔",
+        "Pinyin": "Kǎtǎ'ěr",
+        "Meaning": "Qatar (Ca-ta)"
+    },
+    {
+        "Id": 68,
+        "Hanzi": "争斗 \/ 分歧",
+        "Pinyin": "zhēngdòu \/ fēnqí",
+        "Meaning": "tranh đấu \/ bất đồng"
+    },
+    {
+        "Id": 69,
+        "Hanzi": "团结 \/ 和谐",
+        "Pinyin": "tuánjié \/ héxié",
+        "Meaning": "đoàn kết \/ hoà hợp"
+    },
+    {
+        "Id": 70,
+        "Hanzi": "内部的武装 \/ 对岸",
+        "Pinyin": "nèibù de wǔzhuāng \/ duì’àn",
+        "Meaning": "vũ trang nội bộ \/ bờ bên kia"
+    },
+    {
+        "Id": 71,
+        "Hanzi": "根本没有用",
+        "Pinyin": "gēnběn méi yòng",
+        "Meaning": "hoàn toàn vô dụng; chẳng ích gì"
+    },
+    {
+        "Id": 72,
+        "Hanzi": "干掉",
+        "Pinyin": "gàn diào",
+        "Meaning": "hạ gục\/loại bỏ (khẩu ngữ, sắc thái mạnh)"
+    },
+    {
+        "Id": 73,
+        "Hanzi": "各个击破",
+        "Pinyin": "gègè jīpò",
+        "Meaning": "chia để trị; lần lượt tiêu diệt"
+    },
+    {
+        "Id": 74,
+        "Hanzi": "遥想当年",
+        "Pinyin": "yáoxiǎng dāngnián",
+        "Meaning": "nhớ lại năm xưa; ngẫm về thuở trước"
+    },
+    {
+        "Id": 75,
+        "Hanzi": "炮轰",
+        "Pinyin": "pàohōng",
+        "Meaning": "pháo kích; bắn phá"
+    },
+    {
+        "Id": 76,
+        "Hanzi": "瓦解",
+        "Pinyin": "wǎjiě",
+        "Meaning": "tan rã; sụp đổ"
+    },
+    {
+        "Id": 77,
+        "Hanzi": "唇亡齿寒",
+        "Pinyin": "chún wáng chǐ hán",
+        "Meaning": "môi hở răng lạnh (ý: quan hệ sống còn gắn bó)"
+    },
+    {
+        "Id": 78,
+        "Hanzi": "只是时间问题",
+        "Pinyin": "zhǐshì shíjiān wèntí",
+        "Meaning": "chỉ là vấn đề thời gian"
+    },
+    {
+        "Id": 79,
+        "Hanzi": "沉重打击",
+        "Pinyin": "chénzhòng dǎjī",
+        "Meaning": "đòn đánh nặng nề; trấn áp mạnh"
+    },
+    {
+        "Id": 80,
+        "Hanzi": "传唤",
+        "Pinyin": "chuánhuàn",
+        "Meaning": "triệu tập (pháp lý), tống đạt giấy hầu toà"
+    },
+    {
+        "Id": 81,
+        "Hanzi": "保护领土",
+        "Pinyin": "bǎohù lǐngtǔ",
+        "Meaning": "bảo vệ lãnh thổ"
+    },
+    {
+        "Id": 82,
+        "Hanzi": "看不明白",
+        "Pinyin": "kàn bu míngbai",
+        "Meaning": "không hiểu\/không nhìn ra vấn đề (khẩu ngữ)"
+    },
+    {
+        "Id": 83,
+        "Hanzi": "你死我活",
+        "Pinyin": "nǐ sǐ wǒ huó",
+        "Meaning": "(đúng chính tả) một mất một còn"
+    },
+    {
+        "Id": 84,
+        "Hanzi": "没什么道理可讲",
+        "Pinyin": "méi shénme dàolǐ kě jiǎng",
+        "Meaning": "không còn lý lẽ gì để nói"
+    },
+    {
+        "Id": 85,
+        "Hanzi": "啥也别说了",
+        "Pinyin": "shá yě bié shuō le",
+        "Meaning": "thôi khỏi nói nhiều; miễn bàn (khẩu ngữ)"
+    },
+    {
+        "Id": 86,
+        "Hanzi": "任何国家",
+        "Pinyin": "rènhé guójiā",
+        "Meaning": "bất kỳ quốc gia nào"
+    },
+    {
+        "Id": 87,
+        "Hanzi": "任何人",
+        "Pinyin": "rènhé rén",
+        "Meaning": "bất kỳ ai"
+    },
+    {
+        "Id": 88,
+        "Hanzi": "权力统一",
+        "Pinyin": "quánlì tǒngyī",
+        "Meaning": "thống nhất quyền lực"
+    },
+    {
+        "Id": 89,
+        "Hanzi": "交由…管理",
+        "Pinyin": "jiāoyóu … guǎnlǐ",
+        "Meaning": "giao cho … quản lý"
+    },
+    {
+        "Id": 90,
+        "Hanzi": "安心生活",
+        "Pinyin": "ānxīn shēnghuó",
+        "Meaning": "sống yên ổn; an cư"
+    },
+    {
+        "Id": 91,
+        "Hanzi": "狂轰乱炸",
+        "Pinyin": "kuánghōng luànzhà",
+        "Meaning": "oanh tạc bừa bãi; ném bom vô tội vạ"
+    },
+    {
+        "Id": 92,
+        "Hanzi": "不顾（…生命）",
+        "Pinyin": "bùgù (… shēngmìng)",
+        "Meaning": "bất chấp (tính mạng…)"
+    },
+    {
+        "Id": 93,
+        "Hanzi": "以…为借口",
+        "Pinyin": "yǐ … wéi jièkǒu",
+        "Meaning": "lấy … làm cái cớ"
+    },
+    {
+        "Id": 94,
+        "Hanzi": "和谈 \/ 停火",
+        "Pinyin": "hétán \/ tínghuǒ",
+        "Meaning": "hoà đàm \/ ngừng bắn"
+    },
+    {
+        "Id": 95,
+        "Hanzi": "解除军事武装",
+        "Pinyin": "jiěchú jūnshì wǔzhuāng",
+        "Meaning": "giải trừ vũ trang (mặt quân sự)"
+    },
+    {
+        "Id": 96,
+        "Hanzi": "当平民",
+        "Pinyin": "dāng píngmín",
+        "Meaning": "làm dân thường"
+    },
+    {
+        "Id": 97,
+        "Hanzi": "特朗普",
+        "Pinyin": "Tèlǎngpǔ",
+        "Meaning": "Trump (tên riêng)"
+    },
+    {
+        "Id": 98,
+        "Hanzi": "平冤",
+        "Pinyin": "píng yuān",
+        "Meaning": "giải oan; rửa oan"
+    },
+    {
+        "Id": 99,
+        "Hanzi": "违反",
+        "Pinyin": "wěifǎn",
+        "Meaning": "vi phạm (sai thường gặp: 违返)"
+    },
+    {
+        "Id": 100,
+        "Hanzi": "弹劾",
+        "Pinyin": "tánhé",
+        "Meaning": "luận tội; bãi nhiệm (impeachment)"
+    },
+    {
+        "Id": 101,
+        "Hanzi": "犹太民族主义",
+        "Pinyin": "Yóutài mínzú zhǔyì",
+        "Meaning": "chủ nghĩa dân tộc Do Thái"
+    },
+    {
+        "Id": 102,
+        "Hanzi": "言而无信",
+        "Pinyin": "yán ér wú xìn",
+        "Meaning": "nói mà không giữ lời; thất tín"
+    },
+    {
+        "Id": 103,
+        "Hanzi": "这一招",
+        "Pinyin": "zhè yì zhāo",
+        "Meaning": "chiêu này; nước cờ này"
+    },
+    {
+        "Id": 104,
+        "Hanzi": "一网打尽",
+        "Pinyin": "yī wǎng dǎ jìn",
+        "Meaning": "quét sạch một mẻ; tóm gọn"
+    },
+    {
+        "Id": 105,
+        "Hanzi": "艰难活着",
+        "Pinyin": "jiānnán huózhe",
+        "Meaning": "sống chật vật; sống lay lắt"
+    },
+    {
+        "Id": 106,
+        "Hanzi": "战争狂人",
+        "Pinyin": "zhànzhēng kuángrén",
+        "Meaning": "kẻ cuồng chiến; hiếu chiến"
+    },
+    {
+        "Id": 107,
+        "Hanzi": "诅咒",
+        "Pinyin": "zǔzhòu",
+        "Meaning": "nguyền rủa (viết sai thường: 主咒)"
+    },
+    {
+        "Id": 108,
+        "Hanzi": "最终结局",
+        "Pinyin": "zuìzhōng jiéjú",
+        "Meaning": "kết cục cuối cùng "
+    },
+    {
+        "Id": 109,
+        "Hanzi": "隐形的敌人",
+        "Pinyin": "yǐnxíng de dírén",
+        "Meaning": "kẻ thù vô hình"
+    },
+    {
+        "Id": 110,
+        "Hanzi": "国家安全部长",
+        "Pinyin": "guójiā ānquán bùzhǎng",
+        "Meaning": "Bộ trưởng An ninh Quốc gia"
+    },
+    {
+        "Id": 111,
+        "Hanzi": "接受采访",
+        "Pinyin": "jiēshòu cǎifǎng",
+        "Meaning": "nhận phỏng vấn; tham gia phỏng vấn"
+    },
+    {
+        "Id": 112,
+        "Hanzi": "美媒",
+        "Pinyin": "Měiméi",
+        "Meaning": "truyền thông Mỹ"
+    },
+    {
+        "Id": 113,
+        "Hanzi": "乌克兰",
+        "Pinyin": "Wūkèlán",
+        "Meaning": "Ucraina"
+    },
+    {
+        "Id": 114,
+        "Hanzi": "莫斯科",
+        "Pinyin": "Mòsīkē",
+        "Meaning": "Mát-xcơ-va"
+    },
+    {
+        "Id": 115,
+        "Hanzi": "北约",
+        "Pinyin": "Běiyuē",
+        "Meaning": "NATO"
+    },
+    {
+        "Id": 116,
+        "Hanzi": "战斧",
+        "Pinyin": "zhànfǔ",
+        "Meaning": "Tomahawk (tên lửa ‘Rìu chiến’)"
+    },
+    {
+        "Id": 117,
+        "Hanzi": "会谈",
+        "Pinyin": "huìtán",
+        "Meaning": "hội đàm; cuộc gặp"
+    },
+    {
+        "Id": 118,
+        "Hanzi": "会晤",
+        "Pinyin": "huìwù",
+        "Meaning": "hội kiến; gặp gỡ"
+    },
+    {
+        "Id": 119,
+        "Hanzi": "排除",
+        "Pinyin": "páichú",
+        "Meaning": "loại trừ; loại bỏ"
+    },
+    {
+        "Id": 120,
+        "Hanzi": "可能性",
+        "Pinyin": "kěnéngxìng",
+        "Meaning": "khả năng; tính khả dĩ"
+    },
+    {
+        "Id": 121,
+        "Hanzi": "调门",
+        "Pinyin": "diàomén",
+        "Meaning": "giọng điệu (ẩn dụ: mức độ cứng\/mềm)"
+    },
+    {
+        "Id": 122,
+        "Hanzi": "大量",
+        "Pinyin": "dàliàng",
+        "Meaning": "số lượng lớn"
+    },
+    {
+        "Id": 123,
+        "Hanzi": "换取",
+        "Pinyin": "huànqǔ",
+        "Meaning": "đổi lấy; trao đổi lấy"
+    },
+    {
+        "Id": 124,
+        "Hanzi": "最新",
+        "Pinyin": "zuìxīn",
+        "Meaning": "mới nhất; cập nhật nhất"
+    },
+    {
+        "Id": 125,
+        "Hanzi": "告知",
+        "Pinyin": "gàozhī",
+        "Meaning": "thông báo; cho biết"
+    },
+    {
+        "Id": 126,
+        "Hanzi": "射程",
+        "Pinyin": "shèchéng",
+        "Meaning": "tầm bắn; tầm bắn hiệu quả"
+    },
+    {
+        "Id": 127,
+        "Hanzi": "覆盖",
+        "Pinyin": "fùgài",
+        "Meaning": "bao phủ; phủ sóng tới"
+    },
+    {
+        "Id": 128,
+        "Hanzi": "外交",
+        "Pinyin": "wàijiāo",
+        "Meaning": "ngoại giao"
+    },
+    {
+        "Id": 129,
+        "Hanzi": "号称",
+        "Pinyin": "hàochēng",
+        "Meaning": "xưng là; cho là"
+    },
+    {
+        "Id": 130,
+        "Hanzi": "打赢",
+        "Pinyin": "dǎyíng",
+        "Meaning": "đánh thắng"
+    },
+    {
+        "Id": 131,
+        "Hanzi": "十几个",
+        "Pinyin": "shí jǐ gè",
+        "Meaning": "mười mấy; hơn chục"
+    },
+    {
+        "Id": 132,
+        "Hanzi": "战场",
+        "Pinyin": "zhànchǎng",
+        "Meaning": "chiến trường"
+    },
+    {
+        "Id": 133,
+        "Hanzi": "指挥",
+        "Pinyin": "zhǐhuī",
+        "Meaning": "chỉ huy"
+    },
+    {
+        "Id": 134,
+        "Hanzi": "独霸",
+        "Pinyin": "dúbà",
+        "Meaning": "độc bá; thống trị một mình"
+    },
+    {
+        "Id": 135,
+        "Hanzi": "核弹",
+        "Pinyin": "hédàn",
+        "Meaning": "bom hạt nhân"
+    },
+    {
+        "Id": 136,
+        "Hanzi": "深陷",
+        "Pinyin": "shēnxiàn",
+        "Meaning": "sa lầy sâu; mắc kẹt sâu"
+    },
+    {
+        "Id": 137,
+        "Hanzi": "泥潭",
+        "Pinyin": "nítán",
+        "Meaning": "vũng lầy (bóng: thế bí)"
+    },
+    {
+        "Id": 138,
+        "Hanzi": "战到底",
+        "Pinyin": "zhàn dào dǐ",
+        "Meaning": "đánh đến cùng (khẩu ngữ)"
+    },
+    {
+        "Id": 139,
+        "Hanzi": "何必",
+        "Pinyin": "hébì",
+        "Meaning": "hà tất; cần gì phải"
+    },
+    {
+        "Id": 140,
+        "Hanzi": "挑拨离间",
+        "Pinyin": "tiǎobō líjiàn",
+        "Meaning": "ly gián; chia rẽ"
+    },
+    {
+        "Id": 141,
+        "Hanzi": "网络用语：666",
+        "Pinyin": "liù liù liù",
+        "Meaning": "‘đỉnh quá!’ (tiếng lóng mạng TQ)"
+    },
+    {
+        "Id": 142,
+        "Hanzi": "阿拉伯",
+        "Pinyin": "Ālābó",
+        "Meaning": "Ả Rập"
+    },
+    {
+        "Id": 143,
+        "Hanzi": "衰弱",
+        "Pinyin": "shuāiruò",
+        "Meaning": "suy yếu; yếu đi"
+    },
+    {
+        "Id": 144,
+        "Hanzi": "自身",
+        "Pinyin": "zìshēn",
+        "Meaning": "bản thân; tự thân"
+    },
+    {
+        "Id": 145,
+        "Hanzi": "难保",
+        "Pinyin": "nánbǎo",
+        "Meaning": "khó giữ nổi; khó đảm bảo"
+    },
+    {
+        "Id": 146,
+        "Hanzi": "美式",
+        "Pinyin": "Měishì",
+        "Meaning": "kiểu Mỹ; phong cách Mỹ"
+    },
+    {
+        "Id": 147,
+        "Hanzi": "闹剧",
+        "Pinyin": "nàojù",
+        "Meaning": "trò hề; hí kịch lố bịch"
+    },
+    {
+        "Id": 148,
+        "Hanzi": "千千万",
+        "Pinyin": "qiānqiānwàn",
+        "Meaning": "hàng nghìn hàng vạn; vô số"
+    },
+    {
+        "Id": 149,
+        "Hanzi": "儿戏",
+        "Pinyin": "érxì",
+        "Meaning": "trò trẻ con; xem nhẹ"
+    },
+    {
+        "Id": 150,
+        "Hanzi": "托付",
+        "Pinyin": "tuōfù",
+        "Meaning": "ký thác; uỷ thác; giao phó"
+    },
+    {
+        "Id": 151,
+        "Hanzi": "重任",
+        "Pinyin": "zhòngrèn",
+        "Meaning": "trọng trách"
+    },
+    {
+        "Id": 152,
+        "Hanzi": "门都没有",
+        "Pinyin": "mén dōu méiyǒu",
+        "Meaning": "đừng hòng; không có cửa"
+    },
+    {
+        "Id": 153,
+        "Hanzi": "攻打",
+        "Pinyin": "gōngdǎ",
+        "Meaning": "tấn công (đánh)"
+    },
+    {
+        "Id": 154,
+        "Hanzi": "攻击",
+        "Pinyin": "gōngjī",
+        "Meaning": "công kích; tấn công"
+    },
+    {
+        "Id": 155,
+        "Hanzi": "想得美",
+        "Pinyin": "xiǎng de měi",
+        "Meaning": "mơ đẹp; mơ tưởng (mỉa)"
+    },
+    {
+        "Id": 156,
+        "Hanzi": "想多了（口）",
+        "Pinyin": "xiǎng duō le",
+        "Meaning": "nghĩ nhiều rồi; ảo tưởng rồi"
+    },
+    {
+        "Id": 157,
+        "Hanzi": "先进",
+        "Pinyin": "xiānjìn",
+        "Meaning": "tiên tiến"
+    },
+    {
+        "Id": 158,
+        "Hanzi": "狠狠",
+        "Pinyin": "hěnhěn",
+        "Meaning": "rất mạnh tay; dữ dội"
+    },
+    {
+        "Id": 159,
+        "Hanzi": "更加",
+        "Pinyin": "gèngjiā",
+        "Meaning": "càng hơn; hơn nữa"
+    },
+    {
+        "Id": 160,
+        "Hanzi": "状况",
+        "Pinyin": "zhuàngkuàng",
+        "Meaning": "tình trạng; tình hình"
+    },
+    {
+        "Id": 161,
+        "Hanzi": "无知",
+        "Pinyin": "wúzhī",
+        "Meaning": "vô tri; thiếu hiểu biết"
+    },
+    {
+        "Id": 162,
+        "Hanzi": "画大饼（比喻）",
+        "Pinyin": "huà dàbǐng",
+        "Meaning": "vẽ ‘bánh vẽ’; hứa hẹn suông"
+    },
+    {
+        "Id": 163,
+        "Hanzi": "美西方",
+        "Pinyin": "Měi Xīfāng",
+        "Meaning": "Mỹ và phương Tây"
+    },
+    {
+        "Id": 164,
+        "Hanzi": "搞懂",
+        "Pinyin": "gǎo dǒng",
+        "Meaning": "hiểu tường tận; nắm rõ"
+    },
+    {
+        "Id": 165,
+        "Hanzi": "国际事务",
+        "Pinyin": "guójì shìwù",
+        "Meaning": "công việc quốc tế"
+    },
+    {
+        "Id": 166,
+        "Hanzi": "衣着",
+        "Pinyin": "yīzhuó",
+        "Meaning": "y phục; cách ăn mặc"
+    },
+    {
+        "Id": 167,
+        "Hanzi": "不似",
+        "Pinyin": "bù sì",
+        "Meaning": "không giống như"
+    },
+    {
+        "Id": 168,
+        "Hanzi": "邋遢",
+        "Pinyin": "lāta",
+        "Meaning": "nhếch nhác; luộm thuộm"
+    },
+    {
+        "Id": 169,
+        "Hanzi": "眼里",
+        "Pinyin": "yǎnlǐ",
+        "Meaning": "trong mắt (ai đó)"
+    },
+    {
+        "Id": 170,
+        "Hanzi": "还不如",
+        "Pinyin": "hái bùrú",
+        "Meaning": "còn chẳng bằng; thà rằng"
+    },
+    {
+        "Id": 171,
+        "Hanzi": "智慧",
+        "Pinyin": "zhìhuì",
+        "Meaning": "trí tuệ"
+    },
+    {
+        "Id": 172,
+        "Hanzi": "趣味",
+        "Pinyin": "qùwèi",
+        "Meaning": "thú vị; hứng vị"
+    },
+    {
+        "Id": 173,
+        "Hanzi": "让步",
+        "Pinyin": "ràngbù",
+        "Meaning": "nhượng bộ"
+    },
+    {
+        "Id": 174,
+        "Hanzi": "做出",
+        "Pinyin": "zuòchū",
+        "Meaning": "đưa ra; tạo ra (hành động\/kết quả)"
+    },
+    {
+        "Id": 175,
+        "Hanzi": "局势",
+        "Pinyin": "júshì",
+        "Meaning": "cục diện; tình hình"
+    },
+    {
+        "Id": 176,
+        "Hanzi": "妥协",
+        "Pinyin": "tuǒxié",
+        "Meaning": "thoả hiệp; nhượng bộ"
+    },
+    {
+        "Id": 177,
+        "Hanzi": "割让",
+        "Pinyin": "gēràng",
+        "Meaning": "nhượng (lãnh thổ)"
+    },
+    {
+        "Id": 178,
+        "Hanzi": "当政者",
+        "Pinyin": "dāngzhèngzhě",
+        "Meaning": "người cầm quyền; đương chức"
+    },
+    {
+        "Id": 179,
+        "Hanzi": "千古骂名",
+        "Pinyin": "qiāngǔ màmíng",
+        "Meaning": "tiếng xấu nghìn đời"
+    },
+    {
+        "Id": 180,
+        "Hanzi": "打下",
+        "Pinyin": "dǎxià",
+        "Meaning": "đánh chiếm được; chiếm lấy"
+    },
+    {
+        "Id": 181,
+        "Hanzi": "绝不会",
+        "Pinyin": "jué bú huì",
+        "Meaning": "tuyệt đối sẽ không"
+    },
+    {
+        "Id": 182,
+        "Hanzi": "堵死",
+        "Pinyin": "dǔsǐ",
+        "Meaning": "chặn đứng hoàn toàn; bít lối"
+    },
+    {
+        "Id": 183,
+        "Hanzi": "建立",
+        "Pinyin": "jiànlì",
+        "Meaning": "thiết lập; xây dựng"
+    },
+    {
+        "Id": 184,
+        "Hanzi": "傀儡政权",
+        "Pinyin": "kuǐlěi zhèngquán",
+        "Meaning": "chính quyền bù nhìn"
+    },
+    {
+        "Id": 185,
+        "Hanzi": "打不动",
+        "Pinyin": "dǎ bu dòng",
+        "Meaning": "không đánh nổi; không còn sức đánh"
+    },
+    {
+        "Id": 186,
+        "Hanzi": "内乱",
+        "Pinyin": "nèiluàn",
+        "Meaning": "nội loạn; rối ren trong nước"
+    },
+    {
+        "Id": 187,
+        "Hanzi": "分崩离析",
+        "Pinyin": "fēnbēng líxī",
+        "Meaning": "tan rã; chia năm xẻ bảy (thành ngữ)"
+    },
+    {
+        "Id": 188,
+        "Hanzi": "掌控",
+        "Pinyin": "zhǎngkòng",
+        "Meaning": "kiểm soát; nắm quyền"
+    },
+    {
+        "Id": 189,
+        "Hanzi": "不利",
+        "Pinyin": "bùlì",
+        "Meaning": "bất lợi; không có lợi"
+    },
+    {
+        "Id": 190,
+        "Hanzi": "补给",
+        "Pinyin": "bǔjǐ",
+        "Meaning": "tiếp tế; hậu cần"
+    },
+    {
+        "Id": 191,
+        "Hanzi": "发动",
+        "Pinyin": "fādòng",
+        "Meaning": "phát động; khởi động"
+    },
+    {
+        "Id": 192,
+        "Hanzi": "反攻",
+        "Pinyin": "fǎngōng",
+        "Meaning": "phản công (sửa lỗi: 反功→反攻)"
+    },
+    {
+        "Id": 193,
+        "Hanzi": "无结果",
+        "Pinyin": "wú jiéguǒ",
+        "Meaning": "không có kết quả; vô vọng"
+    },
+    {
+        "Id": 194,
+        "Hanzi": "由此可见",
+        "Pinyin": "yóucǐ kějiàn",
+        "Meaning": "từ đây có thể thấy; do đó suy ra"
+    },
+    {
+        "Id": 195,
+        "Hanzi": "销毁",
+        "Pinyin": "xiāohuǐ",
+        "Meaning": "tiêu huỷ; phá huỷ (đúng chính tả)"
+    },
+    {
+        "Id": 196,
+        "Hanzi": "核武器",
+        "Pinyin": "hé wǔqì",
+        "Meaning": "vũ khí hạt nhân"
+    },
+    {
+        "Id": 197,
+        "Hanzi": "安全保障",
+        "Pinyin": "ānquán bǎozhàng",
+        "Meaning": "bảo đảm an ninh; đảm bảo an toàn"
+    },
+    {
+        "Id": 198,
+        "Hanzi": "吞噬",
+        "Pinyin": "tūnshì",
+        "Meaning": "nuốt chửng; thôn tính"
+    },
+    {
+        "Id": 199,
+        "Hanzi": "必然",
+        "Pinyin": "bìrán",
+        "Meaning": "tất yếu; ắt hẳn"
+    },
+    {
+        "Id": 200,
+        "Hanzi": "拥有",
+        "Pinyin": "yōngyǒu",
+        "Meaning": "sở hữu; có"
+    },
+    {
+        "Id": 201,
+        "Hanzi": "定局",
+        "Pinyin": "dìngjú",
+        "Meaning": "cục diện đã định; an bài xong"
+    },
+    {
+        "Id": 202,
+        "Hanzi": "普京",
+        "Pinyin": "Pǔjīng",
+        "Meaning": "Putin (tên riêng)"
+    },
+    {
+        "Id": 203,
+        "Hanzi": "占优势",
+        "Pinyin": "zhàn yōushì",
+        "Meaning": "chiếm ưu thế"
+    },
+    {
+        "Id": 204,
+        "Hanzi": "低调",
+        "Pinyin": "dīdiào",
+        "Meaning": "kín tiếng; khiêm tốn (low‑key)"
+    },
+    {
+        "Id": 205,
+        "Hanzi": "威慑",
+        "Pinyin": "wēishè",
+        "Meaning": "răn đe; răn nạt"
+    },
+    {
+        "Id": 206,
+        "Hanzi": "大麻烦",
+        "Pinyin": "dà máfan",
+        "Meaning": "rắc rối lớn"
+    },
+    {
+        "Id": 207,
+        "Hanzi": "真金白银",
+        "Pinyin": "zhēnjīn báiyín",
+        "Meaning": "tiền bạc thật; tiền tươi thóc thật"
+    },
+    {
+        "Id": 208,
+        "Hanzi": "撕扯",
+        "Pinyin": "sīchě",
+        "Meaning": "giằng co; kéo co; ‘đấu khẩu’"
+    },
+    {
+        "Id": 209,
+        "Hanzi": "免不了",
+        "Pinyin": "miǎnbùliǎo",
+        "Meaning": "khó tránh; không tránh khỏi"
+    },
+    {
+        "Id": 210,
+        "Hanzi": "各方",
+        "Pinyin": "gèfāng",
+        "Meaning": "các bên; mọi phía"
+    },
+    {
+        "Id": 211,
+        "Hanzi": "克制",
+        "Pinyin": "kèzhì",
+        "Meaning": "kiềm chế; tự chế"
+    },
+    {
+        "Id": 212,
+        "Hanzi": "不可或缺",
+        "Pinyin": "bùkě huòquē",
+        "Meaning": "không thể thiếu; tất yếu"
+    },
+    {
+        "Id": 213,
+        "Hanzi": "客观",
+        "Pinyin": "kèguān",
+        "Meaning": "khách quan"
+    },
+    {
+        "Id": 214,
+        "Hanzi": "双方",
+        "Pinyin": "shuāngfāng",
+        "Meaning": "song phương; hai bên"
+    },
+    {
+        "Id": 215,
+        "Hanzi": "精疲力竭",
+        "Pinyin": "jīngpí lìjié",
+        "Meaning": "kiệt sức; kiệt quệ"
+    },
+    {
+        "Id": 216,
+        "Hanzi": "无休止",
+        "Pinyin": "wúxiūzhǐ",
+        "Meaning": "không ngừng; không dứt"
+    },
+    {
+        "Id": 217,
+        "Hanzi": "失血",
+        "Pinyin": "shīxuè",
+        "Meaning": "mất máu (bóng and đen)"
+    },
+    {
+        "Id": 218,
+        "Hanzi": "要价",
+        "Pinyin": "yàojià",
+        "Meaning": "ra giá; đưa yêu sách"
+    },
+    {
+        "Id": 219,
+        "Hanzi": "不切实际",
+        "Pinyin": "bù qiè shíjì",
+        "Meaning": "phi thực tế; viễn vông"
+    },
+    {
+        "Id": 220,
+        "Hanzi": "止战",
+        "Pinyin": "zhǐzhàn",
+        "Meaning": "chấm dứt chiến tranh; chỉ chiến"
+    },
+    {
+        "Id": 221,
+        "Hanzi": "难实现",
+        "Pinyin": "nán shíxiàn",
+        "Meaning": "khó thực hiện"
+    },
+    {
+        "Id": 222,
+        "Hanzi": "外溢",
+        "Pinyin": "wàiyì",
+        "Meaning": "tràn ra; lan toả (spillover)"
+    },
+    {
+        "Id": 223,
+        "Hanzi": "无辜",
+        "Pinyin": "wúgū",
+        "Meaning": "vô tội; không can hệ"
+    },
+    {
+        "Id": 224,
+        "Hanzi": "浩劫",
+        "Pinyin": "hàojié",
+        "Meaning": "đại hoạ; đại nạn"
+    },
+    {
+        "Id": 225,
+        "Hanzi": "说到底",
+        "Pinyin": "shuō dàodǐ",
+        "Meaning": "suy cho cùng; rốt cuộc"
+    },
+    {
+        "Id": 226,
+        "Hanzi": "这场",
+        "Pinyin": "zhè chǎng",
+        "Meaning": "trận (này); cuộc (này)"
+    },
+    {
+        "Id": 227,
+        "Hanzi": "那么久",
+        "Pinyin": "nàme jiǔ",
+        "Meaning": "lâu như vậy"
+    },
+    {
+        "Id": 228,
+        "Hanzi": "赢家",
+        "Pinyin": "yíngjiā",
+        "Meaning": "người thắng cuộc"
+    },
+    {
+        "Id": 229,
+        "Hanzi": "人类文明",
+        "Pinyin": "rénlèi wénmíng",
+        "Meaning": "văn minh nhân loại"
+    },
+    {
+        "Id": 230,
+        "Hanzi": "远离",
+        "Pinyin": "yuǎnlí",
+        "Meaning": "xa rời; tránh xa"
+    },
+    {
+        "Id": 231,
+        "Hanzi": "曲折",
+        "Pinyin": "qūzhé",
+        "Meaning": "khúc khuỷu; quanh co (bóng: trắc trở)"
+    },
+    {
+        "Id": 232,
+        "Hanzi": "误解",
+        "Pinyin": "wùjiě",
+        "Meaning": "hiểu lầm; ngộ nhận"
+    },
+    {
+        "Id": 233,
+        "Hanzi": "加强",
+        "Pinyin": "jiāqiáng",
+        "Meaning": "tăng cường; đẩy mạnh"
+    },
+    {
+        "Id": 234,
+        "Hanzi": "对话",
+        "Pinyin": "duìhuà",
+        "Meaning": "đối thoại; trò chuyện"
+    },
+    {
+        "Id": 235,
+        "Hanzi": "合作共赢",
+        "Pinyin": "hézuò gòngyíng",
+        "Meaning": "hợp tác cùng thắng"
+    },
+    {
+        "Id": 236,
+        "Hanzi": "处事",
+        "Pinyin": "chǔshì",
+        "Meaning": "xử sự; xử thế; làm việc"
+    },
+    {
+        "Id": 237,
+        "Hanzi": "古巴",
+        "Pinyin": "Gǔbā",
+        "Meaning": "Cuba"
+    },
+    {
+        "Id": 238,
+        "Hanzi": "美帝国主义",
+        "Pinyin": "Měi dìguó zhǔyì",
+        "Meaning": "chủ nghĩa đế quốc Mỹ"
+    },
+    {
+        "Id": 239,
+        "Hanzi": "战斧导弹",
+        "Pinyin": "zhànfǔ dǎodàn",
+        "Meaning": "tên lửa Tomahawk"
+    },
+    {
+        "Id": 240,
+        "Hanzi": "导弹基地",
+        "Pinyin": "dǎodàn jīdì",
+        "Meaning": "căn cứ tên lửa"
+    },
+    {
+        "Id": 241,
+        "Hanzi": "瞄准",
+        "Pinyin": "miáozhǔn",
+        "Meaning": "nhắm; ngắm mục tiêu"
+    },
+    {
+        "Id": 242,
+        "Hanzi": "帝国主义",
+        "Pinyin": "dìguó zhǔyì",
+        "Meaning": "chủ nghĩa đế quốc"
+    },
+    {
+        "Id": 243,
+        "Hanzi": "开打",
+        "Pinyin": "kāidǎ",
+        "Meaning": "khai chiến; bắt đầu đánh"
+    },
+    {
+        "Id": 244,
+        "Hanzi": "估算",
+        "Pinyin": "gūsuàn",
+        "Meaning": "ước tính; dự tính"
+    },
+    {
+        "Id": 245,
+        "Hanzi": "后果",
+        "Pinyin": "hòuguǒ",
+        "Meaning": "hậu quả; hệ luỵ"
+    },
+    {
+        "Id": 246,
+        "Hanzi": "缓兵之计",
+        "Pinyin": "huǎnbīng zhī jì",
+        "Meaning": "kế hoãn binh; câu giờ"
+    },
+    {
+        "Id": 247,
+        "Hanzi": "喘息",
+        "Pinyin": "chuǎnxī",
+        "Meaning": "thở dốc; tạm nghỉ (bóng)"
+    },
+    {
+        "Id": 248,
+        "Hanzi": "战无不胜",
+        "Pinyin": "zhàn wú bù shèng",
+        "Meaning": "đánh đâu thắng đó; vô địch"
+    },
+    {
+        "Id": 249,
+        "Hanzi": "后续",
+        "Pinyin": "hòuxù",
+        "Meaning": "tiếp nối; về sau"
+    },
+    {
+        "Id": 250,
+        "Hanzi": "毁灭性",
+        "Pinyin": "huǐmièxìng",
+        "Meaning": "mang tính hủy diệt"
+    }
+]
