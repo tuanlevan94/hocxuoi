@@ -37,3 +37,12 @@ main { padding:24px; max-width:1100px; margin:auto; }
   .hanzi{ font-size:48px; padding:24px; }
   .hint{ font-size:20px; }
 }
+
+.timer{
+  padding:8px 12px;
+  background:#eef6ff;
+  border:1px solid #d7eaff;
+  border-radius:12px;
+  font-weight:700;
+  font-variant-numeric: tabular-nums;
+}
