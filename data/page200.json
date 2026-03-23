@@ -1,0 +1,282 @@
+[
+    {
+        "id": 1,
+        "hanzi": "ㅏ",
+        "pinyin": "a",
+        "meaning": "a",
+        "example": "Tên gọi: 아"
+    },
+    {
+        "id": 2,
+        "hanzi": "ㅑ",
+        "pinyin": "ya",
+        "meaning": "ya",
+        "example": "Tên gọi: 야"
+    },
+    {
+        "id": 3,
+        "hanzi": "ㅓ",
+        "pinyin": "eo",
+        "meaning": "ơ",
+        "example": "Tên gọi: 어"
+    },
+    {
+        "id": 4,
+        "hanzi": "ㅕ",
+        "pinyin": "yeo",
+        "meaning": "yơ",
+        "example": "Tên gọi: 여"
+    },
+    {
+        "id": 5,
+        "hanzi": "ㅗ",
+        "pinyin": "o",
+        "meaning": "ô",
+        "example": "Tên gọi: 오"
+    },
+    {
+        "id": 6,
+        "hanzi": "ㅛ",
+        "pinyin": "yo",
+        "meaning": "yô",
+        "example": "Tên gọi: 요"
+    },
+    {
+        "id": 7,
+        "hanzi": "ㅜ",
+        "pinyin": "u",
+        "meaning": "u",
+        "example": "Tên gọi: 우"
+    },
+    {
+        "id": 8,
+        "hanzi": "ㅠ",
+        "pinyin": "yu",
+        "meaning": "yu",
+        "example": "Tên gọi: 유"
+    },
+    {
+        "id": 9,
+        "hanzi": "ㅡ",
+        "pinyin": "eu",
+        "meaning": "ư",
+        "example": "Tên gọi: 으"
+    },
+    {
+        "id": 10,
+        "hanzi": "ㅣ",
+        "pinyin": "i",
+        "meaning": "i",
+        "example": "Tên gọi: 이"
+    },
+    {
+        "id": 11,
+        "hanzi": "ㅐ",
+        "pinyin": "ae",
+        "meaning": "e",
+        "example": "Tên gọi: 애"
+    },
+    {
+        "id": 12,
+        "hanzi": "ㅒ",
+        "pinyin": "yae",
+        "meaning": "ye",
+        "example": "Tên gọi: 얘"
+    },
+    {
+        "id": 13,
+        "hanzi": "ㅔ",
+        "pinyin": "e",
+        "meaning": "ê",
+        "example": "Tên gọi: 에"
+    },
+    {
+        "id": 14,
+        "hanzi": "ㅖ",
+        "pinyin": "ye",
+        "meaning": "yê",
+        "example": "Tên gọi: 예"
+    },
+    {
+        "id": 15,
+        "hanzi": "ㅘ",
+        "pinyin": "wa",
+        "meaning": "oa",
+        "example": "Tên gọi: 와"
+    },
+    {
+        "id": 16,
+        "hanzi": "ㅙ",
+        "pinyin": "wae",
+        "meaning": "uê \/ oe",
+        "example": "Tên gọi: 왜"
+    },
+    {
+        "id": 17,
+        "hanzi": "ㅚ",
+        "pinyin": "oe",
+        "meaning": "uê \/ oê",
+        "example": "Tên gọi: 외"
+    },
+    {
+        "id": 18,
+        "hanzi": "ㅝ",
+        "pinyin": "wo",
+        "meaning": "uơ",
+        "example": "Tên gọi: 워"
+    },
+    {
+        "id": 19,
+        "hanzi": "ㅞ",
+        "pinyin": "we",
+        "meaning": "uê",
+        "example": "Tên gọi: 웨"
+    },
+    {
+        "id": 20,
+        "hanzi": "ㅟ",
+        "pinyin": "wi",
+        "meaning": "uy",
+        "example": "Tên gọi: 위"
+    },
+    {
+        "id": 21,
+        "hanzi": "ㅢ",
+        "pinyin": "ui",
+        "meaning": "ui",
+        "example": "Tên gọi: 의"
+    },
+    {
+        "id": 22,
+        "hanzi": "ㄱ",
+        "pinyin": "g \/ k",
+        "meaning": "c, g",
+        "example": "Tên gọi: 기역"
+    },
+    {
+        "id": 23,
+        "hanzi": "ㄴ",
+        "pinyin": "n",
+        "meaning": "n",
+        "example": "Tên gọi: 니은"
+    },
+    {
+        "id": 24,
+        "hanzi": "ㄷ",
+        "pinyin": "d \/ t",
+        "meaning": "t, đ",
+        "example": "Tên gọi: 디귿"
+    },
+    {
+        "id": 25,
+        "hanzi": "ㄹ",
+        "pinyin": "r \/ l",
+        "meaning": "r, l",
+        "example": "Tên gọi: 리을"
+    },
+    {
+        "id": 26,
+        "hanzi": "ㅁ",
+        "pinyin": "m",
+        "meaning": "m",
+        "example": "Tên gọi: 미음"
+    },
+    {
+        "id": 27,
+        "hanzi": "ㅂ",
+        "pinyin": "b \/ p",
+        "meaning": "b, p",
+        "example": "Tên gọi: 비읍"
+    },
+    {
+        "id": 28,
+        "hanzi": "ㅅ",
+        "pinyin": "s",
+        "meaning": "x \/ sh",
+        "example": "Tên gọi: 시옷"
+    },
+    {
+        "id": 29,
+        "hanzi": "ㅇ",
+        "pinyin": "ng \/ silent",
+        "meaning": "ng (cuối), câm (đầu)",
+        "example": "Tên gọi: 이응"
+    },
+    {
+        "id": 30,
+        "hanzi": "ㅈ",
+        "pinyin": "j",
+        "meaning": "ch",
+        "example": "Tên gọi: 지읒"
+    },
+    {
+        "id": 31,
+        "hanzi": "ㅊ",
+        "pinyin": "ch",
+        "meaning": "ch bật hơi",
+        "example": "Tên gọi: 치읓"
+    },
+    {
+        "id": 32,
+        "hanzi": "ㅋ",
+        "pinyin": "k",
+        "meaning": "kh",
+        "example": "Tên gọi: 키읔"
+    },
+    {
+        "id": 33,
+        "hanzi": "ㅌ",
+        "pinyin": "t",
+        "meaning": "th",
+        "example": "Tên gọi: 티읕"
+    },
+    {
+        "id": 34,
+        "hanzi": "ㅍ",
+        "pinyin": "p",
+        "meaning": "ph",
+        "example": "Tên gọi: 피읖"
+    },
+    {
+        "id": 35,
+        "hanzi": "ㅎ",
+        "pinyin": "h",
+        "meaning": "h",
+        "example": "Tên gọi: 히읗"
+    },
+    {
+        "id": 36,
+        "hanzi": "ㄲ",
+        "pinyin": "kk",
+        "meaning": "k căng",
+        "example": "Tên gọi: 쌍기역"
+    },
+    {
+        "id": 37,
+        "hanzi": "ㄸ",
+        "pinyin": "tt",
+        "meaning": "t căng",
+        "example": "Tên gọi: 쌍디귿"
+    },
+    {
+        "id": 38,
+        "hanzi": "ㅃ",
+        "pinyin": "pp",
+        "meaning": "p căng",
+        "example": "Tên gọi: 쌍비읍"
+    },
+    {
+        "id": 39,
+        "hanzi": "ㅆ",
+        "pinyin": "ss",
+        "meaning": "s căng",
+        "example": "Tên gọi: 쌍시옷"
+    },
+    {
+        "id": 40,
+        "hanzi": "ㅉ",
+        "pinyin": "jj",
+        "meaning": "ch căng",
+        "example": "Tên gọi: 쌍지읒"
+    }
+]

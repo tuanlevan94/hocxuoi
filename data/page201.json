@@ -1,0 +1,488 @@
+[
+    {
+        "id": 1,
+        "hanzi": "오이",
+        "pinyin": "oi",
+        "meaning": "dưa chuột"
+    },
+    {
+        "id": 2,
+        "hanzi": "우유",
+        "pinyin": "uyu",
+        "meaning": "sữa"
+    },
+    {
+        "id": 3,
+        "hanzi": "모자",
+        "pinyin": "moja",
+        "meaning": "mũ"
+    },
+    {
+        "id": 4,
+        "hanzi": "바지",
+        "pinyin": "baji",
+        "meaning": "quần"
+    },
+    {
+        "id": 5,
+        "hanzi": "치마",
+        "pinyin": "chima",
+        "meaning": "váy"
+    },
+    {
+        "id": 6,
+        "hanzi": "사과",
+        "pinyin": "sagwa",
+        "meaning": "táo"
+    },
+    {
+        "id": 7,
+        "hanzi": "고기",
+        "pinyin": "gogi",
+        "meaning": "thịt"
+    },
+    {
+        "id": 8,
+        "hanzi": "시계",
+        "pinyin": "sigye",
+        "meaning": "đồng hồ"
+    },
+    {
+        "id": 9,
+        "hanzi": "휴지",
+        "pinyin": "hyuji",
+        "meaning": "giấy lau, khăn giấy"
+    },
+    {
+        "id": 10,
+        "hanzi": "돼지",
+        "pinyin": "dwaeji",
+        "meaning": "con lợn"
+    },
+    {
+        "id": 11,
+        "hanzi": "의자",
+        "pinyin": "uija",
+        "meaning": "ghế"
+    },
+    {
+        "id": 12,
+        "hanzi": "포도",
+        "pinyin": "podo",
+        "meaning": "nho"
+    },
+    {
+        "id": 13,
+        "hanzi": "피자",
+        "pinyin": "pija",
+        "meaning": "bánh pizza"
+    },
+    {
+        "id": 14,
+        "hanzi": "기차",
+        "pinyin": "gicha",
+        "meaning": "tàu hỏa"
+    },
+    {
+        "id": 15,
+        "hanzi": "토끼",
+        "pinyin": "tokki",
+        "meaning": "con thỏ"
+    },
+    {
+        "id": 16,
+        "hanzi": "떡",
+        "pinyin": "tteok",
+        "meaning": "bánh gạo"
+    },
+    {
+        "id": 17,
+        "hanzi": "빵",
+        "pinyin": "ppang",
+        "meaning": "bánh mì"
+    },
+    {
+        "id": 18,
+        "hanzi": "딸기",
+        "pinyin": "ttalgi",
+        "meaning": "dâu tây"
+    },
+    {
+        "id": 19,
+        "hanzi": "옷",
+        "pinyin": "ot",
+        "meaning": "quần áo"
+    },
+    {
+        "id": 20,
+        "hanzi": "꽃",
+        "pinyin": "kkot",
+        "meaning": "hoa"
+    },
+    {
+        "id": 21,
+        "hanzi": "생선",
+        "pinyin": "saengseon",
+        "meaning": "cá"
+    },
+    {
+        "id": 22,
+        "hanzi": "지갑",
+        "pinyin": "jigap",
+        "meaning": "ví"
+    },
+    {
+        "id": 23,
+        "hanzi": "발",
+        "pinyin": "bal",
+        "meaning": "bàn chân"
+    },
+    {
+        "id": 24,
+        "hanzi": "잎",
+        "pinyin": "ip",
+        "meaning": "lá"
+    },
+    {
+        "id": 25,
+        "hanzi": "닭",
+        "pinyin": "dak",
+        "meaning": "gà"
+    },
+    {
+        "id": 26,
+        "hanzi": "한국",
+        "pinyin": "Hanguk",
+        "meaning": "Hàn Quốc"
+    },
+    {
+        "id": 27,
+        "hanzi": "베트남",
+        "pinyin": "Beteunam",
+        "meaning": "Việt Nam"
+    },
+    {
+        "id": 28,
+        "hanzi": "말레이시아",
+        "pinyin": "Malleisia",
+        "meaning": "Malaysia"
+    },
+    {
+        "id": 29,
+        "hanzi": "일본",
+        "pinyin": "Ilbon",
+        "meaning": "Nhật"
+    },
+    {
+        "id": 30,
+        "hanzi": "미국",
+        "pinyin": "Miguk",
+        "meaning": "Mỹ"
+    },
+    {
+        "id": 31,
+        "hanzi": "중국",
+        "pinyin": "Jungguk",
+        "meaning": "Trung Quốc"
+    },
+    {
+        "id": 32,
+        "hanzi": "태국",
+        "pinyin": "Taeguk",
+        "meaning": "Thái Lan"
+    },
+    {
+        "id": 33,
+        "hanzi": "호주",
+        "pinyin": "Hoju",
+        "meaning": "Úc"
+    },
+    {
+        "id": 34,
+        "hanzi": "몽골",
+        "pinyin": "Monggol",
+        "meaning": "Mông Cổ"
+    },
+    {
+        "id": 35,
+        "hanzi": "인도네시아",
+        "pinyin": "Indonesia",
+        "meaning": "Indonesia"
+    },
+    {
+        "id": 36,
+        "hanzi": "필리핀",
+        "pinyin": "Pillipin",
+        "meaning": "Philippines"
+    },
+    {
+        "id": 37,
+        "hanzi": "인도",
+        "pinyin": "Indo",
+        "meaning": "Ấn Độ"
+    },
+    {
+        "id": 38,
+        "hanzi": "영국",
+        "pinyin": "Yeongguk",
+        "meaning": "Anh"
+    },
+    {
+        "id": 39,
+        "hanzi": "독일",
+        "pinyin": "Dogil",
+        "meaning": "Đức"
+    },
+    {
+        "id": 40,
+        "hanzi": "프랑스",
+        "pinyin": "Peurangseu",
+        "meaning": "Pháp"
+    },
+    {
+        "id": 41,
+        "hanzi": "러시아",
+        "pinyin": "Reosia",
+        "meaning": "Nga"
+    },
+    {
+        "id": 42,
+        "hanzi": "학생",
+        "pinyin": "haksaeng",
+        "meaning": "học sinh"
+    },
+    {
+        "id": 43,
+        "hanzi": "회사원",
+        "pinyin": "hoesawon",
+        "meaning": "nhân viên công ty"
+    },
+    {
+        "id": 44,
+        "hanzi": "은행원",
+        "pinyin": "eunhaengwon",
+        "meaning": "nhân viên ngân hàng"
+    },
+    {
+        "id": 45,
+        "hanzi": "교사",
+        "pinyin": "gyosa",
+        "meaning": "giáo viên"
+    },
+    {
+        "id": 46,
+        "hanzi": "의사",
+        "pinyin": "uisa",
+        "meaning": "bác sĩ"
+    },
+    {
+        "id": 47,
+        "hanzi": "공무원",
+        "pinyin": "gongmuwon",
+        "meaning": "công chức"
+    },
+    {
+        "id": 48,
+        "hanzi": "관광 가이드\/여행 안내원",
+        "pinyin": "gwangwang gaideu\/yeohaeng annaewon",
+        "meaning": "hướng dẫn viên du lịch"
+    },
+    {
+        "id": 49,
+        "hanzi": "주부",
+        "pinyin": "jubu",
+        "meaning": "nội trợ"
+    },
+    {
+        "id": 50,
+        "hanzi": "약사",
+        "pinyin": "yaksa",
+        "meaning": "dược sĩ"
+    },
+    {
+        "id": 51,
+        "hanzi": "운전기사",
+        "pinyin": "unjeon gisa",
+        "meaning": "lái xe"
+    },
+    {
+        "id": 52,
+        "hanzi": "안녕하세요?",
+        "pinyin": "annyeonghaseyo",
+        "meaning": "Xin chào?"
+    },
+    {
+        "id": 53,
+        "hanzi": "안녕하십니까?",
+        "pinyin": "annyeonghasimnikka",
+        "meaning": "Xin chào?"
+    },
+    {
+        "id": 54,
+        "hanzi": "안녕히 가세요.",
+        "pinyin": "annyeonghi gaseyo",
+        "meaning": "Tạm biệt. (Đi về bình an)"
+    },
+    {
+        "id": 55,
+        "hanzi": "안녕히 계세요.",
+        "pinyin": "annyeonghi gyeseyo",
+        "meaning": "Tạm biệt. (Ở lại bình an)"
+    },
+    {
+        "id": 56,
+        "hanzi": "처음 뵙겠습니다.",
+        "pinyin": "cheoeum boepgetseumnida",
+        "meaning": "Lần đầu được gặp mặt.\/ Lần đầu được diện kiến."
+    },
+    {
+        "id": 57,
+        "hanzi": "반갑습니다.",
+        "pinyin": "bangapseumnida",
+        "meaning": "Rất vui được gặp."
+    },
+    {
+        "id": 58,
+        "hanzi": "국어국문학과",
+        "pinyin": "gugeogungmunhakgwa",
+        "meaning": "khoa ngữ văn"
+    },
+    {
+        "id": 59,
+        "hanzi": "국적",
+        "pinyin": "gukjeok",
+        "meaning": "quốc tịch"
+    },
+    {
+        "id": 60,
+        "hanzi": "네",
+        "pinyin": "ne",
+        "meaning": "vâng"
+    },
+    {
+        "id": 61,
+        "hanzi": "대학교",
+        "pinyin": "daehakgyo",
+        "meaning": "trường đại học"
+    },
+    {
+        "id": 62,
+        "hanzi": "대학생",
+        "pinyin": "daehaksaeng",
+        "meaning": "sinh viên"
+    },
+    {
+        "id": 63,
+        "hanzi": "분",
+        "pinyin": "bun",
+        "meaning": "người (kính ngữ, cách nói kính trọng của 사람)"
+    },
+    {
+        "id": 64,
+        "hanzi": "보기",
+        "pinyin": "bogi",
+        "meaning": "mẫu, ví dụ"
+    },
+    {
+        "id": 65,
+        "hanzi": "사람",
+        "pinyin": "saram",
+        "meaning": "người"
+    },
+    {
+        "id": 66,
+        "hanzi": "씨",
+        "pinyin": "ssi",
+        "meaning": "bạn"
+    },
+    {
+        "id": 67,
+        "hanzi": "아니요",
+        "pinyin": "aniyo",
+        "meaning": "không"
+    },
+    {
+        "id": 68,
+        "hanzi": "은행",
+        "pinyin": "eunhaeng",
+        "meaning": "ngân hàng"
+    },
+    {
+        "id": 69,
+        "hanzi": "이",
+        "pinyin": "i",
+        "meaning": "này"
+    },
+    {
+        "id": 70,
+        "hanzi": "이름",
+        "pinyin": "ireum",
+        "meaning": "tên"
+    },
+    {
+        "id": 71,
+        "hanzi": "이메일",
+        "pinyin": "imeil",
+        "meaning": "email, thư điện tử"
+    },
+    {
+        "id": 72,
+        "hanzi": "저",
+        "pinyin": "jeo",
+        "meaning": "tôi"
+    },
+    {
+        "id": 73,
+        "hanzi": "전화",
+        "pinyin": "jeonhwa",
+        "meaning": "điện thoại"
+    },
+    {
+        "id": 74,
+        "hanzi": "제",
+        "pinyin": "je",
+        "meaning": "của tôi\/ tôi"
+    },
+    {
+        "id": 75,
+        "hanzi": "주소",
+        "pinyin": "juso",
+        "meaning": "địa chỉ"
+    },
+    {
+        "id": 76,
+        "hanzi": "직업",
+        "pinyin": "jigeop",
+        "meaning": "nghề nghiệp"
+    },
+    {
+        "id": 77,
+        "hanzi": "학과",
+        "pinyin": "hakgwa",
+        "meaning": "khoa\/ bộ môn"
+    },
+    {
+        "id": 78,
+        "hanzi": "학번",
+        "pinyin": "hakbeon",
+        "meaning": "mã số sinh viên"
+    },
+    {
+        "id": 79,
+        "hanzi": "학생증",
+        "pinyin": "haksaengjeung",
+        "meaning": "thẻ sinh viên"
+    },
+    {
+        "id": 80,
+        "hanzi": "한국어",
+        "pinyin": "hangugeo",
+        "meaning": "tiếng Hàn"
+    },
+    {
+        "id": 81,
+        "hanzi": "한국어과",
+        "pinyin": "hangugeogwa",
+        "meaning": "khoa tiếng Hàn"
+    }
+]
