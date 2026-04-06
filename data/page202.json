@@ -1,0 +1,668 @@
+[
+    {
+        "id": 1,
+        "hanzi": "학교",
+        "pinyin": "hakgyo",
+        "meaning": "trường học"
+    },
+    {
+        "id": 2,
+        "hanzi": "도서관",
+        "pinyin": "doseogwan",
+        "meaning": "thư viện"
+    },
+    {
+        "id": 3,
+        "hanzi": "식당",
+        "pinyin": "sikdang",
+        "meaning": "nhà ăn, nhà hàng"
+    },
+    {
+        "id": 4,
+        "hanzi": "호텔",
+        "pinyin": "hotel",
+        "meaning": "khách sạn"
+    },
+    {
+        "id": 5,
+        "hanzi": "극장",
+        "pinyin": "geukjang",
+        "meaning": "nhà hát\/rạp chiếu phim"
+    },
+    {
+        "id": 6,
+        "hanzi": "우체국",
+        "pinyin": "ucheguk",
+        "meaning": "bưu điện"
+    },
+    {
+        "id": 7,
+        "hanzi": "병원",
+        "pinyin": "byeongwon",
+        "meaning": "bệnh viện"
+    },
+    {
+        "id": 8,
+        "hanzi": "은행",
+        "pinyin": "eunhaeng",
+        "meaning": "ngân hàng"
+    },
+    {
+        "id": 9,
+        "hanzi": "백화점",
+        "pinyin": "baekhwajeom",
+        "meaning": "trung tâm thương mại"
+    },
+    {
+        "id": 10,
+        "hanzi": "약국",
+        "pinyin": "yakguk",
+        "meaning": "hiệu thuốc"
+    },
+    {
+        "id": 11,
+        "hanzi": "가게",
+        "pinyin": "gage",
+        "meaning": "cửa tiệm, cửa hàng"
+    },
+    {
+        "id": 12,
+        "hanzi": "사무실",
+        "pinyin": "samusil",
+        "meaning": "văn phòng"
+    },
+    {
+        "id": 13,
+        "hanzi": "강의실",
+        "pinyin": "ganguisil",
+        "meaning": "giảng đường, phòng học"
+    },
+    {
+        "id": 14,
+        "hanzi": "교실",
+        "pinyin": "gyosil",
+        "meaning": "phòng học"
+    },
+    {
+        "id": 15,
+        "hanzi": "화장실",
+        "pinyin": "hwajangsil",
+        "meaning": "phòng vệ sinh"
+    },
+    {
+        "id": 16,
+        "hanzi": "휴게실",
+        "pinyin": "hyugesil",
+        "meaning": "phòng nghỉ"
+    },
+    {
+        "id": 17,
+        "hanzi": "랩실(어학실)",
+        "pinyin": "raepsil(eohaksil)",
+        "meaning": "phòng Lab"
+    },
+    {
+        "id": 18,
+        "hanzi": "동아리방",
+        "pinyin": "dongaribang",
+        "meaning": "phòng sinh hoạt câu lạc bộ"
+    },
+    {
+        "id": 19,
+        "hanzi": "체육관",
+        "pinyin": "cheyukgwan",
+        "meaning": "nhà thi đấu thể thao\/nhà thể chất"
+    },
+    {
+        "id": 20,
+        "hanzi": "운동장",
+        "pinyin": "undongjang",
+        "meaning": "sân vận động"
+    },
+    {
+        "id": 21,
+        "hanzi": "강당",
+        "pinyin": "gangdang",
+        "meaning": "giảng đường lớn, hội trường"
+    },
+    {
+        "id": 22,
+        "hanzi": "학생 식당",
+        "pinyin": "haksaengsikdang",
+        "meaning": "nhà ăn học sinh"
+    },
+    {
+        "id": 23,
+        "hanzi": "세미나실",
+        "pinyin": "seminasil",
+        "meaning": "phòng hội thảo"
+    },
+    {
+        "id": 24,
+        "hanzi": "서점",
+        "pinyin": "seojeom",
+        "meaning": "hiệu sách"
+    },
+    {
+        "id": 25,
+        "hanzi": "책상",
+        "pinyin": "chaeksang",
+        "meaning": "cái bàn"
+    },
+    {
+        "id": 26,
+        "hanzi": "의자",
+        "pinyin": "uija",
+        "meaning": "cái ghế"
+    },
+    {
+        "id": 27,
+        "hanzi": "칠판",
+        "pinyin": "chilpan",
+        "meaning": "bảng"
+    },
+    {
+        "id": 28,
+        "hanzi": "문",
+        "pinyin": "mun",
+        "meaning": "cửa ra vào"
+    },
+    {
+        "id": 29,
+        "hanzi": "창문",
+        "pinyin": "changmun",
+        "meaning": "cửa sổ"
+    },
+    {
+        "id": 30,
+        "hanzi": "시계",
+        "pinyin": "sigye",
+        "meaning": "đồng hồ"
+    },
+    {
+        "id": 31,
+        "hanzi": "가방",
+        "pinyin": "gabang",
+        "meaning": "cặp sách"
+    },
+    {
+        "id": 32,
+        "hanzi": "컴퓨터",
+        "pinyin": "keompyuteo",
+        "meaning": "máy vi tính"
+    },
+    {
+        "id": 33,
+        "hanzi": "책",
+        "pinyin": "chaek",
+        "meaning": "sách"
+    },
+    {
+        "id": 34,
+        "hanzi": "공책",
+        "pinyin": "gongchaek",
+        "meaning": "vở"
+    },
+    {
+        "id": 35,
+        "hanzi": "사전",
+        "pinyin": "sajeon",
+        "meaning": "từ điển"
+    },
+    {
+        "id": 36,
+        "hanzi": "지우개",
+        "pinyin": "jiugae",
+        "meaning": "hòn tẩy, cục tẩy"
+    },
+    {
+        "id": 37,
+        "hanzi": "지도",
+        "pinyin": "jido",
+        "meaning": "bản đồ"
+    },
+    {
+        "id": 38,
+        "hanzi": "펜",
+        "pinyin": "pen",
+        "meaning": "bút, viết"
+    },
+    {
+        "id": 39,
+        "hanzi": "필통",
+        "pinyin": "piltong",
+        "meaning": "hộp bút"
+    },
+    {
+        "id": 40,
+        "hanzi": "여기",
+        "pinyin": "yeogi",
+        "meaning": "đây; chỗ này"
+    },
+    {
+        "id": 41,
+        "hanzi": "거기",
+        "pinyin": "geogi",
+        "meaning": "đó; chỗ đó"
+    },
+    {
+        "id": 42,
+        "hanzi": "저기",
+        "pinyin": "jeogi",
+        "meaning": "kia; chỗ kia"
+    },
+    {
+        "id": 43,
+        "hanzi": "이것",
+        "pinyin": "igeot",
+        "meaning": "cái này"
+    },
+    {
+        "id": 44,
+        "hanzi": "그것",
+        "pinyin": "geugeot",
+        "meaning": "cái đó"
+    },
+    {
+        "id": 45,
+        "hanzi": "저것",
+        "pinyin": "jeogeot",
+        "meaning": "cái kia"
+    },
+    {
+        "id": 46,
+        "hanzi": "이\/가",
+        "pinyin": "i\/ga",
+        "meaning": "tiểu từ chủ ngữ; 이 đi sau danh từ có phụ âm cuối, 가 đi sau danh từ không có phụ âm cuối"
+    },
+    {
+        "id": 47,
+        "hanzi": "에 있습니다",
+        "pinyin": "e itsseumnida",
+        "meaning": "có ở; chỉ vị trí của người hoặc vật"
+    },
+    {
+        "id": 48,
+        "hanzi": "이\/가 아닙니다",
+        "pinyin": "i\/ga animnida",
+        "meaning": "không phải là"
+    },
+    {
+        "id": 49,
+        "hanzi": "라디오",
+        "pinyin": "radio",
+        "meaning": "đài, radio"
+    },
+    {
+        "id": 50,
+        "hanzi": "많이",
+        "pinyin": "mani",
+        "meaning": "nhiều"
+    },
+    {
+        "id": 51,
+        "hanzi": "무엇",
+        "pinyin": "mueot",
+        "meaning": "cái gì"
+    },
+    {
+        "id": 52,
+        "hanzi": "어디",
+        "pinyin": "eodi",
+        "meaning": "ở đâu"
+    },
+    {
+        "id": 53,
+        "hanzi": "텔레비전",
+        "pinyin": "tellebijeon",
+        "meaning": "ti vi"
+    },
+    {
+        "id": 54,
+        "hanzi": "휴대전화",
+        "pinyin": "hyudaejeonhwa",
+        "meaning": "điện thoại di động"
+    },
+    {
+        "id": 55,
+        "hanzi": "가다",
+        "pinyin": "gada",
+        "meaning": "đi"
+    },
+    {
+        "id": 56,
+        "hanzi": "오다",
+        "pinyin": "oda",
+        "meaning": "đến"
+    },
+    {
+        "id": 57,
+        "hanzi": "자다",
+        "pinyin": "jada",
+        "meaning": "ngủ"
+    },
+    {
+        "id": 58,
+        "hanzi": "먹다",
+        "pinyin": "meokda",
+        "meaning": "ăn"
+    },
+    {
+        "id": 59,
+        "hanzi": "마시다",
+        "pinyin": "masida",
+        "meaning": "uống"
+    },
+    {
+        "id": 60,
+        "hanzi": "이야기하다",
+        "pinyin": "iyagihada",
+        "meaning": "nói chuyện"
+    },
+    {
+        "id": 61,
+        "hanzi": "읽다",
+        "pinyin": "ikda",
+        "meaning": "đọc"
+    },
+    {
+        "id": 62,
+        "hanzi": "듣다",
+        "pinyin": "deutda",
+        "meaning": "nghe"
+    },
+    {
+        "id": 63,
+        "hanzi": "보다",
+        "pinyin": "boda",
+        "meaning": "nhìn, xem"
+    },
+    {
+        "id": 64,
+        "hanzi": "일하다",
+        "pinyin": "ilhada",
+        "meaning": "làm việc"
+    },
+    {
+        "id": 65,
+        "hanzi": "공부하다",
+        "pinyin": "gongbuhada",
+        "meaning": "học"
+    },
+    {
+        "id": 66,
+        "hanzi": "운동하다",
+        "pinyin": "undonghada",
+        "meaning": "luyện tập thể thao"
+    },
+    {
+        "id": 67,
+        "hanzi": "쉬다",
+        "pinyin": "swida",
+        "meaning": "nghỉ, nghỉ ngơi"
+    },
+    {
+        "id": 68,
+        "hanzi": "만나다",
+        "pinyin": "mannada",
+        "meaning": "gặp gỡ"
+    },
+    {
+        "id": 69,
+        "hanzi": "사다",
+        "pinyin": "sada",
+        "meaning": "mua"
+    },
+    {
+        "id": 70,
+        "hanzi": "좋아하다",
+        "pinyin": "joahada",
+        "meaning": "thích"
+    },
+    {
+        "id": 71,
+        "hanzi": "크다",
+        "pinyin": "keuda",
+        "meaning": "to, lớn"
+    },
+    {
+        "id": 72,
+        "hanzi": "작다",
+        "pinyin": "jakda",
+        "meaning": "nhỏ"
+    },
+    {
+        "id": 73,
+        "hanzi": "많다",
+        "pinyin": "manta",
+        "meaning": "nhiều"
+    },
+    {
+        "id": 74,
+        "hanzi": "적다",
+        "pinyin": "jeokda",
+        "meaning": "ít"
+    },
+    {
+        "id": 75,
+        "hanzi": "좋다",
+        "pinyin": "jota",
+        "meaning": "tốt, đẹp"
+    },
+    {
+        "id": 76,
+        "hanzi": "나쁘다",
+        "pinyin": "nappeuda",
+        "meaning": "xấu, tồi"
+    },
+    {
+        "id": 77,
+        "hanzi": "재미있다",
+        "pinyin": "jaemiitda",
+        "meaning": "hay, thú vị"
+    },
+    {
+        "id": 78,
+        "hanzi": "재미없다",
+        "pinyin": "jaemieopda",
+        "meaning": "không hay"
+    },
+    {
+        "id": 79,
+        "hanzi": "차",
+        "pinyin": "cha",
+        "meaning": "trà"
+    },
+    {
+        "id": 80,
+        "hanzi": "커피",
+        "pinyin": "keopi",
+        "meaning": "cà phê"
+    },
+    {
+        "id": 81,
+        "hanzi": "빵",
+        "pinyin": "ppang",
+        "meaning": "bánh mì"
+    },
+    {
+        "id": 82,
+        "hanzi": "우유",
+        "pinyin": "uyu",
+        "meaning": "sữa"
+    },
+    {
+        "id": 83,
+        "hanzi": "영화",
+        "pinyin": "yeonghwa",
+        "meaning": "phim ảnh"
+    },
+    {
+        "id": 84,
+        "hanzi": "음악",
+        "pinyin": "eumak",
+        "meaning": "âm nhạc"
+    },
+    {
+        "id": 85,
+        "hanzi": "신문",
+        "pinyin": "sinmun",
+        "meaning": "báo chí"
+    },
+    {
+        "id": 86,
+        "hanzi": "친구",
+        "pinyin": "chingu",
+        "meaning": "bạn, bạn bè"
+    },
+    {
+        "id": 87,
+        "hanzi": "누구",
+        "pinyin": "nugu",
+        "meaning": "ai"
+    },
+    {
+        "id": 88,
+        "hanzi": "언제",
+        "pinyin": "eonje",
+        "meaning": "khi nào, bao giờ"
+    },
+    {
+        "id": 89,
+        "hanzi": "-ㅂ\/습니다",
+        "pinyin": "-b\/seumnida",
+        "meaning": "đuôi kết thúc câu trần thuật"
+    },
+    {
+        "id": 90,
+        "hanzi": "-ㅂ\/습니까",
+        "pinyin": "-b\/seumnikka",
+        "meaning": "đuôi kết thúc câu nghi vấn"
+    },
+    {
+        "id": 91,
+        "hanzi": "을\/를",
+        "pinyin": "eul\/reul",
+        "meaning": "tiểu từ chỉ tân ngữ"
+    },
+    {
+        "id": 92,
+        "hanzi": "에서",
+        "pinyin": "eseo",
+        "meaning": "tiểu từ chỉ trạng ngữ; chỉ địa điểm xảy ra hành động"
+    },
+    {
+        "id": 93,
+        "hanzi": "노래",
+        "pinyin": "norae",
+        "meaning": "bài hát"
+    },
+    {
+        "id": 94,
+        "hanzi": "빌딩",
+        "pinyin": "bilding",
+        "meaning": "tòa nhà"
+    },
+    {
+        "id": 95,
+        "hanzi": "방",
+        "pinyin": "bang",
+        "meaning": "phòng"
+    },
+    {
+        "id": 96,
+        "hanzi": "사과",
+        "pinyin": "sagwa",
+        "meaning": "táo"
+    },
+    {
+        "id": 97,
+        "hanzi": "산책하다",
+        "pinyin": "sanchaekhada",
+        "meaning": "đi dạo"
+    },
+    {
+        "id": 98,
+        "hanzi": "쇼핑하다",
+        "pinyin": "syopinghada",
+        "meaning": "mua sắm"
+    },
+    {
+        "id": 99,
+        "hanzi": "시내",
+        "pinyin": "sinae",
+        "meaning": "trung tâm thành phố"
+    },
+    {
+        "id": 100,
+        "hanzi": "식사하다",
+        "pinyin": "siksahada",
+        "meaning": "dùng bữa"
+    },
+    {
+        "id": 101,
+        "hanzi": "아이스크림",
+        "pinyin": "aiseukeurim",
+        "meaning": "kem"
+    },
+    {
+        "id": 102,
+        "hanzi": "아주",
+        "pinyin": "aju",
+        "meaning": "rất"
+    },
+    {
+        "id": 103,
+        "hanzi": "여행",
+        "pinyin": "yeohaeng",
+        "meaning": "du lịch"
+    },
+    {
+        "id": 104,
+        "hanzi": "이메일",
+        "pinyin": "imeil",
+        "meaning": "thư điện tử, email"
+    },
+    {
+        "id": 105,
+        "hanzi": "위",
+        "pinyin": "wi",
+        "meaning": "trên"
+    },
+    {
+        "id": 106,
+        "hanzi": "자주",
+        "pinyin": "jaju",
+        "meaning": "hay, thường xuyên"
+    },
+    {
+        "id": 107,
+        "hanzi": "전화하다",
+        "pinyin": "jeonhwahada",
+        "meaning": "gọi điện thoại"
+    },
+    {
+        "id": 108,
+        "hanzi": "지금",
+        "pinyin": "jigeum",
+        "meaning": "bây giờ"
+    },
+    {
+        "id": 109,
+        "hanzi": "축구를 하다",
+        "pinyin": "chukgureul hada",
+        "meaning": "đá bóng"
+    },
+    {
+        "id": 110,
+        "hanzi": "카페",
+        "pinyin": "kape",
+        "meaning": "quán cà phê"
+    },
+    {
+        "id": 111,
+        "hanzi": "헬스클럽",
+        "pinyin": "helseukeulleop",
+        "meaning": "câu lạc bộ thể dục thể thao"
+    }
+]
