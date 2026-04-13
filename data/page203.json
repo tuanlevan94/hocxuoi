@@ -1,0 +1,1118 @@
+[
+    {
+        "id": 1,
+        "hanzi": "요일",
+        "pinyin": "yoil",
+        "meaning": "thứ"
+    },
+    {
+        "id": 2,
+        "hanzi": "월요일",
+        "pinyin": "woryoil",
+        "meaning": "thứ hai"
+    },
+    {
+        "id": 3,
+        "hanzi": "화요일",
+        "pinyin": "hwayoil",
+        "meaning": "thứ ba"
+    },
+    {
+        "id": 4,
+        "hanzi": "수요일",
+        "pinyin": "suyoil",
+        "meaning": "thứ tư"
+    },
+    {
+        "id": 5,
+        "hanzi": "목요일",
+        "pinyin": "mogyoil",
+        "meaning": "thứ năm"
+    },
+    {
+        "id": 6,
+        "hanzi": "금요일",
+        "pinyin": "geumyoil",
+        "meaning": "thứ sáu"
+    },
+    {
+        "id": 7,
+        "hanzi": "일요일",
+        "pinyin": "iryoil",
+        "meaning": "chủ nhật"
+    },
+    {
+        "id": 8,
+        "hanzi": "년",
+        "pinyin": "nyeon",
+        "meaning": "năm"
+    },
+    {
+        "id": 9,
+        "hanzi": "월",
+        "pinyin": "wol",
+        "meaning": "tháng"
+    },
+    {
+        "id": 10,
+        "hanzi": "1월",
+        "pinyin": "ilwol",
+        "meaning": "tháng giêng (một)"
+    },
+    {
+        "id": 11,
+        "hanzi": "2월",
+        "pinyin": "iwol",
+        "meaning": "tháng hai"
+    },
+    {
+        "id": 12,
+        "hanzi": "3월",
+        "pinyin": "samwol",
+        "meaning": "tháng ba"
+    },
+    {
+        "id": 13,
+        "hanzi": "4월",
+        "pinyin": "sawol",
+        "meaning": "tháng tư"
+    },
+    {
+        "id": 14,
+        "hanzi": "5월",
+        "pinyin": "owol",
+        "meaning": "tháng năm"
+    },
+    {
+        "id": 15,
+        "hanzi": "6월",
+        "pinyin": "yuwol",
+        "meaning": "tháng sáu"
+    },
+    {
+        "id": 16,
+        "hanzi": "7월",
+        "pinyin": "chilwol",
+        "meaning": "tháng bảy"
+    },
+    {
+        "id": 17,
+        "hanzi": "8월",
+        "pinyin": "palwol",
+        "meaning": "tháng tám"
+    },
+    {
+        "id": 18,
+        "hanzi": "9월",
+        "pinyin": "guwol",
+        "meaning": "tháng chín"
+    },
+    {
+        "id": 19,
+        "hanzi": "10월",
+        "pinyin": "siwol",
+        "meaning": "tháng mười"
+    },
+    {
+        "id": 20,
+        "hanzi": "11월",
+        "pinyin": "sibirwol",
+        "meaning": "tháng mười một"
+    },
+    {
+        "id": 21,
+        "hanzi": "그저께",
+        "pinyin": "geujeokke",
+        "meaning": "hôm kia"
+    },
+    {
+        "id": 22,
+        "hanzi": "어제",
+        "pinyin": "eoje",
+        "meaning": "hôm qua"
+    },
+    {
+        "id": 23,
+        "hanzi": "내일",
+        "pinyin": "naeil",
+        "meaning": "ngày mai"
+    },
+    {
+        "id": 24,
+        "hanzi": "모레",
+        "pinyin": "more",
+        "meaning": "ngày kia"
+    },
+    {
+        "id": 25,
+        "hanzi": "지난 해",
+        "pinyin": "jinan hae",
+        "meaning": "năm trước, năm ngoái"
+    },
+    {
+        "id": 26,
+        "hanzi": "작년",
+        "pinyin": "jangnyeon",
+        "meaning": "năm trước, năm ngoái"
+    },
+    {
+        "id": 27,
+        "hanzi": "올해",
+        "pinyin": "olhae",
+        "meaning": "năm nay"
+    },
+    {
+        "id": 28,
+        "hanzi": "금년",
+        "pinyin": "geumnyeon",
+        "meaning": "năm nay"
+    },
+    {
+        "id": 29,
+        "hanzi": "다음 해",
+        "pinyin": "daeum hae",
+        "meaning": "năm sau"
+    },
+    {
+        "id": 30,
+        "hanzi": "내년",
+        "pinyin": "naenyeon",
+        "meaning": "năm sau"
+    },
+    {
+        "id": 31,
+        "hanzi": "지난달",
+        "pinyin": "jinandal",
+        "meaning": "tháng trước"
+    },
+    {
+        "id": 32,
+        "hanzi": "이번 달",
+        "pinyin": "ibeon dal",
+        "meaning": "tháng này"
+    },
+    {
+        "id": 33,
+        "hanzi": "다음 달",
+        "pinyin": "daeum dal",
+        "meaning": "tháng sau"
+    },
+    {
+        "id": 34,
+        "hanzi": "지난주",
+        "pinyin": "jinanju",
+        "meaning": "tuần trước"
+    },
+    {
+        "id": 35,
+        "hanzi": "이번 주",
+        "pinyin": "ibeon ju",
+        "meaning": "tuần này"
+    },
+    {
+        "id": 36,
+        "hanzi": "다음 주",
+        "pinyin": "daeum ju",
+        "meaning": "tuần sau"
+    },
+    {
+        "id": 37,
+        "hanzi": "평일",
+        "pinyin": "pyeongil",
+        "meaning": "ngày thường"
+    },
+    {
+        "id": 38,
+        "hanzi": "주중",
+        "pinyin": "jujung",
+        "meaning": "trong tuần"
+    },
+    {
+        "id": 39,
+        "hanzi": "주말",
+        "pinyin": "jumal",
+        "meaning": "cuối tuần"
+    },
+    {
+        "id": 40,
+        "hanzi": "영\/공",
+        "pinyin": "yeong\/gong",
+        "meaning": "số không"
+    },
+    {
+        "id": 41,
+        "hanzi": "일",
+        "pinyin": "il",
+        "meaning": "số một"
+    },
+    {
+        "id": 42,
+        "hanzi": "이",
+        "pinyin": "i",
+        "meaning": "số hai"
+    },
+    {
+        "id": 43,
+        "hanzi": "삼",
+        "pinyin": "sam",
+        "meaning": "số ba"
+    },
+    {
+        "id": 44,
+        "hanzi": "사",
+        "pinyin": "sa",
+        "meaning": "số bốn"
+    },
+    {
+        "id": 45,
+        "hanzi": "오",
+        "pinyin": "o",
+        "meaning": "số năm"
+    },
+    {
+        "id": 46,
+        "hanzi": "육",
+        "pinyin": "yuk",
+        "meaning": "số sáu"
+    },
+    {
+        "id": 47,
+        "hanzi": "칠",
+        "pinyin": "chil",
+        "meaning": "số bảy"
+    },
+    {
+        "id": 48,
+        "hanzi": "팔",
+        "pinyin": "pal",
+        "meaning": "số tám"
+    },
+    {
+        "id": 49,
+        "hanzi": "구",
+        "pinyin": "gu",
+        "meaning": "số chín"
+    },
+    {
+        "id": 50,
+        "hanzi": "십",
+        "pinyin": "sip",
+        "meaning": "số mười"
+    },
+    {
+        "id": 51,
+        "hanzi": "십일",
+        "pinyin": "sibil",
+        "meaning": "mười một"
+    },
+    {
+        "id": 52,
+        "hanzi": "십이",
+        "pinyin": "sibi",
+        "meaning": "mười hai"
+    },
+    {
+        "id": 53,
+        "hanzi": "십삼",
+        "pinyin": "sipsam",
+        "meaning": "mười ba"
+    },
+    {
+        "id": 54,
+        "hanzi": "십사",
+        "pinyin": "sipsa",
+        "meaning": "mười bốn"
+    },
+    {
+        "id": 55,
+        "hanzi": "십오",
+        "pinyin": "sibo",
+        "meaning": "mười lăm"
+    },
+    {
+        "id": 56,
+        "hanzi": "십육",
+        "pinyin": "simnyuk",
+        "meaning": "mười sáu"
+    },
+    {
+        "id": 57,
+        "hanzi": "십칠",
+        "pinyin": "sipchil",
+        "meaning": "mười bảy"
+    },
+    {
+        "id": 58,
+        "hanzi": "십팔",
+        "pinyin": "sippal",
+        "meaning": "mười tám"
+    },
+    {
+        "id": 59,
+        "hanzi": "십구",
+        "pinyin": "sipgu",
+        "meaning": "mười chín"
+    },
+    {
+        "id": 60,
+        "hanzi": "이십",
+        "pinyin": "isip",
+        "meaning": "hai mươi"
+    },
+    {
+        "id": 61,
+        "hanzi": "천",
+        "pinyin": "cheon",
+        "meaning": "nghìn"
+    },
+    {
+        "id": 62,
+        "hanzi": "만",
+        "pinyin": "man",
+        "meaning": "mười nghìn"
+    },
+    {
+        "id": 63,
+        "hanzi": "십만",
+        "pinyin": "simman",
+        "meaning": "một trăm nghìn"
+    },
+    {
+        "id": 64,
+        "hanzi": "백만",
+        "pinyin": "baengman",
+        "meaning": "một triệu"
+    },
+    {
+        "id": 65,
+        "hanzi": "번",
+        "pinyin": "beon",
+        "meaning": "lần; số (trong số điện thoại)"
+    },
+    {
+        "id": 66,
+        "hanzi": "오늘",
+        "pinyin": "oneul",
+        "meaning": "hôm nay"
+    },
+    {
+        "id": 67,
+        "hanzi": "전화번호",
+        "pinyin": "jeonhwabeonho",
+        "meaning": "số điện thoại"
+    },
+    {
+        "id": 68,
+        "hanzi": "와\/과",
+        "pinyin": "wa\/gwa",
+        "meaning": "và; dùng để nối hai danh từ"
+    },
+    {
+        "id": 69,
+        "hanzi": "에",
+        "pinyin": "e",
+        "meaning": "vào; vào lúc"
+    },
+    {
+        "id": 70,
+        "hanzi": "교실",
+        "pinyin": "gyosil",
+        "meaning": "phòng học"
+    },
+    {
+        "id": 71,
+        "hanzi": "책상",
+        "pinyin": "chaeksang",
+        "meaning": "cái bàn"
+    },
+    {
+        "id": 72,
+        "hanzi": "의자",
+        "pinyin": "uija",
+        "meaning": "cái ghế"
+    },
+    {
+        "id": 73,
+        "hanzi": "여기",
+        "pinyin": "yeogi",
+        "meaning": "đây, ở đây"
+    },
+    {
+        "id": 74,
+        "hanzi": "시계",
+        "pinyin": "sigye",
+        "meaning": "đồng hồ"
+    },
+    {
+        "id": 75,
+        "hanzi": "가방",
+        "pinyin": "gabang",
+        "meaning": "cặp sách, túi"
+    },
+    {
+        "id": 76,
+        "hanzi": "토요일",
+        "pinyin": "toyoil",
+        "meaning": "thứ bảy"
+    },
+    {
+        "id": 77,
+        "hanzi": "영화",
+        "pinyin": "yeonghwa",
+        "meaning": "phim"
+    },
+    {
+        "id": 78,
+        "hanzi": "보다",
+        "pinyin": "boda",
+        "meaning": "xem, nhìn"
+    },
+    {
+        "id": 79,
+        "hanzi": "12월",
+        "pinyin": "sibiwol",
+        "meaning": "tháng mười hai"
+    },
+    {
+        "id": 80,
+        "hanzi": "10일",
+        "pinyin": "sibil",
+        "meaning": "ngày mười"
+    },
+    {
+        "id": 81,
+        "hanzi": "생일 파티",
+        "pinyin": "saengil pati",
+        "meaning": "tiệc sinh nhật"
+    },
+    {
+        "id": 82,
+        "hanzi": "하다",
+        "pinyin": "hada",
+        "meaning": "làm"
+    },
+    {
+        "id": 83,
+        "hanzi": "강사",
+        "pinyin": "gangsa",
+        "meaning": "giảng viên"
+    },
+    {
+        "id": 84,
+        "hanzi": "계획표",
+        "pinyin": "gyehoekpyo",
+        "meaning": "bảng kế hoạch"
+    },
+    {
+        "id": 85,
+        "hanzi": "구경하다",
+        "pinyin": "gugyeonghada",
+        "meaning": "ngắm, xem"
+    },
+    {
+        "id": 86,
+        "hanzi": "그리고",
+        "pinyin": "geurigo",
+        "meaning": "và"
+    },
+    {
+        "id": 87,
+        "hanzi": "명절",
+        "pinyin": "myeongjeol",
+        "meaning": "ngày lễ"
+    },
+    {
+        "id": 88,
+        "hanzi": "방학",
+        "pinyin": "banghak",
+        "meaning": "kỳ nghỉ (của học sinh)"
+    },
+    {
+        "id": 89,
+        "hanzi": "산",
+        "pinyin": "san",
+        "meaning": "núi"
+    },
+    {
+        "id": 90,
+        "hanzi": "설날",
+        "pinyin": "seollal",
+        "meaning": "ngày Tết"
+    },
+    {
+        "id": 91,
+        "hanzi": "숙제",
+        "pinyin": "sukje",
+        "meaning": "bài tập"
+    },
+    {
+        "id": 92,
+        "hanzi": "시험",
+        "pinyin": "siheom",
+        "meaning": "kỳ thi, kỳ kiểm tra"
+    },
+    {
+        "id": 93,
+        "hanzi": "아르바이트",
+        "pinyin": "areubaiteu",
+        "meaning": "sự làm thêm"
+    },
+    {
+        "id": 94,
+        "hanzi": "아름답다",
+        "pinyin": "areumdapda",
+        "meaning": "đẹp"
+    },
+    {
+        "id": 95,
+        "hanzi": "안내",
+        "pinyin": "annae",
+        "meaning": "sự hướng dẫn"
+    },
+    {
+        "id": 96,
+        "hanzi": "졸업하다",
+        "pinyin": "joreophada",
+        "meaning": "tốt nghiệp"
+    },
+    {
+        "id": 97,
+        "hanzi": "층",
+        "pinyin": "cheung",
+        "meaning": "tầng"
+    },
+    {
+        "id": 98,
+        "hanzi": "커피숍",
+        "pinyin": "keopisyop",
+        "meaning": "quán cà phê"
+    },
+    {
+        "id": 99,
+        "hanzi": "크리스마스",
+        "pinyin": "keuriseumaseu",
+        "meaning": "Giáng sinh"
+    },
+    {
+        "id": 100,
+        "hanzi": "파티를 하다",
+        "pinyin": "patireul hada",
+        "meaning": "tổ chức tiệc"
+    },
+    {
+        "id": 101,
+        "hanzi": "한글날",
+        "pinyin": "hangeulnal",
+        "meaning": "ngày kỉ niệm chữ Hangeul"
+    },
+    {
+        "id": 102,
+        "hanzi": "호",
+        "pinyin": "ho",
+        "meaning": "số (phòng)"
+    },
+    {
+        "id": 103,
+        "hanzi": "회의하다",
+        "pinyin": "hoeuihada",
+        "meaning": "họp, hội nghị"
+    },
+    {
+        "id": 104,
+        "hanzi": "휴가",
+        "pinyin": "hyuga",
+        "meaning": "kỳ nghỉ"
+    },
+    {
+        "id": 105,
+        "hanzi": "시간",
+        "pinyin": "sigan",
+        "meaning": "thời gian"
+    },
+    {
+        "id": 106,
+        "hanzi": "오전",
+        "pinyin": "ojeon",
+        "meaning": "buổi sáng; sáng (AM)"
+    },
+    {
+        "id": 107,
+        "hanzi": "오후",
+        "pinyin": "ohu",
+        "meaning": "buổi chiều; chiều (PM)"
+    },
+    {
+        "id": 108,
+        "hanzi": "낮",
+        "pinyin": "nat",
+        "meaning": "ban ngày"
+    },
+    {
+        "id": 109,
+        "hanzi": "밤",
+        "pinyin": "bam",
+        "meaning": "ban đêm"
+    },
+    {
+        "id": 110,
+        "hanzi": "아침",
+        "pinyin": "achim",
+        "meaning": "sáng; bữa sáng"
+    },
+    {
+        "id": 111,
+        "hanzi": "점심",
+        "pinyin": "jeomsim",
+        "meaning": "trưa; bữa trưa"
+    },
+    {
+        "id": 112,
+        "hanzi": "저녁",
+        "pinyin": "jeonyeok",
+        "meaning": "tối; bữa tối"
+    },
+    {
+        "id": 113,
+        "hanzi": "새벽",
+        "pinyin": "saebyeok",
+        "meaning": "sáng sớm, rạng sáng"
+    },
+    {
+        "id": 114,
+        "hanzi": "시",
+        "pinyin": "si",
+        "meaning": "giờ"
+    },
+    {
+        "id": 115,
+        "hanzi": "분",
+        "pinyin": "bun",
+        "meaning": "phút"
+    },
+    {
+        "id": 116,
+        "hanzi": "초",
+        "pinyin": "cho",
+        "meaning": "giây"
+    },
+    {
+        "id": 117,
+        "hanzi": "일상표현 동사",
+        "pinyin": "ilsangpyohyeon dongsa",
+        "meaning": "động từ chỉ hoạt động hằng ngày"
+    },
+    {
+        "id": 118,
+        "hanzi": "일어나다",
+        "pinyin": "ireonada",
+        "meaning": "thức dậy"
+    },
+    {
+        "id": 119,
+        "hanzi": "이를 닦다",
+        "pinyin": "ireul dakda",
+        "meaning": "đánh răng"
+    },
+    {
+        "id": 120,
+        "hanzi": "세수하다",
+        "pinyin": "sesuhada",
+        "meaning": "rửa mặt"
+    },
+    {
+        "id": 121,
+        "hanzi": "아침 (점심, 저녁) 준비하다",
+        "pinyin": "achim (jeomsim, jeonyeok) junbihada",
+        "meaning": "chuẩn bị bữa sáng (trưa, tối)"
+    },
+    {
+        "id": 122,
+        "hanzi": "다니다",
+        "pinyin": "danida",
+        "meaning": "đi lại; đi thường xuyên"
+    },
+    {
+        "id": 123,
+        "hanzi": "배우다",
+        "pinyin": "baeuda",
+        "meaning": "học"
+    },
+    {
+        "id": 124,
+        "hanzi": "세탁하다",
+        "pinyin": "setakhada",
+        "meaning": "giặt giũ"
+    },
+    {
+        "id": 125,
+        "hanzi": "빨래하다",
+        "pinyin": "ppallaehada",
+        "meaning": "giặt giũ"
+    },
+    {
+        "id": 126,
+        "hanzi": "청소하다",
+        "pinyin": "cheongsohada",
+        "meaning": "dọn vệ sinh"
+    },
+    {
+        "id": 127,
+        "hanzi": "샤워하다",
+        "pinyin": "syawohada",
+        "meaning": "tắm"
+    },
+    {
+        "id": 128,
+        "hanzi": "출근하다",
+        "pinyin": "chulgeunhada",
+        "meaning": "đi làm"
+    },
+    {
+        "id": 129,
+        "hanzi": "퇴근하다",
+        "pinyin": "toegeunhada",
+        "meaning": "tan tầm"
+    },
+    {
+        "id": 130,
+        "hanzi": "시작하다",
+        "pinyin": "sijakhada",
+        "meaning": "bắt đầu"
+    },
+    {
+        "id": 131,
+        "hanzi": "끝나다",
+        "pinyin": "kkeunnada",
+        "meaning": "xong, kết thúc"
+    },
+    {
+        "id": 132,
+        "hanzi": "자다",
+        "pinyin": "jada",
+        "meaning": "ngủ"
+    },
+    {
+        "id": 133,
+        "hanzi": "고유어 수사",
+        "pinyin": "goyueo susa",
+        "meaning": "số từ thuần Hàn"
+    },
+    {
+        "id": 134,
+        "hanzi": "하나",
+        "pinyin": "hana",
+        "meaning": "một"
+    },
+    {
+        "id": 135,
+        "hanzi": "둘",
+        "pinyin": "dul",
+        "meaning": "hai"
+    },
+    {
+        "id": 136,
+        "hanzi": "셋",
+        "pinyin": "set",
+        "meaning": "ba"
+    },
+    {
+        "id": 137,
+        "hanzi": "넷",
+        "pinyin": "net",
+        "meaning": "bốn"
+    },
+    {
+        "id": 138,
+        "hanzi": "다섯",
+        "pinyin": "daseot",
+        "meaning": "năm"
+    },
+    {
+        "id": 139,
+        "hanzi": "여섯",
+        "pinyin": "yeoseot",
+        "meaning": "sáu"
+    },
+    {
+        "id": 140,
+        "hanzi": "일곱",
+        "pinyin": "ilgop",
+        "meaning": "bảy"
+    },
+    {
+        "id": 141,
+        "hanzi": "여덟",
+        "pinyin": "yeodeol",
+        "meaning": "tám"
+    },
+    {
+        "id": 142,
+        "hanzi": "아홉",
+        "pinyin": "ahop",
+        "meaning": "chín"
+    },
+    {
+        "id": 143,
+        "hanzi": "열",
+        "pinyin": "yeol",
+        "meaning": "mười"
+    },
+    {
+        "id": 144,
+        "hanzi": "열하나",
+        "pinyin": "yeolhana",
+        "meaning": "mười một"
+    },
+    {
+        "id": 145,
+        "hanzi": "열둘",
+        "pinyin": "yeoldul",
+        "meaning": "mười hai"
+    },
+    {
+        "id": 146,
+        "hanzi": "열셋",
+        "pinyin": "yeolset",
+        "meaning": "mười ba"
+    },
+    {
+        "id": 147,
+        "hanzi": "열넷",
+        "pinyin": "yeolnet",
+        "meaning": "mười bốn"
+    },
+    {
+        "id": 148,
+        "hanzi": "열다섯",
+        "pinyin": "yeoldaseot",
+        "meaning": "mười lăm"
+    },
+    {
+        "id": 149,
+        "hanzi": "열여섯",
+        "pinyin": "yeolyeoseot",
+        "meaning": "mười sáu"
+    },
+    {
+        "id": 150,
+        "hanzi": "열일곱",
+        "pinyin": "yeolilgop",
+        "meaning": "mười bảy"
+    },
+    {
+        "id": 151,
+        "hanzi": "열여덟",
+        "pinyin": "yeolyeodeol",
+        "meaning": "mười tám"
+    },
+    {
+        "id": 152,
+        "hanzi": "열아홉",
+        "pinyin": "yeolahop",
+        "meaning": "mười chín"
+    },
+    {
+        "id": 153,
+        "hanzi": "스물",
+        "pinyin": "seumul",
+        "meaning": "hai mươi"
+    },
+    {
+        "id": 154,
+        "hanzi": "서른",
+        "pinyin": "seoreun",
+        "meaning": "ba mươi"
+    },
+    {
+        "id": 155,
+        "hanzi": "마흔",
+        "pinyin": "maheun",
+        "meaning": "bốn mươi"
+    },
+    {
+        "id": 156,
+        "hanzi": "쉰",
+        "pinyin": "swin",
+        "meaning": "năm mươi"
+    },
+    {
+        "id": 157,
+        "hanzi": "예순",
+        "pinyin": "yesun",
+        "meaning": "sáu mươi"
+    },
+    {
+        "id": 158,
+        "hanzi": "일흔",
+        "pinyin": "ilheun",
+        "meaning": "bảy mươi"
+    },
+    {
+        "id": 159,
+        "hanzi": "여든",
+        "pinyin": "yeodeun",
+        "meaning": "tám mươi"
+    },
+    {
+        "id": 160,
+        "hanzi": "아흔",
+        "pinyin": "aheun",
+        "meaning": "chín mươi"
+    },
+    {
+        "id": 161,
+        "hanzi": "백",
+        "pinyin": "baek",
+        "meaning": "một trăm"
+    },
+    {
+        "id": 162,
+        "hanzi": "겨울",
+        "pinyin": "gyeoul",
+        "meaning": "mùa đông"
+    },
+    {
+        "id": 163,
+        "hanzi": "고향",
+        "pinyin": "gohyang",
+        "meaning": "quê hương"
+    },
+    {
+        "id": 164,
+        "hanzi": "공항",
+        "pinyin": "gonghang",
+        "meaning": "sân bay"
+    },
+    {
+        "id": 165,
+        "hanzi": "날",
+        "pinyin": "nal",
+        "meaning": "ngày"
+    },
+    {
+        "id": 166,
+        "hanzi": "남자",
+        "pinyin": "namja",
+        "meaning": "đàn ông"
+    },
+    {
+        "id": 167,
+        "hanzi": "노래방",
+        "pinyin": "noraebang",
+        "meaning": "quán karaoke"
+    },
+    {
+        "id": 168,
+        "hanzi": "받다",
+        "pinyin": "batda",
+        "meaning": "nhận"
+    },
+    {
+        "id": 169,
+        "hanzi": "밥",
+        "pinyin": "bap",
+        "meaning": "cơm"
+    },
+    {
+        "id": 170,
+        "hanzi": "부모님",
+        "pinyin": "bumonim",
+        "meaning": "bố mẹ"
+    },
+    {
+        "id": 171,
+        "hanzi": "수업",
+        "pinyin": "sueop",
+        "meaning": "giờ học, buổi học"
+    },
+    {
+        "id": 172,
+        "hanzi": "수영",
+        "pinyin": "suyeong",
+        "meaning": "bơi lội"
+    },
+    {
+        "id": 173,
+        "hanzi": "시험을 보다",
+        "pinyin": "siheomeul boda",
+        "meaning": "thi"
+    },
+    {
+        "id": 174,
+        "hanzi": "여자",
+        "pinyin": "yeoja",
+        "meaning": "phụ nữ"
+    },
+    {
+        "id": 175,
+        "hanzi": "영문과",
+        "pinyin": "yeongmungwa",
+        "meaning": "khoa Anh Ngữ"
+    },
+    {
+        "id": 176,
+        "hanzi": "영어",
+        "pinyin": "yeongeo",
+        "meaning": "tiếng Anh"
+    },
+    {
+        "id": 177,
+        "hanzi": "운전하다",
+        "pinyin": "unjeonhada",
+        "meaning": "lái xe"
+    },
+    {
+        "id": 178,
+        "hanzi": "인터넷",
+        "pinyin": "inteonet",
+        "meaning": "internet"
+    },
+    {
+        "id": 179,
+        "hanzi": "일기",
+        "pinyin": "ilgi",
+        "meaning": "nhật kí"
+    },
+    {
+        "id": 180,
+        "hanzi": "집",
+        "pinyin": "jip",
+        "meaning": "nhà"
+    },
+    {
+        "id": 181,
+        "hanzi": "출근",
+        "pinyin": "chulgeun",
+        "meaning": "đi làm"
+    },
+    {
+        "id": 182,
+        "hanzi": "출발하다",
+        "pinyin": "chulbalhada",
+        "meaning": "xuất phát"
+    },
+    {
+        "id": 183,
+        "hanzi": "후",
+        "pinyin": "hu",
+        "meaning": "sau, sau khi"
+    },
+    {
+        "id": 184,
+        "hanzi": "회사",
+        "pinyin": "hoesa",
+        "meaning": "công ty"
+    },
+    {
+        "id": 185,
+        "hanzi": "회의",
+        "pinyin": "hoeui",
+        "meaning": "họp, hội thảo"
+    },
+    {
+        "id": 186,
+        "hanzi": "PC방",
+        "pinyin": "pissibang",
+        "meaning": "dịch vụ vi tính, quán internet"
+    }
+]
