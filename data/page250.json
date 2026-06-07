@@ -1,0 +1,1402 @@
+[
+    {
+        "id": 1,
+        "hanzi": "도금",
+        "pinyin": "dogeum",
+        "meaning": "xi mạ, mạ điện",
+        "example": ""
+    },
+    {
+        "id": 2,
+        "hanzi": "전기도금",
+        "pinyin": "jeongidogeum",
+        "meaning": "mạ điện",
+        "example": ""
+    },
+    {
+        "id": 3,
+        "hanzi": "양극산화",
+        "pinyin": "yanggeuksanhwa",
+        "meaning": "anodizing, oxy hóa anot",
+        "example": ""
+    },
+    {
+        "id": 4,
+        "hanzi": "경질 아노다이징",
+        "pinyin": "gyeongjil anodaijing",
+        "meaning": "hard anodizing, anod cứng",
+        "example": ""
+    },
+    {
+        "id": 5,
+        "hanzi": "도금 라인",
+        "pinyin": "dogeum rain",
+        "meaning": "dây chuyền xi mạ",
+        "example": ""
+    },
+    {
+        "id": 6,
+        "hanzi": "처리조",
+        "pinyin": "cheorijo",
+        "meaning": "bể xử lý",
+        "example": ""
+    },
+    {
+        "id": 7,
+        "hanzi": "도금조",
+        "pinyin": "dogeumjo",
+        "meaning": "bể mạ",
+        "example": ""
+    },
+    {
+        "id": 8,
+        "hanzi": "탱크",
+        "pinyin": "taengkeu",
+        "meaning": "bể, tank",
+        "example": ""
+    },
+    {
+        "id": 9,
+        "hanzi": "탱크 덮개",
+        "pinyin": "taengkeu deopgae",
+        "meaning": "tank cover, nắp bể",
+        "example": ""
+    },
+    {
+        "id": 10,
+        "hanzi": "탱크 순서",
+        "pinyin": "taengkeu sunseo",
+        "meaning": "tank sequence, thứ tự bể",
+        "example": ""
+    },
+    {
+        "id": 11,
+        "hanzi": "플라이바",
+        "pinyin": "peullaiba",
+        "meaning": "flybar",
+        "example": ""
+    },
+    {
+        "id": 12,
+        "hanzi": "플라이바 겹침",
+        "pinyin": "peullaiba gyeopchim",
+        "meaning": "overlap flybar, flybar chồng lấn",
+        "example": ""
+    },
+    {
+        "id": 13,
+        "hanzi": "치구",
+        "pinyin": "chigu",
+        "meaning": "jig, đồ gá",
+        "example": ""
+    },
+    {
+        "id": 14,
+        "hanzi": "제품 투입",
+        "pinyin": "jepum tuip",
+        "meaning": "nạp hàng, đưa hàng vào",
+        "example": ""
+    },
+    {
+        "id": 15,
+        "hanzi": "제품 하강",
+        "pinyin": "jepum hagang",
+        "meaning": "hạ hàng",
+        "example": ""
+    },
+    {
+        "id": 16,
+        "hanzi": "제품 상승",
+        "pinyin": "jepum sangseung",
+        "meaning": "nâng hàng lên",
+        "example": ""
+    },
+    {
+        "id": 17,
+        "hanzi": "DI 린스",
+        "pinyin": "DI rinseu",
+        "meaning": "DI Rinse, rửa nước DI",
+        "example": ""
+    },
+    {
+        "id": 18,
+        "hanzi": "침적 세정",
+        "pinyin": "chimjeok sejeong",
+        "meaning": "Soak Cleaning, ngâm tẩy rửa",
+        "example": ""
+    },
+    {
+        "id": 19,
+        "hanzi": "스프레이 린스",
+        "pinyin": "seupeurei rinseu",
+        "meaning": "Spray Rinse, rửa phun",
+        "example": ""
+    },
+    {
+        "id": 20,
+        "hanzi": "보일링 실링",
+        "pinyin": "boilling silling",
+        "meaning": "Boiler\/Boiling sealing, sealing nhiệt",
+        "example": ""
+    },
+    {
+        "id": 21,
+        "hanzi": "봉공",
+        "pinyin": "bonggong",
+        "meaning": "sealing, bịt kín lỗ anod",
+        "example": ""
+    },
+    {
+        "id": 22,
+        "hanzi": "모터",
+        "pinyin": "moteo",
+        "meaning": "động cơ",
+        "example": ""
+    },
+    {
+        "id": 23,
+        "hanzi": "히터",
+        "pinyin": "hiteo",
+        "meaning": "heater, gia nhiệt",
+        "example": ""
+    },
+    {
+        "id": 24,
+        "hanzi": "보일러",
+        "pinyin": "boilleo",
+        "meaning": "boiler",
+        "example": ""
+    },
+    {
+        "id": 25,
+        "hanzi": "칠러",
+        "pinyin": "chilleo",
+        "meaning": "chiller",
+        "example": ""
+    },
+    {
+        "id": 26,
+        "hanzi": "스크러버",
+        "pinyin": "seukeureobeo",
+        "meaning": "scrubber",
+        "example": ""
+    },
+    {
+        "id": 27,
+        "hanzi": "순환펌프",
+        "pinyin": "sunhwan peompeu",
+        "meaning": "bơm tuần hoàn",
+        "example": ""
+    },
+    {
+        "id": 28,
+        "hanzi": "스프레이 펌프",
+        "pinyin": "seupeurei peompeu",
+        "meaning": "bơm xịt, bơm phun",
+        "example": ""
+    },
+    {
+        "id": 29,
+        "hanzi": "펌프",
+        "pinyin": "peompeu",
+        "meaning": "bơm",
+        "example": ""
+    },
+    {
+        "id": 30,
+        "hanzi": "솔레노이드 밸브",
+        "pinyin": "solle noideu baelbeu",
+        "meaning": "van điện từ",
+        "example": ""
+    },
+    {
+        "id": 31,
+        "hanzi": "볼 밸브",
+        "pinyin": "bol baelbeu",
+        "meaning": "van bi",
+        "example": ""
+    },
+    {
+        "id": 32,
+        "hanzi": "배수 밸브",
+        "pinyin": "baesu baelbeu",
+        "meaning": "van xả",
+        "example": ""
+    },
+    {
+        "id": 33,
+        "hanzi": "바이패스 밸브",
+        "pinyin": "baipaeseu baelbeu",
+        "meaning": "bypass valve",
+        "example": ""
+    },
+    {
+        "id": 34,
+        "hanzi": "실린더",
+        "pinyin": "sillindeo",
+        "meaning": "cylinder, xy lanh",
+        "example": ""
+    },
+    {
+        "id": 35,
+        "hanzi": "에어 실린더",
+        "pinyin": "eeo sillindeo",
+        "meaning": "xy lanh khí nén",
+        "example": ""
+    },
+    {
+        "id": 36,
+        "hanzi": "호이스트",
+        "pinyin": "hoiseuteu",
+        "meaning": "tời, hoist",
+        "example": ""
+    },
+    {
+        "id": 37,
+        "hanzi": "이동 대차",
+        "pinyin": "idong daecha",
+        "meaning": "xe di động, mobile car",
+        "example": ""
+    },
+    {
+        "id": 38,
+        "hanzi": "체인",
+        "pinyin": "chein",
+        "meaning": "dây xích, xích",
+        "example": ""
+    },
+    {
+        "id": 39,
+        "hanzi": "엔코더",
+        "pinyin": "enkodeo",
+        "meaning": "encoder",
+        "example": ""
+    },
+    {
+        "id": 40,
+        "hanzi": "롤러",
+        "pinyin": "rolleo",
+        "meaning": "roller, con lăn",
+        "example": ""
+    },
+    {
+        "id": 41,
+        "hanzi": "벨트",
+        "pinyin": "belteu",
+        "meaning": "belt, dây đai",
+        "example": ""
+    },
+    {
+        "id": 42,
+        "hanzi": "컨테이너",
+        "pinyin": "keonteineo",
+        "meaning": "container",
+        "example": ""
+    },
+    {
+        "id": 43,
+        "hanzi": "지게차",
+        "pinyin": "jigecha",
+        "meaning": "xe nâng",
+        "example": ""
+    },
+    {
+        "id": 44,
+        "hanzi": "컴퓨터",
+        "pinyin": "keompyuteo",
+        "meaning": "máy tính",
+        "example": ""
+    },
+    {
+        "id": 45,
+        "hanzi": "터치 패널",
+        "pinyin": "teochi paeneol",
+        "meaning": "màn hình cảm ứng, HMI",
+        "example": ""
+    },
+    {
+        "id": 46,
+        "hanzi": "HMI",
+        "pinyin": "HMI",
+        "meaning": "màn hình cảm ứng HMI",
+        "example": ""
+    },
+    {
+        "id": 47,
+        "hanzi": "원격조종기",
+        "pinyin": "wongyeok jojonggi",
+        "meaning": "bộ điều khiển từ xa",
+        "example": ""
+    },
+    {
+        "id": 48,
+        "hanzi": "전선",
+        "pinyin": "jeonseon",
+        "meaning": "dây điện",
+        "example": ""
+    },
+    {
+        "id": 49,
+        "hanzi": "제어 케이블",
+        "pinyin": "jeeokeibeul",
+        "meaning": "dây điều khiển",
+        "example": ""
+    },
+    {
+        "id": 50,
+        "hanzi": "인버터",
+        "pinyin": "inbeoteo",
+        "meaning": "biến tần",
+        "example": ""
+    },
+    {
+        "id": 51,
+        "hanzi": "전자접촉기",
+        "pinyin": "jeonjajeopchokgi",
+        "meaning": "contactor",
+        "example": ""
+    },
+    {
+        "id": 52,
+        "hanzi": "차단기",
+        "pinyin": "chadangi",
+        "meaning": "aptomat, circuit breaker",
+        "example": ""
+    },
+    {
+        "id": 53,
+        "hanzi": "릴레이",
+        "pinyin": "rillaei",
+        "meaning": "rơ le",
+        "example": ""
+    },
+    {
+        "id": 54,
+        "hanzi": "베어링",
+        "pinyin": "beeoring",
+        "meaning": "vòng bi",
+        "example": ""
+    },
+    {
+        "id": 55,
+        "hanzi": "정류기",
+        "pinyin": "jeongnyugi",
+        "meaning": "chỉnh lưu, rectifier",
+        "example": ""
+    },
+    {
+        "id": 56,
+        "hanzi": "전류",
+        "pinyin": "jeollyu",
+        "meaning": "dòng điện",
+        "example": ""
+    },
+    {
+        "id": 57,
+        "hanzi": "전압",
+        "pinyin": "jeonap",
+        "meaning": "điện áp",
+        "example": ""
+    },
+    {
+        "id": 58,
+        "hanzi": "암페어시",
+        "pinyin": "ampeeosi",
+        "meaning": "ampere hour",
+        "example": ""
+    },
+    {
+        "id": 59,
+        "hanzi": "전원공급장치",
+        "pinyin": "jeonwon gonggeup jangchi",
+        "meaning": "bộ nguồn, power supply",
+        "example": ""
+    },
+    {
+        "id": 60,
+        "hanzi": "PLC",
+        "pinyin": "PLC",
+        "meaning": "PLC, bộ điều khiển lập trình",
+        "example": ""
+    },
+    {
+        "id": 61,
+        "hanzi": "아날로그",
+        "pinyin": "anallogeu",
+        "meaning": "analog",
+        "example": ""
+    },
+    {
+        "id": 62,
+        "hanzi": "디지털",
+        "pinyin": "dijiteol",
+        "meaning": "digital",
+        "example": ""
+    },
+    {
+        "id": 63,
+        "hanzi": "신호",
+        "pinyin": "sinho",
+        "meaning": "signal, tín hiệu",
+        "example": ""
+    },
+    {
+        "id": 64,
+        "hanzi": "송신",
+        "pinyin": "songsin",
+        "meaning": "send, gửi tín hiệu",
+        "example": ""
+    },
+    {
+        "id": 65,
+        "hanzi": "수신",
+        "pinyin": "susin",
+        "meaning": "received, nhận tín hiệu",
+        "example": ""
+    },
+    {
+        "id": 66,
+        "hanzi": "물",
+        "pinyin": "mul",
+        "meaning": "nước",
+        "example": ""
+    },
+    {
+        "id": 67,
+        "hanzi": "화학약품",
+        "pinyin": "hwahak yappum",
+        "meaning": "hóa chất",
+        "example": ""
+    },
+    {
+        "id": 68,
+        "hanzi": "약품",
+        "pinyin": "yappum",
+        "meaning": "hóa chất, thuốc",
+        "example": ""
+    },
+    {
+        "id": 69,
+        "hanzi": "산",
+        "pinyin": "san",
+        "meaning": "acid, axit",
+        "example": ""
+    },
+    {
+        "id": 70,
+        "hanzi": "알칼리",
+        "pinyin": "alkalli",
+        "meaning": "kiềm, alkali",
+        "example": ""
+    },
+    {
+        "id": 71,
+        "hanzi": "pH",
+        "pinyin": "pH",
+        "meaning": "độ pH",
+        "example": ""
+    },
+    {
+        "id": 72,
+        "hanzi": "급수",
+        "pinyin": "geupsu",
+        "meaning": "châm nước, cấp nước",
+        "example": ""
+    },
+    {
+        "id": 73,
+        "hanzi": "물 보충",
+        "pinyin": "mul bochung",
+        "meaning": "thêm nước",
+        "example": ""
+    },
+    {
+        "id": 74,
+        "hanzi": "오버플로",
+        "pinyin": "obeopeullo",
+        "meaning": "tràn nước, overflow",
+        "example": ""
+    },
+    {
+        "id": 75,
+        "hanzi": "격벽",
+        "pinyin": "gyeokbyeok",
+        "meaning": "vách ngăn",
+        "example": ""
+    },
+    {
+        "id": 76,
+        "hanzi": "레벨 센서",
+        "pinyin": "rebel senseo",
+        "meaning": "cảm biến mức",
+        "example": ""
+    },
+    {
+        "id": 77,
+        "hanzi": "수위 센서",
+        "pinyin": "suwi senseo",
+        "meaning": "cảm biến mức nước",
+        "example": ""
+    },
+    {
+        "id": 78,
+        "hanzi": "플로트 센서",
+        "pinyin": "peulloteu senseo",
+        "meaning": "float sensor",
+        "example": ""
+    },
+    {
+        "id": 79,
+        "hanzi": "물받이 트레이",
+        "pinyin": "mulbaji teurei",
+        "meaning": "khay hứng nước",
+        "example": ""
+    },
+    {
+        "id": 80,
+        "hanzi": "물 배관",
+        "pinyin": "mul baegwan",
+        "meaning": "ống nước",
+        "example": ""
+    },
+    {
+        "id": 81,
+        "hanzi": "공기 배관",
+        "pinyin": "gonggi baegwan",
+        "meaning": "ống gió, ống khí",
+        "example": ""
+    },
+    {
+        "id": 82,
+        "hanzi": "덕트",
+        "pinyin": "deokteu",
+        "meaning": "ống gió, duct",
+        "example": ""
+    },
+    {
+        "id": 83,
+        "hanzi": "급기 시스템",
+        "pinyin": "geupgi siseutem",
+        "meaning": "air supply system",
+        "example": ""
+    },
+    {
+        "id": 84,
+        "hanzi": "배기",
+        "pinyin": "baegi",
+        "meaning": "exhaust, thoát khí",
+        "example": ""
+    },
+    {
+        "id": 85,
+        "hanzi": "배기관",
+        "pinyin": "baegigwan",
+        "meaning": "exhaust pipe, ống xả khí",
+        "example": ""
+    },
+    {
+        "id": 86,
+        "hanzi": "압축공기",
+        "pinyin": "apchuk gonggi",
+        "meaning": "khí nén",
+        "example": ""
+    },
+    {
+        "id": 87,
+        "hanzi": "압력계",
+        "pinyin": "amnyeokgye",
+        "meaning": "đồng hồ áp suất",
+        "example": ""
+    },
+    {
+        "id": 88,
+        "hanzi": "계기",
+        "pinyin": "gyegi",
+        "meaning": "đồng hồ, thiết bị đo",
+        "example": ""
+    },
+    {
+        "id": 89,
+        "hanzi": "유량",
+        "pinyin": "yuryang",
+        "meaning": "lưu lượng",
+        "example": ""
+    },
+    {
+        "id": 90,
+        "hanzi": "유량계",
+        "pinyin": "yuryanggye",
+        "meaning": "đồng hồ lưu lượng",
+        "example": ""
+    },
+    {
+        "id": 91,
+        "hanzi": "온도",
+        "pinyin": "ondo",
+        "meaning": "nhiệt độ",
+        "example": ""
+    },
+    {
+        "id": 92,
+        "hanzi": "설정 온도",
+        "pinyin": "seoljeong ondo",
+        "meaning": "nhiệt độ cài đặt",
+        "example": ""
+    },
+    {
+        "id": 93,
+        "hanzi": "실제 온도",
+        "pinyin": "silje ondo",
+        "meaning": "nhiệt độ thực tế",
+        "example": ""
+    },
+    {
+        "id": 94,
+        "hanzi": "설정 전류",
+        "pinyin": "seoljeong jeollyu",
+        "meaning": "dòng điện cài đặt",
+        "example": ""
+    },
+    {
+        "id": 95,
+        "hanzi": "실제 전류",
+        "pinyin": "silje jeollyu",
+        "meaning": "dòng điện thực tế",
+        "example": ""
+    },
+    {
+        "id": 96,
+        "hanzi": "설정 전압",
+        "pinyin": "seoljeong jeonap",
+        "meaning": "điện áp cài đặt",
+        "example": ""
+    },
+    {
+        "id": 97,
+        "hanzi": "실제 전압",
+        "pinyin": "silje jeonap",
+        "meaning": "điện áp thực tế",
+        "example": ""
+    },
+    {
+        "id": 98,
+        "hanzi": "실시간",
+        "pinyin": "silsigan",
+        "meaning": "real time",
+        "example": ""
+    },
+    {
+        "id": 99,
+        "hanzi": "설정 시간",
+        "pinyin": "seoljeong sigan",
+        "meaning": "set time, thời gian cài đặt",
+        "example": ""
+    },
+    {
+        "id": 100,
+        "hanzi": "시간",
+        "pinyin": "sigan",
+        "meaning": "time, thời gian",
+        "example": ""
+    },
+    {
+        "id": 101,
+        "hanzi": "속도",
+        "pinyin": "sokdo",
+        "meaning": "speed, tốc độ",
+        "example": ""
+    },
+    {
+        "id": 102,
+        "hanzi": "단계",
+        "pinyin": "dangye",
+        "meaning": "step, bước",
+        "example": ""
+    },
+    {
+        "id": 103,
+        "hanzi": "목표값",
+        "pinyin": "mokpyogap",
+        "meaning": "target, giá trị mục tiêu",
+        "example": ""
+    },
+    {
+        "id": 104,
+        "hanzi": "위치",
+        "pinyin": "wichi",
+        "meaning": "position, vị trí",
+        "example": ""
+    },
+    {
+        "id": 105,
+        "hanzi": "현재 위치",
+        "pinyin": "hyeonjae wichi",
+        "meaning": "vị trí hiện tại",
+        "example": ""
+    },
+    {
+        "id": 106,
+        "hanzi": "상태",
+        "pinyin": "sangtae",
+        "meaning": "trạng thái",
+        "example": ""
+    },
+    {
+        "id": 107,
+        "hanzi": "우선순위",
+        "pinyin": "useonsunwi",
+        "meaning": "ưu tiên, độ ưu tiên",
+        "example": ""
+    },
+    {
+        "id": 108,
+        "hanzi": "제어",
+        "pinyin": "jeeo",
+        "meaning": "điều khiển",
+        "example": ""
+    },
+    {
+        "id": 109,
+        "hanzi": "제어반",
+        "pinyin": "jeeoban",
+        "meaning": "tủ điện, tủ điều khiển",
+        "example": ""
+    },
+    {
+        "id": 110,
+        "hanzi": "모드",
+        "pinyin": "modeu",
+        "meaning": "chế độ",
+        "example": ""
+    },
+    {
+        "id": 111,
+        "hanzi": "자동",
+        "pinyin": "jadong",
+        "meaning": "tự động",
+        "example": ""
+    },
+    {
+        "id": 112,
+        "hanzi": "수동",
+        "pinyin": "sudong",
+        "meaning": "thủ công",
+        "example": ""
+    },
+    {
+        "id": 113,
+        "hanzi": "조그 모드",
+        "pinyin": "jogeu modeu",
+        "meaning": "jog mode",
+        "example": ""
+    },
+    {
+        "id": 114,
+        "hanzi": "알람",
+        "pinyin": "allam",
+        "meaning": "alarm, cảnh báo",
+        "example": ""
+    },
+    {
+        "id": 115,
+        "hanzi": "경보",
+        "pinyin": "gyeongbo",
+        "meaning": "báo động",
+        "example": ""
+    },
+    {
+        "id": 116,
+        "hanzi": "기록",
+        "pinyin": "girok",
+        "meaning": "record, ghi chép",
+        "example": ""
+    },
+    {
+        "id": 117,
+        "hanzi": "예비",
+        "pinyin": "yebi",
+        "meaning": "dự phòng",
+        "example": ""
+    },
+    {
+        "id": 118,
+        "hanzi": "바이패스",
+        "pinyin": "baipaeseu",
+        "meaning": "bypass",
+        "example": ""
+    },
+    {
+        "id": 119,
+        "hanzi": "에어컨",
+        "pinyin": "eeokeon",
+        "meaning": "điều hòa",
+        "example": ""
+    },
+    {
+        "id": 120,
+        "hanzi": "냉각",
+        "pinyin": "naenggak",
+        "meaning": "lạnh, làm lạnh",
+        "example": ""
+    },
+    {
+        "id": 121,
+        "hanzi": "가열",
+        "pinyin": "gayeol",
+        "meaning": "nóng, gia nhiệt",
+        "example": ""
+    },
+    {
+        "id": 122,
+        "hanzi": "과열",
+        "pinyin": "gwayeol",
+        "meaning": "quá nhiệt",
+        "example": ""
+    },
+    {
+        "id": 123,
+        "hanzi": "부정확한",
+        "pinyin": "bujeonghwakan",
+        "meaning": "không chính xác",
+        "example": ""
+    },
+    {
+        "id": 124,
+        "hanzi": "정확한",
+        "pinyin": "jeonghwakan",
+        "meaning": "chính xác",
+        "example": ""
+    },
+    {
+        "id": 125,
+        "hanzi": "활성화",
+        "pinyin": "hwalseonghwa",
+        "meaning": "enable",
+        "example": ""
+    },
+    {
+        "id": 126,
+        "hanzi": "비활성화",
+        "pinyin": "bihwalseonghwa",
+        "meaning": "disable",
+        "example": ""
+    },
+    {
+        "id": 127,
+        "hanzi": "온도 그래프",
+        "pinyin": "ondo geuraepeu",
+        "meaning": "biểu đồ nhiệt độ",
+        "example": ""
+    },
+    {
+        "id": 128,
+        "hanzi": "전류 그래프",
+        "pinyin": "jeollyu geuraepeu",
+        "meaning": "biểu đồ dòng điện",
+        "example": ""
+    },
+    {
+        "id": 129,
+        "hanzi": "안전",
+        "pinyin": "anjeon",
+        "meaning": "an toàn",
+        "example": ""
+    },
+    {
+        "id": 130,
+        "hanzi": "충돌방지",
+        "pinyin": "chungdol bangji",
+        "meaning": "chống va chạm",
+        "example": ""
+    },
+    {
+        "id": 131,
+        "hanzi": "라이트 커튼",
+        "pinyin": "raiteu keoteun",
+        "meaning": "light curtain",
+        "example": ""
+    },
+    {
+        "id": 132,
+        "hanzi": "과부하",
+        "pinyin": "gwabuha",
+        "meaning": "quá tải",
+        "example": ""
+    },
+    {
+        "id": 133,
+        "hanzi": "인버터 이상",
+        "pinyin": "inbeoteo isang",
+        "meaning": "lỗi biến tần",
+        "example": ""
+    },
+    {
+        "id": 134,
+        "hanzi": "상한 리미트",
+        "pinyin": "sanghan rimiteu",
+        "meaning": "giới hạn trên",
+        "example": ""
+    },
+    {
+        "id": 135,
+        "hanzi": "하한 리미트",
+        "pinyin": "hahan rimiteu",
+        "meaning": "giới hạn dưới",
+        "example": ""
+    },
+    {
+        "id": 136,
+        "hanzi": "황색등",
+        "pinyin": "hwangsaekdeung",
+        "meaning": "đèn vàng",
+        "example": ""
+    },
+    {
+        "id": 137,
+        "hanzi": "적색등",
+        "pinyin": "jeoksaekdeung",
+        "meaning": "đèn đỏ",
+        "example": ""
+    },
+    {
+        "id": 138,
+        "hanzi": "녹색등",
+        "pinyin": "noksaekdeung",
+        "meaning": "đèn xanh",
+        "example": ""
+    },
+    {
+        "id": 139,
+        "hanzi": "신호등",
+        "pinyin": "sinhodeung",
+        "meaning": "đèn tín hiệu",
+        "example": ""
+    },
+    {
+        "id": 140,
+        "hanzi": "표시등",
+        "pinyin": "pyosideung",
+        "meaning": "đèn báo, running light",
+        "example": ""
+    },
+    {
+        "id": 141,
+        "hanzi": "부저",
+        "pinyin": "bujeo",
+        "meaning": "buzzer",
+        "example": ""
+    },
+    {
+        "id": 142,
+        "hanzi": "비상정지 버튼",
+        "pinyin": "bisangjeongji beoteun",
+        "meaning": "nút dừng khẩn cấp",
+        "example": ""
+    },
+    {
+        "id": 143,
+        "hanzi": "정지 버튼",
+        "pinyin": "jeongji beoteun",
+        "meaning": "nút dừng",
+        "example": ""
+    },
+    {
+        "id": 144,
+        "hanzi": "일시정지 버튼",
+        "pinyin": "ilsijeongji beoteun",
+        "meaning": "suspend button, nút tạm dừng",
+        "example": ""
+    },
+    {
+        "id": 145,
+        "hanzi": "리셋 버튼",
+        "pinyin": "riset beoteun",
+        "meaning": "reset button",
+        "example": ""
+    },
+    {
+        "id": 146,
+        "hanzi": "고장 리셋",
+        "pinyin": "gojang riset",
+        "meaning": "fault reset",
+        "example": ""
+    },
+    {
+        "id": 147,
+        "hanzi": "프로그램 리셋",
+        "pinyin": "peurogeuraem riset",
+        "meaning": "program reset",
+        "example": ""
+    },
+    {
+        "id": 148,
+        "hanzi": "자동 해제",
+        "pinyin": "jadong haeje",
+        "meaning": "exit auto, thoát tự động",
+        "example": ""
+    },
+    {
+        "id": 149,
+        "hanzi": "보호",
+        "pinyin": "boho",
+        "meaning": "bảo vệ",
+        "example": ""
+    },
+    {
+        "id": 150,
+        "hanzi": "열 퓨즈",
+        "pinyin": "yeol pyujeu",
+        "meaning": "thermal fuse",
+        "example": ""
+    },
+    {
+        "id": 151,
+        "hanzi": "스위치",
+        "pinyin": "seuwichi",
+        "meaning": "công tắc, switch on\/off",
+        "example": ""
+    },
+    {
+        "id": 152,
+        "hanzi": "푸시버튼",
+        "pinyin": "pushibeoteun",
+        "meaning": "nút ấn",
+        "example": ""
+    },
+    {
+        "id": 153,
+        "hanzi": "열기",
+        "pinyin": "yeolgi",
+        "meaning": "open, mở",
+        "example": ""
+    },
+    {
+        "id": 154,
+        "hanzi": "닫기",
+        "pinyin": "datgi",
+        "meaning": "close, đóng",
+        "example": ""
+    },
+    {
+        "id": 155,
+        "hanzi": "정지",
+        "pinyin": "jeongji",
+        "meaning": "dừng",
+        "example": ""
+    },
+    {
+        "id": 156,
+        "hanzi": "이동",
+        "pinyin": "idong",
+        "meaning": "di chuyển",
+        "example": ""
+    },
+    {
+        "id": 157,
+        "hanzi": "올리기",
+        "pinyin": "olligi",
+        "meaning": "nâng lên",
+        "example": ""
+    },
+    {
+        "id": 158,
+        "hanzi": "내리기",
+        "pinyin": "naerigi",
+        "meaning": "hạ xuống",
+        "example": ""
+    },
+    {
+        "id": 159,
+        "hanzi": "왼쪽",
+        "pinyin": "oenjjok",
+        "meaning": "sang trái",
+        "example": ""
+    },
+    {
+        "id": 160,
+        "hanzi": "오른쪽",
+        "pinyin": "oreunjjok",
+        "meaning": "sang phải",
+        "example": ""
+    },
+    {
+        "id": 161,
+        "hanzi": "시작",
+        "pinyin": "sijak",
+        "meaning": "bắt đầu",
+        "example": ""
+    },
+    {
+        "id": 162,
+        "hanzi": "운전",
+        "pinyin": "unjeon",
+        "meaning": "vận hành, chạy máy",
+        "example": ""
+    },
+    {
+        "id": 163,
+        "hanzi": "점검",
+        "pinyin": "jeomgeom",
+        "meaning": "kiểm tra",
+        "example": ""
+    },
+    {
+        "id": 164,
+        "hanzi": "유지보수",
+        "pinyin": "yujibosu",
+        "meaning": "bảo trì",
+        "example": ""
+    },
+    {
+        "id": 165,
+        "hanzi": "볼트",
+        "pinyin": "bolteu",
+        "meaning": "bu lông",
+        "example": ""
+    },
+    {
+        "id": 166,
+        "hanzi": "너트",
+        "pinyin": "neoteu",
+        "meaning": "ốc vít, đai ốc",
+        "example": ""
+    },
+    {
+        "id": 167,
+        "hanzi": "나사",
+        "pinyin": "nasa",
+        "meaning": "vít",
+        "example": ""
+    },
+    {
+        "id": 168,
+        "hanzi": "드라이버",
+        "pinyin": "deuraibeo",
+        "meaning": "tuốc nơ vít",
+        "example": ""
+    },
+    {
+        "id": 169,
+        "hanzi": "철제 프레임",
+        "pinyin": "cheolje peur eim",
+        "meaning": "khung sắt",
+        "example": ""
+    },
+    {
+        "id": 170,
+        "hanzi": "V형 동 받침대",
+        "pinyin": "V-hyeong dong batchimdae",
+        "meaning": "gối đồng chữ V",
+        "example": ""
+    },
+    {
+        "id": 171,
+        "hanzi": "센서",
+        "pinyin": "senseo",
+        "meaning": "cảm biến",
+        "example": ""
+    },
+    {
+        "id": 172,
+        "hanzi": "근접 센서",
+        "pinyin": "geunjeop senseo",
+        "meaning": "cảm biến tiệm cận",
+        "example": ""
+    },
+    {
+        "id": 173,
+        "hanzi": "광전 센서",
+        "pinyin": "gwangjeon senseo",
+        "meaning": "cảm biến quang",
+        "example": ""
+    },
+    {
+        "id": 174,
+        "hanzi": "위치 센서",
+        "pinyin": "wichi senseo",
+        "meaning": "cảm biến vị trí",
+        "example": ""
+    },
+    {
+        "id": 175,
+        "hanzi": "안전 센서",
+        "pinyin": "anjeon senseo",
+        "meaning": "cảm biến an toàn",
+        "example": ""
+    },
+    {
+        "id": 176,
+        "hanzi": "수위",
+        "pinyin": "suwi",
+        "meaning": "mức nước",
+        "example": ""
+    },
+    {
+        "id": 177,
+        "hanzi": "부족합니다",
+        "pinyin": "bujokhamnida",
+        "meaning": "không đủ",
+        "example": ""
+    },
+    {
+        "id": 178,
+        "hanzi": "충분합니다",
+        "pinyin": "chungbunhamnida",
+        "meaning": "đủ rồi",
+        "example": ""
+    },
+    {
+        "id": 179,
+        "hanzi": "프로그램",
+        "pinyin": "peurogeuraem",
+        "meaning": "chương trình",
+        "example": ""
+    },
+    {
+        "id": 180,
+        "hanzi": "레시피",
+        "pinyin": "resipi",
+        "meaning": "công thức, recipe",
+        "example": ""
+    },
+    {
+        "id": 181,
+        "hanzi": "파라미터",
+        "pinyin": "paramiteo",
+        "meaning": "tham số",
+        "example": ""
+    },
+    {
+        "id": 182,
+        "hanzi": "수동 운전",
+        "pinyin": "sudong unjeon",
+        "meaning": "chạy tay, vận hành thủ công",
+        "example": ""
+    },
+    {
+        "id": 183,
+        "hanzi": "자동 운전",
+        "pinyin": "jadong unjeon",
+        "meaning": "chạy tự động",
+        "example": ""
+    },
+    {
+        "id": 184,
+        "hanzi": "온도 이상",
+        "pinyin": "ondo isang",
+        "meaning": "lỗi nhiệt độ",
+        "example": ""
+    },
+    {
+        "id": 185,
+        "hanzi": "수위 부족",
+        "pinyin": "suwi bujok",
+        "meaning": "thiếu mức nước",
+        "example": ""
+    },
+    {
+        "id": 186,
+        "hanzi": "약품 보충",
+        "pinyin": "yappum bochung",
+        "meaning": "châm thêm hóa chất",
+        "example": ""
+    },
+    {
+        "id": 187,
+        "hanzi": "배기 팬",
+        "pinyin": "baegi paen",
+        "meaning": "quạt exhaust",
+        "example": ""
+    },
+    {
+        "id": 188,
+        "hanzi": "급기 팬",
+        "pinyin": "geupgi paen",
+        "meaning": "quạt cấp gió",
+        "example": ""
+    },
+    {
+        "id": 189,
+        "hanzi": "세정탑",
+        "pinyin": "sejeongtap",
+        "meaning": "scrubber, tháp rửa khí",
+        "example": ""
+    },
+    {
+        "id": 190,
+        "hanzi": "배수",
+        "pinyin": "baesu",
+        "meaning": "xả nước",
+        "example": ""
+    },
+    {
+        "id": 191,
+        "hanzi": "급액",
+        "pinyin": "geubaek",
+        "meaning": "cấp dung dịch",
+        "example": ""
+    },
+    {
+        "id": 192,
+        "hanzi": "순수",
+        "pinyin": "sunsu",
+        "meaning": "nước DI, nước tinh khiết",
+        "example": ""
+    },
+    {
+        "id": 193,
+        "hanzi": "전류 밀도",
+        "pinyin": "jeollyu mildo",
+        "meaning": "mật độ dòng điện",
+        "example": ""
+    },
+    {
+        "id": 194,
+        "hanzi": "전해액",
+        "pinyin": "jeonhaeaek",
+        "meaning": "dung dịch điện phân",
+        "example": ""
+    },
+    {
+        "id": 195,
+        "hanzi": "약품 탱크",
+        "pinyin": "yappum taengkeu",
+        "meaning": "bồn hóa chất",
+        "example": ""
+    },
+    {
+        "id": 196,
+        "hanzi": "배기 덕트",
+        "pinyin": "baegi deokteu",
+        "meaning": "ống gió xả",
+        "example": ""
+    },
+    {
+        "id": 197,
+        "hanzi": "급기 덕트",
+        "pinyin": "geupgi deokteu",
+        "meaning": "ống gió cấp",
+        "example": ""
+    },
+    {
+        "id": 198,
+        "hanzi": "신호 램프",
+        "pinyin": "sinho raempeu",
+        "meaning": "đèn tín hiệu",
+        "example": ""
+    },
+    {
+        "id": 199,
+        "hanzi": "동작 표시",
+        "pinyin": "dongjak pyosi",
+        "meaning": "running light, đèn chạy\/trạng thái hoạt động",
+        "example": ""
+    },
+    {
+        "id": 200,
+        "hanzi": "운전 표시등",
+        "pinyin": "unjeon pyosideung",
+        "meaning": "đèn báo chạy máy",
+        "example": ""
+    }
+]
