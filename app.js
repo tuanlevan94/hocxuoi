@@ -76,6 +76,21 @@ let timerStartedAt = null;     // epoch ms khi start/resume
 let inactivityTimeout = null;  // auto stop
 let timerLastTouchAt = null;   // lần “chạm” cuối (start/hint/ok/skip)
 let timerLastSavedSec = -1;    // để tránh save quá dày
+const IDLE_MS = 15000;         // không chạm gì quá 15s -> coi như ngừng học
+
+// Thời điểm cuối cùng còn được tính là "đang học"
+function activeUntil(){
+  const lastTouch = timerLastTouchAt != null ? timerLastTouchAt : timerStartedAt;
+  return lastTouch + IDLE_MS;
+}
+
+// "Bây giờ" nhưng bị chặn trên bởi activeUntil().
+// iOS đóng băng JS khi tắt màn hình / thoát Safari, nên setTimeout auto-stop
+// không chạy đúng giờ. Chặn ở đây thì dù JS bị đóng băng bao lâu,
+// thời gian cũng không bị cộng dư.
+function effectiveNow(){
+  return Math.min(Date.now(), activeUntil());
+}
 
 function pad2(n){ return String(n).padStart(2, "0"); }
 
@@ -89,7 +104,7 @@ function formatTime(ms){
 
 function getElapsedMs(){
   if (timerStartedAt == null) return timerBaseMs;
-  return timerBaseMs + (Date.now() - timerStartedAt);
+  return timerBaseMs + Math.max(0, effectiveNow() - timerStartedAt);
 }
 
 function persistTimer(){
@@ -122,7 +137,7 @@ function clearAutoStop(){
   }
 }
 
-function armAutoStop(remainingMs = 15000){
+function armAutoStop(remainingMs = IDLE_MS){
   clearAutoStop();
   inactivityTimeout = setTimeout(() => {
     stopTimer();
@@ -139,14 +154,14 @@ function startTimer(){
   timerInterval = setInterval(renderTimer, 250);
 
   renderTimer();
-  const remain = 15000 - (now - timerLastTouchAt);
+  const remain = IDLE_MS - (now - timerLastTouchAt);
   armAutoStop(remain);
   persistTimer();
 }
 
 function stopTimer(){
   if (timerStartedAt != null){
-    timerBaseMs += (Date.now() - timerStartedAt);
+    timerBaseMs += Math.max(0, effectiveNow() - timerStartedAt);
     timerStartedAt = null;
   }
   if (timerInterval){
@@ -176,13 +191,18 @@ function resetTimer(andStart = false){
 }
 
 function touchTimer(){
-  const now = Date.now();
-  timerLastTouchAt = now;
+  // Đang "chạy" nhưng thực ra đã quá 15s không chạm (JS bị đóng băng nên
+  // auto-stop chưa kịp chạy) -> chốt thời gian tới mốc 15s trước đã
+  if (timerStartedAt != null && Date.now() > activeUntil()){
+    stopTimer();
+  }
 
-  if (timerInterval == null && timerStartedAt == null){
+  timerLastTouchAt = Date.now();
+
+  if (timerStartedAt == null){
     startTimer(); // đang dừng -> resume
   } else {
-    armAutoStop(15000); // đang chạy -> gia hạn 15s
+    armAutoStop(IDLE_MS); // đang chạy -> gia hạn 15s
   }
   persistTimer();
 }
@@ -207,34 +227,24 @@ function restoreTimerForPage(page){
   timerLastTouchAt = data.lastTouchAt != null ? Number(data.lastTouchAt) : null;
   timerLastSavedSec = -1;
 
-  const now = Date.now();
-
-  // Nếu trước đó đang chạy:
+  // Nếu lần trước đang chạy (vd Safari bị tắt ngang): chỉ cộng tới
+  // lần chạm cuối + 15s, không cộng khoảng thời gian bỏ đi
   if (timerStartedAt != null){
-    const stopAt = (timerLastTouchAt != null ? timerLastTouchAt : timerStartedAt) + 15000;
-
-    if (now >= stopAt){
-      // đáng ra đã auto-stop -> chỉ cộng tới stopAt (không cộng thêm idle)
-      timerBaseMs += Math.max(0, stopAt - timerStartedAt);
-      timerStartedAt = null;
-      renderTimer();
-      persistTimer();
-    } else {
-      // vẫn còn trong “15s hoạt động” -> tiếp tục chạy
-      timerBaseMs += Math.max(0, now - timerStartedAt);
-      timerStartedAt = null; // chuyển sang startTimer() để chạy tiếp mượt
-      renderTimer();
-      startTimer();
-    }
-  } else {
-    // trước đó đang dừng -> hiển thị, rồi start lại khi bấm Start
-    renderTimer();
+    timerBaseMs += Math.max(0, effectiveNow() - timerStartedAt);
+    timerStartedAt = null;
   }
+  renderTimer();
+  persistTimer();
 }
 
-// đảm bảo thoát tab vẫn lưu
+// Thoát web / khoá màn hình / chuyển app -> DỪNG timer ngay lập tức.
+// Quay lại thì timer chạy tiếp khi bạn bấm nút bất kỳ (gợi ý / đã thuộc / bỏ qua).
+document.addEventListener("visibilitychange", () => {
+  if (document.hidden) stopTimer();
+  else renderTimer();
+});
 window.addEventListener("pagehide", () => {
-  persistTimer();
+  stopTimer();
 });
 
 
@@ -302,6 +312,9 @@ async function start(){
   const page = parseInt(pageNoEl.value, 10);
   if(!page){ alert("Nhập số trang trước nhé!"); return; }
 
+  // chốt timer của trang đang học (nếu có) trước khi chuyển trang
+  stopTimer();
+
   // restore timer theo trang trước (để refresh không mất)
   restoreTimerForPage(page);
 
@@ -316,7 +329,7 @@ async function start(){
   pickNext();
 
   // BẮT ĐẦU HỌC -> bắt đầu/tiếp tục timer (không reset)
-  startTimer();
+  touchTimer();
 }
 
 
@@ -345,5 +358,3 @@ btnClear.addEventListener("click", () => {
 
   alert(`Đã xoá tiến độ + timer trang ${page}. Bấm BẮT ĐẦU HỌC để khởi tạo lại.`);
 });
-
-
