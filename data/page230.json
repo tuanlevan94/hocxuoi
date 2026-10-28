@@ -1,0 +1,1752 @@
+[
+    {
+        "id": 1,
+        "hanzi": "제 생각에는 그게 더 좋을 것 같아요",
+        "pinyin": "je saenggageneun geuge deo joeul geot gatayo",
+        "meaning": "Theo tôi thì cái đó có vẻ tốt hơn",
+        "example": "mẫu: 제 생각에는 (ý kiến)"
+    },
+    {
+        "id": 2,
+        "hanzi": "제 생각에는 이 방법이 제일 빠를 것 같아요",
+        "pinyin": "je saenggageneun i bangbeobi jeil ppareul geot gatayo",
+        "meaning": "Theo tôi thì cách này có lẽ nhanh nhất",
+        "example": "mẫu: 제 생각에는 … 것 같아요"
+    },
+    {
+        "id": 3,
+        "hanzi": "제 생각에는 조금 더 기다리는 게 좋을 것 같아요",
+        "pinyin": "je saenggageneun jogeum deo gidarineun ge joeul geot gatayo",
+        "meaning": "Theo tôi thì nên đợi thêm một chút",
+        "example": "mẫu: 제 생각에는 (ý kiến)"
+    },
+    {
+        "id": 4,
+        "hanzi": "제 생각에는 직접 만나서 얘기하는 게 좋을 것 같아요",
+        "pinyin": "je saenggageneun jikjeop mannaseo yaegihaneun ge joeul geot gatayo",
+        "meaning": "Theo tôi thì nên gặp trực tiếp để nói chuyện",
+        "example": "mẫu: 제 생각에는 (ý kiến)"
+    },
+    {
+        "id": 5,
+        "hanzi": "제 생각에는 처음부터 다시 하는 게 나을 것 같아요",
+        "pinyin": "je saenggageneun cheoeumbuteo dasi haneun ge naeul geot gatayo",
+        "meaning": "Theo tôi thì làm lại từ đầu sẽ tốt hơn",
+        "example": "mẫu: -는 게 나을 것 같아요"
+    },
+    {
+        "id": 6,
+        "hanzi": "제 생각에는 이번 달 안에 끝내기 어려울 것 같아요",
+        "pinyin": "je saenggageneun ibeon dal ane kkeunnaegi eoryeoul geot gatayo",
+        "meaning": "Theo tôi thì khó xong trong tháng này",
+        "example": "mẫu: 제 생각에는 … 것 같아요"
+    },
+    {
+        "id": 7,
+        "hanzi": "제가 보기에는 아직 준비가 부족한 것 같아요",
+        "pinyin": "jega bogieneun ajik junbiga bujokan geot gatayo",
+        "meaning": "Theo tôi thấy thì vẫn chuẩn bị chưa đủ",
+        "example": "mẫu: 제가 보기에는 (ý kiến)"
+    },
+    {
+        "id": 8,
+        "hanzi": "솔직히 말하면 저는 그 계획이 좀 어려울 것 같아요",
+        "pinyin": "soljiki malhamyeon jeoneun geu gyehoegi jom eoryeoul geot gatayo",
+        "meaning": "Nói thật thì tôi thấy kế hoạch đó hơi khó",
+        "example": "mẫu: 솔직히 말하면 (ý kiến)"
+    },
+    {
+        "id": 9,
+        "hanzi": "이 가격은 좀 비싼 것 같아요",
+        "pinyin": "i gagyeogeun jom bissan geot gatayo",
+        "meaning": "Tôi thấy giá này hơi đắt",
+        "example": "mẫu: -(으)ㄴ 것 같아요 (ý kiến)"
+    },
+    {
+        "id": 10,
+        "hanzi": "이 디자인이 더 깔끔한 것 같아요",
+        "pinyin": "i dijaini deo kkalkkeumhan geot gatayo",
+        "meaning": "Tôi thấy thiết kế này gọn gàng hơn",
+        "example": "mẫu: -(으)ㄴ 것 같아요 (ý kiến)"
+    },
+    {
+        "id": 11,
+        "hanzi": "그 사람 말이 맞는 것 같아요",
+        "pinyin": "geu saram mari manneun geot gatayo",
+        "meaning": "Tôi thấy người đó nói đúng",
+        "example": "mẫu: -는 것 같아요 (ý kiến)"
+    },
+    {
+        "id": 12,
+        "hanzi": "이 일은 혼자 하기에는 좀 많은 것 같아요",
+        "pinyin": "i ireun honja hagieneun jom maneun geot gatayo",
+        "meaning": "Việc này làm một mình thì có vẻ hơi nhiều",
+        "example": "mẫu: -기에는 … 것 같아요"
+    },
+    {
+        "id": 13,
+        "hanzi": "한국 사람들은 일을 정말 빨리 하는 것 같아요",
+        "pinyin": "hanguk saramdeureun ireul jeongmal ppalli haneun geot gatayo",
+        "meaning": "Tôi thấy người Hàn làm việc rất nhanh",
+        "example": "mẫu: -는 것 같아요 (nhận xét)"
+    },
+    {
+        "id": 14,
+        "hanzi": "베트남 사람들은 커피를 정말 좋아하는 것 같아요",
+        "pinyin": "beteunam saramdeureun keopireul jeongmal joahaneun geot gatayo",
+        "meaning": "Có vẻ người Việt rất thích cà phê",
+        "example": "mẫu: -는 것 같아요 (nhận xét)"
+    },
+    {
+        "id": 15,
+        "hanzi": "요즘 젊은 사람들은 결혼을 늦게 하는 것 같아요",
+        "pinyin": "yojeum jeolmeun saramdeureun gyeolhoneul neutge haneun geot gatayo",
+        "meaning": "Dạo này người trẻ có vẻ kết hôn muộn",
+        "example": "mẫu: -는 것 같아요 (nhận xét)"
+    },
+    {
+        "id": 16,
+        "hanzi": "이 계획에 대해서 어떻게 생각하세요?",
+        "pinyin": "i gyehoege daehaeseo eotteoke saenggakaseyo?",
+        "meaning": "Anh nghĩ sao về kế hoạch này?",
+        "example": "hỏi ý kiến: 에 대해서"
+    },
+    {
+        "id": 17,
+        "hanzi": "좋은 것 같은데 가격이 좀 걱정돼요",
+        "pinyin": "joeun geot gateunde gagyeogi jom geokjeongdwaeyo",
+        "meaning": "Có vẻ tốt nhưng tôi hơi lo về giá",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 18,
+        "hanzi": "회의를 다음 주로 미루는 게 어때요?",
+        "pinyin": "hoeuireul daeum juro miruneun ge eottaeyo?",
+        "meaning": "Dời cuộc họp sang tuần sau thì sao?",
+        "example": "đề xuất: -는 게 어때요?"
+    },
+    {
+        "id": 19,
+        "hanzi": "이 부분은 다시 확인해야 할 것 같아요",
+        "pinyin": "i bubuneun dasi hwaginhaeya hal geot gatayo",
+        "meaning": "Tôi nghĩ phần này cần kiểm tra lại",
+        "example": "mẫu: -아야/어야 할 것 같아요"
+    },
+    {
+        "id": 20,
+        "hanzi": "그 말도 맞지만 다른 방법도 있을 것 같아요",
+        "pinyin": "geu maldo matjiman dareun bangbeopdo isseul geot gatayo",
+        "meaning": "Nói vậy cũng đúng nhưng chắc còn cách khác",
+        "example": "mẫu: -지만 (ý kiến khác)"
+    },
+    {
+        "id": 21,
+        "hanzi": "저는 좀 반대예요, 위험할 수도 있으니까요",
+        "pinyin": "jeoneun jom bandaeyeyo, wiheomhal sudo isseunikkayo",
+        "meaning": "Tôi hơi phản đối, vì có thể nguy hiểm",
+        "example": "phản đối + -니까요 (lý do)"
+    },
+    {
+        "id": 22,
+        "hanzi": "개인적으로는 여름보다 겨울이 더 좋아요",
+        "pinyin": "gaeinjeogeuroneun yeoreumboda gyeouri deo joayo",
+        "meaning": "Cá nhân tôi thích mùa đông hơn mùa hè",
+        "example": "ý kiến cá nhân + 보다 더"
+    },
+    {
+        "id": 23,
+        "hanzi": "듣고 보니까 그 말이 맞네요",
+        "pinyin": "deutgo bonikka geu mari manneyo",
+        "meaning": "Nghe xong mới thấy câu đó đúng thật",
+        "example": "mẫu: -고 보니까 (nhận ra)"
+    },
+    {
+        "id": 24,
+        "hanzi": "차가 너무 막혀서 회사에 늦었어요",
+        "pinyin": "chaga neomu makyeoseo hoesae neujeosseoyo",
+        "meaning": "Vì kẹt xe quá nên tôi đến công ty muộn",
+        "example": "mẫu: -아서/어서 (lý do)"
+    },
+    {
+        "id": 25,
+        "hanzi": "어제 너무 피곤해서 일찍 잤어요",
+        "pinyin": "eoje neomu pigonhaeseo iljjik jasseoyo",
+        "meaning": "Hôm qua mệt quá nên tôi ngủ sớm",
+        "example": "mẫu: -아서/어서 (lý do)"
+    },
+    {
+        "id": 26,
+        "hanzi": "감기에 걸려서 오늘 회사에 못 갔어요",
+        "pinyin": "gamgie geollyeoseo oneul hoesae mot gasseoyo",
+        "meaning": "Vì bị cảm nên hôm nay tôi không đi làm được",
+        "example": "mẫu: -아서/어서 (lý do)"
+    },
+    {
+        "id": 27,
+        "hanzi": "한국 드라마를 좋아해서 한국어 공부를 시작했어요",
+        "pinyin": "hanguk deuramareul joahaeseo hangugeo gongbureul sijakaesseoyo",
+        "meaning": "Vì thích phim Hàn nên tôi bắt đầu học tiếng Hàn",
+        "example": "mẫu: -아서/어서 (lý do)"
+    },
+    {
+        "id": 28,
+        "hanzi": "한국어는 왜 배우게 됐어요?",
+        "pinyin": "hangugeoneun wae baeuge dwaesseoyo?",
+        "meaning": "Sao anh lại học tiếng Hàn vậy?",
+        "example": "hỏi lý do: -게 됐어요"
+    },
+    {
+        "id": 29,
+        "hanzi": "회사에 한국 고객이 많아서 배우게 됐어요",
+        "pinyin": "hoesae hanguk gogaegi manaseo baeuge dwaesseoyo",
+        "meaning": "Vì công ty có nhiều khách Hàn nên tôi học",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 30,
+        "hanzi": "시간이 없어서 아침을 못 먹었어요",
+        "pinyin": "sigani eopseoseo achimeul mon meogeosseoyo",
+        "meaning": "Vì không có thời gian nên tôi chưa ăn sáng",
+        "example": "mẫu: -아서/어서 (lý do)"
+    },
+    {
+        "id": 31,
+        "hanzi": "비가 많이 와서 약속을 취소했어요",
+        "pinyin": "biga mani waseo yaksogeul chwisohaesseoyo",
+        "meaning": "Vì mưa to nên tôi đã hủy hẹn",
+        "example": "mẫu: -아서/어서 (lý do)"
+    },
+    {
+        "id": 32,
+        "hanzi": "이 식당은 싸고 맛있어서 자주 와요",
+        "pinyin": "i sikdangeun ssago masisseoseo jaju wayo",
+        "meaning": "Quán này rẻ và ngon nên tôi hay đến",
+        "example": "mẫu: -아서/어서 (lý do)"
+    },
+    {
+        "id": 33,
+        "hanzi": "날씨가 추우니까 따뜻하게 입고 가세요",
+        "pinyin": "nalssiga chuunikka ttatteutage ipgo gaseyo",
+        "meaning": "Trời lạnh nên mặc ấm vào rồi đi nhé",
+        "example": "mẫu: -(으)니까 + lời khuyên"
+    },
+    {
+        "id": 34,
+        "hanzi": "지금 바쁘니까 이따가 전화할게요",
+        "pinyin": "jigeum bappeunikka ittaga jeonhwahalgeyo",
+        "meaning": "Bây giờ tôi bận nên lát nữa tôi gọi lại",
+        "example": "mẫu: -(으)니까 (lý do)"
+    },
+    {
+        "id": 35,
+        "hanzi": "늦었으니까 택시 타고 가요",
+        "pinyin": "neujeosseunikka taeksi tago gayo",
+        "meaning": "Muộn rồi nên đi taxi thôi",
+        "example": "mẫu: -(으)니까 + rủ"
+    },
+    {
+        "id": 36,
+        "hanzi": "기계가 아직 뜨거우니까 조심하세요",
+        "pinyin": "gigyega ajik tteugeounikka josimhaseyo",
+        "meaning": "Máy vẫn còn nóng nên hãy cẩn thận",
+        "example": "mẫu: -(으)니까 (lý do)"
+    },
+    {
+        "id": 37,
+        "hanzi": "내일 시험이 있으니까 오늘은 못 놀아요",
+        "pinyin": "naeil siheomi isseunikka oneureun mon norayo",
+        "meaning": "Mai có bài thi nên hôm nay tôi không đi chơi được",
+        "example": "mẫu: -(으)니까 (lý do)"
+    },
+    {
+        "id": 38,
+        "hanzi": "제가 한국어를 잘 못하니까 천천히 말해 주세요",
+        "pinyin": "jega hangugeoreul jal motanikka cheoncheonhi malhae juseyo",
+        "meaning": "Tôi chưa giỏi tiếng Hàn nên làm ơn nói chậm thôi",
+        "example": "mẫu: -(으)니까 + nhờ"
+    },
+    {
+        "id": 39,
+        "hanzi": "왜 어제 안 왔어요?",
+        "pinyin": "wae eoje an wasseoyo?",
+        "meaning": "Sao hôm qua anh không đến?",
+        "example": "hỏi lý do"
+    },
+    {
+        "id": 40,
+        "hanzi": "갑자기 일이 생겨서 못 갔어요, 미안해요",
+        "pinyin": "gapjagi iri saenggyeoseo mot gasseoyo, mianhaeyo",
+        "meaning": "Tự nhiên có việc nên tôi không đi được, xin lỗi",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 41,
+        "hanzi": "왜냐하면 그날 출장이 있거든요",
+        "pinyin": "waenyahamyeon geunal chuljangi itgeodeunyo",
+        "meaning": "Bởi vì hôm đó tôi có chuyến công tác",
+        "example": "mẫu: 왜냐하면 … 거든요"
+    },
+    {
+        "id": 42,
+        "hanzi": "저는 다음 주에 못 가요, 왜냐하면 베트남에 가야 하거든요",
+        "pinyin": "jeoneun daeum jue mot gayo, waenyahamyeon beteuname gaya hageodeunyo",
+        "meaning": "Tuần sau tôi không đi được, vì tôi phải về Việt Nam",
+        "example": "mẫu: 왜냐하면 … 거든요"
+    },
+    {
+        "id": 43,
+        "hanzi": "왜냐하면 한국어를 잘하고 싶기 때문이에요",
+        "pinyin": "waenyahamyeon hangugeoreul jalhago sipgi ttaemunieyo",
+        "meaning": "Bởi vì tôi muốn giỏi tiếng Hàn",
+        "example": "mẫu: 왜냐하면 … 기 때문이에요"
+    },
+    {
+        "id": 44,
+        "hanzi": "요즘 일이 많기 때문에 주말에도 일해요",
+        "pinyin": "yojeum iri manki ttaemune jumaredo ilhaeyo",
+        "meaning": "Vì dạo này nhiều việc nên cuối tuần tôi cũng làm",
+        "example": "mẫu: -기 때문에 (lý do)"
+    },
+    {
+        "id": 45,
+        "hanzi": "사장님이 화가 나신 건 납기가 늦었기 때문이에요",
+        "pinyin": "sajangnimi hwaga nasin geon napgiga neujeotgi ttaemunieyo",
+        "meaning": "Giám đốc nổi giận là vì giao hàng bị chậm",
+        "example": "mẫu: -았/었기 때문이에요"
+    },
+    {
+        "id": 46,
+        "hanzi": "제가 실수해서 문제가 생겼어요, 죄송합니다",
+        "pinyin": "jega silsuhaeseo munjega saenggyeosseoyo, joesonghamnida",
+        "meaning": "Vì tôi sơ suất nên đã xảy ra vấn đề, xin lỗi",
+        "example": "mẫu: -아서/어서 + xin lỗi"
+    },
+    {
+        "id": 47,
+        "hanzi": "너무 매워서 다 못 먹었어요",
+        "pinyin": "neomu maewoseo da mon meogeosseoyo",
+        "meaning": "Cay quá nên tôi không ăn hết được",
+        "example": "mẫu: -아서/어서 (lý do)"
+    },
+    {
+        "id": 48,
+        "hanzi": "집이 회사에서 가까워서 걸어서 다녀요",
+        "pinyin": "jibi hoesaeseo gakkawoseo georeoseo danyeoyo",
+        "meaning": "Nhà gần công ty nên tôi đi bộ đi làm",
+        "example": "mẫu: -아서/어서 (lý do)"
+    },
+    {
+        "id": 49,
+        "hanzi": "한국은 겨울이 너무 추워서 처음에 힘들었어요",
+        "pinyin": "hangugeun gyeouri neomu chuwoseo cheoeume himdeureosseoyo",
+        "meaning": "Mùa đông Hàn Quốc lạnh quá nên lúc đầu tôi vất vả",
+        "example": "mẫu: -아서/어서 (lý do)"
+    },
+    {
+        "id": 50,
+        "hanzi": "아이가 아파서 오늘 반차를 썼어요",
+        "pinyin": "aiga apaseo oneul banchareul sseosseoyo",
+        "meaning": "Con bị ốm nên hôm nay tôi xin nghỉ nửa ngày",
+        "example": "mẫu: -아서/어서 (lý do)"
+    },
+    {
+        "id": 51,
+        "hanzi": "이번 주는 좀 바빠서 다음 주에 만나면 어때요?",
+        "pinyin": "ibeon juneun jom bappaseo daeum jue mannamyeon eottaeyo?",
+        "meaning": "Tuần này hơi bận, tuần sau gặp được không?",
+        "example": "mẫu: -아서 + 어때요? (đề nghị)"
+    },
+    {
+        "id": 52,
+        "hanzi": "부품이 아직 안 와서 작업을 못 하고 있어요",
+        "pinyin": "bupumi ajik an waseo jageobeul mot hago isseoyo",
+        "meaning": "Linh kiện chưa đến nên chưa làm việc được",
+        "example": "mẫu: -아서/어서 (lý do, công việc)"
+    },
+    {
+        "id": 53,
+        "hanzi": "그 가게는 항상 사람이 많아서 미리 예약해야 돼요",
+        "pinyin": "geu gageneun hangsang sarami manaseo miri yeyakaeya dwaeyo",
+        "meaning": "Tiệm đó lúc nào cũng đông nên phải đặt trước",
+        "example": "mẫu: -아서/어서 (lý do)"
+    },
+    {
+        "id": 54,
+        "hanzi": "호찌민은 일 년 내내 더워서 겨울옷이 필요 없어요",
+        "pinyin": "hojjimineun il lyeon naenae deowoseo gyeourosi piryo eopseoyo",
+        "meaning": "TP.HCM nóng quanh năm nên không cần áo mùa đông",
+        "example": "mẫu: -아서/어서 (thời tiết)"
+    },
+    {
+        "id": 55,
+        "hanzi": "저희 부모님은 시골에 사셔서 자주 못 뵈어요",
+        "pinyin": "jeohui bumonimeun sigore sasyeoseo jaju mot boeoyo",
+        "meaning": "Bố mẹ tôi sống ở quê nên tôi không gặp thường xuyên",
+        "example": "mẫu: -(으)셔서 (lý do, kính ngữ)"
+    },
+    {
+        "id": 56,
+        "hanzi": "우리 딸은 저를 닮아서 매운 음식을 잘 먹어요",
+        "pinyin": "uri ttareun jeoreul dalmaseo maeun eumsigeul jal meogeoyo",
+        "meaning": "Con gái tôi giống tôi nên ăn cay giỏi",
+        "example": "mẫu: -아서/어서 (gia đình)"
+    },
+    {
+        "id": 57,
+        "hanzi": "아내가 요리를 잘해서 저는 주로 설거지를 해요",
+        "pinyin": "anaega yorireul jalhaeseo jeoneun juro seolgeojireul haeyo",
+        "meaning": "Vợ tôi nấu ăn giỏi nên tôi chủ yếu rửa bát",
+        "example": "mẫu: -아서/어서 (gia đình)"
+    },
+    {
+        "id": 58,
+        "hanzi": "장마철에는 비가 자주 오니까 빨래가 잘 안 말라요",
+        "pinyin": "jangmacheoreneun biga jaju onikka ppallaega jal an mallayo",
+        "meaning": "Mùa mưa hay mưa nên quần áo khó khô",
+        "example": "mẫu: -(으)니까 (thời tiết)"
+    },
+    {
+        "id": 59,
+        "hanzi": "저는 아침형 인간이라서 일찍 일어나는 게 편해요",
+        "pinyin": "jeoneun achimhyeong inganiraseo iljjik ireonaneun ge pyeonhaeyo",
+        "meaning": "Tôi là người quen dậy sớm nên dậy sớm thấy thoải mái",
+        "example": "mẫu: -(이)라서 (lý do)"
+    },
+    {
+        "id": 60,
+        "hanzi": "이 기계는 자동이라서 한 사람만 있어도 충분해요",
+        "pinyin": "i gigyeneun jadongiraseo han saramman isseodo chungbunhaeyo",
+        "meaning": "Máy này tự động nên chỉ cần một người là đủ",
+        "example": "mẫu: -(이)라서 + -아도"
+    },
+    {
+        "id": 61,
+        "hanzi": "한국 음식은 베트남 음식보다 좀 더 매운 것 같아요",
+        "pinyin": "hanguk eumsigeun beteunam eumsikboda jom deo maeun geot gatayo",
+        "meaning": "Tôi thấy món Hàn cay hơn món Việt một chút",
+        "example": "mẫu: 보다 더 + 것 같아요"
+    },
+    {
+        "id": 62,
+        "hanzi": "하노이는 호찌민보다 겨울이 더 추워요",
+        "pinyin": "hanoineun hojjiminboda gyeouri deo chuwoyo",
+        "meaning": "Mùa đông Hà Nội lạnh hơn TP.HCM",
+        "example": "mẫu: 보다 더 (so sánh)"
+    },
+    {
+        "id": 63,
+        "hanzi": "서울은 하노이보다 물가가 훨씬 비싸요",
+        "pinyin": "seoureun hanoiboda mulgaga hwolssin bissayo",
+        "meaning": "Vật giá ở Seoul đắt hơn Hà Nội nhiều",
+        "example": "mẫu: 보다 훨씬 (so sánh)"
+    },
+    {
+        "id": 64,
+        "hanzi": "지하철이 버스보다 더 빠르고 편해요",
+        "pinyin": "jihacheori beoseuboda deo ppareugo pyeonhaeyo",
+        "meaning": "Tàu điện ngầm nhanh và tiện hơn xe buýt",
+        "example": "mẫu: 보다 더 (so sánh)"
+    },
+    {
+        "id": 65,
+        "hanzi": "저는 커피보다 차를 더 좋아해요",
+        "pinyin": "jeoneun keopiboda chareul deo joahaeyo",
+        "meaning": "Tôi thích trà hơn cà phê",
+        "example": "mẫu: 보다 더 좋아해요"
+    },
+    {
+        "id": 66,
+        "hanzi": "말하기가 듣기보다 훨씬 어려워요",
+        "pinyin": "malhagiga deutgiboda hwolssin eoryeowoyo",
+        "meaning": "Nói khó hơn nghe nhiều",
+        "example": "mẫu: 보다 훨씬 (so sánh)"
+    },
+    {
+        "id": 67,
+        "hanzi": "한국어는 발음보다 문법이 더 어려운 것 같아요",
+        "pinyin": "hangugeoneun bareumboda munbeobi deo eoryeoun geot gatayo",
+        "meaning": "Tôi thấy tiếng Hàn ngữ pháp khó hơn phát âm",
+        "example": "mẫu: 보다 더 + 것 같아요"
+    },
+    {
+        "id": 68,
+        "hanzi": "작년보다 올해가 더 바쁜 것 같아요",
+        "pinyin": "jangnyeonboda olhaega deo bappeun geot gatayo",
+        "meaning": "Năm nay có vẻ bận hơn năm ngoái",
+        "example": "mẫu: 보다 더 + 것 같아요"
+    },
+    {
+        "id": 69,
+        "hanzi": "이 모델이 저 모델보다 전기를 덜 써요",
+        "pinyin": "i moderi jeo modelboda jeongireul deol sseoyo",
+        "meaning": "Mẫu này tốn ít điện hơn mẫu kia",
+        "example": "mẫu: 보다 덜 (kém hơn)"
+    },
+    {
+        "id": 70,
+        "hanzi": "그 영화 생각보다 재미있었어요",
+        "pinyin": "geu yeonghwa saenggakboda jaemiisseosseoyo",
+        "meaning": "Bộ phim đó hay hơn tôi nghĩ",
+        "example": "mẫu: 생각보다 (so sánh)"
+    },
+    {
+        "id": 71,
+        "hanzi": "생각보다 일이 빨리 끝났어요",
+        "pinyin": "saenggakboda iri ppalli kkeunnasseoyo",
+        "meaning": "Việc xong nhanh hơn tôi nghĩ",
+        "example": "mẫu: 생각보다 (so sánh)"
+    },
+    {
+        "id": 72,
+        "hanzi": "한국어가 생각보다 어렵지만 재미있어요",
+        "pinyin": "hangugeoga saenggakboda eoryeopjiman jaemiisseoyo",
+        "meaning": "Tiếng Hàn khó hơn tôi nghĩ nhưng thú vị",
+        "example": "mẫu: 생각보다 + -지만"
+    },
+    {
+        "id": 73,
+        "hanzi": "우리 팀에서 김 대리님이 제일 일찍 출근해요",
+        "pinyin": "uri timeseo gim daerinimi jeil iljjik chulgeunhaeyo",
+        "meaning": "Trong nhóm, trợ lý Kim đi làm sớm nhất",
+        "example": "mẫu: 제일 (so sánh nhất)"
+    },
+    {
+        "id": 74,
+        "hanzi": "한국 음식 중에서 뭐가 제일 맛있어요?",
+        "pinyin": "hanguk eumsik jungeseo mwoga jeil masisseoyo?",
+        "meaning": "Trong các món Hàn, món nào ngon nhất?",
+        "example": "hỏi: 중에서 제일"
+    },
+    {
+        "id": 75,
+        "hanzi": "저는 삼겹살이 제일 맛있는 것 같아요",
+        "pinyin": "jeoneun samgyeopsari jeil masinneun geot gatayo",
+        "meaning": "Tôi thấy thịt ba chỉ ngon nhất",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 76,
+        "hanzi": "베트남에서 어디가 제일 아름다워요?",
+        "pinyin": "beteunameseo eodiga jeil areumdawoyo?",
+        "meaning": "Ở Việt Nam chỗ nào đẹp nhất?",
+        "example": "hỏi so sánh nhất"
+    },
+    {
+        "id": 77,
+        "hanzi": "저는 하롱베이가 제일 아름답다고 생각해요",
+        "pinyin": "jeoneun harongbeiga jeil areumdaptago saenggakaeyo",
+        "meaning": "Tôi nghĩ vịnh Hạ Long đẹp nhất",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 78,
+        "hanzi": "다낭은 하노이만큼 춥지 않아요",
+        "pinyin": "danangeun hanoimankeum chupji anayo",
+        "meaning": "Đà Nẵng không lạnh bằng Hà Nội",
+        "example": "mẫu: 만큼 (so sánh bằng)"
+    },
+    {
+        "id": 79,
+        "hanzi": "제 한국어 실력은 아직 동생만큼 좋지 않아요",
+        "pinyin": "je hangugeo sillyeogeun ajik dongsaengmankeum jochi anayo",
+        "meaning": "Tiếng Hàn của tôi chưa giỏi bằng em tôi",
+        "example": "mẫu: 만큼 (so sánh bằng)"
+    },
+    {
+        "id": 80,
+        "hanzi": "예전보다 한국어 듣기가 많이 늘었어요",
+        "pinyin": "yejeonboda hangugeo deutgiga mani neureosseoyo",
+        "meaning": "So với trước, khả năng nghe tiếng Hàn tiến bộ nhiều",
+        "example": "mẫu: 보다 (so với trước)"
+    },
+    {
+        "id": 81,
+        "hanzi": "이 방법이 아까 그 방법보다 더 안전한 것 같아요",
+        "pinyin": "i bangbeobi akka geu bangbeopboda deo anjeonhan geot gatayo",
+        "meaning": "Cách này có vẻ an toàn hơn cách lúc nãy",
+        "example": "mẫu: 보다 더 + 것 같아요"
+    },
+    {
+        "id": 82,
+        "hanzi": "온라인으로 사는 게 가게에서 사는 것보다 더 싸요",
+        "pinyin": "ollaineuro saneun ge gageeseo saneun geotboda deo ssayo",
+        "meaning": "Mua online rẻ hơn mua ở cửa hàng",
+        "example": "mẫu: -는 것보다 더"
+    },
+    {
+        "id": 83,
+        "hanzi": "혼자 공부하는 것보다 같이 공부하는 게 더 재미있어요",
+        "pinyin": "honja gongbuhaneun geotboda gachi gongbuhaneun ge deo jaemiisseoyo",
+        "meaning": "Học cùng nhau vui hơn học một mình",
+        "example": "mẫu: -는 것보다 더"
+    },
+    {
+        "id": 84,
+        "hanzi": "베트남 쌀국수는 한국에서 먹는 것보다 훨씬 맛있어요",
+        "pinyin": "beteunam ssalguksuneun hangugeseo meongneun geotboda hwolssin masisseoyo",
+        "meaning": "Phở ở Việt Nam ngon hơn nhiều so với ăn ở Hàn",
+        "example": "mẫu: -는 것보다 훨씬"
+    },
+    {
+        "id": 85,
+        "hanzi": "두 개 중에서 어느 게 더 나아요?",
+        "pinyin": "du gae jungeseo eoneu ge deo naayo?",
+        "meaning": "Trong hai cái, cái nào tốt hơn?",
+        "example": "hỏi: 중에서 더"
+    },
+    {
+        "id": 86,
+        "hanzi": "비싸도 이게 더 오래 쓸 수 있어서 나아요",
+        "pinyin": "bissado ige deo orae sseul su isseoseo naayo",
+        "meaning": "Đắt hơn nhưng cái này dùng được lâu hơn nên tốt hơn",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 87,
+        "hanzi": "우리 아들은 벌써 저보다 키가 더 커요",
+        "pinyin": "uri adeureun beolsseo jeoboda kiga deo keoyo",
+        "meaning": "Con trai tôi đã cao hơn tôi rồi",
+        "example": "mẫu: 보다 더 (gia đình)"
+    },
+    {
+        "id": 88,
+        "hanzi": "내일은 오늘보다 더 추울 것 같아요",
+        "pinyin": "naeireun oneulboda deo chuul geot gatayo",
+        "meaning": "Mai chắc lạnh hơn hôm nay",
+        "example": "mẫu: 보다 더 + -ㄹ 것 같아요"
+    },
+    {
+        "id": 89,
+        "hanzi": "시간이 있으면 같이 커피 한잔해요",
+        "pinyin": "sigani isseumyeon gachi keopi hanjanhaeyo",
+        "meaning": "Nếu có thời gian thì cùng uống cà phê nhé",
+        "example": "mẫu: -(으)면 (điều kiện)"
+    },
+    {
+        "id": 90,
+        "hanzi": "내일 비가 오면 집에서 쉴 거예요",
+        "pinyin": "naeil biga omyeon jibeseo swil geoyeyo",
+        "meaning": "Nếu mai trời mưa thì tôi sẽ nghỉ ở nhà",
+        "example": "mẫu: -(으)면 + -ㄹ 거예요"
+    },
+    {
+        "id": 91,
+        "hanzi": "모르는 게 있으면 언제든지 물어보세요",
+        "pinyin": "moreuneun ge isseumyeon eonjedeunji mureoboseyo",
+        "meaning": "Có gì không biết thì cứ hỏi bất cứ lúc nào",
+        "example": "mẫu: -(으)면 (điều kiện)"
+    },
+    {
+        "id": 92,
+        "hanzi": "문제가 생기면 바로 저한테 연락해 주세요",
+        "pinyin": "munjega saenggimyeon baro jeohante yeollakae juseyo",
+        "meaning": "Nếu có vấn đề thì liên lạc ngay với tôi",
+        "example": "mẫu: -(으)면 + nhờ"
+    },
+    {
+        "id": 93,
+        "hanzi": "만약 제가 늦으면 먼저 시작하세요",
+        "pinyin": "manyak jega neujeumyeon meonjeo sijakaseyo",
+        "meaning": "Nếu tôi đến muộn thì cứ bắt đầu trước",
+        "example": "mẫu: 만약 … -(으)면"
+    },
+    {
+        "id": 94,
+        "hanzi": "만약 돈이 많으면 뭐 하고 싶어요?",
+        "pinyin": "manyak doni maneumyeon mwo hago sipeoyo?",
+        "meaning": "Nếu có nhiều tiền thì anh muốn làm gì?",
+        "example": "mẫu: 만약 … -(으)면 (giả định)"
+    },
+    {
+        "id": 95,
+        "hanzi": "돈이 많으면 부모님께 집을 사 드리고 싶어요",
+        "pinyin": "doni maneumyeon bumonimkke jibeul sa deurigo sipeoyo",
+        "meaning": "Nếu có nhiều tiền tôi muốn mua nhà cho bố mẹ",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 96,
+        "hanzi": "만약 한국에 살게 되면 어디에 살고 싶어요?",
+        "pinyin": "manyak hanguge salge doemyeon eodie salgo sipeoyo?",
+        "meaning": "Nếu được sống ở Hàn thì anh muốn sống ở đâu?",
+        "example": "mẫu: 만약 … 게 되면"
+    },
+    {
+        "id": 97,
+        "hanzi": "한국에 살게 되면 바다가 있는 부산에 살고 싶어요",
+        "pinyin": "hanguge salge doemyeon badaga inneun busane salgo sipeoyo",
+        "meaning": "Nếu sống ở Hàn tôi muốn sống ở Busan có biển",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 98,
+        "hanzi": "매일 조금씩 연습하면 금방 늘 거예요",
+        "pinyin": "maeil jogeumssik yeonseupamyeon geumbang neul geoyeyo",
+        "meaning": "Luyện mỗi ngày một chút thì sẽ tiến bộ nhanh",
+        "example": "mẫu: -(으)면 + -ㄹ 거예요"
+    },
+    {
+        "id": 99,
+        "hanzi": "이 버튼을 누르면 기계가 멈춰요",
+        "pinyin": "i beoteuneul nureumyeon gigyega meomchwoyo",
+        "meaning": "Bấm nút này thì máy sẽ dừng",
+        "example": "mẫu: -(으)면 (điều kiện)"
+    },
+    {
+        "id": 100,
+        "hanzi": "온도가 너무 높으면 알람이 울려요",
+        "pinyin": "ondoga neomu nopeumyeon allami ullyeoyo",
+        "meaning": "Nếu nhiệt độ quá cao thì chuông báo sẽ kêu",
+        "example": "mẫu: -(으)면 (máy móc)"
+    },
+    {
+        "id": 101,
+        "hanzi": "주문을 오늘 하시면 다음 주에 받으실 수 있어요",
+        "pinyin": "jumuneul oneul hasimyeon daeum jue badeusil su isseoyo",
+        "meaning": "Nếu đặt hàng hôm nay thì tuần sau anh nhận được",
+        "example": "mẫu: -(으)시면 (lịch sự)"
+    },
+    {
+        "id": 102,
+        "hanzi": "가격을 조금 깎아 주시면 바로 계약할게요",
+        "pinyin": "gagyeogeul jogeum kkakka jusimyeon baro gyeyakalgeyo",
+        "meaning": "Nếu giảm giá một chút thì tôi ký hợp đồng ngay",
+        "example": "mẫu: -아/어 주시면 (điều kiện)"
+    },
+    {
+        "id": 103,
+        "hanzi": "시간 괜찮으시면 다음 주에 공장을 한번 보러 오세요",
+        "pinyin": "sigan gwaenchaneusimyeon daeum jue gongjangeul hanbeon boreo oseyo",
+        "meaning": "Nếu tiện thì tuần sau mời anh đến xem nhà máy",
+        "example": "mẫu: -(으)시면 + mời"
+    },
+    {
+        "id": 104,
+        "hanzi": "날씨가 좋으면 주말에 가족들이랑 소풍 갈 거예요",
+        "pinyin": "nalssiga joeumyeon jumare gajokdeurirang sopung gal geoyeyo",
+        "meaning": "Nếu trời đẹp cuối tuần tôi sẽ đi dã ngoại với gia đình",
+        "example": "mẫu: -(으)면 + -ㄹ 거예요"
+    },
+    {
+        "id": 105,
+        "hanzi": "만약 그때 한국에 안 왔으면 지금 뭐 하고 있을까요?",
+        "pinyin": "manyak geuttae hanguge an wasseumyeon jigeum mwo hago isseulkkayo?",
+        "meaning": "Nếu lúc đó không sang Hàn thì giờ tôi đang làm gì nhỉ?",
+        "example": "mẫu: 만약 -았/었으면 (giả định)"
+    },
+    {
+        "id": 106,
+        "hanzi": "미리 알았으면 도와줬을 거예요",
+        "pinyin": "miri arasseumyeon dowajwosseul geoyeyo",
+        "meaning": "Nếu biết trước thì tôi đã giúp rồi",
+        "example": "mẫu: -았으면 -았을 거예요"
+    },
+    {
+        "id": 107,
+        "hanzi": "조금만 일찍 출발했으면 안 늦었을 거예요",
+        "pinyin": "jogeumman iljjik chulbalhaesseumyeon an neujeosseul geoyeyo",
+        "meaning": "Nếu xuất phát sớm hơn chút thì đã không muộn",
+        "example": "mẫu: -았/었으면 (tiếc nuối)"
+    },
+    {
+        "id": 108,
+        "hanzi": "한국어를 더 잘하면 좋겠어요",
+        "pinyin": "hangugeoreul deo jalhamyeon jokesseoyo",
+        "meaning": "Ước gì tôi giỏi tiếng Hàn hơn",
+        "example": "mẫu: -(으)면 좋겠어요 (mong ước)"
+    },
+    {
+        "id": 109,
+        "hanzi": "이번 프로젝트가 잘 끝났으면 좋겠어요",
+        "pinyin": "ibeon peurojekteuga jal kkeunnasseumyeon jokesseoyo",
+        "meaning": "Mong dự án lần này kết thúc tốt đẹp",
+        "example": "mẫu: -았/었으면 좋겠어요"
+    },
+    {
+        "id": 110,
+        "hanzi": "주말에 날씨가 맑았으면 좋겠네요",
+        "pinyin": "jumare nalssiga malgasseumyeon jokenneyo",
+        "meaning": "Mong cuối tuần trời quang đãng",
+        "example": "mẫu: -았/었으면 좋겠네요"
+    },
+    {
+        "id": 111,
+        "hanzi": "혹시 시간 되면 이것 좀 봐 줄 수 있어요?",
+        "pinyin": "hoksi sigan doemyeon igeot jom bwa jul su isseoyo?",
+        "meaning": "Nếu có thời gian thì xem giúp tôi cái này được không?",
+        "example": "mẫu: 혹시 … -면 (nhờ)"
+    },
+    {
+        "id": 112,
+        "hanzi": "길이 막히지 않으면 삼십 분이면 도착해요",
+        "pinyin": "giri makiji aneumyeon samsip bunimyeon dochakaeyo",
+        "meaning": "Nếu không kẹt đường thì 30 phút là tới",
+        "example": "mẫu: -지 않으면 (điều kiện)"
+    },
+    {
+        "id": 113,
+        "hanzi": "이 약을 먹으면 좀 나아질 거예요",
+        "pinyin": "i yageul meogeumyeon jom naajil geoyeyo",
+        "meaning": "Uống thuốc này thì sẽ đỡ hơn",
+        "example": "mẫu: -(으)면 + -ㄹ 거예요"
+    },
+    {
+        "id": 114,
+        "hanzi": "한국에 오면 꼭 연락하세요, 제가 맛있는 거 사 줄게요",
+        "pinyin": "hanguge omyeon kkok yeollakaseyo, jega masinneun geo sa julgeyo",
+        "meaning": "Sang Hàn thì nhớ liên lạc, tôi sẽ mời món ngon",
+        "example": "mẫu: -(으)면 + hứa"
+    },
+    {
+        "id": 115,
+        "hanzi": "베트남에 오시면 제가 안내해 드릴게요",
+        "pinyin": "beteuname osimyeon jega annaehae deurilgeyo",
+        "meaning": "Nếu anh đến Việt Nam thì tôi sẽ dẫn anh đi",
+        "example": "mẫu: -(으)시면 + hứa (lịch sự)"
+    },
+    {
+        "id": 116,
+        "hanzi": "만약 견적이 마음에 안 드시면 다시 조정해 드릴게요",
+        "pinyin": "manyak gyeonjeogi maeume an deusimyeon dasi jojeonghae deurilgeyo",
+        "meaning": "Nếu anh không ưng báo giá thì tôi sẽ điều chỉnh lại",
+        "example": "mẫu: 만약 … -(으)시면 (công việc)"
+    },
+    {
+        "id": 117,
+        "hanzi": "날씨가 이렇게 좋은데 집에만 있으면 아깝잖아요",
+        "pinyin": "nalssiga ireoke joeunde jibeman isseumyeon akkapjanayo",
+        "meaning": "Trời đẹp thế này mà chỉ ở nhà thì phí quá",
+        "example": "mẫu: -는데 + -면 + -잖아요"
+    },
+    {
+        "id": 118,
+        "hanzi": "시간이 지나면 다 괜찮아질 거예요, 너무 걱정하지 마세요",
+        "pinyin": "sigani jinamyeon da gwaenchanajil geoyeyo, neomu geokjeonghaji maseyo",
+        "meaning": "Thời gian qua đi sẽ ổn thôi, đừng lo quá",
+        "example": "mẫu: -(으)면 + -아질 거예요 (an ủi)"
+    },
+    {
+        "id": 119,
+        "hanzi": "납기를 맞추려면 이번 주에 부품을 주문해야 해요",
+        "pinyin": "napgireul matchuryeomyeon ibeon jue bupumeul jumunhaeya haeyo",
+        "meaning": "Muốn kịp hạn giao thì tuần này phải đặt linh kiện",
+        "example": "mẫu: -(으)려면 (công việc)"
+    },
+    {
+        "id": 120,
+        "hanzi": "어제 퇴근하고 친구랑 삼겹살을 먹으러 갔어요",
+        "pinyin": "eoje toegeunhago chingurang samgyeopsareul meogeureo gasseoyo",
+        "meaning": "Hôm qua tan làm tôi đi ăn thịt ba chỉ với bạn",
+        "example": "kể chuyện: 어제 … -고"
+    },
+    {
+        "id": 121,
+        "hanzi": "그런데 가게에 사람이 너무 많아서 한 시간이나 기다렸어요",
+        "pinyin": "geureonde gagee sarami neomu manaseo han siganina gidaryeosseoyo",
+        "meaning": "Nhưng quán đông quá nên phải đợi tận một tiếng",
+        "example": "kể tiếp: 그런데 + -이나 (nhấn mạnh)"
+    },
+    {
+        "id": 122,
+        "hanzi": "결국 다른 가게에 가서 먹었어요",
+        "pinyin": "gyeolguk dareun gagee gaseo meogeosseoyo",
+        "meaning": "Cuối cùng chúng tôi sang quán khác ăn",
+        "example": "kể tiếp: 결국 (kết quả)"
+    },
+    {
+        "id": 123,
+        "hanzi": "어제 기계가 갑자기 멈춰서 하루 종일 고쳤어요",
+        "pinyin": "eoje gigyega gapjagi meomchwoseo haru jongil gochyeosseoyo",
+        "meaning": "Hôm qua máy đột nhiên dừng nên tôi sửa cả ngày",
+        "example": "kể chuyện: 어제 + -아서"
+    },
+    {
+        "id": 124,
+        "hanzi": "처음에는 원인을 몰라서 정말 답답했어요",
+        "pinyin": "cheoeumeneun wonineul mollaseo jeongmal dapdapaesseoyo",
+        "meaning": "Lúc đầu không biết nguyên nhân nên rất bực bội",
+        "example": "kể chuyện: 처음에는"
+    },
+    {
+        "id": 125,
+        "hanzi": "나중에 보니까 센서에 문제가 있었어요",
+        "pinyin": "najunge bonikka senseoe munjega isseosseoyo",
+        "meaning": "Sau đó xem lại thì cảm biến có vấn đề",
+        "example": "kể chuyện: 나중에 보니까"
+    },
+    {
+        "id": 126,
+        "hanzi": "그래서 센서를 바꾸고 나서 다시 잘 돌아갔어요",
+        "pinyin": "geuraeseo senseoreul bakkugo naseo dasi jal doragasseoyo",
+        "meaning": "Vì vậy sau khi thay cảm biến máy chạy lại bình thường",
+        "example": "kể chuyện: 그래서 + -고 나서"
+    },
+    {
+        "id": 127,
+        "hanzi": "지난주에 처음으로 혼자 은행에 갔어요",
+        "pinyin": "jinanjue cheoeumeuro honja eunhaenge gasseoyo",
+        "meaning": "Tuần trước lần đầu tôi đi ngân hàng một mình",
+        "example": "kể chuyện: 지난주에"
+    },
+    {
+        "id": 128,
+        "hanzi": "그때 직원이 너무 빨리 말해서 하나도 못 알아들었어요",
+        "pinyin": "geuttae jigwoni neomu ppalli malhaeseo hanado mot aradeureosseoyo",
+        "meaning": "Lúc đó nhân viên nói nhanh quá nên tôi không hiểu gì",
+        "example": "kể chuyện: 그때 + -아서"
+    },
+    {
+        "id": 129,
+        "hanzi": "그래서 다시 한 번 천천히 말해 달라고 했어요",
+        "pinyin": "geuraeseo dasi han beon cheoncheonhi malhae dallago haesseoyo",
+        "meaning": "Vì vậy tôi nhờ họ nói chậm lại lần nữa",
+        "example": "kể chuyện: 그래서 + -아 달라고"
+    },
+    {
+        "id": 130,
+        "hanzi": "결국 일을 잘 끝내고 집에 왔어요",
+        "pinyin": "gyeolguk ireul jal kkeunnaego jibe wasseoyo",
+        "meaning": "Cuối cùng tôi xong việc suôn sẻ rồi về nhà",
+        "example": "kể chuyện: 결국 (kết thúc)"
+    },
+    {
+        "id": 131,
+        "hanzi": "작년에 처음 한국에 왔을 때 아무것도 몰랐어요",
+        "pinyin": "jangnyeone cheoeum hanguge wasseul ttae amugeotdo mollasseoyo",
+        "meaning": "Năm ngoái lần đầu sang Hàn tôi chẳng biết gì cả",
+        "example": "kể chuyện: -았/었을 때"
+    },
+    {
+        "id": 132,
+        "hanzi": "그때는 인사말 몇 개밖에 할 수 없었어요",
+        "pinyin": "geuttaeneun insamal myeot gaebakke hal su eopseosseoyo",
+        "meaning": "Hồi đó tôi chỉ nói được vài câu chào hỏi",
+        "example": "kể chuyện: 그때는 + 밖에"
+    },
+    {
+        "id": 133,
+        "hanzi": "그런데 동료들이 많이 도와줘서 금방 적응했어요",
+        "pinyin": "geureonde dongnyodeuri mani dowajwoseo geumbang jeogeunghaesseoyo",
+        "meaning": "Nhưng đồng nghiệp giúp nhiều nên tôi thích nghi nhanh",
+        "example": "kể chuyện: 그런데 + -아서"
+    },
+    {
+        "id": 134,
+        "hanzi": "아침에 지하철을 잘못 타서 반대 방향으로 갔어요",
+        "pinyin": "achime jihacheoreul jalmot taseo bandae banghyangeuro gasseoyo",
+        "meaning": "Sáng nay tôi đi nhầm tàu nên đi ngược hướng",
+        "example": "kể chuyện: -아서 (sự cố)"
+    },
+    {
+        "id": 135,
+        "hanzi": "다행히 회의 시간에는 늦지 않았어요",
+        "pinyin": "dahaenghi hoeui siganeneun neutji anasseoyo",
+        "meaning": "May mà tôi không bị muộn giờ họp",
+        "example": "kể chuyện: 다행히"
+    },
+    {
+        "id": 136,
+        "hanzi": "주말에 가족이랑 바다에 갔는데 비가 와서 금방 돌아왔어요",
+        "pinyin": "jumare gajogirang badae ganneunde biga waseo geumbang dorawasseoyo",
+        "meaning": "Cuối tuần đi biển với gia đình nhưng mưa nên về sớm",
+        "example": "kể chuyện: -는데 + -아서"
+    },
+    {
+        "id": 137,
+        "hanzi": "어제 처음으로 한국어로 전화를 받았어요",
+        "pinyin": "eoje cheoeumeuro hangugeoro jeonhwareul badasseoyo",
+        "meaning": "Hôm qua lần đầu tôi nghe điện thoại bằng tiếng Hàn",
+        "example": "kể chuyện: 처음으로"
+    },
+    {
+        "id": 138,
+        "hanzi": "너무 긴장해서 무슨 말을 했는지 기억이 안 나요",
+        "pinyin": "neomu ginjanghaeseo museun mareul haenneunji gieogi an nayo",
+        "meaning": "Hồi hộp quá nên không nhớ mình đã nói gì",
+        "example": "kể chuyện: -아서 + -는지"
+    },
+    {
+        "id": 139,
+        "hanzi": "그래도 고객이 제 말을 잘 이해해 줘서 기뻤어요",
+        "pinyin": "geuraedo gogaegi je mareul jal ihaehae jwoseo gippeosseoyo",
+        "meaning": "Dù vậy khách hiểu ý tôi nên tôi rất vui",
+        "example": "kể chuyện: 그래도 + -아 줘서"
+    },
+    {
+        "id": 140,
+        "hanzi": "지난번에 말씀드린 그 일은 결국 잘 해결됐어요",
+        "pinyin": "jinanbeone malsseumdeurin geu ireun gyeolguk jal haegyeoldwaesseoyo",
+        "meaning": "Việc tôi nói lần trước cuối cùng đã giải quyết ổn",
+        "example": "kể chuyện: 결국 (kết quả)"
+    },
+    {
+        "id": 141,
+        "hanzi": "어젯밤에 아이가 열이 나서 잠을 거의 못 잤어요",
+        "pinyin": "eojetbame aiga yeori naseo jameul geoui mot jasseoyo",
+        "meaning": "Đêm qua con bị sốt nên tôi gần như không ngủ được",
+        "example": "kể chuyện: -아서 (gia đình)"
+    },
+    {
+        "id": 142,
+        "hanzi": "그래서 아침에 병원에 데리고 갔어요",
+        "pinyin": "geuraeseo achime byeongwone derigo gasseoyo",
+        "meaning": "Vì vậy sáng ra tôi đưa con đi bệnh viện",
+        "example": "kể tiếp: 그래서"
+    },
+    {
+        "id": 143,
+        "hanzi": "의사 선생님이 감기라고 해서 좀 안심했어요",
+        "pinyin": "uisa seonsaengnimi gamgirago haeseo jom ansimhaesseoyo",
+        "meaning": "Bác sĩ bảo là cảm nên tôi yên tâm phần nào",
+        "example": "kể tiếp: -라고 해서"
+    },
+    {
+        "id": 144,
+        "hanzi": "그날 날씨가 정말 더웠는데 에어컨이 고장 났어요",
+        "pinyin": "geunal nalssiga jeongmal deowonneunde eeokeoni gojang nasseoyo",
+        "meaning": "Hôm đó trời rất nóng mà điều hòa lại hỏng",
+        "example": "kể chuyện: -는데 (bối cảnh)"
+    },
+    {
+        "id": 145,
+        "hanzi": "지난주에 지갑을 잃어버렸는데 다행히 다시 찾았어요",
+        "pinyin": "jinanjue jigabeul ireobeoryeonneunde dahaenghi dasi chajasseoyo",
+        "meaning": "Tuần trước tôi mất ví nhưng may mà tìm lại được",
+        "example": "kể chuyện: -는데 + 다행히"
+    },
+    {
+        "id": 146,
+        "hanzi": "그 소식을 듣고 그때 정말 깜짝 놀랐어요",
+        "pinyin": "geu sosigeul deutgo geuttae jeongmal kkamjjak nollasseoyo",
+        "meaning": "Nghe tin đó lúc ấy tôi thật sự giật mình",
+        "example": "kể chuyện: -고 + 그때"
+    },
+    {
+        "id": 147,
+        "hanzi": "처음에는 한국 음식이 안 맞았는데 지금은 다 잘 먹어요",
+        "pinyin": "cheoeumeneun hanguk eumsigi an majanneunde jigeumeun da jal meogeoyo",
+        "meaning": "Lúc đầu không hợp đồ Hàn nhưng giờ ăn gì cũng được",
+        "example": "kể chuyện: 처음에는 … 지금은"
+    },
+    {
+        "id": 148,
+        "hanzi": "원래 오늘 가려고 했는데 일이 생겨서 못 갔어요",
+        "pinyin": "wollae oneul garyeogo haenneunde iri saenggyeoseo mot gasseoyo",
+        "meaning": "Vốn định đi hôm nay nhưng có việc nên không đi được",
+        "example": "mẫu: -려고 했는데 (dự định hỏng)"
+    },
+    {
+        "id": 149,
+        "hanzi": "몇 번이나 전화했는데 안 받아서 걱정했어요",
+        "pinyin": "myeot beonina jeonhwahaenneunde an badaseo geokjeonghaesseoyo",
+        "meaning": "Tôi gọi mấy lần mà không nghe máy nên đã lo",
+        "example": "kể chuyện: -는데 + -아서"
+    },
+    {
+        "id": 150,
+        "hanzi": "한참 고민하다가 결국 그 회사에 들어가기로 했어요",
+        "pinyin": "hancham gominhadaga gyeolguk geu hoesae deureogagiro haesseoyo",
+        "meaning": "Đắn đo mãi cuối cùng tôi quyết định vào công ty đó",
+        "example": "mẫu: -다가 + 결국 + -기로 했어요"
+    },
+    {
+        "id": 151,
+        "hanzi": "그래서 지금 이 회사에서 오 년째 일하고 있어요",
+        "pinyin": "geuraeseo jigeum i hoesaeseo o nyeonjjae ilhago isseoyo",
+        "meaning": "Vì thế giờ tôi làm ở công ty này năm thứ năm rồi",
+        "example": "kể tiếp: 그래서 + -째"
+    },
+    {
+        "id": 152,
+        "hanzi": "그때 그 선생님 덕분에 한국어에 관심이 생겼어요",
+        "pinyin": "geuttae geu seonsaengnim deokbune hangugeoe gwansimi saenggyeosseoyo",
+        "meaning": "Nhờ thầy giáo hồi đó mà tôi quan tâm tiếng Hàn",
+        "example": "kể chuyện: N 덕분에"
+    },
+    {
+        "id": 153,
+        "hanzi": "아침에는 추웠는데 오후에는 꽤 따뜻해졌네요",
+        "pinyin": "achimeneun chuwonneunde ohueneun kkwae ttatteutaejyeonneyo",
+        "meaning": "Sáng lạnh nhưng chiều đã ấm lên khá nhiều",
+        "example": "mẫu: -는데 + -아졌네요 (thời tiết)"
+    },
+    {
+        "id": 154,
+        "hanzi": "올해 안에 토픽 시험을 보려고 해요",
+        "pinyin": "olhae ane topik siheomeul boryeogo haeyo",
+        "meaning": "Tôi định thi TOPIK trong năm nay",
+        "example": "mẫu: -(으)려고 해요 (ý định)"
+    },
+    {
+        "id": 155,
+        "hanzi": "다음 달부터 한국어 학원에 다니려고 해요",
+        "pinyin": "daeum dalbuteo hangugeo hagwone daniryeogo haeyo",
+        "meaning": "Từ tháng sau tôi định đi học trung tâm tiếng Hàn",
+        "example": "mẫu: -(으)려고 해요 (ý định)"
+    },
+    {
+        "id": 156,
+        "hanzi": "이번 휴가 때 뭐 할 거예요?",
+        "pinyin": "ibeon hyuga ttae mwo hal geoyeyo?",
+        "meaning": "Kỳ nghỉ này anh sẽ làm gì?",
+        "example": "hỏi kế hoạch: -ㄹ 거예요?"
+    },
+    {
+        "id": 157,
+        "hanzi": "가족들이랑 다낭에 놀러 갈 거예요",
+        "pinyin": "gajokdeurirang danange nolleo gal geoyeyo",
+        "meaning": "Tôi sẽ đi chơi Đà Nẵng với gia đình",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 158,
+        "hanzi": "이번 주말에는 집에서 푹 쉬려고 해요",
+        "pinyin": "ibeon jumareneun jibeseo puk swiryeogo haeyo",
+        "meaning": "Cuối tuần này tôi định ở nhà nghỉ ngơi thoải mái",
+        "example": "mẫu: -(으)려고 해요 (ý định)"
+    },
+    {
+        "id": 159,
+        "hanzi": "내년에는 부모님을 모시고 한국 여행을 하려고 해요",
+        "pinyin": "naenyeoneneun bumonimeul mosigo hanguk yeohaengeul haryeogo haeyo",
+        "meaning": "Năm sau tôi định đưa bố mẹ đi du lịch Hàn",
+        "example": "mẫu: -(으)려고 해요 (gia đình)"
+    },
+    {
+        "id": 160,
+        "hanzi": "오늘은 일찍 퇴근해서 아이랑 놀아 주려고요",
+        "pinyin": "oneureun iljjik toegeunhaeseo airang nora juryeogoyo",
+        "meaning": "Hôm nay tôi định về sớm để chơi với con",
+        "example": "mẫu: -(으)려고요 (ý định, nói tắt)"
+    },
+    {
+        "id": 161,
+        "hanzi": "앞으로 매일 단어를 열 개씩 외우려고 해요",
+        "pinyin": "apeuro maeil daneoreul yeol gaessik oeuryeogo haeyo",
+        "meaning": "Từ giờ tôi định mỗi ngày học thuộc 10 từ",
+        "example": "mẫu: -(으)려고 해요 (học tập)"
+    },
+    {
+        "id": 162,
+        "hanzi": "한국 친구를 사귀려고 동호회에 가입했어요",
+        "pinyin": "hanguk chingureul sagwiryeogo donghohoee gaipaesseoyo",
+        "meaning": "Tôi vào câu lạc bộ để kết bạn với người Hàn",
+        "example": "mẫu: -(으)려고 (mục đích)"
+    },
+    {
+        "id": 163,
+        "hanzi": "주말마다 부모님께 전화를 드리려고 노력해요",
+        "pinyin": "jumalmada bumonimkke jeonhwareul deuriryeogo noryeokaeyo",
+        "meaning": "Tôi cố gắng gọi điện cho bố mẹ mỗi cuối tuần",
+        "example": "mẫu: -(으)려고 노력해요"
+    },
+    {
+        "id": 164,
+        "hanzi": "내일 고객한테 견적서를 보낼 거예요",
+        "pinyin": "naeil gogaekante gyeonjeokseoreul bonael geoyeyo",
+        "meaning": "Mai tôi sẽ gửi báo giá cho khách",
+        "example": "mẫu: -ㄹ 거예요 (kế hoạch)"
+    },
+    {
+        "id": 165,
+        "hanzi": "다음 주 월요일에 설치하러 갈 거예요",
+        "pinyin": "daeum ju woryoire seolchihareo gal geoyeyo",
+        "meaning": "Thứ hai tuần sau tôi sẽ đi lắp đặt",
+        "example": "mẫu: -러 갈 거예요 (kế hoạch)"
+    },
+    {
+        "id": 166,
+        "hanzi": "이번 프로젝트가 끝나면 며칠 쉴 거예요",
+        "pinyin": "ibeon peurojekteuga kkeunnamyeon myeochil swil geoyeyo",
+        "meaning": "Dự án này xong thì tôi sẽ nghỉ vài ngày",
+        "example": "mẫu: -면 + -ㄹ 거예요"
+    },
+    {
+        "id": 167,
+        "hanzi": "언제 베트남에 돌아갈 거예요?",
+        "pinyin": "eonje beteuname doragal geoyeyo?",
+        "meaning": "Khi nào anh về Việt Nam?",
+        "example": "hỏi kế hoạch"
+    },
+    {
+        "id": 168,
+        "hanzi": "아마 설날 전에 돌아갈 거예요",
+        "pinyin": "ama seollal jeone doragal geoyeyo",
+        "meaning": "Chắc tôi sẽ về trước Tết",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 169,
+        "hanzi": "오늘 저녁에는 김치찌개를 만들어 보려고 해요",
+        "pinyin": "oneul jeonyeogeneun gimchijjigaereul mandeureo boryeogo haeyo",
+        "meaning": "Tối nay tôi định thử nấu canh kimchi",
+        "example": "mẫu: -아/어 보려고 해요 (thử)"
+    },
+    {
+        "id": 170,
+        "hanzi": "회사를 그만두고 제 사업을 해 보려고 해요",
+        "pinyin": "hoesareul geumandugo je sageobeul hae boryeogo haeyo",
+        "meaning": "Tôi định nghỉ việc để thử kinh doanh riêng",
+        "example": "mẫu: -아/어 보려고 해요"
+    },
+    {
+        "id": 171,
+        "hanzi": "사실은 다음 달에 결혼하려고 해요",
+        "pinyin": "sasireun daeum dare gyeolhonharyeogo haeyo",
+        "meaning": "Thật ra tháng sau tôi định kết hôn",
+        "example": "mẫu: -(으)려고 해요 (thông báo)"
+    },
+    {
+        "id": 172,
+        "hanzi": "정말요? 축하해요! 결혼식은 어디에서 할 거예요?",
+        "pinyin": "jeongmallyo? chukahaeyo! gyeolhonsigeun eodieseo hal geoyeyo?",
+        "meaning": "Thật à? Chúc mừng! Đám cưới tổ chức ở đâu?",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 173,
+        "hanzi": "고향에서 할 거예요, 시간 되면 꼭 오세요",
+        "pinyin": "gohyangeseo hal geoyeyo, sigan doemyeon kkok oseyo",
+        "meaning": "Tổ chức ở quê, có thời gian thì nhất định đến nhé",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 174,
+        "hanzi": "팀장님이랑 이야기해서 다음 주에 다시 만나기로 했어요",
+        "pinyin": "timjangnimirang iyagihaeseo daeum jue dasi mannagiro haesseoyo",
+        "meaning": "Tôi đã bàn với trưởng nhóm, hẹn tuần sau gặp lại",
+        "example": "mẫu: -기로 했어요 (quyết định)"
+    },
+    {
+        "id": 175,
+        "hanzi": "올해부터 담배를 끊기로 했어요",
+        "pinyin": "olhaebuteo dambaereul kkeunkiro haesseoyo",
+        "meaning": "Từ năm nay tôi quyết định bỏ thuốc lá",
+        "example": "mẫu: -기로 했어요 (quyết định)"
+    },
+    {
+        "id": 176,
+        "hanzi": "앞으로 한국어로만 이야기하기로 해요",
+        "pinyin": "apeuro hangugeoroman iyagihagiro haeyo",
+        "meaning": "Từ giờ mình chỉ nói tiếng Hàn thôi nhé",
+        "example": "mẫu: -기로 해요 (thống nhất)"
+    },
+    {
+        "id": 177,
+        "hanzi": "아직 정하지 않았는데 아마 집에 있을 거예요",
+        "pinyin": "ajik jeonghaji ananneunde ama jibe isseul geoyeyo",
+        "meaning": "Chưa quyết nhưng chắc tôi sẽ ở nhà",
+        "example": "trả lời: kế hoạch chưa chắc"
+    },
+    {
+        "id": 178,
+        "hanzi": "나중에 돈을 모아서 한국에서 공부하고 싶어요",
+        "pinyin": "najunge doneul moaseo hangugeseo gongbuhago sipeoyo",
+        "meaning": "Sau này tôi muốn để dành tiền sang Hàn học",
+        "example": "mẫu: -아서 (trình tự) + -고 싶어요"
+    },
+    {
+        "id": 179,
+        "hanzi": "퇴근하고 나서 마트에 들르려고 해요",
+        "pinyin": "toegeunhago naseo mateue deulleuryeogo haeyo",
+        "meaning": "Tan làm xong tôi định ghé siêu thị",
+        "example": "mẫu: -고 나서 + -려고 해요"
+    },
+    {
+        "id": 180,
+        "hanzi": "그 문제는 제가 직접 사장님께 말씀드릴 거예요",
+        "pinyin": "geu munjeneun jega jikjeop sajangnimkke malsseumdeuril geoyeyo",
+        "meaning": "Vấn đề đó tôi sẽ trực tiếp báo với giám đốc",
+        "example": "mẫu: -ㄹ 거예요 (kính ngữ)"
+    },
+    {
+        "id": 181,
+        "hanzi": "내일은 아침 일찍 공항에 가야 해서 오늘 일찍 잘 거예요",
+        "pinyin": "naeireun achim iljjik gonghange gaya haeseo oneul iljjik jal geoyeyo",
+        "meaning": "Mai phải ra sân bay sớm nên hôm nay tôi sẽ ngủ sớm",
+        "example": "mẫu: -아야 해서 + -ㄹ 거예요"
+    },
+    {
+        "id": 182,
+        "hanzi": "한국 음식을 직접 만들어 본 적 있어요?",
+        "pinyin": "hanguk eumsigeul jikjeop mandeureo bon jeok isseoyo?",
+        "meaning": "Anh đã từng tự nấu món Hàn chưa?",
+        "example": "mẫu: -아/어 본 적 있어요?"
+    },
+    {
+        "id": 183,
+        "hanzi": "네, 불고기를 몇 번 만들어 봤어요",
+        "pinyin": "ne, bulgogireul myeot beon mandeureo bwasseoyo",
+        "meaning": "Vâng, tôi đã làm bulgogi vài lần",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 184,
+        "hanzi": "베트남 쌀국수를 먹어 본 적 있어요?",
+        "pinyin": "beteunam ssalguksureul meogeo bon jeok isseoyo?",
+        "meaning": "Anh đã ăn phở Việt Nam bao giờ chưa?",
+        "example": "mẫu: -아/어 본 적 있어요?"
+    },
+    {
+        "id": 185,
+        "hanzi": "서울에서 한 번 먹어 봤는데 베트남 맛하고 좀 달랐어요",
+        "pinyin": "seoureseo han beon meogeo bwanneunde beteunam matago jom dallasseoyo",
+        "meaning": "Tôi ăn một lần ở Seoul nhưng hơi khác vị Việt Nam",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 186,
+        "hanzi": "아직 한 번도 한국에 가 본 적이 없어요",
+        "pinyin": "ajik han beondo hanguge ga bon jeogi eopseoyo",
+        "meaning": "Tôi chưa từng đến Hàn Quốc lần nào",
+        "example": "mẫu: -아/어 본 적이 없어요"
+    },
+    {
+        "id": 187,
+        "hanzi": "스키를 타 본 적이 있어요?",
+        "pinyin": "seukireul ta bon jeogi isseoyo?",
+        "meaning": "Anh trượt tuyết bao giờ chưa?",
+        "example": "mẫu: -아/어 본 적이 있어요?"
+    },
+    {
+        "id": 188,
+        "hanzi": "아니요, 베트남에는 눈이 안 와서 한 번도 못 타 봤어요",
+        "pinyin": "aniyo, beteunameneun nuni an waseo han beondo mot ta bwasseoyo",
+        "meaning": "Chưa, Việt Nam không có tuyết nên chưa trượt lần nào",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 189,
+        "hanzi": "한국 사람 집에 초대받아 본 적 있어요",
+        "pinyin": "hanguk saram jibe chodaebada bon jeok isseoyo",
+        "meaning": "Tôi từng được mời đến nhà người Hàn",
+        "example": "mẫu: -아/어 본 적 있어요"
+    },
+    {
+        "id": 190,
+        "hanzi": "혼자 해외 출장을 가 본 적이 있어요?",
+        "pinyin": "honja haeoe chuljangeul ga bon jeogi isseoyo?",
+        "meaning": "Anh đã từng đi công tác nước ngoài một mình chưa?",
+        "example": "mẫu: -아/어 본 적이 있어요?"
+    },
+    {
+        "id": 191,
+        "hanzi": "작년에 혼자 일본에 가 봤는데 말이 안 통해서 힘들었어요",
+        "pinyin": "jangnyeone honja ilbone ga bwanneunde mari an tonghaeseo himdeureosseoyo",
+        "meaning": "Năm ngoái tôi đi Nhật một mình, bất đồng ngôn ngữ nên vất vả",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 192,
+        "hanzi": "한복을 입어 본 적이 있어요?",
+        "pinyin": "hanbogeul ibeo bon jeogi isseoyo?",
+        "meaning": "Anh đã mặc hanbok bao giờ chưa?",
+        "example": "mẫu: -아/어 본 적이 있어요?"
+    },
+    {
+        "id": 193,
+        "hanzi": "경복궁에 갔을 때 한 번 입어 봤어요",
+        "pinyin": "gyeongbokgunge gasseul ttae han beon ibeo bwasseoyo",
+        "meaning": "Hồi đến Gyeongbokgung tôi mặc thử một lần",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 194,
+        "hanzi": "이런 기계를 써 본 적이 없어서 설명이 좀 필요해요",
+        "pinyin": "ireon gigyereul sseo bon jeogi eopseoseo seolmyeongi jom piryohaeyo",
+        "meaning": "Tôi chưa dùng loại máy này nên cần giải thích chút",
+        "example": "mẫu: 본 적이 없어서 (lý do)"
+    },
+    {
+        "id": 195,
+        "hanzi": "이 노래 들어 본 적 있어요? 요즘 한국에서 인기가 많아요",
+        "pinyin": "i norae deureo bon jeok isseoyo? yojeum hangugeseo ingiga manayo",
+        "meaning": "Anh nghe bài này chưa? Dạo này ở Hàn rất nổi",
+        "example": "mẫu: -아/어 본 적 있어요?"
+    },
+    {
+        "id": 196,
+        "hanzi": "소주를 마셔 본 적은 있는데 막걸리는 아직 못 마셔 봤어요",
+        "pinyin": "sojureul masyeo bon jeogeun inneunde makgeollineun ajik mon masyeo bwasseoyo",
+        "meaning": "Tôi uống soju rồi nhưng makgeolli thì chưa thử",
+        "example": "mẫu: 본 적은 있는데 (đối lập)"
+    },
+    {
+        "id": 197,
+        "hanzi": "한국 사람하고 한국어로 싸워 본 적 있어요?",
+        "pinyin": "hanguk saramhago hangugeoro ssawo bon jeok isseoyo?",
+        "meaning": "Anh từng cãi nhau bằng tiếng Hàn với người Hàn chưa?",
+        "example": "mẫu: -아/어 본 적 있어요? (đùa)"
+    },
+    {
+        "id": 198,
+        "hanzi": "그런 적은 없지만 오해가 생긴 적은 있어요",
+        "pinyin": "geureon jeogeun eopjiman ohaega saenggin jeogeun isseoyo",
+        "meaning": "Chưa từng, nhưng từng có hiểu lầm",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 199,
+        "hanzi": "베트남에 와 본 적이 있으세요?",
+        "pinyin": "beteuname wa bon jeogi isseuseyo?",
+        "meaning": "Anh đã từng đến Việt Nam chưa ạ?",
+        "example": "mẫu: 본 적이 있으세요? (lịch sự)"
+    },
+    {
+        "id": 200,
+        "hanzi": "네, 출장으로 하노이에 두 번 가 봤어요",
+        "pinyin": "ne, chuljangeuro hanoie du beon ga bwasseoyo",
+        "meaning": "Vâng, tôi đi công tác Hà Nội hai lần rồi",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 201,
+        "hanzi": "한국 병원에 가 본 적이 있는데 생각보다 빨랐어요",
+        "pinyin": "hanguk byeongwone ga bon jeogi inneunde saenggakboda ppallasseoyo",
+        "meaning": "Tôi từng đi viện ở Hàn, nhanh hơn tôi nghĩ",
+        "example": "mẫu: 본 적이 있는데 + 생각보다"
+    },
+    {
+        "id": 202,
+        "hanzi": "이렇게 매운 음식은 처음 먹어 봐요",
+        "pinyin": "ireoke maeun eumsigeun cheoeum meogeo bwayo",
+        "meaning": "Lần đầu tôi ăn món cay thế này",
+        "example": "mẫu: 처음 -아/어 봐요 (lần đầu)"
+    },
+    {
+        "id": 203,
+        "hanzi": "이런 경험은 처음이라서 너무 신기해요",
+        "pinyin": "ireon gyeongheomeun cheoeumiraseo neomu singihaeyo",
+        "meaning": "Lần đầu có trải nghiệm này nên thấy rất lạ",
+        "example": "mẫu: 처음이라서 (lý do)"
+    },
+    {
+        "id": 204,
+        "hanzi": "한국어로 발표해 본 적이 있어요?",
+        "pinyin": "hangugeoro balpyohae bon jeogi isseoyo?",
+        "meaning": "Anh từng thuyết trình bằng tiếng Hàn chưa?",
+        "example": "mẫu: -아/어 본 적이 있어요?"
+    },
+    {
+        "id": 205,
+        "hanzi": "아직 없지만 한번 도전해 보고 싶어요",
+        "pinyin": "ajik eopjiman hanbeon dojeonhae bogo sipeoyo",
+        "meaning": "Chưa, nhưng tôi muốn thử thách một lần",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 206,
+        "hanzi": "너 김치 담가 본 적 있어?",
+        "pinyin": "neo gimchi damga bon jeok isseo?",
+        "meaning": "Cậu từng muối kimchi chưa?",
+        "example": "반말: -아/어 본 적 있어?"
+    },
+    {
+        "id": 207,
+        "hanzi": "응, 어릴 때 엄마랑 같이 담가 봤어",
+        "pinyin": "eung, eoril ttae eommarang gachi damga bwasseo",
+        "meaning": "Ừ, hồi nhỏ tớ muối cùng mẹ rồi",
+        "example": "반말, đáp lại câu trên"
+    },
+    {
+        "id": 208,
+        "hanzi": "한국어 공부를 시작한 지 벌써 일 년이 됐어요",
+        "pinyin": "hangugeo gongbureul sijakan ji beolsseo il lyeoni dwaesseoyo",
+        "meaning": "Tôi học tiếng Hàn đã được một năm rồi",
+        "example": "mẫu: -(으)ㄴ 지 … 됐어요"
+    },
+    {
+        "id": 209,
+        "hanzi": "죄송한데 이 서류 좀 한국어로 번역해 주실 수 있어요?",
+        "pinyin": "joesonghande i seoryu jom hangugeoro beonyeokae jusil su isseoyo?",
+        "meaning": "Xin lỗi, anh dịch giúp tài liệu này sang tiếng Hàn được không?",
+        "example": "mẫu: -아/어 주실 수 있어요?"
+    },
+    {
+        "id": 210,
+        "hanzi": "바쁘신데 죄송하지만 잠깐 시간 내 주실 수 있어요?",
+        "pinyin": "bappeusinde joesonghajiman jamkkan sigan nae jusil su isseoyo?",
+        "meaning": "Xin lỗi lúc anh bận, anh dành chút thời gian được không?",
+        "example": "mẫu: -아/어 주실 수 있어요?"
+    },
+    {
+        "id": 211,
+        "hanzi": "제가 잘 못 알아들었는데 한 번만 더 말씀해 주실 수 있어요?",
+        "pinyin": "jega jal mot aradeureonneunde han beonman deo malsseumhae jusil su isseoyo?",
+        "meaning": "Tôi nghe chưa rõ, anh nói lại một lần nữa được không?",
+        "example": "mẫu: -아/어 주실 수 있어요?"
+    },
+    {
+        "id": 212,
+        "hanzi": "이 단어는 무슨 뜻인지 쉽게 설명해 주실 수 있어요?",
+        "pinyin": "i daneoneun museun tteusinji swipge seolmyeonghae jusil su isseoyo?",
+        "meaning": "Anh giải thích dễ hiểu giúp từ này nghĩa là gì được không?",
+        "example": "mẫu: -인지 + 주실 수 있어요?"
+    },
+    {
+        "id": 213,
+        "hanzi": "내일까지 견적서를 보내 주실 수 있어요?",
+        "pinyin": "naeilkkaji gyeonjeokseoreul bonae jusil su isseoyo?",
+        "meaning": "Anh gửi báo giá cho tôi trước ngày mai được không?",
+        "example": "mẫu: -아/어 주실 수 있어요? (công việc)"
+    },
+    {
+        "id": 214,
+        "hanzi": "회의 시간을 오후로 바꿔 주실 수 있을까요?",
+        "pinyin": "hoeui siganeul ohuro bakkwo jusil su isseulkkayo?",
+        "meaning": "Có thể đổi giờ họp sang buổi chiều được không ạ?",
+        "example": "mẫu: 주실 수 있을까요? (rất lịch sự)"
+    },
+    {
+        "id": 215,
+        "hanzi": "혹시 근처에 괜찮은 식당 좀 추천해 주실 수 있어요?",
+        "pinyin": "hoksi geuncheoe gwaenchaneun sikdang jom chucheonhae jusil su isseoyo?",
+        "meaning": "Anh giới thiệu giúp quán ăn ngon gần đây được không?",
+        "example": "mẫu: 혹시 … 주실 수 있어요?"
+    },
+    {
+        "id": 216,
+        "hanzi": "제 한국어가 틀리면 바로 고쳐 주실 수 있어요?",
+        "pinyin": "je hangugeoga teullimyeon baro gochyeo jusil su isseoyo?",
+        "meaning": "Tiếng Hàn của tôi sai thì anh sửa ngay giúp được không?",
+        "example": "mẫu: -면 + 주실 수 있어요?"
+    },
+    {
+        "id": 217,
+        "hanzi": "사진 한 장만 찍어 주실 수 있어요?",
+        "pinyin": "sajin han jangman jjigeo jusil su isseoyo?",
+        "meaning": "Anh chụp giúp tôi một tấm ảnh được không?",
+        "example": "mẫu: -아/어 주실 수 있어요?"
+    },
+    {
+        "id": 218,
+        "hanzi": "물론이죠, 여기 서 보세요",
+        "pinyin": "mullonijyo, yeogi seo boseyo",
+        "meaning": "Tất nhiên rồi, anh đứng đây nhé",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 219,
+        "hanzi": "다음에 오실 때 샘플을 가져와 주실 수 있어요?",
+        "pinyin": "daeume osil ttae saempeureul gajyeowa jusil su isseoyo?",
+        "meaning": "Lần sau đến anh mang mẫu theo giúp được không?",
+        "example": "mẫu: -아/어 주실 수 있어요?"
+    },
+    {
+        "id": 220,
+        "hanzi": "결과가 나오면 저한테도 알려 주실 수 있어요?",
+        "pinyin": "gyeolgwaga naomyeon jeohantedo allyeo jusil su isseoyo?",
+        "meaning": "Có kết quả thì báo cho tôi nữa được không?",
+        "example": "mẫu: -면 + 주실 수 있어요?"
+    },
+    {
+        "id": 221,
+        "hanzi": "죄송하지만 조금만 천천히 말씀해 주시겠어요?",
+        "pinyin": "joesonghajiman jogeumman cheoncheonhi malsseumhae jusigesseoyo?",
+        "meaning": "Xin lỗi, anh nói chậm lại một chút được không ạ?",
+        "example": "mẫu: -아/어 주시겠어요? (lịch sự)"
+    },
+    {
+        "id": 222,
+        "hanzi": "이 서류에 사인 좀 해 주시겠어요?",
+        "pinyin": "i seoryue sain jom hae jusigesseoyo?",
+        "meaning": "Anh ký giúp vào giấy tờ này được không ạ?",
+        "example": "mẫu: -아/어 주시겠어요?"
+    },
+    {
+        "id": 223,
+        "hanzi": "혹시 시간 괜찮으시면 제 발음 좀 들어 주실 수 있어요?",
+        "pinyin": "hoksi sigan gwaenchaneusimyeon je bareum jom deureo jusil su isseoyo?",
+        "meaning": "Nếu tiện thì anh nghe thử phát âm của tôi được không?",
+        "example": "mẫu: -시면 + 주실 수 있어요?"
+    },
+    {
+        "id": 224,
+        "hanzi": "부탁 하나만 드려도 될까요?",
+        "pinyin": "butak hanaman deuryeodo doelkkayo?",
+        "meaning": "Tôi nhờ anh một việc được không ạ?",
+        "example": "mẫu: -아/어도 될까요? (xin phép)"
+    },
+    {
+        "id": 225,
+        "hanzi": "네, 말씀하세요, 뭐든지 도와 드릴게요",
+        "pinyin": "ne, malsseumhaseyo, mwodeunji dowa deurilgeyo",
+        "meaning": "Vâng, anh cứ nói, việc gì tôi cũng giúp",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 226,
+        "hanzi": "공항까지 좀 태워 주실 수 있어요? 짐이 좀 많아서요",
+        "pinyin": "gonghangkkaji jom taewo jusil su isseoyo? jimi jom manaseoyo",
+        "meaning": "Anh chở tôi ra sân bay được không? Hành lý hơi nhiều",
+        "example": "mẫu: 주실 수 있어요? + -아서요"
+    },
+    {
+        "id": 227,
+        "hanzi": "다음 주까지 기다려 주실 수 있으면 정말 감사하겠습니다",
+        "pinyin": "daeum jukkaji gidaryeo jusil su isseumyeon jeongmal gamsahagetseumnida",
+        "meaning": "Nếu anh đợi được đến tuần sau thì tôi rất biết ơn",
+        "example": "mẫu: -면 감사하겠습니다 (rất lịch sự)"
+    },
+    {
+        "id": 228,
+        "hanzi": "이 부분을 좀 더 자세히 설명해 주시면 좋겠어요",
+        "pinyin": "i bubuneul jom deo jasehi seolmyeonghae jusimyeon jokesseoyo",
+        "meaning": "Mong anh giải thích phần này chi tiết hơn",
+        "example": "mẫu: -아/어 주시면 좋겠어요"
+    },
+    {
+        "id": 229,
+        "hanzi": "나 이것 좀 도와줄 수 있어?",
+        "pinyin": "na igeot jom dowajul su isseo?",
+        "meaning": "Cậu giúp tớ cái này được không?",
+        "example": "반말: -아/어 줄 수 있어?"
+    },
+    {
+        "id": 230,
+        "hanzi": "미안한데 내일 아침에 깨워 줄 수 있어?",
+        "pinyin": "mianhande naeil achime kkaewo jul su isseo?",
+        "meaning": "Xin lỗi, sáng mai cậu đánh thức tớ được không?",
+        "example": "반말: -아/어 줄 수 있어?"
+    },
+    {
+        "id": 231,
+        "hanzi": "피곤해 보이는데 오늘은 일찍 들어가는 게 좋겠어요",
+        "pinyin": "pigonhae boineunde oneureun iljjik deureoganeun ge jokesseoyo",
+        "meaning": "Trông anh mệt, hôm nay nên về sớm thì hơn",
+        "example": "mẫu: -는 게 좋겠어요 (khuyên)"
+    },
+    {
+        "id": 232,
+        "hanzi": "길이 막히니까 지하철을 타는 게 좋겠어요",
+        "pinyin": "giri makinikka jihacheoreul taneun ge jokesseoyo",
+        "meaning": "Đường kẹt nên đi tàu điện ngầm thì hơn",
+        "example": "mẫu: -니까 + -는 게 좋겠어요"
+    },
+    {
+        "id": 233,
+        "hanzi": "감기 걸렸으면 따뜻한 물을 많이 마시는 게 좋아요",
+        "pinyin": "gamgi geollyeosseumyeon ttatteutan mureul mani masineun ge joayo",
+        "meaning": "Nếu bị cảm thì nên uống nhiều nước ấm",
+        "example": "mẫu: -는 게 좋아요 (khuyên)"
+    },
+    {
+        "id": 234,
+        "hanzi": "단어는 문장으로 외우는 게 더 좋아요",
+        "pinyin": "daneoneun munjangeuro oeuneun ge deo joayo",
+        "meaning": "Từ vựng thì nên học thuộc theo câu sẽ tốt hơn",
+        "example": "mẫu: -는 게 더 좋아요 (học tập)"
+    },
+    {
+        "id": 235,
+        "hanzi": "한국 드라마를 자막 없이 보는 게 도움이 될 거예요",
+        "pinyin": "hanguk deuramareul jamak eopsi boneun ge doumi doel geoyeyo",
+        "meaning": "Xem phim Hàn không phụ đề sẽ có ích đấy",
+        "example": "mẫu: -는 게 도움이 될 거예요"
+    },
+    {
+        "id": 236,
+        "hanzi": "그 사람한테 먼저 사과하는 게 좋겠어요",
+        "pinyin": "geu saramhante meonjeo sagwahaneun ge jokesseoyo",
+        "meaning": "Anh nên xin lỗi người đó trước thì hơn",
+        "example": "mẫu: -는 게 좋겠어요 (khuyên)"
+    },
+    {
+        "id": 237,
+        "hanzi": "계약하기 전에 한 번 더 확인하는 게 좋겠어요",
+        "pinyin": "gyeyakagi jeone han beon deo hwaginhaneun ge jokesseoyo",
+        "meaning": "Trước khi ký hợp đồng nên kiểm tra thêm lần nữa",
+        "example": "mẫu: -기 전에 + -는 게 좋겠어요"
+    },
+    {
+        "id": 238,
+        "hanzi": "너무 무리하지 않는 게 좋겠어요",
+        "pinyin": "neomu murihaji anneun ge jokesseoyo",
+        "meaning": "Không nên làm quá sức thì hơn",
+        "example": "mẫu: -지 않는 게 좋겠어요"
+    },
+    {
+        "id": 239,
+        "hanzi": "비가 올 것 같으니까 우산을 가져가는 게 좋겠어요",
+        "pinyin": "biga ol geot gateunikka usaneul gajyeoganeun ge jokesseoyo",
+        "meaning": "Có vẻ sắp mưa nên mang ô theo thì hơn",
+        "example": "mẫu: 것 같으니까 + 좋겠어요"
+    },
+    {
+        "id": 240,
+        "hanzi": "한국 사람이랑 얘기할 때는 존댓말을 쓰는 게 좋아요",
+        "pinyin": "hanguk saramirang yaegihal ttaeneun jondaenmareul sseuneun ge joayo",
+        "meaning": "Khi nói chuyện với người Hàn nên dùng kính ngữ",
+        "example": "mẫu: -ㄹ 때는 + -는 게 좋아요"
+    },
+    {
+        "id": 241,
+        "hanzi": "처음에는 짧은 문장부터 말해 보세요",
+        "pinyin": "cheoeumeneun jjalbeun munjangbuteo malhae boseyo",
+        "meaning": "Lúc đầu hãy thử nói từ câu ngắn",
+        "example": "mẫu: -아/어 보세요 (khuyên thử)"
+    },
+    {
+        "id": 242,
+        "hanzi": "실수해도 괜찮으니까 자신 있게 말해 보세요",
+        "pinyin": "silsuhaedo gwaenchaneunikka jasin itge malhae boseyo",
+        "meaning": "Sai cũng không sao nên cứ tự tin nói thử",
+        "example": "mẫu: -아도 괜찮으니까 + 보세요"
+    },
+    {
+        "id": 243,
+        "hanzi": "저라면 그 회사에 안 갈 것 같아요",
+        "pinyin": "jeoramyeon geu hoesae an gal geot gatayo",
+        "meaning": "Nếu là tôi thì chắc tôi không vào công ty đó",
+        "example": "mẫu: 저라면 (khuyên gián tiếp)"
+    },
+    {
+        "id": 244,
+        "hanzi": "그렇게 걱정되면 병원에 한번 가 보는 게 어때요?",
+        "pinyin": "geureoke geokjeongdoemyeon byeongwone hanbeon ga boneun ge eottaeyo?",
+        "meaning": "Lo vậy thì thử đi bệnh viện một lần xem sao?",
+        "example": "mẫu: -는 게 어때요? (gợi ý)"
+    },
+    {
+        "id": 245,
+        "hanzi": "주말에는 일 생각하지 말고 푹 쉬세요",
+        "pinyin": "jumareneun il saenggakaji malgo puk swiseyo",
+        "meaning": "Cuối tuần đừng nghĩ chuyện công việc, nghỉ ngơi đi",
+        "example": "mẫu: -지 말고 (khuyên)"
+    },
+    {
+        "id": 246,
+        "hanzi": "매운 거 못 드시면 덜 맵게 해 달라고 하세요",
+        "pinyin": "maeun geo mot deusimyeon deol maepge hae dallago haseyo",
+        "meaning": "Không ăn cay được thì bảo họ làm ít cay",
+        "example": "mẫu: -아 달라고 하세요 (khuyên)"
+    },
+    {
+        "id": 247,
+        "hanzi": "너 요즘 너무 늦게 자는 것 같아, 좀 일찍 자",
+        "pinyin": "neo yojeum neomu neutge janeun geot gata, jom iljjik ja",
+        "meaning": "Dạo này cậu ngủ muộn quá đấy, ngủ sớm chút đi",
+        "example": "반말: khuyên bạn"
+    },
+    {
+        "id": 248,
+        "hanzi": "늦지 않으려면 지금 출발하는 게 좋겠어요",
+        "pinyin": "neutji aneuryeomyeon jigeum chulbalhaneun ge jokesseoyo",
+        "meaning": "Muốn không muộn thì nên xuất phát bây giờ",
+        "example": "mẫu: -(으)려면 + 좋겠어요"
+    },
+    {
+        "id": 249,
+        "hanzi": "한국어를 빨리 늘리려면 한국 친구를 많이 사귀는 게 좋아요",
+        "pinyin": "hangugeoreul ppalli neulliryeomyeon hanguk chingureul mani sagwineun ge joayo",
+        "meaning": "Muốn tiếng Hàn tiến bộ nhanh thì nên kết bạn nhiều với người Hàn",
+        "example": "mẫu: -(으)려면 + -는 게 좋아요"
+    },
+    {
+        "id": 250,
+        "hanzi": "요즘 미세먼지가 심하니까 마스크를 쓰는 게 좋아요",
+        "pinyin": "yojeum misemeonjiga simhanikka maseukeureul sseuneun ge joayo",
+        "meaning": "Dạo này bụi mịn nặng nên đeo khẩu trang thì tốt hơn",
+        "example": "mẫu: -니까 + -는 게 좋아요"
+    }
+]

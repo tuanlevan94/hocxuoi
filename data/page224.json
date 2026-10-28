@@ -1,0 +1,1752 @@
+[
+    {
+        "id": 1,
+        "hanzi": "잘 지내요",
+        "pinyin": "jal jinaeyo",
+        "meaning": "Tôi vẫn khỏe/ổn",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 2,
+        "hanzi": "요즘 잘 지내?",
+        "pinyin": "yojeum jal jinae?",
+        "meaning": "Dạo này ổn không?",
+        "example": "thân mật (bạn bè)"
+    },
+    {
+        "id": 3,
+        "hanzi": "응, 잘 지내. 너는?",
+        "pinyin": "eung, jal jinae neoneun?",
+        "meaning": "Ừ, ổn. Còn cậu?",
+        "example": "thân mật, đáp lại câu trên"
+    },
+    {
+        "id": 4,
+        "hanzi": "네, 덕분에 잘 지냈어요",
+        "pinyin": "ne, deokbune jal jinaesseoyo",
+        "meaning": "Vâng, nhờ anh mà tôi vẫn khỏe. (덕분에 = nhờ ơn)",
+        "example": "đáp khách sáo, rất hay dùng"
+    },
+    {
+        "id": 5,
+        "hanzi": "요즘 바빠요?",
+        "pinyin": "yojeum bappayo?",
+        "meaning": "Dạo này bận không?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 6,
+        "hanzi": "네, 요즘 좀 바빠요",
+        "pinyin": "ne, yojeum jom bappayo",
+        "meaning": "Vâng, dạo này hơi bận",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 7,
+        "hanzi": "아니요, 요즘은 좀 한가해요",
+        "pinyin": "aniyo, yojeumeun jom hangahaeyo",
+        "meaning": "Không, dạo này khá rảnh",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 8,
+        "hanzi": "요즘 많이 바쁘지?",
+        "pinyin": "yojeum mani bappeuji?",
+        "meaning": "Dạo này bận lắm hả?",
+        "example": "thân mật (bạn bè)"
+    },
+    {
+        "id": 9,
+        "hanzi": "응, 정신없어",
+        "pinyin": "eung, jeongsineopseo",
+        "meaning": "Ừ, bận tối mắt. (không còn tâm trí)",
+        "example": "thân mật, đáp lại"
+    },
+    {
+        "id": 10,
+        "hanzi": "요즘 일은 어때요?",
+        "pinyin": "yojeum ireun eottaeyo?",
+        "meaning": "Dạo này công việc thế nào?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 11,
+        "hanzi": "일이 많아서 정신없어요",
+        "pinyin": "iri manaseo jeongsineopseoyo",
+        "meaning": "Việc nhiều quá, bận tối mắt",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 12,
+        "hanzi": "그럭저럭 괜찮아요",
+        "pinyin": "geureokjeoreok gwaenchanayo",
+        "meaning": "Cũng tàm tạm, ổn",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 13,
+        "hanzi": "별일 없죠?",
+        "pinyin": "byeollil eopjyo?",
+        "meaning": "Mọi chuyện vẫn ổn chứ? (không có gì đặc biệt chứ)",
+        "example": "lịch sự, thân thiện"
+    },
+    {
+        "id": 14,
+        "hanzi": "네, 별일 없어요",
+        "pinyin": "ne, byeollil eopseoyo",
+        "meaning": "Vâng, không có gì đặc biệt",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 15,
+        "hanzi": "얼굴 좋아 보여요",
+        "pinyin": "eolgul joa boyeoyo",
+        "meaning": "Trông anh tươi tắn quá",
+        "example": "lời khen xã giao"
+    },
+    {
+        "id": 16,
+        "hanzi": "오늘 하루 어땠어요?",
+        "pinyin": "oneul haru eottaesseoyo?",
+        "meaning": "Hôm nay của anh thế nào?",
+        "example": "lịch sự, hỏi cuối ngày"
+    },
+    {
+        "id": 17,
+        "hanzi": "하루가 너무 길었어요",
+        "pinyin": "haruga neomu gireosseoyo",
+        "meaning": "Một ngày dài quá",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 18,
+        "hanzi": "뭐 하고 지냈어?",
+        "pinyin": "mwo hago jinaesseo?",
+        "meaning": "Dạo này làm gì thế?",
+        "example": "thân mật (bạn bè)"
+    },
+    {
+        "id": 19,
+        "hanzi": "그냥 회사 다니면서 지냈지",
+        "pinyin": "geunyang hoesa danimyeonseo jinaetji",
+        "meaning": "Thì vẫn đi làm như mọi khi thôi",
+        "example": "thân mật, đáp lại"
+    },
+    {
+        "id": 20,
+        "hanzi": "어디 가세요?",
+        "pinyin": "eodi gaseyo?",
+        "meaning": "Anh đi đâu đấy?",
+        "example": "chào xã giao kiểu Hàn"
+    },
+    {
+        "id": 21,
+        "hanzi": "점심 먹으러 가요",
+        "pinyin": "jeomsim meogeureo gayo",
+        "meaning": "Tôi đi ăn trưa",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 22,
+        "hanzi": "밥 먹었어요?",
+        "pinyin": "bap meogeosseoyo?",
+        "meaning": "Ăn cơm chưa?",
+        "example": "câu chào rất phổ biến"
+    },
+    {
+        "id": 23,
+        "hanzi": "응, 방금 먹었어",
+        "pinyin": "eung, banggeum meogeosseo",
+        "meaning": "Ừ, vừa ăn xong",
+        "example": "thân mật, đáp lại"
+    },
+    {
+        "id": 24,
+        "hanzi": "아직. 너는?",
+        "pinyin": "ajik neoneun?",
+        "meaning": "Chưa. Còn cậu?",
+        "example": "thân mật, đáp lại"
+    },
+    {
+        "id": 25,
+        "hanzi": "점심 뭐 먹었어요?",
+        "pinyin": "jeomsim mwo meogeosseoyo?",
+        "meaning": "Trưa nay ăn gì thế?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 26,
+        "hanzi": "김치찌개 먹었어요",
+        "pinyin": "gimchijjigae meogeosseoyo",
+        "meaning": "Tôi ăn canh kim chi",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 27,
+        "hanzi": "다음에 밥 한번 먹어요",
+        "pinyin": "daeume bap hanbeon meogeoyo",
+        "meaning": "Hôm nào đi ăn bữa cơm nhé",
+        "example": "câu xã giao, chưa chắc hẹn thật"
+    },
+    {
+        "id": 28,
+        "hanzi": "주말에 뭐 했어요?",
+        "pinyin": "jumare mwo haesseoyo?",
+        "meaning": "Cuối tuần anh làm gì?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 29,
+        "hanzi": "친구들이랑 영화 봤어요",
+        "pinyin": "chingudeurirang yeonghwa bwasseoyo",
+        "meaning": "Tôi đi xem phim với bạn bè",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 30,
+        "hanzi": "주말에 뭐 해요?",
+        "pinyin": "jumare mwo haeyo?",
+        "meaning": "Cuối tuần này làm gì?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 31,
+        "hanzi": "아직 계획 없어요",
+        "pinyin": "ajik gyehoek eopseoyo",
+        "meaning": "Chưa có kế hoạch gì",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 32,
+        "hanzi": "주말에 뭐 해?",
+        "pinyin": "jumare mwo hae?",
+        "meaning": "Cuối tuần làm gì?",
+        "example": "thân mật (bạn bè)"
+    },
+    {
+        "id": 33,
+        "hanzi": "그냥 집에 있을 것 같아",
+        "pinyin": "geunyang jibe isseul geot gata",
+        "meaning": "Chắc ở nhà thôi",
+        "example": "thân mật, đáp lại"
+    },
+    {
+        "id": 34,
+        "hanzi": "주말 잘 보내!",
+        "pinyin": "jumal jal bonae",
+        "meaning": "Cuối tuần vui nhé!",
+        "example": "thân mật"
+    },
+    {
+        "id": 35,
+        "hanzi": "드디어 금요일이에요!",
+        "pinyin": "deudieo geumyoirieyo",
+        "meaning": "Cuối cùng cũng thứ Sáu!",
+        "example": "vui vẻ, lịch sự"
+    },
+    {
+        "id": 36,
+        "hanzi": "불금이다!",
+        "pinyin": "bulgeumida",
+        "meaning": "Thứ Sáu rực lửa rồi! (불타는 금요일)",
+        "example": "thân mật, tiếng lóng"
+    },
+    {
+        "id": 37,
+        "hanzi": "휴가 언제예요?",
+        "pinyin": "hyuga eonjeyeyo?",
+        "meaning": "Khi nào anh nghỉ phép?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 38,
+        "hanzi": "다음 달에 휴가예요",
+        "pinyin": "daeum dare hyugayeyo",
+        "meaning": "Tháng sau tôi nghỉ phép",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 39,
+        "hanzi": "휴가 때 뭐 할 거예요?",
+        "pinyin": "hyuga ttae mwo hal geoyeyo?",
+        "meaning": "Nghỉ phép anh định làm gì?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 40,
+        "hanzi": "베트남에 다녀오려고요",
+        "pinyin": "beteuname danyeooryeogoyo",
+        "meaning": "Tôi định về Việt Nam một chuyến",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 41,
+        "hanzi": "휴가 잘 다녀왔어요?",
+        "pinyin": "hyuga jal danyeowasseoyo?",
+        "meaning": "Đi nghỉ về vui chứ?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 42,
+        "hanzi": "네, 너무 좋았어요",
+        "pinyin": "ne, neomu joasseoyo",
+        "meaning": "Vâng, tuyệt lắm",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 43,
+        "hanzi": "설날에 고향에 가요?",
+        "pinyin": "seollare gohyange gayo?",
+        "meaning": "Tết anh có về quê không?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 44,
+        "hanzi": "네, 부모님 뵈러 가요",
+        "pinyin": "ne, bumonim boereo gayo",
+        "meaning": "Vâng, tôi về thăm bố mẹ",
+        "example": "đáp lại, 뵈다 = kính ngữ của 보다"
+    },
+    {
+        "id": 45,
+        "hanzi": "새해 복 많이 받으세요",
+        "pinyin": "saehae bok mani badeuseyo",
+        "meaning": "Chúc mừng năm mới. (nhận nhiều phúc)",
+        "example": "lời chúc năm mới"
+    },
+    {
+        "id": 46,
+        "hanzi": "오늘 날씨 좋네요",
+        "pinyin": "oneul nalssi jonneyo",
+        "meaning": "Hôm nay trời đẹp nhỉ",
+        "example": "mở đầu câu chuyện"
+    },
+    {
+        "id": 47,
+        "hanzi": "그러게요, 날씨가 정말 좋아요",
+        "pinyin": "geureogeyo, nalssiga jeongmal joayo",
+        "meaning": "Đúng thế, trời đẹp thật",
+        "example": "đáp lại, đồng tình"
+    },
+    {
+        "id": 48,
+        "hanzi": "오늘 날씨 어때요?",
+        "pinyin": "oneul nalssi eottaeyo?",
+        "meaning": "Hôm nay thời tiết thế nào?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 49,
+        "hanzi": "좀 흐려요",
+        "pinyin": "jom heuryeoyo",
+        "meaning": "Trời hơi âm u",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 50,
+        "hanzi": "오늘 너무 덥네요",
+        "pinyin": "oneul neomu deomneyo",
+        "meaning": "Hôm nay nóng quá nhỉ",
+        "example": "lịch sự"
+    },
+    {
+        "id": 51,
+        "hanzi": "진짜 더워요",
+        "pinyin": "jinjja deowoyo",
+        "meaning": "Nóng thật sự",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 52,
+        "hanzi": "오늘 엄청 춥다",
+        "pinyin": "oneul eomcheong chupda",
+        "meaning": "Hôm nay lạnh kinh khủng",
+        "example": "thân mật"
+    },
+    {
+        "id": 53,
+        "hanzi": "날씨가 많이 추워졌어요",
+        "pinyin": "nalssiga mani chuwojyeosseoyo",
+        "meaning": "Trời trở lạnh nhiều rồi",
+        "example": "lịch sự"
+    },
+    {
+        "id": 54,
+        "hanzi": "따뜻하게 입으세요",
+        "pinyin": "ttatteutage ibeuseyo",
+        "meaning": "Mặc ấm vào nhé",
+        "example": "lời dặn quan tâm"
+    },
+    {
+        "id": 55,
+        "hanzi": "비 올 것 같아요",
+        "pinyin": "bi ol geot gatayo",
+        "meaning": "Có vẻ sắp mưa",
+        "example": "lịch sự"
+    },
+    {
+        "id": 56,
+        "hanzi": "우산 가져왔어요?",
+        "pinyin": "usan gajyeowasseoyo?",
+        "meaning": "Anh có mang ô không?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 57,
+        "hanzi": "아니요, 깜빡했어요",
+        "pinyin": "aniyo, kkamppakaesseoyo",
+        "meaning": "Không, tôi quên mất",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 58,
+        "hanzi": "같이 쓰고 가요",
+        "pinyin": "gachi sseugo gayo",
+        "meaning": "Đi chung ô với tôi nhé",
+        "example": "lịch sự, thân thiện"
+    },
+    {
+        "id": 59,
+        "hanzi": "첫눈이다!",
+        "pinyin": "cheonnunida",
+        "meaning": "Tuyết đầu mùa kìa!",
+        "example": "thân mật, cảm thán"
+    },
+    {
+        "id": 60,
+        "hanzi": "요즘 미세먼지가 심해요",
+        "pinyin": "yojeum misemeonjiga simhaeyo",
+        "meaning": "Dạo này bụi mịn nặng lắm",
+        "example": "chủ đề rất hay nói ở Hàn"
+    },
+    {
+        "id": 61,
+        "hanzi": "단풍이 진짜 예쁘네요",
+        "pinyin": "danpungi jinjja yeppeuneyo",
+        "meaning": "Lá phong đỏ đẹp thật",
+        "example": "lịch sự, mùa thu"
+    },
+    {
+        "id": 62,
+        "hanzi": "내일 날씨는 어떻대요?",
+        "pinyin": "naeil nalssineun eotteotaeyo?",
+        "meaning": "Nghe nói mai thời tiết thế nào?",
+        "example": "lịch sự (-대요: nghe nói)"
+    },
+    {
+        "id": 63,
+        "hanzi": "내일은 맑대요",
+        "pinyin": "naeireun makdaeyo",
+        "meaning": "Nghe nói mai trời quang",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 64,
+        "hanzi": "주말에 비 온대요",
+        "pinyin": "jumare bi ondaeyo",
+        "meaning": "Nghe nói cuối tuần có mưa",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 65,
+        "hanzi": "어디 아파요?",
+        "pinyin": "eodi apayo?",
+        "meaning": "Anh không khỏe à? (đau ở đâu à)",
+        "example": "lịch sự"
+    },
+    {
+        "id": 66,
+        "hanzi": "얼굴이 안 좋아 보여요",
+        "pinyin": "eolguri an joa boyeoyo",
+        "meaning": "Sắc mặt anh trông không tốt",
+        "example": "lịch sự, quan tâm"
+    },
+    {
+        "id": 67,
+        "hanzi": "감기 걸렸어요",
+        "pinyin": "gamgi geollyeosseoyo",
+        "meaning": "Tôi bị cảm rồi",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 68,
+        "hanzi": "머리가 아파요",
+        "pinyin": "meoriga apayo",
+        "meaning": "Tôi bị đau đầu",
+        "example": "lịch sự"
+    },
+    {
+        "id": 69,
+        "hanzi": "기침이 계속 나요",
+        "pinyin": "gichimi gyesok nayo",
+        "meaning": "Tôi ho mãi không dứt",
+        "example": "lịch sự"
+    },
+    {
+        "id": 70,
+        "hanzi": "병원에 가 봤어요?",
+        "pinyin": "byeongwone ga bwasseoyo?",
+        "meaning": "Anh đi khám chưa?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 71,
+        "hanzi": "약 먹었어요?",
+        "pinyin": "yak meogeosseoyo?",
+        "meaning": "Anh uống thuốc chưa?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 72,
+        "hanzi": "네, 약 먹고 좀 나아졌어요",
+        "pinyin": "ne, yak meokgo jom naajyeosseoyo",
+        "meaning": "Vâng, uống thuốc xong đỡ hơn rồi",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 73,
+        "hanzi": "푹 쉬세요",
+        "pinyin": "puk swiseyo",
+        "meaning": "Nghỉ ngơi cho khỏe nhé",
+        "example": "lịch sự"
+    },
+    {
+        "id": 74,
+        "hanzi": "빨리 나으세요",
+        "pinyin": "ppalli naeuseyo",
+        "meaning": "Mau khỏi bệnh nhé",
+        "example": "lịch sự"
+    },
+    {
+        "id": 75,
+        "hanzi": "괜찮아요, 별거 아니에요",
+        "pinyin": "gwaenchanayo, byeolgeo anieyo",
+        "meaning": "Không sao, chẳng có gì đâu",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 76,
+        "hanzi": "많이 피곤해 보여요",
+        "pinyin": "mani pigonhae boyeoyo",
+        "meaning": "Trông anh mệt lắm",
+        "example": "lịch sự, quan tâm"
+    },
+    {
+        "id": 77,
+        "hanzi": "어제 잠을 잘 못 잤어요",
+        "pinyin": "eoje jameul jal mot jasseoyo",
+        "meaning": "Hôm qua tôi ngủ không ngon",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 78,
+        "hanzi": "잘 잤어요?",
+        "pinyin": "jal jasseoyo?",
+        "meaning": "Ngủ ngon không?",
+        "example": "lịch sự, hỏi buổi sáng"
+    },
+    {
+        "id": 79,
+        "hanzi": "네, 푹 잤어요",
+        "pinyin": "ne, puk jasseoyo",
+        "meaning": "Vâng, tôi ngủ say lắm",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 80,
+        "hanzi": "잘 잤어?",
+        "pinyin": "jal jasseo?",
+        "meaning": "Ngủ ngon không?",
+        "example": "thân mật"
+    },
+    {
+        "id": 81,
+        "hanzi": "아니, 한숨도 못 잤어",
+        "pinyin": "ani, hansumdo mot jasseo",
+        "meaning": "Không, chẳng chợp mắt được tí nào",
+        "example": "thân mật, đáp lại"
+    },
+    {
+        "id": 82,
+        "hanzi": "요즘 스트레스를 많이 받아요",
+        "pinyin": "yojeum seuteureseureul mani badayo",
+        "meaning": "Dạo này tôi bị căng thẳng nhiều",
+        "example": "lịch sự"
+    },
+    {
+        "id": 83,
+        "hanzi": "너무 무리하지 마세요",
+        "pinyin": "neomu murihaji maseyo",
+        "meaning": "Đừng làm quá sức nhé",
+        "example": "lời khuyên quan tâm"
+    },
+    {
+        "id": 84,
+        "hanzi": "건강 잘 챙기세요",
+        "pinyin": "geongang jal chaenggiseyo",
+        "meaning": "Giữ gìn sức khỏe nhé",
+        "example": "lời chào/dặn rất hay dùng"
+    },
+    {
+        "id": 85,
+        "hanzi": "감기 조심하세요",
+        "pinyin": "gamgi josimhaseyo",
+        "meaning": "Cẩn thận kẻo cảm nhé",
+        "example": "lời dặn khi giao mùa"
+    },
+    {
+        "id": 86,
+        "hanzi": "운동 자주 해요?",
+        "pinyin": "undong jaju haeyo?",
+        "meaning": "Anh có hay tập thể dục không?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 87,
+        "hanzi": "일주일에 세 번 헬스장에 가요",
+        "pinyin": "iljuire se beon helseujange gayo",
+        "meaning": "Tôi đi tập gym ba lần một tuần",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 88,
+        "hanzi": "요즘 운동을 거의 안 해요",
+        "pinyin": "yojeum undongeul geoui an haeyo",
+        "meaning": "Dạo này tôi hầu như không tập",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 89,
+        "hanzi": "저는 영화 보는 걸 좋아해요",
+        "pinyin": "jeoneun yeonghwa boneun geol joahaeyo",
+        "meaning": "Tôi thích xem phim",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 90,
+        "hanzi": "시간 있을 때 보통 뭐 해요?",
+        "pinyin": "sigan isseul ttae botong mwo haeyo?",
+        "meaning": "Lúc rảnh anh thường làm gì?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 91,
+        "hanzi": "주로 집에서 드라마 봐요",
+        "pinyin": "juro jibeseo deurama bwayo",
+        "meaning": "Tôi chủ yếu xem phim bộ ở nhà",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 92,
+        "hanzi": "쉬는 날에는 뭐 해요?",
+        "pinyin": "swineun nareneun mwo haeyo?",
+        "meaning": "Ngày nghỉ anh làm gì?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 93,
+        "hanzi": "등산 가거나 자전거 타요",
+        "pinyin": "deungsan gageona jajeongeo tayo",
+        "meaning": "Tôi đi leo núi hoặc đạp xe",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 94,
+        "hanzi": "무슨 영화 좋아해요?",
+        "pinyin": "museun yeonghwa joahaeyo?",
+        "meaning": "Anh thích phim thể loại gì?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 95,
+        "hanzi": "액션 영화 좋아해요",
+        "pinyin": "aeksyeon yeonghwa joahaeyo",
+        "meaning": "Tôi thích phim hành động",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 96,
+        "hanzi": "그 영화 봤어요?",
+        "pinyin": "geu yeonghwa bwasseoyo?",
+        "meaning": "Anh xem phim đó chưa?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 97,
+        "hanzi": "아직 못 봤어요",
+        "pinyin": "ajik mot bwasseoyo",
+        "meaning": "Tôi chưa xem được",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 98,
+        "hanzi": "재밌어요?",
+        "pinyin": "jaemisseoyo?",
+        "meaning": "Có hay không?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 99,
+        "hanzi": "완전 재밌어요. 꼭 보세요",
+        "pinyin": "wanjeon jaemisseoyo kkok boseyo",
+        "meaning": "Hay cực. Nhất định phải xem nhé",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 100,
+        "hanzi": "음악 자주 들어요?",
+        "pinyin": "eumak jaju deureoyo?",
+        "meaning": "Anh có hay nghe nhạc không?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 101,
+        "hanzi": "어떤 음악 좋아해요?",
+        "pinyin": "eotteon eumak joahaeyo?",
+        "meaning": "Anh thích loại nhạc nào?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 102,
+        "hanzi": "케이팝 좋아해요",
+        "pinyin": "keipap joahaeyo",
+        "meaning": "Tôi thích K-pop",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 103,
+        "hanzi": "노래방 좋아해요?",
+        "pinyin": "noraebang joahaeyo?",
+        "meaning": "Anh có thích đi karaoke không?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 104,
+        "hanzi": "노래는 잘 못하지만 좋아해요",
+        "pinyin": "noraeneun jal motajiman joahaeyo",
+        "meaning": "Hát không hay nhưng tôi thích",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 105,
+        "hanzi": "무슨 운동 좋아해요?",
+        "pinyin": "museun undong joahaeyo?",
+        "meaning": "Anh thích môn thể thao nào?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 106,
+        "hanzi": "축구 보는 거 좋아해요",
+        "pinyin": "chukgu boneun geo joahaeyo",
+        "meaning": "Tôi thích xem bóng đá",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 107,
+        "hanzi": "골프 치세요?",
+        "pinyin": "golpeu chiseyo?",
+        "meaning": "Anh có chơi golf không?",
+        "example": "kính ngữ, hay hỏi đối tác"
+    },
+    {
+        "id": 108,
+        "hanzi": "아니요, 배우고 싶어요",
+        "pinyin": "aniyo, baeugo sipeoyo",
+        "meaning": "Không, nhưng tôi muốn học",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 109,
+        "hanzi": "여행 좋아해요?",
+        "pinyin": "yeohaeng joahaeyo?",
+        "meaning": "Anh có thích du lịch không?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 110,
+        "hanzi": "네, 여행 엄청 좋아해요",
+        "pinyin": "ne, yeohaeng eomcheong joahaeyo",
+        "meaning": "Có, tôi cực thích du lịch",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 111,
+        "hanzi": "한국에서 어디 가 봤어요?",
+        "pinyin": "hangugeseo eodi ga bwasseoyo?",
+        "meaning": "Ở Hàn anh đã đi những đâu rồi?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 112,
+        "hanzi": "부산이랑 제주도 가 봤어요",
+        "pinyin": "busanirang jejudo ga bwasseoyo",
+        "meaning": "Tôi đã đi Busan và Jeju",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 113,
+        "hanzi": "요리 잘해요?",
+        "pinyin": "yori jalhaeyo?",
+        "meaning": "Anh nấu ăn giỏi không?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 114,
+        "hanzi": "요리하는 거 좋아해요",
+        "pinyin": "yorihaneun geo joahaeyo",
+        "meaning": "Tôi thích nấu ăn",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 115,
+        "hanzi": "한국 음식 중에 뭐 제일 좋아해요?",
+        "pinyin": "hanguk eumsik junge mwo jeil joahaeyo?",
+        "meaning": "Trong các món Hàn anh thích món nào nhất?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 116,
+        "hanzi": "삼겹살이요",
+        "pinyin": "samgyeopsariyo",
+        "meaning": "Thịt ba chỉ nướng",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 117,
+        "hanzi": "매운 거 잘 먹어요?",
+        "pinyin": "maeun geo jal meogeoyo?",
+        "meaning": "Anh ăn cay được không?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 118,
+        "hanzi": "조금 매운 건 괜찮아요",
+        "pinyin": "jogeum maeun geon gwaenchanayo",
+        "meaning": "Cay một chút thì được",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 119,
+        "hanzi": "한국어 공부 어때요?",
+        "pinyin": "hangugeo gongbu eottaeyo?",
+        "meaning": "Học tiếng Hàn thế nào rồi?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 120,
+        "hanzi": "어렵지만 재밌어요",
+        "pinyin": "eoryeopjiman jaemisseoyo",
+        "meaning": "Khó nhưng thú vị",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 121,
+        "hanzi": "한국어 진짜 잘하시네요",
+        "pinyin": "hangugeo jinjja jalhasineyo",
+        "meaning": "Anh nói tiếng Hàn giỏi thật",
+        "example": "lời khen hay gặp"
+    },
+    {
+        "id": 122,
+        "hanzi": "아직 멀었어요",
+        "pinyin": "ajik meoreosseoyo",
+        "meaning": "Tôi còn kém lắm. (còn xa lắm)",
+        "example": "đáp khiêm tốn"
+    },
+    {
+        "id": 123,
+        "hanzi": "부모님하고 동생, 저 네 명이에요",
+        "pinyin": "bumonimhago dongsaeng, jeo ne myeongieyo",
+        "meaning": "Bố mẹ, em tôi và tôi, bốn người",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 124,
+        "hanzi": "형제가 어떻게 돼요?",
+        "pinyin": "hyeongjega eotteoke dwaeyo?",
+        "meaning": "Anh có anh chị em gì không?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 125,
+        "hanzi": "누나 한 명 있어요",
+        "pinyin": "nuna han myeong isseoyo",
+        "meaning": "Tôi có một chị gái",
+        "example": "đáp lại (nam nói)"
+    },
+    {
+        "id": 126,
+        "hanzi": "결혼했어요?",
+        "pinyin": "gyeolhonhaesseoyo?",
+        "meaning": "Anh lập gia đình chưa?",
+        "example": "câu riêng tư, hỏi khi đã thân"
+    },
+    {
+        "id": 127,
+        "hanzi": "네, 아이가 둘 있어요",
+        "pinyin": "ne, aiga dul isseoyo",
+        "meaning": "Rồi, tôi có hai con",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 128,
+        "hanzi": "아직 미혼이에요",
+        "pinyin": "ajik mihonieyo",
+        "meaning": "Tôi vẫn còn độc thân",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 129,
+        "hanzi": "가족들은 다 잘 지내요?",
+        "pinyin": "gajokdeureun da jal jinaeyo?",
+        "meaning": "Gia đình anh mọi người đều khỏe chứ?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 130,
+        "hanzi": "부모님은 베트남에 계세요",
+        "pinyin": "bumonimeun beteuname gyeseyo",
+        "meaning": "Bố mẹ tôi ở Việt Nam",
+        "example": "kính ngữ 계시다"
+    },
+    {
+        "id": 131,
+        "hanzi": "가족이 많이 보고 싶겠어요",
+        "pinyin": "gajogi mani bogo sipgesseoyo",
+        "meaning": "Chắc anh nhớ gia đình lắm",
+        "example": "lịch sự, đồng cảm"
+    },
+    {
+        "id": 132,
+        "hanzi": "네, 영상통화 자주 해요",
+        "pinyin": "ne, yeongsangtonghwa jaju haeyo",
+        "meaning": "Vâng, tôi hay gọi video",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 133,
+        "hanzi": "하노이예요",
+        "pinyin": "hanoiyeyo",
+        "meaning": "Hà Nội ạ",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 134,
+        "hanzi": "한국에 온 지 얼마나 됐어요?",
+        "pinyin": "hanguge on ji eolmana dwaesseoyo?",
+        "meaning": "Anh sang Hàn được bao lâu rồi?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 135,
+        "hanzi": "삼 년 됐어요",
+        "pinyin": "sam nyeon dwaesseoyo",
+        "meaning": "Được ba năm rồi",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 136,
+        "hanzi": "이제 많이 익숙해졌어요",
+        "pinyin": "ije mani iksukaejyeosseoyo",
+        "meaning": "Giờ tôi quen nhiều rồi",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 137,
+        "hanzi": "네, 원룸에서 혼자 살아요",
+        "pinyin": "ne, wollumeseo honja sarayo",
+        "meaning": "Vâng, tôi sống một mình ở phòng trọ",
+        "example": "đáp lại, 원룸 = phòng studio"
+    },
+    {
+        "id": 138,
+        "hanzi": "실례지만 나이가 어떻게 되세요?",
+        "pinyin": "sillyejiman naiga eotteoke doeseyo?",
+        "meaning": "Xin lỗi, anh bao nhiêu tuổi ạ?",
+        "example": "kính ngữ, hỏi tuổi lịch sự"
+    },
+    {
+        "id": 139,
+        "hanzi": "저는 구십오 년생이에요",
+        "pinyin": "jeoneun gusibo nyeonsaengieyo",
+        "meaning": "Tôi sinh năm 95",
+        "example": "người Hàn hay nói năm sinh"
+    },
+    {
+        "id": 140,
+        "hanzi": "좋아, 그럼 말 놓자",
+        "pinyin": "joa, geureom mal nocha",
+        "meaning": "Ok, vậy nói trống không nhé",
+        "example": "thân mật, đáp lại"
+    },
+    {
+        "id": 141,
+        "hanzi": "베트남 날씨는 어때요?",
+        "pinyin": "beteunam nalssineun eottaeyo?",
+        "meaning": "Thời tiết Việt Nam thế nào?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 142,
+        "hanzi": "남쪽은 일 년 내내 더워요",
+        "pinyin": "namjjogeun il lyeon naenae deowoyo",
+        "meaning": "Miền Nam thì nóng quanh năm",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 143,
+        "hanzi": "한국은 사계절이 뚜렷하네요",
+        "pinyin": "hangugeun sagyejeori tturyeotaneyo",
+        "meaning": "Hàn Quốc bốn mùa rõ rệt nhỉ",
+        "example": "lịch sự"
+    },
+    {
+        "id": 144,
+        "hanzi": "베트남 음식 먹어 봤어요?",
+        "pinyin": "beteunam eumsik meogeo bwasseoyo?",
+        "meaning": "Anh ăn thử món Việt chưa?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 145,
+        "hanzi": "쌀국수 진짜 좋아해요",
+        "pinyin": "ssalguksu jinjja joahaeyo",
+        "meaning": "Tôi rất thích phở",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 146,
+        "hanzi": "한국 음식이 입에 맞아요?",
+        "pinyin": "hanguk eumsigi ibe majayo?",
+        "meaning": "Đồ ăn Hàn có hợp khẩu vị không?",
+        "example": "lịch sự, hay được hỏi"
+    },
+    {
+        "id": 147,
+        "hanzi": "네, 잘 맞아요. 근데 좀 매워요",
+        "pinyin": "ne, jal majayo geunde jom maewoyo",
+        "meaning": "Vâng, hợp lắm. Nhưng hơi cay",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 148,
+        "hanzi": "베트남 사람들도 커피 많이 마셔요?",
+        "pinyin": "beteunam saramdeuldo keopi mani masyeoyo?",
+        "meaning": "Người Việt cũng uống cà phê nhiều à?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 149,
+        "hanzi": "네, 연유 커피가 유명해요",
+        "pinyin": "ne, yeonyu keopiga yumyeonghaeyo",
+        "meaning": "Vâng, cà phê sữa đặc rất nổi tiếng",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 150,
+        "hanzi": "베트남도 설날을 쇠요?",
+        "pinyin": "beteunamdo seollareul soeyo?",
+        "meaning": "Việt Nam cũng ăn Tết à?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 151,
+        "hanzi": "네, 음력 설을 크게 쇠요",
+        "pinyin": "ne, eumnyeok seoreul keuge soeyo",
+        "meaning": "Vâng, Tết âm lịch được tổ chức rất lớn",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 152,
+        "hanzi": "한국은 물가가 비싸요",
+        "pinyin": "hangugeun mulgaga bissayo",
+        "meaning": "Ở Hàn vật giá đắt",
+        "example": "lịch sự"
+    },
+    {
+        "id": 153,
+        "hanzi": "베트남은 물가가 싼 편이에요",
+        "pinyin": "beteunameun mulgaga ssan pyeonieyo",
+        "meaning": "Việt Nam vật giá khá rẻ",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 154,
+        "hanzi": "한국에서 뭐가 제일 신기했어요?",
+        "pinyin": "hangugeseo mwoga jeil singihaesseoyo?",
+        "meaning": "Ở Hàn điều gì làm anh thấy lạ nhất?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 155,
+        "hanzi": "배달이 엄청 빨라서 놀랐어요",
+        "pinyin": "baedari eomcheong ppallaseo nollasseoyo",
+        "meaning": "Giao đồ ăn nhanh khủng khiếp nên tôi bất ngờ",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 156,
+        "hanzi": "한국어랑 베트남어는 비슷한 단어가 많아요",
+        "pinyin": "hangugeorang beteunameoneun biseutan daneoga manayo",
+        "meaning": "Tiếng Hàn và tiếng Việt có nhiều từ giống nhau",
+        "example": "từ Hán, lịch sự"
+    },
+    {
+        "id": 157,
+        "hanzi": "진짜요? 예를 들면요?",
+        "pinyin": "jinjjayo? yereul deulmyeonyo?",
+        "meaning": "Thật à? Ví dụ như?",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 158,
+        "hanzi": "아니요, 꼭 가 보고 싶어요",
+        "pinyin": "aniyo, kkok ga bogo sipeoyo",
+        "meaning": "Chưa, tôi rất muốn đi",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 159,
+        "hanzi": "베트남에 오면 연락하세요",
+        "pinyin": "beteuname omyeon yeollakaseyo",
+        "meaning": "Khi nào sang Việt Nam thì liên lạc nhé",
+        "example": "lịch sự"
+    },
+    {
+        "id": 160,
+        "hanzi": "이번 주말에 시간 있어요?",
+        "pinyin": "ibeon jumare sigan isseoyo?",
+        "meaning": "Cuối tuần này anh có rảnh không?",
+        "example": "lịch sự, mở đầu rủ rê"
+    },
+    {
+        "id": 161,
+        "hanzi": "네, 토요일은 괜찮아요",
+        "pinyin": "ne, toyoireun gwaenchanayo",
+        "meaning": "Có, thứ Bảy thì được",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 162,
+        "hanzi": "미안해요, 이번 주는 좀 바빠요",
+        "pinyin": "mianhaeyo, ibeon juneun jom bappayo",
+        "meaning": "Xin lỗi, tuần này tôi hơi bận",
+        "example": "từ chối nhẹ nhàng"
+    },
+    {
+        "id": 163,
+        "hanzi": "내일 시간 돼?",
+        "pinyin": "naeil sigan dwae?",
+        "meaning": "Mai rảnh không?",
+        "example": "thân mật (bạn bè)"
+    },
+    {
+        "id": 164,
+        "hanzi": "응, 저녁에 괜찮아",
+        "pinyin": "eung, jeonyeoge gwaenchana",
+        "meaning": "Ừ, buổi tối thì được",
+        "example": "thân mật, đáp lại"
+    },
+    {
+        "id": 165,
+        "hanzi": "같이 밥 먹을래요?",
+        "pinyin": "gachi bap meogeullaeyo?",
+        "meaning": "Đi ăn cơm cùng nhau không?",
+        "example": "lịch sự, rủ rê"
+    },
+    {
+        "id": 166,
+        "hanzi": "저녁에 한잔할래요?",
+        "pinyin": "jeonyeoge hanjanhallaeyo?",
+        "meaning": "Tối nay làm vài ly không?",
+        "example": "rủ đi nhậu, lịch sự"
+    },
+    {
+        "id": 167,
+        "hanzi": "오늘은 좀 힘들 것 같아요",
+        "pinyin": "oneureun jom himdeul geot gatayo",
+        "meaning": "Hôm nay chắc hơi khó",
+        "example": "từ chối khéo"
+    },
+    {
+        "id": 168,
+        "hanzi": "다음에 같이 가요",
+        "pinyin": "daeume gachi gayo",
+        "meaning": "Lần sau mình đi cùng nhé",
+        "example": "từ chối khéo"
+    },
+    {
+        "id": 169,
+        "hanzi": "영화 보러 갈래?",
+        "pinyin": "yeonghwa boreo gallae?",
+        "meaning": "Đi xem phim không?",
+        "example": "thân mật (bạn bè)"
+    },
+    {
+        "id": 170,
+        "hanzi": "콜!",
+        "pinyin": "kol",
+        "meaning": "Chốt luôn!",
+        "example": "thân mật, tiếng lóng"
+    },
+    {
+        "id": 171,
+        "hanzi": "아무거나 좋아요",
+        "pinyin": "amugeona joayo",
+        "meaning": "Gì cũng được",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 172,
+        "hanzi": "제가 맛집 알아볼게요",
+        "pinyin": "jega matjip arabolgeyo",
+        "meaning": "Để tôi tìm quán ngon",
+        "example": "lịch sự, 맛집 = quán ngon"
+    },
+    {
+        "id": 173,
+        "hanzi": "일곱 시 어때요?",
+        "pinyin": "ilgop si eottaeyo?",
+        "meaning": "Bảy giờ được không?",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 174,
+        "hanzi": "좋아요, 그때 봐요",
+        "pinyin": "joayo, geuttae bwayo",
+        "meaning": "Được, hẹn lúc đó nhé",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 175,
+        "hanzi": "어디서 만날까요?",
+        "pinyin": "eodiseo mannalkkayo?",
+        "meaning": "Mình gặp ở đâu?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 176,
+        "hanzi": "강남역 십일 번 출구에서 만나요",
+        "pinyin": "gangnamnyeok sibil beon chulgueseo mannayo",
+        "meaning": "Gặp ở cửa ra số 11 ga Gangnam nhé",
+        "example": "đáp lại, cách hẹn rất phổ biến"
+    },
+    {
+        "id": 177,
+        "hanzi": "어디서 볼까?",
+        "pinyin": "eodiseo bolkka?",
+        "meaning": "Gặp ở đâu đây?",
+        "example": "thân mật (bạn bè)"
+    },
+    {
+        "id": 178,
+        "hanzi": "홍대에서 보자",
+        "pinyin": "hongdaeeseo boja",
+        "meaning": "Gặp ở Hongdae đi",
+        "example": "thân mật, đáp lại"
+    },
+    {
+        "id": 179,
+        "hanzi": "그럼 토요일 두 시에 봬요",
+        "pinyin": "geureom toyoil du sie bwaeyo",
+        "meaning": "Vậy hẹn gặp lúc hai giờ thứ Bảy",
+        "example": "lịch sự, chốt hẹn"
+    },
+    {
+        "id": 180,
+        "hanzi": "다른 사람도 불러도 돼요?",
+        "pinyin": "dareun saramdo bulleodo dwaeyo?",
+        "meaning": "Tôi rủ thêm người khác được không?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 181,
+        "hanzi": "그럼요, 많을수록 좋죠",
+        "pinyin": "geureomyo, maneulsurok jochyo",
+        "meaning": "Tất nhiên, càng đông càng vui",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 182,
+        "hanzi": "이따 봐!",
+        "pinyin": "itta bwa",
+        "meaning": "Lát gặp nhé!",
+        "example": "thân mật"
+    },
+    {
+        "id": 183,
+        "hanzi": "약속 시간 좀 바꿔도 될까요?",
+        "pinyin": "yaksok sigan jom bakkwodo doelkkayo?",
+        "meaning": "Tôi đổi giờ hẹn được không?",
+        "example": "lịch sự, đổi lịch"
+    },
+    {
+        "id": 184,
+        "hanzi": "갑자기 일이 생겨서요",
+        "pinyin": "gapjagi iri saenggyeoseoyo",
+        "meaning": "Tại tôi đột nhiên có việc",
+        "example": "giải thích lý do"
+    },
+    {
+        "id": 185,
+        "hanzi": "다음 주로 미뤄도 돼요?",
+        "pinyin": "daeum juro mirwodo dwaeyo?",
+        "meaning": "Dời sang tuần sau được không?",
+        "example": "lịch sự, đổi lịch"
+    },
+    {
+        "id": 186,
+        "hanzi": "네, 괜찮아요. 편할 때 연락 주세요",
+        "pinyin": "ne, gwaenchanayo pyeonhal ttae yeollak juseyo",
+        "meaning": "Vâng, không sao. Lúc nào tiện thì báo tôi",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 187,
+        "hanzi": "정말 미안한데 오늘 약속 취소해야 할 것 같아요",
+        "pinyin": "jeongmal mianhande oneul yaksok chwisohaeya hal geot gatayo",
+        "meaning": "Thật xin lỗi, chắc hôm nay tôi phải hủy hẹn",
+        "example": "lịch sự, hủy hẹn"
+    },
+    {
+        "id": 188,
+        "hanzi": "괜찮아요, 다음에 봐요",
+        "pinyin": "gwaenchanayo, daeume bwayo",
+        "meaning": "Không sao, hẹn lần sau nhé",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 189,
+        "hanzi": "미안, 오늘 못 갈 것 같아",
+        "pinyin": "mian, oneul mot gal geot gata",
+        "meaning": "Xin lỗi, chắc hôm nay tớ không đi được",
+        "example": "thân mật, hủy hẹn"
+    },
+    {
+        "id": 190,
+        "hanzi": "아 진짜? 아쉽다",
+        "pinyin": "a jinjja? aswipda",
+        "meaning": "Thật à? Tiếc ghê",
+        "example": "thân mật, đáp lại"
+    },
+    {
+        "id": 191,
+        "hanzi": "조금 늦을 것 같아요",
+        "pinyin": "jogeum neujeul geot gatayo",
+        "meaning": "Chắc tôi sẽ đến muộn một chút",
+        "example": "lịch sự, báo muộn"
+    },
+    {
+        "id": 192,
+        "hanzi": "십 분쯤 늦을 것 같아요. 죄송해요",
+        "pinyin": "sip bunjjeum neujeul geot gatayo joesonghaeyo",
+        "meaning": "Chắc tôi muộn khoảng mười phút. Xin lỗi nhé",
+        "example": "lịch sự, báo muộn"
+    },
+    {
+        "id": 193,
+        "hanzi": "천천히 오세요",
+        "pinyin": "cheoncheonhi oseyo",
+        "meaning": "Cứ từ từ đến nhé",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 194,
+        "hanzi": "지금 어디쯤이에요?",
+        "pinyin": "jigeum eodijjeumieyo?",
+        "meaning": "Giờ anh đang ở khoảng đâu rồi?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 195,
+        "hanzi": "차가 너무 막혀요",
+        "pinyin": "chaga neomu makyeoyo",
+        "meaning": "Đường tắc quá",
+        "example": "lý do đến muộn"
+    },
+    {
+        "id": 196,
+        "hanzi": "언제 도착해?",
+        "pinyin": "eonje dochakae?",
+        "meaning": "Bao giờ đến nơi?",
+        "example": "thân mật"
+    },
+    {
+        "id": 197,
+        "hanzi": "오 분 뒤에 도착해",
+        "pinyin": "o bun dwie dochakae",
+        "meaning": "Năm phút nữa tới",
+        "example": "thân mật, đáp lại"
+    },
+    {
+        "id": 198,
+        "hanzi": "늦어서 미안해요",
+        "pinyin": "neujeoseo mianhaeyo",
+        "meaning": "Xin lỗi vì đến muộn",
+        "example": "lịch sự"
+    },
+    {
+        "id": 199,
+        "hanzi": "많이 기다렸어요?",
+        "pinyin": "mani gidaryeosseoyo?",
+        "meaning": "Anh chờ lâu chưa?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 200,
+        "hanzi": "아니요, 저도 방금 왔어요",
+        "pinyin": "aniyo, jeodo banggeum wasseoyo",
+        "meaning": "Không, tôi cũng vừa đến thôi",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 201,
+        "hanzi": "오늘 즐거웠어요",
+        "pinyin": "oneul jeulgeowosseoyo",
+        "meaning": "Hôm nay vui lắm",
+        "example": "lịch sự, chào khi chia tay"
+    },
+    {
+        "id": 202,
+        "hanzi": "다음에 또 만나요",
+        "pinyin": "daeume tto mannayo",
+        "meaning": "Lần sau gặp lại nhé",
+        "example": "lịch sự"
+    },
+    {
+        "id": 203,
+        "hanzi": "잘 가! 도착하면 연락해",
+        "pinyin": "jal ga dochakamyeon yeollakae",
+        "meaning": "Về nhé! Đến nơi thì nhắn tớ",
+        "example": "thân mật"
+    },
+    {
+        "id": 204,
+        "hanzi": "카톡 해요?",
+        "pinyin": "katok haeyo?",
+        "meaning": "Anh có dùng KakaoTalk không?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 205,
+        "hanzi": "카톡 아이디 알려 줄래요?",
+        "pinyin": "katok aidi allyeo jullaeyo?",
+        "meaning": "Cho tôi ID KakaoTalk được không?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 206,
+        "hanzi": "번호 좀 알려 주세요",
+        "pinyin": "beonho jom allyeo juseyo",
+        "meaning": "Cho tôi xin số điện thoại",
+        "example": "lịch sự"
+    },
+    {
+        "id": 207,
+        "hanzi": "제가 카톡 보낼게요",
+        "pinyin": "jega katok bonaelgeyo",
+        "meaning": "Tôi sẽ nhắn Kakao cho anh",
+        "example": "lịch sự"
+    },
+    {
+        "id": 208,
+        "hanzi": "지금 통화 괜찮아요?",
+        "pinyin": "jigeum tonghwa gwaenchanayo?",
+        "meaning": "Giờ nói chuyện điện thoại được không?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 209,
+        "hanzi": "지금 회의 중이라서 이따 전화할게요",
+        "pinyin": "jigeum hoeui jungiraseo itta jeonhwahalgeyo",
+        "meaning": "Tôi đang họp, lát tôi gọi lại nhé",
+        "example": "lịch sự"
+    },
+    {
+        "id": 210,
+        "hanzi": "전화 왜 안 받아?",
+        "pinyin": "jeonhwa wae an bada?",
+        "meaning": "Sao không nghe máy?",
+        "example": "thân mật"
+    },
+    {
+        "id": 211,
+        "hanzi": "미안, 못 봤어",
+        "pinyin": "mian, mot bwasseo",
+        "meaning": "Xin lỗi, tớ không để ý",
+        "example": "thân mật, đáp lại"
+    },
+    {
+        "id": 212,
+        "hanzi": "폰 배터리가 다 됐었어",
+        "pinyin": "pon baeteoriga da dwaesseosseo",
+        "meaning": "Điện thoại tớ hết pin",
+        "example": "thân mật, giải thích"
+    },
+    {
+        "id": 213,
+        "hanzi": "왜 이렇게 연락이 안 돼?",
+        "pinyin": "wae ireoke yeollagi an dwae?",
+        "meaning": "Sao khó liên lạc thế?",
+        "example": "thân mật, trách nhẹ"
+    },
+    {
+        "id": 214,
+        "hanzi": "문자 봤어요?",
+        "pinyin": "munja bwasseoyo?",
+        "meaning": "Anh xem tin nhắn chưa?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 215,
+        "hanzi": "답장이 늦어서 미안해요",
+        "pinyin": "dapjangi neujeoseo mianhaeyo",
+        "meaning": "Xin lỗi vì trả lời muộn",
+        "example": "lịch sự"
+    },
+    {
+        "id": 216,
+        "hanzi": "카톡 확인해 봐",
+        "pinyin": "katok hwaginhae bwa",
+        "meaning": "Xem Kakao đi",
+        "example": "thân mật"
+    },
+    {
+        "id": 217,
+        "hanzi": "이따 다시 전화할게",
+        "pinyin": "itta dasi jeonhwahalge",
+        "meaning": "Lát tớ gọi lại",
+        "example": "thân mật"
+    },
+    {
+        "id": 218,
+        "hanzi": "나중에 연락할게",
+        "pinyin": "najunge yeollakalge",
+        "meaning": "Để sau tớ liên lạc",
+        "example": "thân mật"
+    },
+    {
+        "id": 219,
+        "hanzi": "뭐 해?",
+        "pinyin": "mwo hae?",
+        "meaning": "Đang làm gì đấy?",
+        "example": "thân mật, nhắn tin"
+    },
+    {
+        "id": 220,
+        "hanzi": "그냥 집에서 쉬고 있어",
+        "pinyin": "geunyang jibeseo swigo isseo",
+        "meaning": "Đang nghỉ ở nhà thôi",
+        "example": "thân mật, đáp lại"
+    },
+    {
+        "id": 221,
+        "hanzi": "잘 자!",
+        "pinyin": "jal ja",
+        "meaning": "Ngủ ngon nhé!",
+        "example": "thân mật"
+    },
+    {
+        "id": 222,
+        "hanzi": "좋은 꿈 꿔",
+        "pinyin": "joeun kkum kkwo",
+        "meaning": "Mơ đẹp nhé",
+        "example": "thân mật"
+    },
+    {
+        "id": 223,
+        "hanzi": "앞으로 계획이 뭐예요?",
+        "pinyin": "apeuro gyehoegi mwoyeyo?",
+        "meaning": "Kế hoạch sắp tới của anh là gì?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 224,
+        "hanzi": "한국에서 계속 일하고 싶어요",
+        "pinyin": "hangugeseo gyesok ilhago sipeoyo",
+        "meaning": "Tôi muốn tiếp tục làm việc ở Hàn",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 225,
+        "hanzi": "언젠가 베트남에 돌아갈 거예요",
+        "pinyin": "eonjenga beteuname doragal geoyeyo",
+        "meaning": "Một ngày nào đó tôi sẽ về Việt Nam",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 226,
+        "hanzi": "올해 목표가 뭐예요?",
+        "pinyin": "olhae mokpyoga mwoyeyo?",
+        "meaning": "Mục tiêu năm nay của anh là gì?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 227,
+        "hanzi": "토픽 사급 따는 거예요",
+        "pinyin": "topik sageup ttaneun geoyeyo",
+        "meaning": "Là lấy được TOPIK cấp 4",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 228,
+        "hanzi": "내년에 뭐 할 거예요?",
+        "pinyin": "naenyeone mwo hal geoyeyo?",
+        "meaning": "Năm sau anh định làm gì?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 229,
+        "hanzi": "내년에 결혼할 거예요",
+        "pinyin": "naenyeone gyeolhonhal geoyeyo",
+        "meaning": "Năm sau tôi sẽ cưới",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 230,
+        "hanzi": "이직할 생각이에요",
+        "pinyin": "ijikal saenggagieyo",
+        "meaning": "Tôi đang tính chuyển việc",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 231,
+        "hanzi": "다음 달에 이사해요",
+        "pinyin": "daeum dare isahaeyo",
+        "meaning": "Tháng sau tôi chuyển nhà",
+        "example": "lịch sự"
+    },
+    {
+        "id": 232,
+        "hanzi": "돈 모아서 집 사고 싶어요",
+        "pinyin": "don moaseo jip sago sipeoyo",
+        "meaning": "Tôi muốn dành tiền mua nhà",
+        "example": "lịch sự"
+    },
+    {
+        "id": 233,
+        "hanzi": "언젠가 제 회사를 차리고 싶어요",
+        "pinyin": "eonjenga je hoesareul charigo sipeoyo",
+        "meaning": "Một ngày nào đó tôi muốn mở công ty riêng",
+        "example": "lịch sự"
+    },
+    {
+        "id": 234,
+        "hanzi": "꿈이 뭐예요?",
+        "pinyin": "kkumi mwoyeyo?",
+        "meaning": "Ước mơ của anh là gì?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 235,
+        "hanzi": "세계 여행하는 거예요",
+        "pinyin": "segye yeohaenghaneun geoyeyo",
+        "meaning": "Là đi du lịch vòng quanh thế giới",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 236,
+        "hanzi": "꼭 이루어지길 바라요",
+        "pinyin": "kkok irueojigil barayo",
+        "meaning": "Mong là nhất định sẽ thành hiện thực",
+        "example": "lời chúc"
+    },
+    {
+        "id": 237,
+        "hanzi": "응원할게요!",
+        "pinyin": "eungwonhalgeyo",
+        "meaning": "Tôi sẽ ủng hộ anh!",
+        "example": "lời động viên"
+    },
+    {
+        "id": 238,
+        "hanzi": "잘될 거예요",
+        "pinyin": "jaldoel geoyeyo",
+        "meaning": "Sẽ ổn thôi. (mọi việc sẽ suôn sẻ)",
+        "example": "lời động viên"
+    },
+    {
+        "id": 239,
+        "hanzi": "화이팅!",
+        "pinyin": "hwaiting",
+        "meaning": "Cố lên!",
+        "example": "thân mật, động viên"
+    },
+    {
+        "id": 240,
+        "hanzi": "안녕하세요, 옆집에 새로 이사 왔어요",
+        "pinyin": "annyeonghaseyo, yeopjibe saero isa wasseoyo",
+        "meaning": "Xin chào, tôi mới chuyển đến nhà bên cạnh",
+        "example": "lịch sự, chào hàng xóm"
+    },
+    {
+        "id": 241,
+        "hanzi": "앞으로 잘 부탁드려요",
+        "pinyin": "apeuro jal butakdeuryeoyo",
+        "meaning": "Mong được giúp đỡ từ nay về sau",
+        "example": "lịch sự, chào lần đầu"
+    },
+    {
+        "id": 242,
+        "hanzi": "산책 나오셨어요?",
+        "pinyin": "sanchaek naosyeosseoyo?",
+        "meaning": "Bác ra ngoài đi dạo à?",
+        "example": "kính ngữ, chào hàng xóm"
+    },
+    {
+        "id": 243,
+        "hanzi": "이사 잘 했어요?",
+        "pinyin": "isa jal haesseoyo?",
+        "meaning": "Chuyển nhà ổn cả chứ?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 244,
+        "hanzi": "네, 짐 정리는 아직이에요",
+        "pinyin": "ne, jim jeongnineun ajigieyo",
+        "meaning": "Rồi, nhưng đồ đạc vẫn chưa sắp xếp xong",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 245,
+        "hanzi": "새집은 어때요?",
+        "pinyin": "saejibeun eottaeyo?",
+        "meaning": "Nhà mới thế nào?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 246,
+        "hanzi": "전보다 넓고 조용해요",
+        "pinyin": "jeonboda neolgo joyonghaeyo",
+        "meaning": "Rộng và yên tĩnh hơn trước",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 247,
+        "hanzi": "퇴근하세요?",
+        "pinyin": "toegeunhaseyo?",
+        "meaning": "Anh tan làm à?",
+        "example": "lịch sự, chào đồng nghiệp"
+    },
+    {
+        "id": 248,
+        "hanzi": "네, 먼저 들어가 보겠습니다",
+        "pinyin": "ne, meonjeo deureoga bogetseumnida",
+        "meaning": "Vâng, tôi xin phép về trước",
+        "example": "lịch sự, nơi công sở"
+    },
+    {
+        "id": 249,
+        "hanzi": "점심 같이 드실래요?",
+        "pinyin": "jeomsim gachi deusillaeyo?",
+        "meaning": "Anh ăn trưa cùng không ạ?",
+        "example": "kính ngữ, rủ đồng nghiệp"
+    },
+    {
+        "id": 250,
+        "hanzi": "다음엔 제가 쏠게요",
+        "pinyin": "daeumen jega ssolgeyo",
+        "meaning": "Lần sau để tôi bao",
+        "example": "thân thiện, 쏘다 = khao"
+    }
+]

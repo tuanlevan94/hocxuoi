@@ -1,0 +1,1752 @@
+[
+    {
+        "id": 1,
+        "hanzi": "진료 예약하고 싶은데요",
+        "pinyin": "jillyo yeyakago sipeundeyo",
+        "meaning": "Tôi muốn đặt lịch khám",
+        "example": "gọi điện đặt lịch"
+    },
+    {
+        "id": 2,
+        "hanzi": "어느 과로 예약해 드릴까요?",
+        "pinyin": "eoneu gwaro yeyakae deurilkkayo?",
+        "meaning": "Anh muốn đặt khám khoa nào ạ?",
+        "example": "nhân viên nói"
+    },
+    {
+        "id": 3,
+        "hanzi": "내과요",
+        "pinyin": "naegwayo",
+        "meaning": "Khoa nội ạ",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 4,
+        "hanzi": "언제가 편하세요?",
+        "pinyin": "eonjega pyeonhaseyo?",
+        "meaning": "Khi nào thì tiện cho anh ạ?",
+        "example": "nhân viên nói"
+    },
+    {
+        "id": 5,
+        "hanzi": "내일 오전에 가능해요?",
+        "pinyin": "naeil ojeone ganeunghaeyo?",
+        "meaning": "Sáng mai có được không ạ?",
+        "example": ""
+    },
+    {
+        "id": 6,
+        "hanzi": "내일 오전은 예약이 다 찼어요",
+        "pinyin": "naeil ojeoneun yeyagi da chasseoyo",
+        "meaning": "Sáng mai kín lịch rồi ạ",
+        "example": "nhân viên nói"
+    },
+    {
+        "id": 7,
+        "hanzi": "오후 세 시는 괜찮으세요?",
+        "pinyin": "ohu se sineun gwaenchaneuseyo?",
+        "meaning": "3 giờ chiều có được không ạ?",
+        "example": "nhân viên nói"
+    },
+    {
+        "id": 8,
+        "hanzi": "네, 그 시간에 갈게요",
+        "pinyin": "ne, geu sigane galgeyo",
+        "meaning": "Vâng, giờ đó tôi sẽ đến",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 9,
+        "hanzi": "예약 없이 가도 돼요?",
+        "pinyin": "yeyak eopsi gado dwaeyo?",
+        "meaning": "Không đặt lịch mà đến có được không?",
+        "example": ""
+    },
+    {
+        "id": 10,
+        "hanzi": "네, 오시는 순서대로 진료해 드려요",
+        "pinyin": "ne, osineun sunseodaero jillyohae deuryeoyo",
+        "meaning": "Được ạ, khám theo thứ tự đến",
+        "example": "nhân viên nói"
+    },
+    {
+        "id": 11,
+        "hanzi": "대기 시간이 얼마나 돼요?",
+        "pinyin": "daegi sigani eolmana dwaeyo?",
+        "meaning": "Phải chờ khoảng bao lâu ạ?",
+        "example": ""
+    },
+    {
+        "id": 12,
+        "hanzi": "삼십 분 정도 기다리셔야 해요",
+        "pinyin": "samsip bun jeongdo gidarisyeoya haeyo",
+        "meaning": "Phải chờ khoảng 30 phút ạ",
+        "example": "nhân viên nói"
+    },
+    {
+        "id": 13,
+        "hanzi": "예약 시간을 바꾸고 싶어요",
+        "pinyin": "yeyak siganeul bakkugo sipeoyo",
+        "meaning": "Tôi muốn đổi giờ hẹn",
+        "example": ""
+    },
+    {
+        "id": 14,
+        "hanzi": "예약을 취소하려고 전화했어요",
+        "pinyin": "yeyageul chwisoharyeogo jeonhwahaesseoyo",
+        "meaning": "Tôi gọi để hủy lịch hẹn",
+        "example": ""
+    },
+    {
+        "id": 15,
+        "hanzi": "진료 시간이 어떻게 돼요?",
+        "pinyin": "jillyo sigani eotteoke dwaeyo?",
+        "meaning": "Giờ khám bệnh thế nào ạ?",
+        "example": ""
+    },
+    {
+        "id": 16,
+        "hanzi": "평일은 아홉 시부터 여섯 시까지예요",
+        "pinyin": "pyeongireun ahop sibuteo yeoseot sikkajiyeyo",
+        "meaning": "Ngày thường từ 9 giờ đến 6 giờ",
+        "example": "nhân viên nói"
+    },
+    {
+        "id": 17,
+        "hanzi": "토요일에도 진료해요?",
+        "pinyin": "toyoiredo jillyohaeyo?",
+        "meaning": "Thứ Bảy có khám không ạ?",
+        "example": ""
+    },
+    {
+        "id": 18,
+        "hanzi": "토요일은 오전 진료만 해요",
+        "pinyin": "toyoireun ojeon jillyoman haeyo",
+        "meaning": "Thứ Bảy chỉ khám buổi sáng",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 19,
+        "hanzi": "점심시간에는 진료 안 해요",
+        "pinyin": "jeomsimsiganeneun jillyo an haeyo",
+        "meaning": "Giờ nghỉ trưa không khám",
+        "example": "nhân viên nói"
+    },
+    {
+        "id": 20,
+        "hanzi": "외국인도 진료받을 수 있어요?",
+        "pinyin": "oegugindo jillyobadeul su isseoyo?",
+        "meaning": "Người nước ngoài khám được không ạ?",
+        "example": ""
+    },
+    {
+        "id": 21,
+        "hanzi": "통역 서비스가 있어요?",
+        "pinyin": "tongyeok seobiseuga isseoyo?",
+        "meaning": "Có dịch vụ phiên dịch không ạ?",
+        "example": ""
+    },
+    {
+        "id": 22,
+        "hanzi": "처음 오셨어요?",
+        "pinyin": "cheoeum osyeosseoyo?",
+        "meaning": "Anh đến lần đầu phải không ạ?",
+        "example": "nhân viên nói"
+    },
+    {
+        "id": 23,
+        "hanzi": "네, 처음이에요",
+        "pinyin": "ne, cheoeumieyo",
+        "meaning": "Vâng, lần đầu ạ",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 24,
+        "hanzi": "아니요, 전에 온 적 있어요",
+        "pinyin": "aniyo, jeone on jeok isseoyo",
+        "meaning": "Không, tôi từng đến rồi",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 25,
+        "hanzi": "접수하려고 하는데요",
+        "pinyin": "jeopsuharyeogo haneundeyo",
+        "meaning": "Tôi muốn đăng ký khám",
+        "example": "ở quầy lễ tân"
+    },
+    {
+        "id": 26,
+        "hanzi": "신분증 보여 주시겠어요?",
+        "pinyin": "sinbunjeung boyeo jusigesseoyo?",
+        "meaning": "Cho tôi xem giấy tờ tùy thân ạ",
+        "example": "nhân viên nói"
+    },
+    {
+        "id": 27,
+        "hanzi": "외국인등록증 여기 있어요",
+        "pinyin": "oegugindeungnokjeung yeogi isseoyo",
+        "meaning": "Thẻ người nước ngoài đây ạ",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 28,
+        "hanzi": "건강보험 있으세요?",
+        "pinyin": "geongangboheom isseuseyo?",
+        "meaning": "Anh có bảo hiểm y tế không ạ?",
+        "example": "nhân viên nói"
+    },
+    {
+        "id": 29,
+        "hanzi": "네, 직장 보험 있어요",
+        "pinyin": "ne, jikjang boheom isseoyo",
+        "meaning": "Có, tôi có bảo hiểm qua công ty",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 30,
+        "hanzi": "아직 보험이 없어요",
+        "pinyin": "ajik boheomi eopseoyo",
+        "meaning": "Tôi chưa có bảo hiểm",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 31,
+        "hanzi": "보험 없으면 진료비가 얼마예요?",
+        "pinyin": "boheom eopseumyeon jillyobiga eolmayeyo?",
+        "meaning": "Không có bảo hiểm thì phí khám bao nhiêu?",
+        "example": ""
+    },
+    {
+        "id": 32,
+        "hanzi": "이 서류 작성해 주세요",
+        "pinyin": "i seoryu jakseonghae juseyo",
+        "meaning": "Anh điền vào giấy này giúp tôi",
+        "example": "nhân viên nói"
+    },
+    {
+        "id": 33,
+        "hanzi": "여기에 이름이랑 연락처 써 주세요",
+        "pinyin": "yeogie ireumirang yeollakcheo sseo juseyo",
+        "meaning": "Ghi tên và số liên lạc vào đây",
+        "example": "nhân viên nói"
+    },
+    {
+        "id": 34,
+        "hanzi": "알레르기 있으세요?",
+        "pinyin": "allereugi isseuseyo?",
+        "meaning": "Anh có bị dị ứng gì không?",
+        "example": "nhân viên nói"
+    },
+    {
+        "id": 35,
+        "hanzi": "페니실린 알레르기가 있어요",
+        "pinyin": "penisillin allereugiga isseoyo",
+        "meaning": "Tôi bị dị ứng penicillin",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 36,
+        "hanzi": "특별히 없어요",
+        "pinyin": "teukbyeolhi eopseoyo",
+        "meaning": "Không có gì đặc biệt",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 37,
+        "hanzi": "지금 드시는 약 있으세요?",
+        "pinyin": "jigeum deusineun yak isseuseyo?",
+        "meaning": "Hiện anh có đang uống thuốc gì không?",
+        "example": "nhân viên nói"
+    },
+    {
+        "id": 38,
+        "hanzi": "고혈압 약을 먹고 있어요",
+        "pinyin": "gohyeorap yageul meokgo isseoyo",
+        "meaning": "Tôi đang uống thuốc huyết áp",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 39,
+        "hanzi": "성함 부르면 들어가세요",
+        "pinyin": "seongham bureumyeon deureogaseyo",
+        "meaning": "Khi gọi tên thì anh vào nhé",
+        "example": "nhân viên nói"
+    },
+    {
+        "id": 40,
+        "hanzi": "잠시 앉아서 기다려 주세요",
+        "pinyin": "jamsi anjaseo gidaryeo juseyo",
+        "meaning": "Anh ngồi chờ một chút ạ",
+        "example": "nhân viên nói"
+    },
+    {
+        "id": 41,
+        "hanzi": "제 차례가 언제쯤이에요?",
+        "pinyin": "je charyega eonjejjeumieyo?",
+        "meaning": "Khoảng khi nào đến lượt tôi ạ?",
+        "example": ""
+    },
+    {
+        "id": 42,
+        "hanzi": "앞에 두 분 계세요",
+        "pinyin": "ape du bun gyeseyo",
+        "meaning": "Còn hai người trước anh ạ",
+        "example": "nhân viên nói"
+    },
+    {
+        "id": 43,
+        "hanzi": "오늘 진료비는 오천 원입니다",
+        "pinyin": "oneul jillyobineun ocheon wonimnida",
+        "meaning": "Phí khám hôm nay là 5.000 won",
+        "example": "nhân viên nói"
+    },
+    {
+        "id": 44,
+        "hanzi": "진료비 영수증 좀 주세요",
+        "pinyin": "jillyobi yeongsujeung jom juseyo",
+        "meaning": "Cho tôi xin hóa đơn phí khám",
+        "example": "để thanh toán bảo hiểm"
+    },
+    {
+        "id": 45,
+        "hanzi": "다음 진료는 언제 오면 돼요?",
+        "pinyin": "daeum jillyoneun eonje omyeon dwaeyo?",
+        "meaning": "Lần khám sau tôi đến khi nào ạ?",
+        "example": ""
+    },
+    {
+        "id": 46,
+        "hanzi": "일주일 뒤에 다시 오세요",
+        "pinyin": "iljuil dwie dasi oseyo",
+        "meaning": "Một tuần sau anh quay lại nhé",
+        "example": "nhân viên nói"
+    },
+    {
+        "id": 47,
+        "hanzi": "오늘 어떻게 오셨어요?",
+        "pinyin": "oneul eotteoke osyeosseoyo?",
+        "meaning": "Hôm nay anh đến khám vì sao?",
+        "example": "bác sĩ nói"
+    },
+    {
+        "id": 48,
+        "hanzi": "목이 아프고 열이 나요",
+        "pinyin": "mogi apeugo yeori nayo",
+        "meaning": "Tôi đau họng và bị sốt",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 49,
+        "hanzi": "배가 너무 아파서 왔어요",
+        "pinyin": "baega neomu apaseo wasseoyo",
+        "meaning": "Tôi đau bụng quá nên đến khám",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 50,
+        "hanzi": "언제부터 아팠어요?",
+        "pinyin": "eonjebuteo apasseoyo?",
+        "meaning": "Đau từ khi nào?",
+        "example": "bác sĩ nói"
+    },
+    {
+        "id": 51,
+        "hanzi": "어제 저녁부터요",
+        "pinyin": "eoje jeonyeokbuteoyo",
+        "meaning": "Từ tối hôm qua ạ",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 52,
+        "hanzi": "일주일째 기침을 하고 있어요",
+        "pinyin": "iljuiljjae gichimeul hago isseoyo",
+        "meaning": "Tôi ho đã một tuần rồi",
+        "example": ""
+    },
+    {
+        "id": 53,
+        "hanzi": "어디가 제일 아프세요?",
+        "pinyin": "eodiga jeil apeuseyo?",
+        "meaning": "Chỗ nào đau nhất?",
+        "example": "bác sĩ nói"
+    },
+    {
+        "id": 54,
+        "hanzi": "여기 오른쪽 아랫배가 아파요",
+        "pinyin": "yeogi oreunjjok araetbaega apayo",
+        "meaning": "Bụng dưới bên phải chỗ này đau",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 55,
+        "hanzi": "콕콕 찌르듯이 아파요",
+        "pinyin": "kokkok jjireudeusi apayo",
+        "meaning": "Đau nhói như kim châm",
+        "example": "mô tả cơn đau"
+    },
+    {
+        "id": 56,
+        "hanzi": "욱신욱신 쑤셔요",
+        "pinyin": "uksinuksin ssusyeoyo",
+        "meaning": "Đau nhức từng cơn",
+        "example": "mô tả cơn đau"
+    },
+    {
+        "id": 57,
+        "hanzi": "머리가 지끈지끈해요",
+        "pinyin": "meoriga jikkeunjikkeunhaeyo",
+        "meaning": "Đầu đau như búa bổ",
+        "example": "mô tả cơn đau"
+    },
+    {
+        "id": 58,
+        "hanzi": "계속 아파요, 아니면 가끔 아파요?",
+        "pinyin": "gyesok apayo, animyeon gakkeum apayo?",
+        "meaning": "Đau liên tục hay thỉnh thoảng?",
+        "example": "bác sĩ nói"
+    },
+    {
+        "id": 59,
+        "hanzi": "가끔 아프다가 괜찮아져요",
+        "pinyin": "gakkeum apeudaga gwaenchanajyeoyo",
+        "meaning": "Thỉnh thoảng đau rồi lại hết",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 60,
+        "hanzi": "밤에 더 심해져요",
+        "pinyin": "bame deo simhaejyeoyo",
+        "meaning": "Ban đêm đau hơn",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 61,
+        "hanzi": "통증이 어느 정도예요?",
+        "pinyin": "tongjeungi eoneu jeongdoyeyo?",
+        "meaning": "Mức độ đau thế nào?",
+        "example": "bác sĩ nói"
+    },
+    {
+        "id": 62,
+        "hanzi": "참을 만해요",
+        "pinyin": "chameul manhaeyo",
+        "meaning": "Vẫn chịu được",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 63,
+        "hanzi": "참기 힘들 정도로 아파요",
+        "pinyin": "chamgi himdeul jeongdoro apayo",
+        "meaning": "Đau đến mức khó chịu nổi",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 64,
+        "hanzi": "열은 몇 도까지 올라갔어요?",
+        "pinyin": "yeoreun myeot dokkaji ollagasseoyo?",
+        "meaning": "Sốt lên đến bao nhiêu độ?",
+        "example": "bác sĩ nói"
+    },
+    {
+        "id": 65,
+        "hanzi": "삼십팔 도 오 부까지 올라갔어요",
+        "pinyin": "samsippal do o bukkaji ollagasseoyo",
+        "meaning": "Lên đến 38,5 độ",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 66,
+        "hanzi": "열이 났다 내렸다 해요",
+        "pinyin": "yeori natda naeryeotda haeyo",
+        "meaning": "Sốt lúc lên lúc xuống",
+        "example": ""
+    },
+    {
+        "id": 67,
+        "hanzi": "몸살 기운이 있어요",
+        "pinyin": "momsal giuni isseoyo",
+        "meaning": "Tôi thấy ê ẩm như sắp ốm",
+        "example": ""
+    },
+    {
+        "id": 68,
+        "hanzi": "온몸이 쑤시고 오한이 있어요",
+        "pinyin": "onmomi ssusigo ohani isseoyo",
+        "meaning": "Toàn thân nhức mỏi và ớn lạnh",
+        "example": ""
+    },
+    {
+        "id": 69,
+        "hanzi": "기침할 때 가래가 나와요",
+        "pinyin": "gichimhal ttae garaega nawayo",
+        "meaning": "Ho thì có đờm",
+        "example": ""
+    },
+    {
+        "id": 70,
+        "hanzi": "마른기침이 나요",
+        "pinyin": "mareungichimi nayo",
+        "meaning": "Tôi bị ho khan",
+        "example": ""
+    },
+    {
+        "id": 71,
+        "hanzi": "콧물이 나고 코가 막혀요",
+        "pinyin": "konmuri nago koga makyeoyo",
+        "meaning": "Sổ mũi và nghẹt mũi",
+        "example": ""
+    },
+    {
+        "id": 72,
+        "hanzi": "침 삼킬 때 목이 아파요",
+        "pinyin": "chim samkil ttae mogi apayo",
+        "meaning": "Nuốt nước bọt thì đau họng",
+        "example": ""
+    },
+    {
+        "id": 73,
+        "hanzi": "목소리가 잘 안 나와요",
+        "pinyin": "moksoriga jal an nawayo",
+        "meaning": "Tôi bị khàn tiếng",
+        "example": ""
+    },
+    {
+        "id": 74,
+        "hanzi": "설사를 계속해요",
+        "pinyin": "seolsareul gyesokaeyo",
+        "meaning": "Tôi bị tiêu chảy liên tục",
+        "example": ""
+    },
+    {
+        "id": 75,
+        "hanzi": "하루에 몇 번 정도 화장실 가세요?",
+        "pinyin": "harue myeot beon jeongdo hwajangsil gaseyo?",
+        "meaning": "Một ngày đi vệ sinh mấy lần?",
+        "example": "bác sĩ nói"
+    },
+    {
+        "id": 76,
+        "hanzi": "대여섯 번 갔어요",
+        "pinyin": "daeyeoseot beon gasseoyo",
+        "meaning": "Khoảng năm sáu lần",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 77,
+        "hanzi": "속이 메스꺼워요",
+        "pinyin": "sogi meseukkeowoyo",
+        "meaning": "Tôi thấy buồn nôn",
+        "example": ""
+    },
+    {
+        "id": 78,
+        "hanzi": "어젯밤에 두 번 토했어요",
+        "pinyin": "eojetbame du beon tohaesseoyo",
+        "meaning": "Đêm qua tôi nôn hai lần",
+        "example": ""
+    },
+    {
+        "id": 79,
+        "hanzi": "뭘 잘못 먹은 것 같아요",
+        "pinyin": "mwol jalmot meogeun geot gatayo",
+        "meaning": "Hình như tôi ăn phải thứ gì không ổn",
+        "example": ""
+    },
+    {
+        "id": 80,
+        "hanzi": "식중독인 것 같아요",
+        "pinyin": "sikjungdogin geot gatayo",
+        "meaning": "Hình như bị ngộ độc thực phẩm",
+        "example": ""
+    },
+    {
+        "id": 81,
+        "hanzi": "속이 쓰려요",
+        "pinyin": "sogi sseuryeoyo",
+        "meaning": "Tôi bị xót ruột",
+        "example": "đau dạ dày"
+    },
+    {
+        "id": 82,
+        "hanzi": "소화가 잘 안 돼요",
+        "pinyin": "sohwaga jal an dwaeyo",
+        "meaning": "Tôi bị khó tiêu",
+        "example": ""
+    },
+    {
+        "id": 83,
+        "hanzi": "밥맛이 없어요",
+        "pinyin": "bammasi eopseoyo",
+        "meaning": "Tôi ăn không thấy ngon miệng",
+        "example": ""
+    },
+    {
+        "id": 84,
+        "hanzi": "일어날 때 핑 돌아요",
+        "pinyin": "ireonal ttae ping dorayo",
+        "meaning": "Đứng dậy là thấy choáng",
+        "example": "chóng mặt"
+    },
+    {
+        "id": 85,
+        "hanzi": "눈앞이 깜깜해져요",
+        "pinyin": "nunapi kkamkkamhaejyeoyo",
+        "meaning": "Mắt tối sầm lại",
+        "example": "chóng mặt"
+    },
+    {
+        "id": 86,
+        "hanzi": "숨쉬기가 힘들어요",
+        "pinyin": "sumswigiga himdeureoyo",
+        "meaning": "Tôi khó thở",
+        "example": ""
+    },
+    {
+        "id": 87,
+        "hanzi": "가슴이 답답해요",
+        "pinyin": "gaseumi dapdapaeyo",
+        "meaning": "Tôi thấy tức ngực",
+        "example": ""
+    },
+    {
+        "id": 88,
+        "hanzi": "여기가 빨갛게 부었어요",
+        "pinyin": "yeogiga ppalgake bueosseoyo",
+        "meaning": "Chỗ này sưng đỏ lên",
+        "example": ""
+    },
+    {
+        "id": 89,
+        "hanzi": "너무 가려워요",
+        "pinyin": "neomu garyeowoyo",
+        "meaning": "Ngứa quá",
+        "example": ""
+    },
+    {
+        "id": 90,
+        "hanzi": "두드러기가 났어요",
+        "pinyin": "dudeureogiga nasseoyo",
+        "meaning": "Tôi bị nổi mề đay",
+        "example": ""
+    },
+    {
+        "id": 91,
+        "hanzi": "넘어져서 발목을 삐었어요",
+        "pinyin": "neomeojyeoseo balmogeul ppieosseoyo",
+        "meaning": "Tôi bị ngã, trẹo cổ chân",
+        "example": "chấn thương"
+    },
+    {
+        "id": 92,
+        "hanzi": "손가락을 칼에 베였어요",
+        "pinyin": "songarageul kare beyeosseoyo",
+        "meaning": "Ngón tay tôi bị dao cắt",
+        "example": "chấn thương"
+    },
+    {
+        "id": 93,
+        "hanzi": "피가 안 멈춰요",
+        "pinyin": "piga an meomchwoyo",
+        "meaning": "Máu không cầm được",
+        "example": ""
+    },
+    {
+        "id": 94,
+        "hanzi": "뜨거운 물에 데었어요",
+        "pinyin": "tteugeoun mure deeosseoyo",
+        "meaning": "Tôi bị bỏng nước sôi",
+        "example": ""
+    },
+    {
+        "id": 95,
+        "hanzi": "허리를 삐끗했어요",
+        "pinyin": "heorireul ppikkeutaesseoyo",
+        "meaning": "Tôi bị trẹo lưng",
+        "example": ""
+    },
+    {
+        "id": 96,
+        "hanzi": "무거운 걸 들다가 다쳤어요",
+        "pinyin": "mugeoun geol deuldaga dachyeosseoyo",
+        "meaning": "Tôi bị thương khi nâng đồ nặng",
+        "example": ""
+    },
+    {
+        "id": 97,
+        "hanzi": "공장에서 일하다가 다쳤어요",
+        "pinyin": "gongjangeseo ilhadaga dachyeosseoyo",
+        "meaning": "Tôi bị thương khi làm ở xưởng",
+        "example": ""
+    },
+    {
+        "id": 98,
+        "hanzi": "약품이 눈에 튀었어요",
+        "pinyin": "yakpumi nune twieosseoyo",
+        "meaning": "Hóa chất bắn vào mắt",
+        "example": "xưởng mạ"
+    },
+    {
+        "id": 99,
+        "hanzi": "산이 손에 묻었어요",
+        "pinyin": "sani sone mudeosseoyo",
+        "meaning": "Tay tôi bị dính axit",
+        "example": "xưởng mạ"
+    },
+    {
+        "id": 100,
+        "hanzi": "뼈가 부러진 것 같아요",
+        "pinyin": "ppyeoga bureojin geot gatayo",
+        "meaning": "Hình như bị gãy xương",
+        "example": ""
+    },
+    {
+        "id": 101,
+        "hanzi": "여기 누우세요",
+        "pinyin": "yeogi nuuseyo",
+        "meaning": "Anh nằm lên đây",
+        "example": "bác sĩ nói"
+    },
+    {
+        "id": 102,
+        "hanzi": "입 벌리고 아 해 보세요",
+        "pinyin": "ip beolligo a hae boseyo",
+        "meaning": "Há miệng ra, nói \"a\" xem nào",
+        "example": "bác sĩ nói"
+    },
+    {
+        "id": 103,
+        "hanzi": "숨 크게 들이쉬세요",
+        "pinyin": "sum keuge deuriswiseyo",
+        "meaning": "Hít vào thật sâu",
+        "example": "bác sĩ nói"
+    },
+    {
+        "id": 104,
+        "hanzi": "여기 누르면 아파요?",
+        "pinyin": "yeogi nureumyeon apayo?",
+        "meaning": "Ấn chỗ này có đau không?",
+        "example": "bác sĩ nói"
+    },
+    {
+        "id": 105,
+        "hanzi": "네, 거기가 아파요",
+        "pinyin": "ne, geogiga apayo",
+        "meaning": "Có, chỗ đó đau",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 106,
+        "hanzi": "혈압 재 볼게요",
+        "pinyin": "hyeorap jae bolgeyo",
+        "meaning": "Để tôi đo huyết áp",
+        "example": "y tá nói"
+    },
+    {
+        "id": 107,
+        "hanzi": "체온 재 볼게요",
+        "pinyin": "cheon jae bolgeyo",
+        "meaning": "Để tôi đo nhiệt độ",
+        "example": "y tá nói"
+    },
+    {
+        "id": 108,
+        "hanzi": "피 검사 해 봅시다",
+        "pinyin": "pi geomsa hae bopsida",
+        "meaning": "Mình làm xét nghiệm máu nhé",
+        "example": "bác sĩ nói"
+    },
+    {
+        "id": 109,
+        "hanzi": "엑스레이 찍어 봐야겠어요",
+        "pinyin": "ekseurei jjigeo bwayagesseoyo",
+        "meaning": "Phải chụp X-quang xem sao",
+        "example": "bác sĩ nói"
+    },
+    {
+        "id": 110,
+        "hanzi": "소변 검사 하실게요",
+        "pinyin": "sobyeon geomsa hasilgeyo",
+        "meaning": "Anh làm xét nghiệm nước tiểu nhé",
+        "example": "y tá nói"
+    },
+    {
+        "id": 111,
+        "hanzi": "검사 결과는 언제 나와요?",
+        "pinyin": "geomsa gyeolgwaneun eonje nawayo?",
+        "meaning": "Khi nào có kết quả xét nghiệm?",
+        "example": ""
+    },
+    {
+        "id": 112,
+        "hanzi": "이삼일 후에 나와요",
+        "pinyin": "isamil hue nawayo",
+        "meaning": "Hai ba ngày sau sẽ có ạ",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 113,
+        "hanzi": "단순 감기예요",
+        "pinyin": "dansun gamgiyeyo",
+        "meaning": "Chỉ là cảm thường thôi",
+        "example": "bác sĩ nói"
+    },
+    {
+        "id": 114,
+        "hanzi": "장염이에요",
+        "pinyin": "jangnyeomieyo",
+        "meaning": "Anh bị viêm ruột",
+        "example": "bác sĩ nói"
+    },
+    {
+        "id": 115,
+        "hanzi": "독감 검사 해 볼게요",
+        "pinyin": "dokgam geomsa hae bolgeyo",
+        "meaning": "Để tôi xét nghiệm cúm",
+        "example": "bác sĩ nói"
+    },
+    {
+        "id": 116,
+        "hanzi": "많이 심한 거예요?",
+        "pinyin": "mani simhan geoyeyo?",
+        "meaning": "Có nặng lắm không ạ?",
+        "example": ""
+    },
+    {
+        "id": 117,
+        "hanzi": "심한 건 아니니까 걱정 마세요",
+        "pinyin": "simhan geon aninikka geokjeong maseyo",
+        "meaning": "Không nặng đâu, đừng lo",
+        "example": "bác sĩ nói"
+    },
+    {
+        "id": 118,
+        "hanzi": "주사 맞고 가세요",
+        "pinyin": "jusa matgo gaseyo",
+        "meaning": "Tiêm một mũi rồi về nhé",
+        "example": "bác sĩ nói"
+    },
+    {
+        "id": 119,
+        "hanzi": "수액 맞으시면 좀 나아질 거예요",
+        "pinyin": "suaek majeusimyeon jom naajil geoyeyo",
+        "meaning": "Truyền dịch sẽ thấy đỡ hơn",
+        "example": "bác sĩ nói"
+    },
+    {
+        "id": 120,
+        "hanzi": "삼 일 치 약 처방해 드릴게요",
+        "pinyin": "sam il chi yak cheobanghae deurilgeyo",
+        "meaning": "Tôi kê thuốc cho ba ngày",
+        "example": "bác sĩ nói"
+    },
+    {
+        "id": 121,
+        "hanzi": "푹 쉬시고 물 많이 드세요",
+        "pinyin": "puk swisigo mul mani deuseyo",
+        "meaning": "Nghỉ ngơi và uống nhiều nước",
+        "example": "bác sĩ dặn"
+    },
+    {
+        "id": 122,
+        "hanzi": "당분간 술은 드시지 마세요",
+        "pinyin": "dangbungan sureun deusiji maseyo",
+        "meaning": "Tạm thời đừng uống rượu",
+        "example": "bác sĩ dặn"
+    },
+    {
+        "id": 123,
+        "hanzi": "맵고 기름진 음식은 피하세요",
+        "pinyin": "maepgo gireumjin eumsigeun pihaseyo",
+        "meaning": "Tránh đồ cay và nhiều dầu mỡ",
+        "example": "bác sĩ dặn"
+    },
+    {
+        "id": 124,
+        "hanzi": "상처에 물 닿지 않게 하세요",
+        "pinyin": "sangcheoe mul dachi anke haseyo",
+        "meaning": "Đừng để vết thương dính nước",
+        "example": "bác sĩ dặn"
+    },
+    {
+        "id": 125,
+        "hanzi": "운동은 언제부터 해도 돼요?",
+        "pinyin": "undongeun eonjebuteo haedo dwaeyo?",
+        "meaning": "Khi nào thì tập thể dục lại được?",
+        "example": ""
+    },
+    {
+        "id": 126,
+        "hanzi": "일주일 정도는 무리하지 마세요",
+        "pinyin": "iljuil jeongdoneun murihaji maseyo",
+        "meaning": "Khoảng một tuần đừng làm quá sức",
+        "example": "bác sĩ dặn"
+    },
+    {
+        "id": 127,
+        "hanzi": "출근해도 괜찮을까요?",
+        "pinyin": "chulgeunhaedo gwaenchaneulkkayo?",
+        "meaning": "Tôi đi làm có sao không ạ?",
+        "example": ""
+    },
+    {
+        "id": 128,
+        "hanzi": "이삼일은 쉬시는 게 좋아요",
+        "pinyin": "isamireun swisineun ge joayo",
+        "meaning": "Nên nghỉ hai ba ngày",
+        "example": "bác sĩ nói"
+    },
+    {
+        "id": 129,
+        "hanzi": "안 나으면 다시 오세요",
+        "pinyin": "an naeumyeon dasi oseyo",
+        "meaning": "Nếu không khỏi thì quay lại",
+        "example": "bác sĩ nói"
+    },
+    {
+        "id": 130,
+        "hanzi": "큰 병원에 가 보셔야 할 것 같아요",
+        "pinyin": "keun byeongwone ga bosyeoya hal geot gatayo",
+        "meaning": "Có lẽ anh phải lên bệnh viện lớn",
+        "example": "bác sĩ nói"
+    },
+    {
+        "id": 131,
+        "hanzi": "소견서 써 드릴게요",
+        "pinyin": "sogyeonseo sseo deurilgeyo",
+        "meaning": "Tôi viết giấy chuyển viện cho anh",
+        "example": "bác sĩ nói"
+    },
+    {
+        "id": 132,
+        "hanzi": "입원해야 하나요?",
+        "pinyin": "ibwonhaeya hanayo?",
+        "meaning": "Tôi có phải nhập viện không?",
+        "example": ""
+    },
+    {
+        "id": 133,
+        "hanzi": "입원까지는 안 하셔도 돼요",
+        "pinyin": "ibwonkkajineun an hasyeodo dwaeyo",
+        "meaning": "Không cần đến mức nhập viện",
+        "example": "bác sĩ nói"
+    },
+    {
+        "id": 134,
+        "hanzi": "치과 예약하고 싶어요",
+        "pinyin": "chigwa yeyakago sipeoyo",
+        "meaning": "Tôi muốn đặt lịch nha khoa",
+        "example": ""
+    },
+    {
+        "id": 135,
+        "hanzi": "찬 거 먹으면 이가 시려요",
+        "pinyin": "chan geo meogeumyeon iga siryeoyo",
+        "meaning": "Ăn đồ lạnh là ê buốt răng",
+        "example": ""
+    },
+    {
+        "id": 136,
+        "hanzi": "어금니가 너무 아파요",
+        "pinyin": "eogeumniga neomu apayo",
+        "meaning": "Răng hàm đau quá",
+        "example": ""
+    },
+    {
+        "id": 137,
+        "hanzi": "씹을 때 아파요",
+        "pinyin": "ssibeul ttae apayo",
+        "meaning": "Nhai thì đau",
+        "example": ""
+    },
+    {
+        "id": 138,
+        "hanzi": "잇몸이 붓고 피가 나요",
+        "pinyin": "inmomi butgo piga nayo",
+        "meaning": "Lợi bị sưng và chảy máu",
+        "example": ""
+    },
+    {
+        "id": 139,
+        "hanzi": "충치가 있네요",
+        "pinyin": "chungchiga inneyo",
+        "meaning": "Có răng sâu đấy",
+        "example": "nha sĩ nói"
+    },
+    {
+        "id": 140,
+        "hanzi": "신경 치료를 해야 돼요",
+        "pinyin": "singyeong chiryoreul haeya dwaeyo",
+        "meaning": "Phải chữa tủy răng",
+        "example": "nha sĩ nói"
+    },
+    {
+        "id": 141,
+        "hanzi": "스케일링 받고 싶어요",
+        "pinyin": "seukeilling batgo sipeoyo",
+        "meaning": "Tôi muốn cạo vôi răng",
+        "example": ""
+    },
+    {
+        "id": 142,
+        "hanzi": "사랑니를 빼야 할 것 같아요",
+        "pinyin": "sarangnireul ppaeya hal geot gatayo",
+        "meaning": "Có lẽ phải nhổ răng khôn",
+        "example": "nha sĩ nói"
+    },
+    {
+        "id": 143,
+        "hanzi": "마취할게요, 따끔해요",
+        "pinyin": "machwihalgeyo, ttakkeumhaeyo",
+        "meaning": "Tôi gây tê nhé, hơi nhói chút",
+        "example": "nha sĩ nói"
+    },
+    {
+        "id": 144,
+        "hanzi": "아프면 왼손 들어 주세요",
+        "pinyin": "apeumyeon oenson deureo juseyo",
+        "meaning": "Đau thì giơ tay trái lên",
+        "example": "nha sĩ nói"
+    },
+    {
+        "id": 145,
+        "hanzi": "두 시간 동안은 아무것도 드시지 마세요",
+        "pinyin": "du sigan donganeun amugeotdo deusiji maseyo",
+        "meaning": "Trong hai tiếng đừng ăn gì",
+        "example": "nha sĩ dặn"
+    },
+    {
+        "id": 146,
+        "hanzi": "보험 적용이 돼요?",
+        "pinyin": "boheom jeogyongi dwaeyo?",
+        "meaning": "Có được bảo hiểm chi trả không?",
+        "example": ""
+    },
+    {
+        "id": 147,
+        "hanzi": "이건 보험이 안 돼서 좀 비싸요",
+        "pinyin": "igeon boheomi an dwaeseo jom bissayo",
+        "meaning": "Cái này không có bảo hiểm nên hơi đắt",
+        "example": "nhân viên nói"
+    },
+    {
+        "id": 148,
+        "hanzi": "눈이 충혈됐어요",
+        "pinyin": "nuni chunghyeoldwaesseoyo",
+        "meaning": "Mắt tôi bị đỏ ngầu",
+        "example": "khám mắt"
+    },
+    {
+        "id": 149,
+        "hanzi": "눈이 뻑뻑하고 따가워요",
+        "pinyin": "nuni ppeokppeokago ttagawoyo",
+        "meaning": "Mắt khô và cay rát",
+        "example": "khám mắt"
+    },
+    {
+        "id": 150,
+        "hanzi": "눈에 뭐가 들어간 것 같아요",
+        "pinyin": "nune mwoga deureogan geot gatayo",
+        "meaning": "Hình như có gì bay vào mắt",
+        "example": ""
+    },
+    {
+        "id": 151,
+        "hanzi": "요즘 글씨가 잘 안 보여요",
+        "pinyin": "yojeum geulssiga jal an boyeoyo",
+        "meaning": "Dạo này nhìn chữ không rõ",
+        "example": ""
+    },
+    {
+        "id": 152,
+        "hanzi": "시력 검사 하고 싶어요",
+        "pinyin": "siryeok geomsa hago sipeoyo",
+        "meaning": "Tôi muốn đo thị lực",
+        "example": ""
+    },
+    {
+        "id": 153,
+        "hanzi": "이 숫자 읽어 보세요",
+        "pinyin": "i sutja ilgeo boseyo",
+        "meaning": "Anh đọc số này xem",
+        "example": "bác sĩ nói"
+    },
+    {
+        "id": 154,
+        "hanzi": "안약 넣어 드릴게요",
+        "pinyin": "anyak neoeo deurilgeyo",
+        "meaning": "Tôi nhỏ thuốc mắt cho anh",
+        "example": "y tá nói"
+    },
+    {
+        "id": 155,
+        "hanzi": "하루에 네 번 안약 넣으세요",
+        "pinyin": "harue ne beon anyak neoeuseyo",
+        "meaning": "Nhỏ mắt 4 lần mỗi ngày",
+        "example": "bác sĩ dặn"
+    },
+    {
+        "id": 156,
+        "hanzi": "렌즈는 당분간 끼지 마세요",
+        "pinyin": "renjeuneun dangbungan kkiji maseyo",
+        "meaning": "Tạm thời đừng đeo kính áp tròng",
+        "example": "bác sĩ dặn"
+    },
+    {
+        "id": 157,
+        "hanzi": "모니터를 너무 오래 보지 마세요",
+        "pinyin": "moniteoreul neomu orae boji maseyo",
+        "meaning": "Đừng nhìn màn hình quá lâu",
+        "example": "bác sĩ dặn"
+    },
+    {
+        "id": 158,
+        "hanzi": "처방전 가지고 왔어요",
+        "pinyin": "cheobangjeon gajigo wasseoyo",
+        "meaning": "Tôi mang đơn thuốc đến",
+        "example": "ở hiệu thuốc"
+    },
+    {
+        "id": 159,
+        "hanzi": "감기약 좀 주세요",
+        "pinyin": "gamgiyak jom juseyo",
+        "meaning": "Cho tôi thuốc cảm",
+        "example": ""
+    },
+    {
+        "id": 160,
+        "hanzi": "어떤 증상이 있으세요?",
+        "pinyin": "eotteon jeungsangi isseuseyo?",
+        "meaning": "Anh có triệu chứng gì?",
+        "example": "dược sĩ nói"
+    },
+    {
+        "id": 161,
+        "hanzi": "콧물이랑 기침이 있어요",
+        "pinyin": "konmurirang gichimi isseoyo",
+        "meaning": "Tôi bị sổ mũi và ho",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 162,
+        "hanzi": "진통제 있어요?",
+        "pinyin": "jintongje isseoyo?",
+        "meaning": "Có thuốc giảm đau không?",
+        "example": ""
+    },
+    {
+        "id": 163,
+        "hanzi": "소화제 하나 주세요",
+        "pinyin": "sohwaje hana juseyo",
+        "meaning": "Cho tôi một hộp thuốc tiêu hóa",
+        "example": ""
+    },
+    {
+        "id": 164,
+        "hanzi": "설사약 있어요?",
+        "pinyin": "seolsayak isseoyo?",
+        "meaning": "Có thuốc tiêu chảy không?",
+        "example": ""
+    },
+    {
+        "id": 165,
+        "hanzi": "해열제 주세요",
+        "pinyin": "haeyeolje juseyo",
+        "meaning": "Cho tôi thuốc hạ sốt",
+        "example": ""
+    },
+    {
+        "id": 166,
+        "hanzi": "밴드랑 연고 주세요",
+        "pinyin": "baendeurang yeongo juseyo",
+        "meaning": "Cho tôi băng dán và thuốc mỡ",
+        "example": ""
+    },
+    {
+        "id": 167,
+        "hanzi": "이 약은 처방전이 있어야 돼요",
+        "pinyin": "i yageun cheobangjeoni isseoya dwaeyo",
+        "meaning": "Thuốc này phải có đơn bác sĩ",
+        "example": "dược sĩ nói"
+    },
+    {
+        "id": 168,
+        "hanzi": "이 약 어떻게 먹어요?",
+        "pinyin": "i yak eotteoke meogeoyo?",
+        "meaning": "Thuốc này uống thế nào?",
+        "example": ""
+    },
+    {
+        "id": 169,
+        "hanzi": "하루 세 번 식후 삼십 분에 드세요",
+        "pinyin": "haru se beon siku samsip bune deuseyo",
+        "meaning": "Ngày 3 lần, sau ăn 30 phút",
+        "example": "dược sĩ nói"
+    },
+    {
+        "id": 170,
+        "hanzi": "식전에 먹어야 돼요?",
+        "pinyin": "sikjeone meogeoya dwaeyo?",
+        "meaning": "Có phải uống trước bữa ăn không?",
+        "example": ""
+    },
+    {
+        "id": 171,
+        "hanzi": "아니요, 식사 후에 드세요",
+        "pinyin": "aniyo, siksa hue deuseyo",
+        "meaning": "Không, uống sau bữa ăn",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 172,
+        "hanzi": "자기 전에 한 알 드세요",
+        "pinyin": "jagi jeone han al deuseyo",
+        "meaning": "Trước khi ngủ uống một viên",
+        "example": "dược sĩ nói"
+    },
+    {
+        "id": 173,
+        "hanzi": "밥 안 먹고 먹어도 돼요?",
+        "pinyin": "bap an meokgo meogeodo dwaeyo?",
+        "meaning": "Không ăn cơm mà uống được không?",
+        "example": ""
+    },
+    {
+        "id": 174,
+        "hanzi": "빈속에 드시면 속이 쓰릴 수 있어요",
+        "pinyin": "binsoge deusimyeon sogi sseuril su isseoyo",
+        "meaning": "Uống lúc đói có thể xót ruột",
+        "example": "dược sĩ nói"
+    },
+    {
+        "id": 175,
+        "hanzi": "부작용 있어요?",
+        "pinyin": "bujagyong isseoyo?",
+        "meaning": "Có tác dụng phụ không?",
+        "example": ""
+    },
+    {
+        "id": 176,
+        "hanzi": "좀 졸릴 수 있어요",
+        "pinyin": "jom jollil su isseoyo",
+        "meaning": "Có thể hơi buồn ngủ",
+        "example": "dược sĩ nói"
+    },
+    {
+        "id": 177,
+        "hanzi": "운전하실 때는 조심하세요",
+        "pinyin": "unjeonhasil ttaeneun josimhaseyo",
+        "meaning": "Khi lái xe thì cẩn thận",
+        "example": "dược sĩ nói"
+    },
+    {
+        "id": 178,
+        "hanzi": "약 먹고 술 마셔도 돼요?",
+        "pinyin": "yak meokgo sul masyeodo dwaeyo?",
+        "meaning": "Uống thuốc rồi uống rượu được không?",
+        "example": ""
+    },
+    {
+        "id": 179,
+        "hanzi": "끝까지 다 드셔야 돼요",
+        "pinyin": "kkeutkkaji da deusyeoya dwaeyo",
+        "meaning": "Phải uống hết liều",
+        "example": "dược sĩ nói"
+    },
+    {
+        "id": 180,
+        "hanzi": "이 약이랑 같이 먹어도 돼요?",
+        "pinyin": "i yagirang gachi meogeodo dwaeyo?",
+        "meaning": "Uống chung với thuốc này được không?",
+        "example": ""
+    },
+    {
+        "id": 181,
+        "hanzi": "약값이 얼마예요?",
+        "pinyin": "yakgapsi eolmayeyo?",
+        "meaning": "Tiền thuốc bao nhiêu?",
+        "example": ""
+    },
+    {
+        "id": 182,
+        "hanzi": "연고는 하루 두 번 얇게 바르세요",
+        "pinyin": "yeongoneun haru du beon yalge bareuseyo",
+        "meaning": "Thuốc mỡ bôi mỏng ngày 2 lần",
+        "example": "dược sĩ nói"
+    },
+    {
+        "id": 183,
+        "hanzi": "여기 사람이 쓰러졌어요",
+        "pinyin": "yeogi sarami sseureojyeosseoyo",
+        "meaning": "Ở đây có người ngã gục",
+        "example": "gọi 119"
+    },
+    {
+        "id": 184,
+        "hanzi": "구급차 좀 빨리 보내 주세요",
+        "pinyin": "gugeupcha jom ppalli bonae juseyo",
+        "meaning": "Làm ơn gửi xe cấp cứu gấp",
+        "example": "gọi 119"
+    },
+    {
+        "id": 185,
+        "hanzi": "119에 전화하세요!",
+        "pinyin": "irilgue jeonhwahaseyo!",
+        "meaning": "Gọi 119 đi!",
+        "example": "khẩn cấp"
+    },
+    {
+        "id": 186,
+        "hanzi": "위치가 어디세요?",
+        "pinyin": "wichiga eodiseyo?",
+        "meaning": "Vị trí ở đâu ạ?",
+        "example": "nhân viên 119 hỏi"
+    },
+    {
+        "id": 187,
+        "hanzi": "주소 불러 드릴게요",
+        "pinyin": "juso bulleo deurilgeyo",
+        "meaning": "Tôi đọc địa chỉ cho anh",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 188,
+        "hanzi": "환자 의식 있어요?",
+        "pinyin": "hwanja uisik isseoyo?",
+        "meaning": "Bệnh nhân còn tỉnh không?",
+        "example": "nhân viên 119 hỏi"
+    },
+    {
+        "id": 189,
+        "hanzi": "숨은 쉬는데 대답을 안 해요",
+        "pinyin": "sumeun swineunde daedabeul an haeyo",
+        "meaning": "Còn thở nhưng không trả lời",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 190,
+        "hanzi": "피를 많이 흘려요",
+        "pinyin": "pireul mani heullyeoyo",
+        "meaning": "Chảy nhiều máu lắm",
+        "example": "khẩn cấp"
+    },
+    {
+        "id": 191,
+        "hanzi": "움직이지 말고 기다리세요",
+        "pinyin": "umjigiji malgo gidariseyo",
+        "meaning": "Đừng di chuyển, hãy chờ",
+        "example": "nhân viên 119 nói"
+    },
+    {
+        "id": 192,
+        "hanzi": "누가 좀 도와주세요!",
+        "pinyin": "nuga jom dowajuseyo!",
+        "meaning": "Ai đó giúp với!",
+        "example": "khẩn cấp"
+    },
+    {
+        "id": 193,
+        "hanzi": "응급실이 어디예요?",
+        "pinyin": "eunggeupsiri eodiyeyo?",
+        "meaning": "Phòng cấp cứu ở đâu?",
+        "example": ""
+    },
+    {
+        "id": 194,
+        "hanzi": "지금 응급실 가야 될 것 같아요",
+        "pinyin": "jigeum eunggeupsil gaya doel geot gatayo",
+        "meaning": "Chắc phải đi cấp cứu ngay",
+        "example": ""
+    },
+    {
+        "id": 195,
+        "hanzi": "숨을 못 쉬어요",
+        "pinyin": "sumeul mot swieoyo",
+        "meaning": "Không thở được",
+        "example": "khẩn cấp"
+    },
+    {
+        "id": 196,
+        "hanzi": "갑자기 가슴이 너무 아프대요",
+        "pinyin": "gapjagi gaseumi neomu apeudaeyo",
+        "meaning": "Anh ấy bảo đột nhiên đau ngực lắm",
+        "example": "nói thay người khác"
+    },
+    {
+        "id": 197,
+        "hanzi": "보호자 되세요?",
+        "pinyin": "bohoja doeseyo?",
+        "meaning": "Anh là người nhà phải không?",
+        "example": "nhân viên nói"
+    },
+    {
+        "id": 198,
+        "hanzi": "회사 동료예요",
+        "pinyin": "hoesa dongnyoyeyo",
+        "meaning": "Tôi là đồng nghiệp",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 199,
+        "hanzi": "야간에 여는 병원 있어요?",
+        "pinyin": "yagane yeoneun byeongwon isseoyo?",
+        "meaning": "Có bệnh viện mở ban đêm không?",
+        "example": ""
+    },
+    {
+        "id": 200,
+        "hanzi": "근처에 문 연 약국 있을까요?",
+        "pinyin": "geuncheoe mun yeon yakguk isseulkkayo?",
+        "meaning": "Gần đây có hiệu thuốc nào mở cửa không?",
+        "example": ""
+    },
+    {
+        "id": 201,
+        "hanzi": "진단서 좀 떼 주세요",
+        "pinyin": "jindanseo jom tte juseyo",
+        "meaning": "Cấp cho tôi giấy chẩn đoán",
+        "example": ""
+    },
+    {
+        "id": 202,
+        "hanzi": "회사에 낼 진료확인서가 필요해요",
+        "pinyin": "hoesae nael jillyohwaginseoga piryohaeyo",
+        "meaning": "Tôi cần giấy xác nhận khám để nộp công ty",
+        "example": ""
+    },
+    {
+        "id": 203,
+        "hanzi": "병가 내려면 진단서가 필요해요",
+        "pinyin": "byeongga naeryeomyeon jindanseoga piryohaeyo",
+        "meaning": "Muốn xin nghỉ ốm thì cần giấy chẩn đoán",
+        "example": ""
+    },
+    {
+        "id": 204,
+        "hanzi": "진단서 발급 비용이 있어요?",
+        "pinyin": "jindanseo balgeup biyongi isseoyo?",
+        "meaning": "Cấp giấy chẩn đoán có mất phí không?",
+        "example": ""
+    },
+    {
+        "id": 205,
+        "hanzi": "네, 이만 원이에요",
+        "pinyin": "ne, iman wonieyo",
+        "meaning": "Có, 20.000 won ạ",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 206,
+        "hanzi": "팀장님, 오늘 병원 좀 다녀와도 될까요?",
+        "pinyin": "timjangnim, oneul byeongwon jom danyeowado doelkkayo?",
+        "meaning": "Trưởng nhóm ơi, hôm nay tôi đi khám một chút được không?",
+        "example": "với sếp"
+    },
+    {
+        "id": 207,
+        "hanzi": "몸이 안 좋아서 오늘 병가 쓸게요",
+        "pinyin": "momi an joaseo oneul byeongga sseulgeyo",
+        "meaning": "Tôi không khỏe nên hôm nay xin nghỉ ốm",
+        "example": "với sếp"
+    },
+    {
+        "id": 208,
+        "hanzi": "푹 쉬고 나으면 나와요",
+        "pinyin": "puk swigo naeumyeon nawayo",
+        "meaning": "Nghỉ cho khỏe rồi đi làm nhé",
+        "example": "sếp nói"
+    },
+    {
+        "id": 209,
+        "hanzi": "면회 시간이 어떻게 돼요?",
+        "pinyin": "myeonhoe sigani eotteoke dwaeyo?",
+        "meaning": "Giờ thăm bệnh thế nào ạ?",
+        "example": ""
+    },
+    {
+        "id": 210,
+        "hanzi": "몇 호실에 입원해 있어요?",
+        "pinyin": "myeot hosire ibwonhae isseoyo?",
+        "meaning": "Đang nằm phòng số mấy?",
+        "example": ""
+    },
+    {
+        "id": 211,
+        "hanzi": "칠백삼 호예요",
+        "pinyin": "chilbaeksam hoyeyo",
+        "meaning": "Phòng 703 ạ",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 212,
+        "hanzi": "병문안 왔어요",
+        "pinyin": "byeongmunan wasseoyo",
+        "meaning": "Tôi đến thăm bệnh",
+        "example": ""
+    },
+    {
+        "id": 213,
+        "hanzi": "몸은 좀 어때요?",
+        "pinyin": "momeun jom eottaeyo?",
+        "meaning": "Người thấy thế nào rồi?",
+        "example": ""
+    },
+    {
+        "id": 214,
+        "hanzi": "덕분에 많이 나았어요",
+        "pinyin": "deokbune mani naasseoyo",
+        "meaning": "Nhờ anh mà đỡ nhiều rồi",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 215,
+        "hanzi": "아직 좀 아파요",
+        "pinyin": "ajik jom apayo",
+        "meaning": "Vẫn còn hơi đau",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 216,
+        "hanzi": "얼른 나아서 회사에서 봐요",
+        "pinyin": "eolleun naaseo hoesaeseo bwayo",
+        "meaning": "Mau khỏe rồi gặp ở công ty nhé",
+        "example": "lời chúc"
+    },
+    {
+        "id": 217,
+        "hanzi": "이거 드시고 힘내세요",
+        "pinyin": "igeo deusigo himnaeseyo",
+        "meaning": "Ăn cái này lấy sức nhé",
+        "example": "khi tặng quà"
+    },
+    {
+        "id": 218,
+        "hanzi": "회사 일은 걱정하지 마세요",
+        "pinyin": "hoesa ireun geokjeonghaji maseyo",
+        "meaning": "Đừng lo chuyện công ty",
+        "example": ""
+    },
+    {
+        "id": 219,
+        "hanzi": "언제 퇴원해요?",
+        "pinyin": "eonje toewonhaeyo?",
+        "meaning": "Khi nào ra viện?",
+        "example": ""
+    },
+    {
+        "id": 220,
+        "hanzi": "다음 주에 퇴원할 것 같아요",
+        "pinyin": "daeum jue toewonhal geot gatayo",
+        "meaning": "Chắc tuần sau ra viện",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 221,
+        "hanzi": "와 줘서 고마워",
+        "pinyin": "wa jwoseo gomawo",
+        "meaning": "Cảm ơn cậu đã đến",
+        "example": "thân mật"
+    },
+    {
+        "id": 222,
+        "hanzi": "계좌를 만들고 싶어요",
+        "pinyin": "gyejwareul mandeulgo sipeoyo",
+        "meaning": "Tôi muốn mở tài khoản",
+        "example": "ở ngân hàng"
+    },
+    {
+        "id": 223,
+        "hanzi": "어떤 업무 보러 오셨어요?",
+        "pinyin": "eotteon eommu boreo osyeosseoyo?",
+        "meaning": "Anh đến giao dịch gì ạ?",
+        "example": "nhân viên nói"
+    },
+    {
+        "id": 224,
+        "hanzi": "통장 새로 만들러 왔어요",
+        "pinyin": "tongjang saero mandeulleo wasseoyo",
+        "meaning": "Tôi đến mở tài khoản mới",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 225,
+        "hanzi": "신분증이랑 재직증명서 있으세요?",
+        "pinyin": "sinbunjeungirang jaejikjeungmyeongseo isseuseyo?",
+        "meaning": "Có giấy tờ tùy thân và giấy xác nhận đang làm việc không?",
+        "example": "nhân viên nói"
+    },
+    {
+        "id": 226,
+        "hanzi": "외국인은 어떤 서류가 필요해요?",
+        "pinyin": "oegugineun eotteon seoryuga piryohaeyo?",
+        "meaning": "Người nước ngoài cần giấy tờ gì?",
+        "example": ""
+    },
+    {
+        "id": 227,
+        "hanzi": "여기 비밀번호 네 자리 눌러 주세요",
+        "pinyin": "yeogi bimilbeonho ne jari nulleo juseyo",
+        "meaning": "Nhập mật khẩu 4 số vào đây",
+        "example": "nhân viên nói"
+    },
+    {
+        "id": 228,
+        "hanzi": "체크카드도 같이 만들어 드릴까요?",
+        "pinyin": "chekeukadeudo gachi mandeureo deurilkkayo?",
+        "meaning": "Làm luôn thẻ ghi nợ không ạ?",
+        "example": "nhân viên nói"
+    },
+    {
+        "id": 229,
+        "hanzi": "네, 같이 만들어 주세요",
+        "pinyin": "ne, gachi mandeureo juseyo",
+        "meaning": "Vâng, làm luôn cho tôi",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 230,
+        "hanzi": "카드는 언제 나와요?",
+        "pinyin": "kadeuneun eonje nawayo?",
+        "meaning": "Khi nào có thẻ?",
+        "example": ""
+    },
+    {
+        "id": 231,
+        "hanzi": "바로 발급돼요",
+        "pinyin": "baro balgeupdwaeyo",
+        "meaning": "Cấp ngay ạ",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 232,
+        "hanzi": "모바일 뱅킹도 신청할게요",
+        "pinyin": "mobail baengkingdo sincheonghalgeyo",
+        "meaning": "Tôi đăng ký luôn ngân hàng di động",
+        "example": ""
+    },
+    {
+        "id": 233,
+        "hanzi": "베트남으로 송금하고 싶어요",
+        "pinyin": "beteunameuro songgeumhago sipeoyo",
+        "meaning": "Tôi muốn chuyển tiền về Việt Nam",
+        "example": ""
+    },
+    {
+        "id": 234,
+        "hanzi": "해외 송금 수수료가 얼마예요?",
+        "pinyin": "haeoe songgeum susuryoga eolmayeyo?",
+        "meaning": "Phí chuyển tiền ra nước ngoài bao nhiêu?",
+        "example": ""
+    },
+    {
+        "id": 235,
+        "hanzi": "오늘 환율이 어떻게 돼요?",
+        "pinyin": "oneul hwanyuri eotteoke dwaeyo?",
+        "meaning": "Tỉ giá hôm nay thế nào?",
+        "example": ""
+    },
+    {
+        "id": 236,
+        "hanzi": "받는 사람 계좌 번호 여기 적어 주세요",
+        "pinyin": "banneun saram gyejwa beonho yeogi jeogeo juseyo",
+        "meaning": "Ghi số tài khoản người nhận vào đây",
+        "example": "nhân viên nói"
+    },
+    {
+        "id": 237,
+        "hanzi": "도착하는 데 며칠 걸려요?",
+        "pinyin": "dochakaneun de myeochil geollyeoyo?",
+        "meaning": "Mất mấy ngày thì tiền đến?",
+        "example": ""
+    },
+    {
+        "id": 238,
+        "hanzi": "보통 하루나 이틀 걸려요",
+        "pinyin": "botong haruna iteul geollyeoyo",
+        "meaning": "Thường mất một hai ngày",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 239,
+        "hanzi": "이 계좌로 오십만 원 이체해 주세요",
+        "pinyin": "i gyejwaro osimman won ichehae juseyo",
+        "meaning": "Chuyển 500.000 won vào tài khoản này giúp tôi",
+        "example": ""
+    },
+    {
+        "id": 240,
+        "hanzi": "이체가 안 돼요",
+        "pinyin": "ichega an dwaeyo",
+        "meaning": "Không chuyển khoản được",
+        "example": ""
+    },
+    {
+        "id": 241,
+        "hanzi": "카드가 정지됐어요",
+        "pinyin": "kadeuga jeongjidwaesseoyo",
+        "meaning": "Thẻ bị khóa rồi",
+        "example": ""
+    },
+    {
+        "id": 242,
+        "hanzi": "비밀번호를 세 번 틀렸어요",
+        "pinyin": "bimilbeonhoreul se beon teullyeosseoyo",
+        "meaning": "Tôi nhập sai mật khẩu ba lần",
+        "example": ""
+    },
+    {
+        "id": 243,
+        "hanzi": "본인 확인 후에 풀어 드릴게요",
+        "pinyin": "bonin hwagin hue pureo deurilgeyo",
+        "meaning": "Xác minh danh tính xong tôi mở khóa cho",
+        "example": "nhân viên nói"
+    },
+    {
+        "id": 244,
+        "hanzi": "카드를 잃어버렸어요",
+        "pinyin": "kadeureul ireobeoryeosseoyo",
+        "meaning": "Tôi bị mất thẻ",
+        "example": ""
+    },
+    {
+        "id": 245,
+        "hanzi": "분실 신고하려고요",
+        "pinyin": "bunsil singoharyeogoyo",
+        "meaning": "Tôi muốn báo mất",
+        "example": ""
+    },
+    {
+        "id": 246,
+        "hanzi": "은행 앱에 로그인이 안 돼요",
+        "pinyin": "eunhaeng aebe rogeuini an dwaeyo",
+        "meaning": "Không đăng nhập được app ngân hàng",
+        "example": ""
+    },
+    {
+        "id": 247,
+        "hanzi": "인증서를 다시 발급받아야 돼요",
+        "pinyin": "injeungseoreul dasi balgeupbadaya dwaeyo",
+        "meaning": "Phải cấp lại chứng thư xác thực",
+        "example": "nhân viên nói"
+    },
+    {
+        "id": 248,
+        "hanzi": "휴대폰을 바꿨는데 앱이 안 열려요",
+        "pinyin": "hyudaeponeul bakkwonneunde aebi an yeollyeoyo",
+        "meaning": "Tôi đổi điện thoại mà app không mở được",
+        "example": ""
+    },
+    {
+        "id": 249,
+        "hanzi": "문자 인증번호가 안 와요",
+        "pinyin": "munja injeungbeonhoga an wayo",
+        "meaning": "Mã xác thực SMS không đến",
+        "example": ""
+    },
+    {
+        "id": 250,
+        "hanzi": "잔액 조회는 어떻게 해요?",
+        "pinyin": "janaek johoeneun eotteoke haeyo?",
+        "meaning": "Kiểm tra số dư thế nào?",
+        "example": ""
+    }
+]

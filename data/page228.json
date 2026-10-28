@@ -1,0 +1,1752 @@
+[
+    {
+        "id": 1,
+        "hanzi": "오시는 데 불편하지 않으셨어요?",
+        "pinyin": "osineun de bulpyeonhaji aneusyeosseoyo?",
+        "meaning": "Anh đến đây có thuận tiện không?",
+        "example": "lịch sự, hỏi thăm khách"
+    },
+    {
+        "id": 2,
+        "hanzi": "네, 덕분에 잘 왔습니다",
+        "pinyin": "ne, deokbune jal watseumnida",
+        "meaning": "Vâng, nhờ anh mà tôi đến suôn sẻ",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 3,
+        "hanzi": "저는 제어 소프트웨어를 담당하고 있습니다",
+        "pinyin": "jeoneun jeeo sopeuteuweeoreul damdanghago itseumnida",
+        "meaning": "Tôi phụ trách phần mềm điều khiển",
+        "example": "giới thiệu, trang trọng"
+    },
+    {
+        "id": 4,
+        "hanzi": "회의실로 안내해 드리겠습니다",
+        "pinyin": "hoeuisillo annaehae deurigetseumnida",
+        "meaning": "Tôi sẽ dẫn anh đến phòng họp",
+        "example": "khách hàng nói, trang trọng"
+    },
+    {
+        "id": 5,
+        "hanzi": "이번 설비에 대해 요구 사항을 말씀해 주시겠어요?",
+        "pinyin": "ibeon seolbie daehae yogu sahangeul malsseumhae jusigesseoyo?",
+        "meaning": "Anh có thể cho biết yêu cầu về thiết bị lần này không?",
+        "example": "kỹ sư hỏi khách"
+    },
+    {
+        "id": 6,
+        "hanzi": "생산량을 지금보다 두 배로 늘리고 싶어요",
+        "pinyin": "saengsannyangeul jigeumboda du baero neulligo sipeoyo",
+        "meaning": "Chúng tôi muốn tăng sản lượng gấp đôi hiện tại",
+        "example": "khách hàng"
+    },
+    {
+        "id": 7,
+        "hanzi": "하루에 몇 개 정도 생산하실 예정이세요?",
+        "pinyin": "harue myeot gae jeongdo saengsanhasil yejeongiseyo?",
+        "meaning": "Mỗi ngày anh dự định sản xuất khoảng bao nhiêu cái?",
+        "example": "kỹ sư hỏi"
+    },
+    {
+        "id": 8,
+        "hanzi": "하루에 오천 개 정도요",
+        "pinyin": "harue ocheon gae jeongdoyo",
+        "meaning": "Khoảng năm nghìn cái mỗi ngày",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 9,
+        "hanzi": "어떤 도금을 하실 건가요?",
+        "pinyin": "eotteon dogeumeul hasil geongayo?",
+        "meaning": "Anh định mạ loại gì?",
+        "example": "kỹ sư hỏi"
+    },
+    {
+        "id": 10,
+        "hanzi": "주로 니켈 도금하고 크롬 도금이에요",
+        "pinyin": "juro nikel dogeumhago keurom dogeumieyo",
+        "meaning": "Chủ yếu là mạ niken và mạ crôm",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 11,
+        "hanzi": "아노다이징 라인도 같이 검토하고 있어요",
+        "pinyin": "anodaijing raindo gachi geomtohago isseoyo",
+        "meaning": "Chúng tôi cũng đang xem xét cả dây chuyền anod hóa",
+        "example": "khách hàng"
+    },
+    {
+        "id": 12,
+        "hanzi": "제품 크기와 무게를 알려 주시겠어요?",
+        "pinyin": "jepum keugiwa mugereul allyeo jusigesseoyo?",
+        "meaning": "Anh cho tôi biết kích thước và trọng lượng sản phẩm được không?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 13,
+        "hanzi": "도금조는 몇 개가 필요하세요?",
+        "pinyin": "dogeumjoneun myeot gaega piryohaseyo?",
+        "meaning": "Anh cần bao nhiêu bể mạ?",
+        "example": "kỹ sư hỏi"
+    },
+    {
+        "id": 14,
+        "hanzi": "총 열두 개 정도 생각하고 있어요",
+        "pinyin": "chong yeoldu gae jeongdo saenggakago isseoyo",
+        "meaning": "Tôi đang tính tổng khoảng mười hai bể",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 15,
+        "hanzi": "기존 설비와 연결해야 하나요?",
+        "pinyin": "gijon seolbiwa yeongyeolhaeya hanayo?",
+        "meaning": "Có cần kết nối với thiết bị hiện có không?",
+        "example": "kỹ sư hỏi"
+    },
+    {
+        "id": 16,
+        "hanzi": "네, 기존 정류기는 그대로 쓰고 싶어요",
+        "pinyin": "ne, gijon jeongnyugineun geudaero sseugo sipeoyo",
+        "meaning": "Vâng, tôi muốn giữ nguyên bộ chỉnh lưu cũ",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 17,
+        "hanzi": "화면은 한국어로 해 주세요",
+        "pinyin": "hwamyeoneun hangugeoro hae juseyo",
+        "meaning": "Làm màn hình bằng tiếng Hàn nhé",
+        "example": "khách hàng yêu cầu"
+    },
+    {
+        "id": 18,
+        "hanzi": "한국어하고 영어 둘 다 지원됩니다",
+        "pinyin": "hangugeohago yeongeo dul da jiwondoemnida",
+        "meaning": "Hỗ trợ cả tiếng Hàn và tiếng Anh",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 19,
+        "hanzi": "생산 데이터를 엑셀로 뽑을 수 있어야 해요",
+        "pinyin": "saengsan deiteoreul eksello ppobeul su isseoya haeyo",
+        "meaning": "Phải xuất được dữ liệu sản xuất ra Excel",
+        "example": "khách hàng yêu cầu"
+    },
+    {
+        "id": 20,
+        "hanzi": "그건 기본 기능으로 들어가 있습니다",
+        "pinyin": "geugeon gibon gineungeuro deureoga itseumnida",
+        "meaning": "Cái đó có sẵn trong chức năng cơ bản",
+        "example": "đáp lại câu trên, trang trọng"
+    },
+    {
+        "id": 21,
+        "hanzi": "바코드로 제품을 관리하고 싶은데 가능할까요?",
+        "pinyin": "bakodeuro jepumeul gwallihago sipeunde ganeunghalkkayo?",
+        "meaning": "Tôi muốn quản lý sản phẩm bằng mã vạch, có được không?",
+        "example": "khách hàng hỏi"
+    },
+    {
+        "id": 22,
+        "hanzi": "네, 가능한데 추가 비용이 발생합니다",
+        "pinyin": "ne, ganeunghande chuga biyongi balsaenghamnida",
+        "meaning": "Vâng, được nhưng sẽ phát sinh thêm chi phí",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 23,
+        "hanzi": "혹시 참고할 만한 도면이 있으세요?",
+        "pinyin": "hoksi chamgohal manhan domyeoni isseuseyo?",
+        "meaning": "Anh có bản vẽ nào để tham khảo không?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 24,
+        "hanzi": "레이아웃 도면을 메일로 보내 드릴게요",
+        "pinyin": "reiaut domyeoneul maillo bonae deurilgeyo",
+        "meaning": "Tôi sẽ gửi bản vẽ bố trí qua email",
+        "example": "đáp lại câu trên, khách hàng"
+    },
+    {
+        "id": 25,
+        "hanzi": "요구 사항을 정리해서 다시 확인드리겠습니다",
+        "pinyin": "yogu sahangeul jeongnihaeseo dasi hwagindeurigetseumnida",
+        "meaning": "Tôi sẽ tổng hợp yêu cầu rồi xác nhận lại với anh",
+        "example": "trang trọng"
+    },
+    {
+        "id": 26,
+        "hanzi": "제가 이해한 게 맞는지 확인해 볼게요",
+        "pinyin": "jega ihaehan ge manneunji hwaginhae bolgeyo",
+        "meaning": "Để tôi kiểm tra xem tôi hiểu có đúng không",
+        "example": "lịch sự"
+    },
+    {
+        "id": 27,
+        "hanzi": "이 부분은 꼭 들어가야 해요",
+        "pinyin": "i bubuneun kkok deureogaya haeyo",
+        "meaning": "Phần này nhất định phải có",
+        "example": "khách hàng nhấn mạnh"
+    },
+    {
+        "id": 28,
+        "hanzi": "이 기능은 우선순위가 낮아요",
+        "pinyin": "i gineungeun useonsunwiga najayo",
+        "meaning": "Chức năng này mức ưu tiên thấp",
+        "example": "khách hàng"
+    },
+    {
+        "id": 29,
+        "hanzi": "언제까지 설비가 필요하세요?",
+        "pinyin": "eonjekkaji seolbiga piryohaseyo?",
+        "meaning": "Đến khi nào anh cần thiết bị?",
+        "example": "kỹ sư hỏi"
+    },
+    {
+        "id": 30,
+        "hanzi": "늦어도 내년 3월까지는 가동해야 해요",
+        "pinyin": "neujeodo naenyeon samwolkkajineun gadonghaeya haeyo",
+        "meaning": "Muộn nhất tháng 3 năm sau phải vận hành",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 31,
+        "hanzi": "예산은 어느 정도 생각하고 계세요?",
+        "pinyin": "yesaneun eoneu jeongdo saenggakago gyeseyo?",
+        "meaning": "Anh dự tính ngân sách khoảng bao nhiêu?",
+        "example": "hỏi khéo léo"
+    },
+    {
+        "id": 32,
+        "hanzi": "그건 견적을 보고 결정할게요",
+        "pinyin": "geugeon gyeonjeogeul bogo gyeoljeonghalgeyo",
+        "meaning": "Cái đó tôi sẽ quyết sau khi xem báo giá",
+        "example": "đáp lại câu trên, khách hàng"
+    },
+    {
+        "id": 33,
+        "hanzi": "견적서는 언제쯤 받을 수 있을까요?",
+        "pinyin": "gyeonjeokseoneun eonjejjeum badeul su isseulkkayo?",
+        "meaning": "Khi nào tôi có thể nhận báo giá?",
+        "example": "khách hàng hỏi"
+    },
+    {
+        "id": 34,
+        "hanzi": "이번 주 금요일까지 보내 드리겠습니다",
+        "pinyin": "ibeon ju geumyoilkkaji bonae deurigetseumnida",
+        "meaning": "Tôi sẽ gửi trước thứ Sáu tuần này",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 35,
+        "hanzi": "견적서를 메일로 보내 드렸습니다",
+        "pinyin": "gyeonjeokseoreul maillo bonae deuryeotseumnida",
+        "meaning": "Tôi đã gửi báo giá qua email",
+        "example": "trang trọng"
+    },
+    {
+        "id": 36,
+        "hanzi": "견적서 잘 받았습니다",
+        "pinyin": "gyeonjeokseo jal badatseumnida",
+        "meaning": "Tôi đã nhận được báo giá",
+        "example": "khách hàng, đáp lại"
+    },
+    {
+        "id": 37,
+        "hanzi": "견적 금액이 생각보다 높네요",
+        "pinyin": "gyeonjeok geumaegi saenggakboda nomneyo",
+        "meaning": "Số tiền báo giá cao hơn tôi nghĩ",
+        "example": "khách hàng"
+    },
+    {
+        "id": 38,
+        "hanzi": "이 가격에는 뭐가 포함돼 있어요?",
+        "pinyin": "i gagyeogeneun mwoga pohamdwae isseoyo?",
+        "meaning": "Giá này đã bao gồm những gì?",
+        "example": "khách hàng hỏi"
+    },
+    {
+        "id": 39,
+        "hanzi": "설치비와 시운전 비용이 포함되어 있습니다",
+        "pinyin": "seolchibiwa siunjeon biyongi pohamdoeeo itseumnida",
+        "meaning": "Đã bao gồm phí lắp đặt và chạy thử",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 40,
+        "hanzi": "운송비는 별도입니다",
+        "pinyin": "unsongbineun byeoldoimnida",
+        "meaning": "Phí vận chuyển tính riêng",
+        "example": "trang trọng"
+    },
+    {
+        "id": 41,
+        "hanzi": "부가세 포함 가격인가요?",
+        "pinyin": "bugase poham gagyeogingayo?",
+        "meaning": "Giá này đã gồm VAT chưa?",
+        "example": "khách hàng hỏi"
+    },
+    {
+        "id": 42,
+        "hanzi": "아니요, 부가세는 별도입니다",
+        "pinyin": "aniyo, bugaseneun byeoldoimnida",
+        "meaning": "Chưa, VAT tính riêng",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 43,
+        "hanzi": "소프트웨어 라이선스 비용도 들어가 있어요",
+        "pinyin": "sopeuteuweeo raiseonseu biyongdo deureoga isseoyo",
+        "meaning": "Phí bản quyền phần mềm cũng đã có trong đó",
+        "example": "lịch sự"
+    },
+    {
+        "id": 44,
+        "hanzi": "교육 비용은 따로 안 받습니다",
+        "pinyin": "gyoyuk biyongeun ttaro an batseumnida",
+        "meaning": "Chúng tôi không thu riêng phí đào tạo",
+        "example": "trang trọng"
+    },
+    {
+        "id": 45,
+        "hanzi": "항목별로 금액을 나눠서 보내 주실 수 있나요?",
+        "pinyin": "hangmokbyeollo geumaegeul nanwoseo bonae jusil su innayo?",
+        "meaning": "Anh gửi giá chia theo từng hạng mục được không?",
+        "example": "khách hàng"
+    },
+    {
+        "id": 46,
+        "hanzi": "네, 상세 견적서로 다시 드리겠습니다",
+        "pinyin": "ne, sangse gyeonjeokseoro dasi deurigetseumnida",
+        "meaning": "Vâng, tôi sẽ gửi lại báo giá chi tiết",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 47,
+        "hanzi": "견적 유효 기간은 한 달입니다",
+        "pinyin": "gyeonjeok yuhyo giganeun han darimnida",
+        "meaning": "Báo giá có hiệu lực một tháng",
+        "example": "trang trọng"
+    },
+    {
+        "id": 48,
+        "hanzi": "환율 때문에 가격이 조금 바뀔 수 있습니다",
+        "pinyin": "hwanyul ttaemune gagyeogi jogeum bakkwil su itseumnida",
+        "meaning": "Giá có thể thay đổi chút do tỷ giá",
+        "example": "trang trọng"
+    },
+    {
+        "id": 49,
+        "hanzi": "조금만 깎아 주실 수 있어요?",
+        "pinyin": "jogeumman kkakka jusil su isseoyo?",
+        "meaning": "Anh giảm giá chút được không?",
+        "example": "khách hàng, thân thiện"
+    },
+    {
+        "id": 50,
+        "hanzi": "할인은 어렵지만 옵션을 하나 넣어 드릴게요",
+        "pinyin": "harineun eoryeopjiman opsyeoneul hana neoeo deurilgeyo",
+        "meaning": "Khó giảm giá nhưng tôi sẽ thêm một tùy chọn",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 51,
+        "hanzi": "5퍼센트 정도는 할인해 드릴 수 있습니다",
+        "pinyin": "opeosenteu jeongdoneun harinhae deuril su itseumnida",
+        "meaning": "Tôi có thể giảm khoảng 5%",
+        "example": "trang trọng"
+    },
+    {
+        "id": 52,
+        "hanzi": "이게 저희가 드릴 수 있는 최종 가격입니다",
+        "pinyin": "ige jeohuiga deuril su inneun choejong gagyeogimnida",
+        "meaning": "Đây là giá cuối cùng chúng tôi có thể đưa ra",
+        "example": "trang trọng"
+    },
+    {
+        "id": 53,
+        "hanzi": "경쟁사는 더 싸게 제시했어요",
+        "pinyin": "gyeongjaengsaneun deo ssage jesihaesseoyo",
+        "meaning": "Đối thủ báo giá rẻ hơn",
+        "example": "khách hàng"
+    },
+    {
+        "id": 54,
+        "hanzi": "대신 저희는 사후 관리가 확실합니다",
+        "pinyin": "daesin jeohuineun sahu gwalliga hwaksilhamnida",
+        "meaning": "Bù lại, hậu mãi bên chúng tôi rất chắc chắn",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 55,
+        "hanzi": "수량을 늘리면 단가가 내려가나요?",
+        "pinyin": "suryangeul neullimyeon dangaga naeryeoganayo?",
+        "meaning": "Tăng số lượng thì đơn giá có giảm không?",
+        "example": "khách hàng hỏi"
+    },
+    {
+        "id": 56,
+        "hanzi": "네, 열 대 이상이면 단가를 조정해 드릴게요",
+        "pinyin": "ne, yeol dae isangimyeon dangareul jojeonghae deurilgeyo",
+        "meaning": "Vâng, từ mười máy trở lên tôi sẽ điều chỉnh đơn giá",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 57,
+        "hanzi": "결제 조건은 어떻게 되나요?",
+        "pinyin": "gyeolje jogeoneun eotteoke doenayo?",
+        "meaning": "Điều kiện thanh toán thế nào?",
+        "example": "khách hàng hỏi"
+    },
+    {
+        "id": 58,
+        "hanzi": "계약금 30퍼센트, 납품 후 70퍼센트입니다",
+        "pinyin": "gyeyakgeum samsippeosenteu, nappum hu chilsippeosenteuimnida",
+        "meaning": "Đặt cọc 30%, sau khi giao hàng 70%",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 59,
+        "hanzi": "검수 후 30일 이내에 지급해 드립니다",
+        "pinyin": "geomsu hu samsibil inaee jigeupae deurimnida",
+        "meaning": "Chúng tôi thanh toán trong 30 ngày sau nghiệm thu",
+        "example": "khách hàng, trang trọng"
+    },
+    {
+        "id": 60,
+        "hanzi": "선금 비율을 좀 낮출 수 있을까요?",
+        "pinyin": "seongeum biyureul jom natchul su isseulkkayo?",
+        "meaning": "Có thể giảm tỷ lệ tạm ứng một chút không?",
+        "example": "khách hàng"
+    },
+    {
+        "id": 61,
+        "hanzi": "송금은 달러로 해 주시면 됩니다",
+        "pinyin": "songgeumeun dalleoro hae jusimyeon doemnida",
+        "meaning": "Anh chuyển tiền bằng đô la là được",
+        "example": "lịch sự"
+    },
+    {
+        "id": 62,
+        "hanzi": "납기는 얼마나 걸려요?",
+        "pinyin": "napgineun eolmana geollyeoyo?",
+        "meaning": "Thời gian giao hàng mất bao lâu?",
+        "example": "khách hàng hỏi"
+    },
+    {
+        "id": 63,
+        "hanzi": "발주 후 3개월 정도 걸립니다",
+        "pinyin": "balju hu samgaewol jeongdo geollimnida",
+        "meaning": "Khoảng 3 tháng sau khi đặt hàng",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 64,
+        "hanzi": "조금 더 앞당길 수는 없나요?",
+        "pinyin": "jogeum deo apdanggil suneun eomnayo?",
+        "meaning": "Không thể đẩy sớm hơn chút sao?",
+        "example": "khách hàng"
+    },
+    {
+        "id": 65,
+        "hanzi": "부품 수급 상황을 보고 말씀드릴게요",
+        "pinyin": "bupum sugeup sanghwangeul bogo malsseumdeurilgeyo",
+        "meaning": "Tôi sẽ xem tình hình linh kiện rồi báo anh",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 66,
+        "hanzi": "견적서 수정본 보내 드립니다",
+        "pinyin": "gyeonjeokseo sujeongbon bonae deurimnida",
+        "meaning": "Tôi gửi bản báo giá đã sửa",
+        "example": "trong email, trang trọng"
+    },
+    {
+        "id": 67,
+        "hanzi": "사양이 바뀌어서 금액도 조금 달라졌어요",
+        "pinyin": "sayangi bakkwieoseo geumaekdo jogeum dallajyeosseoyo",
+        "meaning": "Thông số thay đổi nên số tiền cũng khác một chút",
+        "example": "lịch sự"
+    },
+    {
+        "id": 68,
+        "hanzi": "예비 부품 가격도 같이 알려 주세요",
+        "pinyin": "yebi bupum gagyeokdo gachi allyeo juseyo",
+        "meaning": "Cho tôi biết luôn giá phụ tùng dự phòng",
+        "example": "khách hàng"
+    },
+    {
+        "id": 69,
+        "hanzi": "내부 검토 후에 연락드리겠습니다",
+        "pinyin": "naebu geomto hue yeollakdeurigetseumnida",
+        "meaning": "Sau khi xem xét nội bộ, tôi sẽ liên lạc",
+        "example": "khách hàng, trang trọng"
+    },
+    {
+        "id": 70,
+        "hanzi": "윗분들께 보고하고 답변드릴게요",
+        "pinyin": "witbundeulkke bogohago dapbyeondeurilgeyo",
+        "meaning": "Tôi báo cáo cấp trên rồi trả lời anh",
+        "example": "khách hàng"
+    },
+    {
+        "id": 71,
+        "hanzi": "혹시 결정이 나셨는지 여쭤봐도 될까요?",
+        "pinyin": "hoksi gyeoljeongi nasyeonneunji yeojjwobwado doelkkayo?",
+        "meaning": "Cho tôi hỏi đã có quyết định chưa ạ?",
+        "example": "kỹ sư hỏi khách, lịch sự"
+    },
+    {
+        "id": 72,
+        "hanzi": "아직 검토 중이에요, 조금만 기다려 주세요",
+        "pinyin": "ajik geomto jungieyo, jogeumman gidaryeo juseyo",
+        "meaning": "Vẫn đang xem xét, anh chờ chút nhé",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 73,
+        "hanzi": "그 조건이면 진행하겠습니다",
+        "pinyin": "geu jogeonimyeon jinhaenghagetseumnida",
+        "meaning": "Nếu điều kiện đó thì chúng tôi sẽ tiến hành",
+        "example": "khách hàng đồng ý"
+    },
+    {
+        "id": 74,
+        "hanzi": "서로 조금씩 양보하면 좋겠습니다",
+        "pinyin": "seoro jogeumssik yangbohamyeon joketseumnida",
+        "meaning": "Mong đôi bên nhường nhau một chút",
+        "example": "khi đàm phán"
+    },
+    {
+        "id": 75,
+        "hanzi": "그 부분은 제가 혼자 결정할 수 없어요",
+        "pinyin": "geu bubuneun jega honja gyeoljeonghal su eopseoyo",
+        "meaning": "Phần đó tôi không tự quyết được",
+        "example": "khi đàm phán"
+    },
+    {
+        "id": 76,
+        "hanzi": "본사와 상의한 후에 다시 연락드릴게요",
+        "pinyin": "bonsawa sanguihan hue dasi yeollakdeurilgeyo",
+        "meaning": "Tôi sẽ bàn với công ty rồi liên lạc lại",
+        "example": "lịch sự"
+    },
+    {
+        "id": 77,
+        "hanzi": "오늘 협의한 내용을 정리해서 보내 드릴게요",
+        "pinyin": "oneul hyeobuihan naeyongeul jeongnihaeseo bonae deurilgeyo",
+        "meaning": "Tôi sẽ tóm tắt nội dung bàn hôm nay rồi gửi anh",
+        "example": "sau cuộc họp"
+    },
+    {
+        "id": 78,
+        "hanzi": "회의록 보시고 수정할 부분 있으면 말씀해 주세요",
+        "pinyin": "hoeuirok bosigo sujeonghal bubun isseumyeon malsseumhae juseyo",
+        "meaning": "Anh xem biên bản họp, có chỗ cần sửa thì báo nhé",
+        "example": "lịch sự"
+    },
+    {
+        "id": 79,
+        "hanzi": "그럼 이 사양으로 확정하겠습니다",
+        "pinyin": "geureom i sayangeuro hwakjeonghagetseumnida",
+        "meaning": "Vậy chúng ta chốt theo thông số này",
+        "example": "trang trọng"
+    },
+    {
+        "id": 80,
+        "hanzi": "계약서 초안을 보내 주시겠어요?",
+        "pinyin": "gyeyakseo choaneul bonae jusigesseoyo?",
+        "meaning": "Anh gửi bản nháp hợp đồng được không?",
+        "example": "lịch sự"
+    },
+    {
+        "id": 81,
+        "hanzi": "계약서에 도장 찍어서 보내 드렸어요",
+        "pinyin": "gyeyakseoe dojang jjigeoseo bonae deuryeosseoyo",
+        "meaning": "Tôi đã đóng dấu hợp đồng và gửi rồi",
+        "example": "khách hàng"
+    },
+    {
+        "id": 82,
+        "hanzi": "서명은 대표님이 직접 하실 거예요",
+        "pinyin": "seomyeongeun daepyonimi jikjeop hasil geoyeyo",
+        "meaning": "Giám đốc sẽ trực tiếp ký",
+        "example": "khách hàng"
+    },
+    {
+        "id": 83,
+        "hanzi": "발주서는 다음 주에 나갈 거예요",
+        "pinyin": "baljuseoneun daeum jue nagal geoyeyo",
+        "meaning": "Đơn đặt hàng sẽ được gửi vào tuần sau",
+        "example": "khách hàng"
+    },
+    {
+        "id": 84,
+        "hanzi": "발주서 잘 받았습니다, 감사합니다",
+        "pinyin": "baljuseo jal badatseumnida, gamsahamnida",
+        "meaning": "Đã nhận được đơn đặt hàng, cảm ơn anh",
+        "example": "trang trọng"
+    },
+    {
+        "id": 85,
+        "hanzi": "발주 번호를 알려 주시면 송장에 적겠습니다",
+        "pinyin": "balju beonhoreul allyeo jusimyeon songjange jeokgetseumnida",
+        "meaning": "Anh cho số PO thì tôi sẽ ghi vào hóa đơn",
+        "example": "trang trọng"
+    },
+    {
+        "id": 86,
+        "hanzi": "계약 조건 중에 한 가지만 확인하고 싶습니다",
+        "pinyin": "gyeyak jogeon junge han gajiman hwaginhago sipseumnida",
+        "meaning": "Tôi muốn xác nhận một điểm trong điều kiện hợp đồng",
+        "example": "trang trọng"
+    },
+    {
+        "id": 87,
+        "hanzi": "보증 기간을 2년으로 늘려 주실 수 있나요?",
+        "pinyin": "bojeung giganeul inyeoneuro neullyeo jusil su innayo?",
+        "meaning": "Có thể kéo dài bảo hành lên 2 năm không?",
+        "example": "khách hàng"
+    },
+    {
+        "id": 88,
+        "hanzi": "그러면 가격이 조금 올라갑니다",
+        "pinyin": "geureomyeon gagyeogi jogeum ollagamnida",
+        "meaning": "Vậy thì giá sẽ tăng một chút",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 89,
+        "hanzi": "사양 변경은 계약 전까지만 가능합니다",
+        "pinyin": "sayang byeongyeongeun gyeyak jeonkkajiman ganeunghamnida",
+        "meaning": "Chỉ đổi thông số được trước khi ký hợp đồng",
+        "example": "trang trọng"
+    },
+    {
+        "id": 90,
+        "hanzi": "추가 요청은 별도로 견적을 드리겠습니다",
+        "pinyin": "chuga yocheongeun byeoldoro gyeonjeogeul deurigetseumnida",
+        "meaning": "Yêu cầu bổ sung sẽ báo giá riêng",
+        "example": "trang trọng"
+    },
+    {
+        "id": 91,
+        "hanzi": "말씀하신 내용 모두 반영했습니다",
+        "pinyin": "malsseumhasin naeyong modu banyeonghaetseumnida",
+        "meaning": "Tôi đã đưa vào toàn bộ nội dung anh nói",
+        "example": "trang trọng"
+    },
+    {
+        "id": 92,
+        "hanzi": "혹시 빠진 게 있으면 알려 주세요",
+        "pinyin": "hoksi ppajin ge isseumyeon allyeo juseyo",
+        "meaning": "Nếu có gì thiếu thì báo tôi nhé",
+        "example": "lịch sự"
+    },
+    {
+        "id": 93,
+        "hanzi": "이대로 진행해도 될까요?",
+        "pinyin": "idaero jinhaenghaedo doelkkayo?",
+        "meaning": "Tiến hành như thế này được không?",
+        "example": "xin xác nhận"
+    },
+    {
+        "id": 94,
+        "hanzi": "네, 그렇게 해 주세요",
+        "pinyin": "ne, geureoke hae juseyo",
+        "meaning": "Vâng, cứ làm như vậy",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 95,
+        "hanzi": "출하 전에 저희 공장에서 먼저 테스트합니다",
+        "pinyin": "chulha jeone jeohui gongjangeseo meonjeo teseuteuhamnida",
+        "meaning": "Trước khi xuất hàng chúng tôi test ở xưởng mình",
+        "example": "trang trọng"
+    },
+    {
+        "id": 96,
+        "hanzi": "출하 전 검사에 참석하실 수 있으세요?",
+        "pinyin": "chulha jeon geomsae chamseokasil su isseuseyo?",
+        "meaning": "Anh có thể tham dự kiểm tra trước xuất hàng không?",
+        "example": "hỏi khách"
+    },
+    {
+        "id": 97,
+        "hanzi": "다음 주에 현장에 방문할 예정입니다",
+        "pinyin": "daeum jue hyeonjange bangmunhal yejeongimnida",
+        "meaning": "Tuần sau tôi dự định đến hiện trường",
+        "example": "trang trọng"
+    },
+    {
+        "id": 98,
+        "hanzi": "몇 시 비행기로 오세요?",
+        "pinyin": "myeot si bihaenggiro oseyo?",
+        "meaning": "Anh đi chuyến bay mấy giờ?",
+        "example": "khách hàng hỏi"
+    },
+    {
+        "id": 99,
+        "hanzi": "오전 열 시에 인천공항에 도착해요",
+        "pinyin": "ojeon yeol sie incheongonghange dochakaeyo",
+        "meaning": "10 giờ sáng tôi đến sân bay Incheon",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 100,
+        "hanzi": "공항으로 마중 나가겠습니다",
+        "pinyin": "gonghangeuro majung nagagetseumnida",
+        "meaning": "Tôi sẽ ra sân bay đón anh",
+        "example": "khách hàng, lịch sự"
+    },
+    {
+        "id": 101,
+        "hanzi": "도착하시면 전화 주세요",
+        "pinyin": "dochakasimyeon jeonhwa juseyo",
+        "meaning": "Đến nơi thì gọi điện cho tôi nhé",
+        "example": "lịch sự"
+    },
+    {
+        "id": 102,
+        "hanzi": "입국장 3번 출구 앞에서 기다리고 있을게요",
+        "pinyin": "ipgukjang sambeon chulgu apeseo gidarigo isseulgeyo",
+        "meaning": "Tôi sẽ đợi trước cửa số 3 sảnh đến",
+        "example": "khi đón ở sân bay"
+    },
+    {
+        "id": 103,
+        "hanzi": "회사 이름이 적힌 종이를 들고 있을게요",
+        "pinyin": "hoesa ireumi jeokin jongireul deulgo isseulgeyo",
+        "meaning": "Tôi sẽ cầm tờ giấy ghi tên công ty",
+        "example": "khi đón ở sân bay"
+    },
+    {
+        "id": 104,
+        "hanzi": "비행기가 한 시간 연착됐어요",
+        "pinyin": "bihaenggiga han sigan yeonchakdwaesseoyo",
+        "meaning": "Máy bay bị trễ một tiếng",
+        "example": "khi đi công tác"
+    },
+    {
+        "id": 105,
+        "hanzi": "호텔은 회사 근처로 잡아 드렸어요",
+        "pinyin": "hotereun hoesa geuncheoro jaba deuryeosseoyo",
+        "meaning": "Tôi đã đặt khách sạn gần công ty cho anh",
+        "example": "khách hàng"
+    },
+    {
+        "id": 106,
+        "hanzi": "내일 아침 여덟 시에 호텔 로비에서 뵙겠습니다",
+        "pinyin": "naeil achim yeodeol sie hotel robieseo boepgetseumnida",
+        "meaning": "Sáng mai 8 giờ gặp anh ở sảnh khách sạn",
+        "example": "trang trọng"
+    },
+    {
+        "id": 107,
+        "hanzi": "이번 출장 일정을 공유해 드릴게요",
+        "pinyin": "ibeon chuljang iljeongeul gongyuhae deurilgeyo",
+        "meaning": "Tôi sẽ chia sẻ lịch công tác lần này",
+        "example": "lịch sự"
+    },
+    {
+        "id": 108,
+        "hanzi": "첫날은 설비 점검하고 회의가 있습니다",
+        "pinyin": "cheonnareun seolbi jeomgeomhago hoeuiga itseumnida",
+        "meaning": "Ngày đầu kiểm tra thiết bị và họp",
+        "example": "lịch làm việc"
+    },
+    {
+        "id": 109,
+        "hanzi": "둘째 날부터 설치 작업을 시작합니다",
+        "pinyin": "duljjae nalbuteo seolchi jageobeul sijakamnida",
+        "meaning": "Từ ngày thứ hai bắt đầu lắp đặt",
+        "example": "lịch làm việc"
+    },
+    {
+        "id": 110,
+        "hanzi": "작업은 몇 시부터 할 수 있어요?",
+        "pinyin": "jageobeun myeot sibuteo hal su isseoyo?",
+        "meaning": "Mấy giờ thì bắt đầu làm được?",
+        "example": "kỹ sư hỏi"
+    },
+    {
+        "id": 111,
+        "hanzi": "공장은 아침 여덟 시 반에 문 열어요",
+        "pinyin": "gongjangeun achim yeodeol si bane mun yeoreoyo",
+        "meaning": "Nhà máy mở cửa lúc 8 rưỡi sáng",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 112,
+        "hanzi": "주말에도 작업이 가능한가요?",
+        "pinyin": "jumaredo jageobi ganeunghangayo?",
+        "meaning": "Cuối tuần có làm được không?",
+        "example": "kỹ sư hỏi"
+    },
+    {
+        "id": 113,
+        "hanzi": "토요일은 되는데 일요일은 안 돼요",
+        "pinyin": "toyoireun doeneunde iryoireun an dwaeyo",
+        "meaning": "Thứ Bảy được nhưng Chủ nhật thì không",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 114,
+        "hanzi": "출입증은 경비실에서 받으시면 돼요",
+        "pinyin": "churipjeungeun gyeongbisireseo badeusimyeon dwaeyo",
+        "meaning": "Thẻ ra vào thì nhận ở phòng bảo vệ",
+        "example": "khách hàng"
+    },
+    {
+        "id": 115,
+        "hanzi": "방문자 명단에 이름을 올려 두었습니다",
+        "pinyin": "bangmunja myeongdane ireumeul ollyeo dueotseumnida",
+        "meaning": "Tôi đã ghi tên anh vào danh sách khách",
+        "example": "khách hàng, trang trọng"
+    },
+    {
+        "id": 116,
+        "hanzi": "노트북을 반입하려면 신청서를 써야 해요",
+        "pinyin": "noteubugeul baniparyeomyeon sincheongseoreul sseoya haeyo",
+        "meaning": "Muốn mang laptop vào phải viết đơn",
+        "example": "quy định nhà máy"
+    },
+    {
+        "id": 117,
+        "hanzi": "귀국 날짜가 하루 늦어질 것 같습니다",
+        "pinyin": "gwiguk naljjaga haru neujeojil geot gatseumnida",
+        "meaning": "Ngày về nước chắc sẽ trễ một ngày",
+        "example": "báo cáo, trang trọng"
+    },
+    {
+        "id": 118,
+        "hanzi": "설비가 오늘 오후에 도착할 예정이에요",
+        "pinyin": "seolbiga oneul ohue dochakal yejeongieyo",
+        "meaning": "Thiết bị dự kiến đến chiều nay",
+        "example": "khách hàng"
+    },
+    {
+        "id": 119,
+        "hanzi": "설치 위치를 먼저 확인하겠습니다",
+        "pinyin": "seolchi wichireul meonjeo hwaginhagetseumnida",
+        "meaning": "Tôi sẽ kiểm tra vị trí lắp đặt trước",
+        "example": "kỹ sư"
+    },
+    {
+        "id": 120,
+        "hanzi": "전원은 어디서 끌어오면 돼요?",
+        "pinyin": "jeonwoneun eodiseo kkeureoomyeon dwaeyo?",
+        "meaning": "Lấy nguồn điện từ đâu?",
+        "example": "kỹ sư hỏi"
+    },
+    {
+        "id": 121,
+        "hanzi": "저쪽 분전반에서 쓰시면 됩니다",
+        "pinyin": "jeojjok bunjeonbaneseo sseusimyeon doemnida",
+        "meaning": "Anh lấy từ tủ phân phối điện bên kia",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 122,
+        "hanzi": "전압이 380볼트 맞죠?",
+        "pinyin": "jeonabi sambaekpalsipbolteu matjyo?",
+        "meaning": "Điện áp là 380V đúng không?",
+        "example": "kỹ sư xác nhận"
+    },
+    {
+        "id": 123,
+        "hanzi": "네, 삼상 380볼트예요",
+        "pinyin": "ne, samsang sambaekpalsipbolteuyeyo",
+        "meaning": "Vâng, ba pha 380V",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 124,
+        "hanzi": "배선 작업은 내일까지 끝낼게요",
+        "pinyin": "baeseon jageobeun naeilkkaji kkeunnaelgeyo",
+        "meaning": "Tôi sẽ đi dây xong trước ngày mai",
+        "example": "kỹ sư"
+    },
+    {
+        "id": 125,
+        "hanzi": "통신 케이블 연결은 다 됐어요",
+        "pinyin": "tongsin keibeul yeongyeoreun da dwaesseoyo",
+        "meaning": "Đã nối xong cáp truyền thông",
+        "example": "kỹ sư"
+    },
+    {
+        "id": 126,
+        "hanzi": "PLC하고 PC 통신이 안 되네요",
+        "pinyin": "pielssihago pissi tongsini an doeneyo",
+        "meaning": "PLC và PC không giao tiếp được",
+        "example": "khi chạy thử"
+    },
+    {
+        "id": 127,
+        "hanzi": "IP 주소를 다시 설정해 볼게요",
+        "pinyin": "aipi jusoreul dasi seoljeonghae bolgeyo",
+        "meaning": "Để tôi cài lại địa chỉ IP",
+        "example": "kỹ sư"
+    },
+    {
+        "id": 128,
+        "hanzi": "이제 통신이 정상적으로 돼요",
+        "pinyin": "ije tongsini jeongsangjeogeuro dwaeyo",
+        "meaning": "Giờ giao tiếp đã bình thường",
+        "example": "kỹ sư"
+    },
+    {
+        "id": 129,
+        "hanzi": "입출력 신호를 하나씩 확인하겠습니다",
+        "pinyin": "ipchullyeok sinhoreul hanassik hwaginhagetseumnida",
+        "meaning": "Tôi sẽ kiểm tra từng tín hiệu vào ra",
+        "example": "khi chạy thử"
+    },
+    {
+        "id": 130,
+        "hanzi": "이 센서 좀 손으로 가려 주시겠어요?",
+        "pinyin": "i senseo jom soneuro garyeo jusigesseoyo?",
+        "meaning": "Anh lấy tay che cảm biến này giúp tôi nhé?",
+        "example": "nhờ khi kiểm tra"
+    },
+    {
+        "id": 131,
+        "hanzi": "신호 들어왔어요",
+        "pinyin": "sinho deureowasseoyo",
+        "meaning": "Có tín hiệu rồi",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 132,
+        "hanzi": "반송기를 수동으로 한번 움직여 보겠습니다",
+        "pinyin": "bansonggireul sudongeuro hanbeon umjigyeo bogetseumnida",
+        "meaning": "Tôi sẽ thử di chuyển xe vận chuyển bằng tay",
+        "example": "khi chạy thử"
+    },
+    {
+        "id": 133,
+        "hanzi": "위치가 조금 안 맞아요",
+        "pinyin": "wichiga jogeum an majayo",
+        "meaning": "Vị trí hơi lệch",
+        "example": "khi chạy thử"
+    },
+    {
+        "id": 134,
+        "hanzi": "위치 값을 다시 보정할게요",
+        "pinyin": "wichi gapseul dasi bojeonghalgeyo",
+        "meaning": "Tôi sẽ hiệu chỉnh lại giá trị vị trí",
+        "example": "kỹ sư"
+    },
+    {
+        "id": 135,
+        "hanzi": "시운전은 언제 시작할 수 있어요?",
+        "pinyin": "siunjeoneun eonje sijakal su isseoyo?",
+        "meaning": "Khi nào có thể bắt đầu chạy thử?",
+        "example": "khách hàng hỏi"
+    },
+    {
+        "id": 136,
+        "hanzi": "내일 오전부터 가능할 것 같습니다",
+        "pinyin": "naeil ojeonbuteo ganeunghal geot gatseumnida",
+        "meaning": "Có lẽ từ sáng mai là được",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 137,
+        "hanzi": "먼저 물로 테스트하고 나서 약품을 넣을게요",
+        "pinyin": "meonjeo mullo teseuteuhago naseo yakpumeul neoeulgeyo",
+        "meaning": "Test bằng nước trước rồi mới cho hóa chất vào",
+        "example": "khi chạy thử"
+    },
+    {
+        "id": 138,
+        "hanzi": "탱크에 물이 새는지 확인해 주세요",
+        "pinyin": "taengkeue muri saeneunji hwaginhae juseyo",
+        "meaning": "Kiểm tra xem bể có rò nước không nhé",
+        "example": "khi chạy thử"
+    },
+    {
+        "id": 139,
+        "hanzi": "자동 운전으로 한 사이클 돌려 볼게요",
+        "pinyin": "jadong unjeoneuro han saikeul dollyeo bolgeyo",
+        "meaning": "Tôi sẽ chạy thử một chu trình ở chế độ tự động",
+        "example": "khi chạy thử"
+    },
+    {
+        "id": 140,
+        "hanzi": "한 사이클에 몇 분 걸려요?",
+        "pinyin": "han saikeure myeot bun geollyeoyo?",
+        "meaning": "Một chu trình mất mấy phút?",
+        "example": "khách hàng hỏi"
+    },
+    {
+        "id": 141,
+        "hanzi": "지금은 12분인데 10분까지 줄일 수 있어요",
+        "pinyin": "jigeumeun sibibuninde sipbunkkaji juril su isseoyo",
+        "meaning": "Bây giờ là 12 phút nhưng có thể giảm xuống 10 phút",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 142,
+        "hanzi": "시운전 중에는 가까이 오지 마세요",
+        "pinyin": "siunjeon jungeneun gakkai oji maseyo",
+        "meaning": "Trong lúc chạy thử đừng lại gần",
+        "example": "an toàn"
+    },
+    {
+        "id": 143,
+        "hanzi": "시운전 결과는 문제없습니다",
+        "pinyin": "siunjeon gyeolgwaneun munjeeopseumnida",
+        "meaning": "Kết quả chạy thử không có vấn đề gì",
+        "example": "trang trọng"
+    },
+    {
+        "id": 144,
+        "hanzi": "샘플 제품으로 도금 테스트를 해 봅시다",
+        "pinyin": "saempeul jepumeuro dogeum teseuteureul hae bopsida",
+        "meaning": "Hãy mạ thử với sản phẩm mẫu",
+        "example": "đề nghị"
+    },
+    {
+        "id": 145,
+        "hanzi": "도금 두께가 기준에 맞는지 측정해 볼게요",
+        "pinyin": "dogeum dukkega gijune manneunji cheukjeonghae bolgeyo",
+        "meaning": "Tôi sẽ đo xem độ dày lớp mạ có đạt chuẩn không",
+        "example": "khi chạy thử"
+    },
+    {
+        "id": 146,
+        "hanzi": "두께가 조금 얇게 나왔어요",
+        "pinyin": "dukkega jogeum yalge nawasseoyo",
+        "meaning": "Độ dày ra hơi mỏng",
+        "example": "khách hàng"
+    },
+    {
+        "id": 147,
+        "hanzi": "전류 값을 조금 올려 보겠습니다",
+        "pinyin": "jeollyu gapseul jogeum ollyeo bogetseumnida",
+        "meaning": "Tôi sẽ tăng dòng điện lên một chút",
+        "example": "đáp lại câu trên, kỹ sư"
+    },
+    {
+        "id": 148,
+        "hanzi": "이번에는 두께가 딱 맞네요",
+        "pinyin": "ibeoneneun dukkega ttak manneyo",
+        "meaning": "Lần này độ dày vừa chuẩn",
+        "example": "khách hàng"
+    },
+    {
+        "id": 149,
+        "hanzi": "설치 작업이 예정보다 하루 일찍 끝났어요",
+        "pinyin": "seolchi jageobi yejeongboda haru iljjik kkeunnasseoyo",
+        "meaning": "Lắp đặt xong sớm hơn dự kiến một ngày",
+        "example": "báo cáo"
+    },
+    {
+        "id": 150,
+        "hanzi": "부품 하나가 운송 중에 파손됐어요",
+        "pinyin": "bupum hanaga unsong junge pasondwaesseoyo",
+        "meaning": "Một linh kiện bị hỏng khi vận chuyển",
+        "example": "báo cáo sự cố"
+    },
+    {
+        "id": 151,
+        "hanzi": "대체품을 바로 보내 달라고 했습니다",
+        "pinyin": "daechepumeul baro bonae dallago haetseumnida",
+        "meaning": "Tôi đã yêu cầu gửi hàng thay thế ngay",
+        "example": "báo cáo"
+    },
+    {
+        "id": 152,
+        "hanzi": "배기 덕트 연결은 고객사에서 해 주셔야 합니다",
+        "pinyin": "baegi deokteu yeongyeoreun gogaeksaeseo hae jusyeoya hamnida",
+        "meaning": "Phía khách hàng phải nối ống hút khí",
+        "example": "trang trọng"
+    },
+    {
+        "id": 153,
+        "hanzi": "오늘 작업은 여기까지 하겠습니다",
+        "pinyin": "oneul jageobeun yeogikkaji hagetseumnida",
+        "meaning": "Hôm nay làm đến đây thôi",
+        "example": "kết thúc ngày làm việc"
+    },
+    {
+        "id": 154,
+        "hanzi": "지금부터 기본 조작 방법을 설명드리겠습니다",
+        "pinyin": "jigeumbuteo gibon jojak bangbeobeul seolmyeongdeurigetseumnida",
+        "meaning": "Bây giờ tôi sẽ giải thích cách thao tác cơ bản",
+        "example": "khi đào tạo"
+    },
+    {
+        "id": 155,
+        "hanzi": "먼저 이 아이디로 로그인하세요",
+        "pinyin": "meonjeo i aidiro rogeuinhaseyo",
+        "meaning": "Trước tiên đăng nhập bằng ID này",
+        "example": "khi đào tạo"
+    },
+    {
+        "id": 156,
+        "hanzi": "비밀번호는 처음에 바꿔 주셔야 해요",
+        "pinyin": "bimilbeonhoneun cheoeume bakkwo jusyeoya haeyo",
+        "meaning": "Lần đầu anh phải đổi mật khẩu",
+        "example": "khi đào tạo"
+    },
+    {
+        "id": 157,
+        "hanzi": "작업자, 관리자, 엔지니어 세 단계 권한이 있어요",
+        "pinyin": "jageopja, gwallija, enjinieo se dangye gwonhani isseoyo",
+        "meaning": "Có ba cấp quyền: công nhân, quản lý, kỹ sư",
+        "example": "khi đào tạo"
+    },
+    {
+        "id": 158,
+        "hanzi": "이게 메인 화면입니다",
+        "pinyin": "ige mein hwamyeonimnida",
+        "meaning": "Đây là màn hình chính",
+        "example": "khi đào tạo"
+    },
+    {
+        "id": 159,
+        "hanzi": "여기서 각 도금조 상태를 한눈에 볼 수 있어요",
+        "pinyin": "yeogiseo gak dogeumjo sangtaereul hannune bol su isseoyo",
+        "meaning": "Ở đây xem nhanh được trạng thái từng bể mạ",
+        "example": "khi đào tạo"
+    },
+    {
+        "id": 160,
+        "hanzi": "초록색은 정상, 빨간색은 이상이에요",
+        "pinyin": "choroksaegeun jeongsang, ppalgansaegeun isangieyo",
+        "meaning": "Màu xanh là bình thường, màu đỏ là bất thường",
+        "example": "khi đào tạo"
+    },
+    {
+        "id": 161,
+        "hanzi": "운전을 시작하려면 이 버튼을 누르세요",
+        "pinyin": "unjeoneul sijakaryeomyeon i beoteuneul nureuseyo",
+        "meaning": "Muốn bắt đầu vận hành thì bấm nút này",
+        "example": "khi đào tạo"
+    },
+    {
+        "id": 162,
+        "hanzi": "멈추고 싶을 때는 정지 버튼을 누르면 돼요",
+        "pinyin": "meomchugo sipeul ttaeneun jeongji beoteuneul nureumyeon dwaeyo",
+        "meaning": "Muốn dừng thì bấm nút dừng",
+        "example": "khi đào tạo"
+    },
+    {
+        "id": 163,
+        "hanzi": "비상시에는 이 빨간 버튼을 누르세요",
+        "pinyin": "bisangsieneun i ppalgan beoteuneul nureuseyo",
+        "meaning": "Khi khẩn cấp thì bấm nút đỏ này",
+        "example": "khi đào tạo, an toàn"
+    },
+    {
+        "id": 164,
+        "hanzi": "레시피는 이 메뉴에서 만들 수 있어요",
+        "pinyin": "resipineun i menyueseo mandeul su isseoyo",
+        "meaning": "Công thức (recipe) tạo ở menu này",
+        "example": "khi đào tạo"
+    },
+    {
+        "id": 165,
+        "hanzi": "설정값을 바꾸고 나서 꼭 저장을 누르세요",
+        "pinyin": "seoljeonggapseul bakkugo naseo kkok jeojangeul nureuseyo",
+        "meaning": "Đổi giá trị cài đặt xong nhớ bấm lưu",
+        "example": "khi đào tạo"
+    },
+    {
+        "id": 166,
+        "hanzi": "저장을 안 하면 원래 값으로 돌아가요",
+        "pinyin": "jeojangeul an hamyeon wollae gapseuro doragayo",
+        "meaning": "Không lưu thì sẽ quay về giá trị cũ",
+        "example": "khi đào tạo"
+    },
+    {
+        "id": 167,
+        "hanzi": "온도 설정은 여기에 숫자를 입력하면 돼요",
+        "pinyin": "ondo seoljeongeun yeogie sutjareul imnyeokamyeon dwaeyo",
+        "meaning": "Cài nhiệt độ thì nhập số vào đây",
+        "example": "khi đào tạo"
+    },
+    {
+        "id": 168,
+        "hanzi": "도금 시간은 초 단위로 입력합니다",
+        "pinyin": "dogeum siganeun cho danwiro imnyeokamnida",
+        "meaning": "Thời gian mạ nhập theo đơn vị giây",
+        "example": "khi đào tạo"
+    },
+    {
+        "id": 169,
+        "hanzi": "전류 밀도에 맞춰서 전류가 자동으로 계산돼요",
+        "pinyin": "jeollyu mildoe matchwoseo jeollyuga jadongeuro gyesandwaeyo",
+        "meaning": "Dòng điện tự tính theo mật độ dòng",
+        "example": "khi đào tạo"
+    },
+    {
+        "id": 170,
+        "hanzi": "이 숫자는 무슨 뜻이에요?",
+        "pinyin": "i sutjaneun museun tteusieyo?",
+        "meaning": "Con số này nghĩa là gì?",
+        "example": "người học hỏi"
+    },
+    {
+        "id": 171,
+        "hanzi": "현재 정류기 출력 전압이에요",
+        "pinyin": "hyeonjae jeongnyugi chullyeok jeonabieyo",
+        "meaning": "Đó là điện áp ra hiện tại của bộ chỉnh lưu",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 172,
+        "hanzi": "화면이 영어로 나오는데 한국어로 바꿀 수 있어요?",
+        "pinyin": "hwamyeoni yeongeoro naoneunde hangugeoro bakkul su isseoyo?",
+        "meaning": "Màn hình hiện tiếng Anh, đổi sang tiếng Hàn được không?",
+        "example": "người dùng hỏi"
+    },
+    {
+        "id": 173,
+        "hanzi": "오른쪽 위에 언어 설정이 있어요",
+        "pinyin": "oreunjjok wie eoneo seoljeongi isseoyo",
+        "meaning": "Góc trên bên phải có cài đặt ngôn ngữ",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 174,
+        "hanzi": "생산 이력은 이 탭에서 조회하시면 됩니다",
+        "pinyin": "saengsan iryeogeun i tabeseo johoehasimyeon doemnida",
+        "meaning": "Lịch sử sản xuất tra cứu ở tab này",
+        "example": "khi đào tạo"
+    },
+    {
+        "id": 175,
+        "hanzi": "날짜를 선택하고 조회 버튼을 누르세요",
+        "pinyin": "naljjareul seontaekago johoe beoteuneul nureuseyo",
+        "meaning": "Chọn ngày rồi bấm nút tra cứu",
+        "example": "khi đào tạo"
+    },
+    {
+        "id": 176,
+        "hanzi": "알람이 뜨면 이 창에 내용이 표시돼요",
+        "pinyin": "allami tteumyeon i change naeyongi pyosidwaeyo",
+        "meaning": "Khi có báo động, nội dung hiện ở cửa sổ này",
+        "example": "khi đào tạo"
+    },
+    {
+        "id": 177,
+        "hanzi": "원인을 해결한 다음에 리셋 버튼을 누르세요",
+        "pinyin": "wonineul haegyeolhan daeume riset beoteuneul nureuseyo",
+        "meaning": "Xử lý nguyên nhân xong rồi bấm nút reset",
+        "example": "khi đào tạo"
+    },
+    {
+        "id": 178,
+        "hanzi": "지금까지 설명한 것 중에 질문 있으세요?",
+        "pinyin": "jigeumkkaji seolmyeonghan geot junge jilmun isseuseyo?",
+        "meaning": "Phần đã giải thích đến giờ có câu hỏi gì không?",
+        "example": "khi đào tạo"
+    },
+    {
+        "id": 179,
+        "hanzi": "레시피를 복사하는 방법도 알려 주세요",
+        "pinyin": "resipireul boksahaneun bangbeopdo allyeo juseyo",
+        "meaning": "Chỉ tôi cả cách sao chép công thức nữa",
+        "example": "người học hỏi"
+    },
+    {
+        "id": 180,
+        "hanzi": "직접 한번 해 보시겠어요?",
+        "pinyin": "jikjeop hanbeon hae bosigesseoyo?",
+        "meaning": "Anh tự làm thử một lần nhé?",
+        "example": "khi đào tạo"
+    },
+    {
+        "id": 181,
+        "hanzi": "네, 잘하셨어요",
+        "pinyin": "ne, jalhasyeosseoyo",
+        "meaning": "Vâng, anh làm tốt lắm",
+        "example": "khen khi đào tạo"
+    },
+    {
+        "id": 182,
+        "hanzi": "거기 말고 그 옆에 있는 버튼이에요",
+        "pinyin": "geogi malgo geu yeope inneun beoteunieyo",
+        "meaning": "Không phải chỗ đó, là nút bên cạnh",
+        "example": "khi đào tạo"
+    },
+    {
+        "id": 183,
+        "hanzi": "이전 화면으로 가려면 뒤로 버튼을 누르세요",
+        "pinyin": "ijeon hwamyeoneuro garyeomyeon dwiro beoteuneul nureuseyo",
+        "meaning": "Muốn về màn hình trước thì bấm nút quay lại",
+        "example": "khi đào tạo"
+    },
+    {
+        "id": 184,
+        "hanzi": "조작 매뉴얼은 한국어판으로 드릴게요",
+        "pinyin": "jojak maenyueoreun hangugeopaneuro deurilgeyo",
+        "meaning": "Tôi sẽ đưa sách hướng dẫn bản tiếng Hàn",
+        "example": "lịch sự"
+    },
+    {
+        "id": 185,
+        "hanzi": "교육은 주간조, 야간조 따로 진행할까요?",
+        "pinyin": "gyoyugeun juganjo, yaganjo ttaro jinhaenghalkkayo?",
+        "meaning": "Đào tạo riêng ca ngày, ca đêm nhé?",
+        "example": "kỹ sư hỏi"
+    },
+    {
+        "id": 186,
+        "hanzi": "네, 야간조는 오후 다섯 시에 모일 거예요",
+        "pinyin": "ne, yaganjoneun ohu daseot sie moil geoyeyo",
+        "meaning": "Vâng, ca đêm sẽ tập trung lúc 5 giờ chiều",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 187,
+        "hanzi": "교육 받은 사람 명단을 작성해 주세요",
+        "pinyin": "gyoyuk badeun saram myeongdaneul jakseonghae juseyo",
+        "meaning": "Vui lòng lập danh sách người đã được đào tạo",
+        "example": "kỹ sư"
+    },
+    {
+        "id": 188,
+        "hanzi": "사용자 계정을 새로 추가하고 싶어요",
+        "pinyin": "sayongja gyejeongeul saero chugahago sipeoyo",
+        "meaning": "Tôi muốn thêm tài khoản người dùng mới",
+        "example": "người dùng"
+    },
+    {
+        "id": 189,
+        "hanzi": "관리자 권한으로 로그인해야 추가할 수 있어요",
+        "pinyin": "gwallija gwonhaneuro rogeuinhaeya chugahal su isseoyo",
+        "meaning": "Phải đăng nhập quyền quản lý mới thêm được",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 190,
+        "hanzi": "이 값은 함부로 바꾸시면 안 됩니다",
+        "pinyin": "i gapseun hamburo bakkusimyeon an doemnida",
+        "meaning": "Giá trị này không được tùy tiện thay đổi",
+        "example": "lưu ý khi đào tạo"
+    },
+    {
+        "id": 191,
+        "hanzi": "수정한 기록은 다 로그에 남아요",
+        "pinyin": "sujeonghan girogeun da rogeue namayo",
+        "meaning": "Mọi thay đổi đều được lưu trong log",
+        "example": "khi đào tạo"
+    },
+    {
+        "id": 192,
+        "hanzi": "오늘 배운 거 내일 다시 한번 복습할게요",
+        "pinyin": "oneul baeun geo naeil dasi hanbeon bokseupalgeyo",
+        "meaning": "Mai mình ôn lại những gì học hôm nay",
+        "example": "khi đào tạo"
+    },
+    {
+        "id": 193,
+        "hanzi": "현장에서는 안전모를 꼭 써 주세요",
+        "pinyin": "hyeonjangeseoneun anjeonmoreul kkok sseo juseyo",
+        "meaning": "Ở hiện trường nhất định phải đội mũ bảo hộ",
+        "example": "an toàn"
+    },
+    {
+        "id": 194,
+        "hanzi": "안전화도 신으셔야 합니다",
+        "pinyin": "anjeonhwado sineusyeoya hamnida",
+        "meaning": "Anh cũng phải đi giày bảo hộ",
+        "example": "an toàn, trang trọng"
+    },
+    {
+        "id": 195,
+        "hanzi": "약품 탱크 근처에서는 보안경을 쓰세요",
+        "pinyin": "yakpum taengkeu geuncheoeseoneun boangyeongeul sseuseyo",
+        "meaning": "Gần bể hóa chất thì đeo kính bảo hộ",
+        "example": "an toàn"
+    },
+    {
+        "id": 196,
+        "hanzi": "산 종류는 피부에 닿으면 위험해요",
+        "pinyin": "san jongnyuneun pibue daeumyeon wiheomhaeyo",
+        "meaning": "Các loại axit chạm vào da rất nguy hiểm",
+        "example": "an toàn"
+    },
+    {
+        "id": 197,
+        "hanzi": "장갑 끼고 작업하세요",
+        "pinyin": "janggap kkigo jageopaseyo",
+        "meaning": "Đeo găng tay rồi hãy làm",
+        "example": "an toàn"
+    },
+    {
+        "id": 198,
+        "hanzi": "여기서부터는 관계자 외 출입 금지예요",
+        "pinyin": "yeogiseobuteoneun gwangyeja oe churip geumjiyeyo",
+        "meaning": "Từ đây người không phận sự cấm vào",
+        "example": "an toàn"
+    },
+    {
+        "id": 199,
+        "hanzi": "작업 전에 전원을 꼭 차단하세요",
+        "pinyin": "jageop jeone jeonwoneul kkok chadanhaseyo",
+        "meaning": "Trước khi làm nhớ ngắt điện",
+        "example": "an toàn"
+    },
+    {
+        "id": 200,
+        "hanzi": "차단기에 작업 중 표시를 걸어 두세요",
+        "pinyin": "chadangie jageop jung pyosireul georeo duseyo",
+        "meaning": "Treo biển \"đang làm việc\" lên cầu dao",
+        "example": "an toàn"
+    },
+    {
+        "id": 201,
+        "hanzi": "반송기 아래로는 절대 들어가지 마세요",
+        "pinyin": "bansonggi araeroneun jeoldae deureogaji maseyo",
+        "meaning": "Tuyệt đối không chui xuống dưới xe vận chuyển",
+        "example": "an toàn"
+    },
+    {
+        "id": 202,
+        "hanzi": "바닥이 미끄러우니까 조심하세요",
+        "pinyin": "badagi mikkeureounikka josimhaseyo",
+        "meaning": "Sàn trơn nên cẩn thận",
+        "example": "an toàn"
+    },
+    {
+        "id": 203,
+        "hanzi": "비상 샤워기는 저기 있어요",
+        "pinyin": "bisang syawogineun jeogi isseoyo",
+        "meaning": "Vòi tắm khẩn cấp ở đằng kia",
+        "example": "an toàn"
+    },
+    {
+        "id": 204,
+        "hanzi": "약품이 눈에 들어가면 바로 물로 씻으세요",
+        "pinyin": "yakpumi nune deureogamyeon baro mullo ssiseuseyo",
+        "meaning": "Hóa chất vào mắt thì rửa bằng nước ngay",
+        "example": "an toàn"
+    },
+    {
+        "id": 205,
+        "hanzi": "공장 안에서는 사진 촬영이 안 됩니다",
+        "pinyin": "gongjang aneseoneun sajin chwaryeongi an doemnida",
+        "meaning": "Trong nhà máy không được chụp ảnh",
+        "example": "quy định, trang trọng"
+    },
+    {
+        "id": 206,
+        "hanzi": "기록용으로 설비 사진 좀 찍어도 될까요?",
+        "pinyin": "girongnyongeuro seolbi sajin jom jjigeodo doelkkayo?",
+        "meaning": "Tôi chụp ảnh thiết bị để lưu hồ sơ được không?",
+        "example": "xin phép"
+    },
+    {
+        "id": 207,
+        "hanzi": "설비 사진은 찍으셔도 괜찮아요",
+        "pinyin": "seolbi sajineun jjigeusyeodo gwaenchanayo",
+        "meaning": "Chụp ảnh thiết bị thì không sao",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 208,
+        "hanzi": "오늘 아침에 안전 교육부터 받으셔야 합니다",
+        "pinyin": "oneul achime anjeon gyoyukbuteo badeusyeoya hamnida",
+        "meaning": "Sáng nay anh phải học an toàn trước",
+        "example": "khách hàng, trang trọng"
+    },
+    {
+        "id": 209,
+        "hanzi": "설비에 문제가 생겼어요",
+        "pinyin": "seolbie munjega saenggyeosseoyo",
+        "meaning": "Thiết bị gặp sự cố rồi",
+        "example": "khách hàng gọi báo"
+    },
+    {
+        "id": 210,
+        "hanzi": "어떤 증상인지 자세히 말씀해 주시겠어요?",
+        "pinyin": "eotteon jeungsanginji jasehi malsseumhae jusigesseoyo?",
+        "meaning": "Anh nói rõ triệu chứng thế nào được không?",
+        "example": "kỹ sư hỏi"
+    },
+    {
+        "id": 211,
+        "hanzi": "알람이 계속 울려요",
+        "pinyin": "allami gyesok ullyeoyo",
+        "meaning": "Báo động cứ kêu liên tục",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 212,
+        "hanzi": "알람 번호가 몇 번이에요?",
+        "pinyin": "allam beonhoga myeot beonieyo?",
+        "meaning": "Mã báo động số mấy?",
+        "example": "kỹ sư hỏi"
+    },
+    {
+        "id": 213,
+        "hanzi": "화면에 에러 코드 E105가 떠 있어요",
+        "pinyin": "hwamyeone ereo kodeu i baegoga tteo isseoyo",
+        "meaning": "Màn hình đang hiện mã lỗi E105",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 214,
+        "hanzi": "알람 화면을 사진 찍어서 보내 주세요",
+        "pinyin": "allam hwamyeoneul sajin jjigeoseo bonae juseyo",
+        "meaning": "Chụp ảnh màn hình báo động gửi tôi nhé",
+        "example": "kỹ sư"
+    },
+    {
+        "id": 215,
+        "hanzi": "언제부터 그런 증상이 있었어요?",
+        "pinyin": "eonjebuteo geureon jeungsangi isseosseoyo?",
+        "meaning": "Triệu chứng đó có từ khi nào?",
+        "example": "kỹ sư hỏi"
+    },
+    {
+        "id": 216,
+        "hanzi": "어제 오후부터 그랬어요",
+        "pinyin": "eoje ohubuteo geuraesseoyo",
+        "meaning": "Từ chiều hôm qua",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 217,
+        "hanzi": "최근에 뭔가 바꾼 게 있나요?",
+        "pinyin": "choegeune mwonga bakkun ge innayo?",
+        "meaning": "Gần đây có thay đổi gì không?",
+        "example": "kỹ sư hỏi"
+    },
+    {
+        "id": 218,
+        "hanzi": "어제 설정값을 조금 바꿨어요",
+        "pinyin": "eoje seoljeonggapseul jogeum bakkwosseoyo",
+        "meaning": "Hôm qua có đổi giá trị cài đặt một chút",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 219,
+        "hanzi": "온도가 설정값까지 안 올라가요",
+        "pinyin": "ondoga seoljeonggapkkaji an ollagayo",
+        "meaning": "Nhiệt độ không lên tới giá trị cài đặt",
+        "example": "khách hàng báo"
+    },
+    {
+        "id": 220,
+        "hanzi": "히터가 켜져 있는지 확인해 주세요",
+        "pinyin": "hiteoga kyeojyeo inneunji hwaginhae juseyo",
+        "meaning": "Kiểm tra xem heater có đang bật không",
+        "example": "kỹ sư"
+    },
+    {
+        "id": 221,
+        "hanzi": "온도 센서 값이 이상하게 튀어요",
+        "pinyin": "ondo senseo gapsi isanghage twieoyo",
+        "meaning": "Giá trị cảm biến nhiệt độ nhảy bất thường",
+        "example": "khách hàng báo"
+    },
+    {
+        "id": 222,
+        "hanzi": "센서 배선이 느슨해진 것 같아요",
+        "pinyin": "senseo baeseoni neuseunhaejin geot gatayo",
+        "meaning": "Có vẻ dây cảm biến bị lỏng",
+        "example": "kỹ sư"
+    },
+    {
+        "id": 223,
+        "hanzi": "센서를 새것으로 교체해야겠어요",
+        "pinyin": "senseoreul saegeoseuro gyochehaeyagesseoyo",
+        "meaning": "Chắc phải thay cảm biến mới",
+        "example": "kỹ sư"
+    },
+    {
+        "id": 224,
+        "hanzi": "전류가 설정값보다 낮게 나와요",
+        "pinyin": "jeollyuga seoljeonggapboda natge nawayo",
+        "meaning": "Dòng điện ra thấp hơn giá trị cài đặt",
+        "example": "khách hàng báo"
+    },
+    {
+        "id": 225,
+        "hanzi": "정류기 쪽 문제인지 먼저 확인해 볼게요",
+        "pinyin": "jeongnyugi jjok munjeinji meonjeo hwaginhae bolgeyo",
+        "meaning": "Tôi kiểm tra trước xem có phải do bộ chỉnh lưu không",
+        "example": "kỹ sư"
+    },
+    {
+        "id": 226,
+        "hanzi": "접점 부분에 이물질이 껴 있네요",
+        "pinyin": "jeopjeom bubune imuljiri kkyeo inneyo",
+        "meaning": "Chỗ tiếp điểm bị kẹt dị vật",
+        "example": "kỹ sư"
+    },
+    {
+        "id": 227,
+        "hanzi": "청소하고 나니까 정상으로 돌아왔어요",
+        "pinyin": "cheongsohago nanikka jeongsangeuro dorawasseoyo",
+        "meaning": "Vệ sinh xong thì trở lại bình thường",
+        "example": "kỹ sư"
+    },
+    {
+        "id": 228,
+        "hanzi": "시간이 끝났는데 다음 공정으로 안 넘어가요",
+        "pinyin": "sigani kkeunnanneunde daeum gongjeongeuro an neomeogayo",
+        "meaning": "Hết thời gian mà không chuyển sang công đoạn sau",
+        "example": "khách hàng báo"
+    },
+    {
+        "id": 229,
+        "hanzi": "프로그램이 멈췄어요",
+        "pinyin": "peurogeuraemi meomchwosseoyo",
+        "meaning": "Chương trình bị treo rồi",
+        "example": "khách hàng báo"
+    },
+    {
+        "id": 230,
+        "hanzi": "화면이 아무것도 안 눌려요",
+        "pinyin": "hwamyeoni amugeotdo an nullyeoyo",
+        "meaning": "Màn hình không bấm được gì cả",
+        "example": "khách hàng báo"
+    },
+    {
+        "id": 231,
+        "hanzi": "프로그램을 껐다가 다시 켜 보시겠어요?",
+        "pinyin": "peurogeuraemeul kkeotdaga dasi kyeo bosigesseoyo?",
+        "meaning": "Anh thử tắt chương trình rồi bật lại được không?",
+        "example": "kỹ sư hướng dẫn"
+    },
+    {
+        "id": 232,
+        "hanzi": "다시 켜니까 잘 돼요",
+        "pinyin": "dasi kyeonikka jal dwaeyo",
+        "meaning": "Bật lại thì chạy tốt rồi",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 233,
+        "hanzi": "컴퓨터를 재부팅해야 할 것 같아요",
+        "pinyin": "keompyuteoreul jaebutinghaeya hal geot gatayo",
+        "meaning": "Có lẽ phải khởi động lại máy tính",
+        "example": "kỹ sư"
+    },
+    {
+        "id": 234,
+        "hanzi": "재부팅하기 전에 라인을 멈춰 주세요",
+        "pinyin": "jaebutinghagi jeone raineul meomchwo juseyo",
+        "meaning": "Trước khi khởi động lại hãy dừng dây chuyền",
+        "example": "kỹ sư, lưu ý"
+    },
+    {
+        "id": 235,
+        "hanzi": "원격으로 접속해서 확인해도 될까요?",
+        "pinyin": "wongyeogeuro jeopsokaeseo hwaginhaedo doelkkayo?",
+        "meaning": "Tôi truy cập từ xa để kiểm tra được không?",
+        "example": "kỹ sư hỏi"
+    },
+    {
+        "id": 236,
+        "hanzi": "네, 팀뷰어 아이디 보내 드릴게요",
+        "pinyin": "ne, timbyueo aidi bonae deurilgeyo",
+        "meaning": "Vâng, tôi gửi ID TeamViewer cho anh",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 237,
+        "hanzi": "로그 파일을 보내 주시면 분석해 보겠습니다",
+        "pinyin": "rogeu paireul bonae jusimyeon bunseokae bogetseumnida",
+        "meaning": "Anh gửi file log thì tôi sẽ phân tích",
+        "example": "kỹ sư"
+    },
+    {
+        "id": 238,
+        "hanzi": "원인을 찾았습니다",
+        "pinyin": "wonineul chajatseumnida",
+        "meaning": "Tôi đã tìm ra nguyên nhân",
+        "example": "báo cáo, trang trọng"
+    },
+    {
+        "id": 239,
+        "hanzi": "소프트웨어 버그였어요, 죄송합니다",
+        "pinyin": "sopeuteuweeo beogeuyeosseoyo, joesonghamnida",
+        "meaning": "Là lỗi phần mềm, xin lỗi anh",
+        "example": "kỹ sư"
+    },
+    {
+        "id": 240,
+        "hanzi": "수정한 버전으로 업데이트해 드릴게요",
+        "pinyin": "sujeonghan beojeoneuro eopdeiteuhae deurilgeyo",
+        "meaning": "Tôi sẽ cập nhật bản đã sửa cho anh",
+        "example": "kỹ sư"
+    },
+    {
+        "id": 241,
+        "hanzi": "업데이트하기 전에 데이터를 백업하겠습니다",
+        "pinyin": "eopdeiteuhagi jeone deiteoreul baegeopagetseumnida",
+        "meaning": "Trước khi cập nhật tôi sẽ sao lưu dữ liệu",
+        "example": "kỹ sư"
+    },
+    {
+        "id": 242,
+        "hanzi": "업데이트하는 데 십 분 정도 걸려요",
+        "pinyin": "eopdeiteuhaneun de sip bun jeongdo geollyeoyo",
+        "meaning": "Cập nhật mất khoảng mười phút",
+        "example": "kỹ sư"
+    },
+    {
+        "id": 243,
+        "hanzi": "업데이트 끝났습니다, 한번 확인해 보세요",
+        "pinyin": "eopdeiteu kkeunnatseumnida, hanbeon hwaginhae boseyo",
+        "meaning": "Cập nhật xong rồi, anh kiểm tra thử nhé",
+        "example": "kỹ sư"
+    },
+    {
+        "id": 244,
+        "hanzi": "레시피 데이터는 그대로 남아 있어요",
+        "pinyin": "resipi deiteoneun geudaero nama isseoyo",
+        "meaning": "Dữ liệu công thức vẫn còn nguyên",
+        "example": "kỹ sư, trấn an khách"
+    },
+    {
+        "id": 245,
+        "hanzi": "백업은 일주일에 한 번씩 해 두세요",
+        "pinyin": "baegeobeun iljuire han beonssik hae duseyo",
+        "meaning": "Mỗi tuần nên sao lưu một lần",
+        "example": "khuyên khách"
+    },
+    {
+        "id": 246,
+        "hanzi": "백업 파일은 USB에 따로 보관하세요",
+        "pinyin": "baegeop paireun yuesbie ttaro bogwanhaseyo",
+        "meaning": "Lưu file sao lưu riêng vào USB",
+        "example": "khuyên khách"
+    },
+    {
+        "id": 247,
+        "hanzi": "같은 문제가 또 생기면 바로 연락 주세요",
+        "pinyin": "gateun munjega tto saenggimyeon baro yeollak juseyo",
+        "meaning": "Nếu lỗi lặp lại thì liên lạc ngay nhé",
+        "example": "kỹ sư"
+    },
+    {
+        "id": 248,
+        "hanzi": "직접 와서 봐 주실 수 있어요?",
+        "pinyin": "jikjeop waseo bwa jusil su isseoyo?",
+        "meaning": "Anh đến tận nơi xem giúp được không?",
+        "example": "khách hàng"
+    },
+    {
+        "id": 249,
+        "hanzi": "내일 오전 중으로 방문하겠습니다",
+        "pinyin": "naeil ojeon jungeuro bangmunhagetseumnida",
+        "meaning": "Trong sáng mai tôi sẽ đến",
+        "example": "đáp lại câu trên"
+    },
+    {
+        "id": 250,
+        "hanzi": "생산에 차질이 생겨서 급해요",
+        "pinyin": "saengsane chajiri saenggyeoseo geupaeyo",
+        "meaning": "Sản xuất bị đình trệ nên gấp lắm",
+        "example": "khách hàng"
+    }
+]

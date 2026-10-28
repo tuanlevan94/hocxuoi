@@ -46,3 +46,20 @@ main { padding:24px; max-width:1100px; margin:auto; }
   font-weight:700;
   font-variant-numeric: tabular-nums;
 }
+
+/* ===== Thêm 10/2026: câu dài, ghi chú, chạm để nghe ===== */
+/* Tiếng Hàn chỉ xuống dòng ở dấu cách, không cắt giữa từ */
+.hanzi { word-break: keep-all; overflow-wrap: anywhere; cursor: pointer; -webkit-tap-highlight-color: transparent; }
+/* Câu dài thì chữ nhỏ lại cho vừa thẻ (từ ngắn giữ nguyên cỡ cũ) */
+.hanzi.long  { font-size: 44px; }
+.hanzi.xlong { font-size: 36px; }
+/* Đang đọc: viền xanh nhạt để biết đã chạm */
+.hanzi.speaking { box-shadow: 0 0 0 3px #d7eaff, 0 4px 20px rgba(0,0,0,.06); }
+/* Ghi chú (lịch sự / thân mật / mẫu ngữ pháp) */
+.hint.note { font-size: 16px; color: #555; background: #f1f1f3; padding: 10px 16px; }
+
+@media (max-width: 600px){
+  .hanzi.long  { font-size: 34px; }
+  .hanzi.xlong { font-size: 28px; }
+  .hint.note   { font-size: 15px; }
+}

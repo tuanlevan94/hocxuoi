@@ -1,0 +1,1752 @@
+[
+    {
+        "id": 1,
+        "hanzi": "잠",
+        "pinyin": "jam",
+        "meaning": "giấc ngủ",
+        "example": ""
+    },
+    {
+        "id": 2,
+        "hanzi": "적절하다",
+        "pinyin": "jeokjeolhada",
+        "meaning": "thích hợp",
+        "example": ""
+    },
+    {
+        "id": 3,
+        "hanzi": "차이",
+        "pinyin": "chai",
+        "meaning": "sự khác biệt",
+        "example": ""
+    },
+    {
+        "id": 4,
+        "hanzi": "표현",
+        "pinyin": "pyohyeon",
+        "meaning": "cách diễn đạt, biểu hiện",
+        "example": ""
+    },
+    {
+        "id": 5,
+        "hanzi": "결과",
+        "pinyin": "gyeolgwa",
+        "meaning": "kết quả",
+        "example": ""
+    },
+    {
+        "id": 6,
+        "hanzi": "그동안",
+        "pinyin": "geudongan",
+        "meaning": "thời gian qua",
+        "example": ""
+    },
+    {
+        "id": 7,
+        "hanzi": "넘어지다",
+        "pinyin": "neomeojida",
+        "meaning": "ngã",
+        "example": ""
+    },
+    {
+        "id": 8,
+        "hanzi": "눕다",
+        "pinyin": "nupda",
+        "meaning": "nằm",
+        "example": ""
+    },
+    {
+        "id": 9,
+        "hanzi": "변하다",
+        "pinyin": "byeonhada",
+        "meaning": "thay đổi",
+        "example": ""
+    },
+    {
+        "id": 10,
+        "hanzi": "사진기",
+        "pinyin": "sajingi",
+        "meaning": "máy ảnh",
+        "example": ""
+    },
+    {
+        "id": 11,
+        "hanzi": "수건",
+        "pinyin": "sugeon",
+        "meaning": "khăn",
+        "example": ""
+    },
+    {
+        "id": 12,
+        "hanzi": "아기",
+        "pinyin": "agi",
+        "meaning": "em bé",
+        "example": ""
+    },
+    {
+        "id": 13,
+        "hanzi": "어린아이",
+        "pinyin": "eorinai",
+        "meaning": "trẻ nhỏ",
+        "example": ""
+    },
+    {
+        "id": 14,
+        "hanzi": "유용하다",
+        "pinyin": "yuyonghada",
+        "meaning": "hữu dụng",
+        "example": ""
+    },
+    {
+        "id": 15,
+        "hanzi": "이상",
+        "pinyin": "isang",
+        "meaning": "trở lên; khác thường",
+        "example": ""
+    },
+    {
+        "id": 16,
+        "hanzi": "장마",
+        "pinyin": "jangma",
+        "meaning": "mùa mưa",
+        "example": ""
+    },
+    {
+        "id": 17,
+        "hanzi": "전염",
+        "pinyin": "jeonyeom",
+        "meaning": "lây nhiễm",
+        "example": ""
+    },
+    {
+        "id": 18,
+        "hanzi": "파전",
+        "pinyin": "pajeon",
+        "meaning": "bánh xèo hành",
+        "example": ""
+    },
+    {
+        "id": 19,
+        "hanzi": "휴가철",
+        "pinyin": "hyugacheol",
+        "meaning": "mùa nghỉ mát",
+        "example": ""
+    },
+    {
+        "id": 20,
+        "hanzi": "가루",
+        "pinyin": "garu",
+        "meaning": "bột",
+        "example": ""
+    },
+    {
+        "id": 21,
+        "hanzi": "공기",
+        "pinyin": "gonggi",
+        "meaning": "không khí",
+        "example": ""
+    },
+    {
+        "id": 22,
+        "hanzi": "공장",
+        "pinyin": "gongjang",
+        "meaning": "nhà máy",
+        "example": ""
+    },
+    {
+        "id": 23,
+        "hanzi": "관광객",
+        "pinyin": "gwangwanggaek",
+        "meaning": "khách du lịch",
+        "example": ""
+    },
+    {
+        "id": 24,
+        "hanzi": "더럽다",
+        "pinyin": "deoreopda",
+        "meaning": "bẩn",
+        "example": ""
+    },
+    {
+        "id": 25,
+        "hanzi": "문방구",
+        "pinyin": "munbanggu",
+        "meaning": "cửa hàng văn phòng phẩm",
+        "example": ""
+    },
+    {
+        "id": 26,
+        "hanzi": "반드시",
+        "pinyin": "bandeusi",
+        "meaning": "nhất định",
+        "example": ""
+    },
+    {
+        "id": 27,
+        "hanzi": "비옷",
+        "pinyin": "biot",
+        "meaning": "áo mưa",
+        "example": ""
+    },
+    {
+        "id": 28,
+        "hanzi": "상가",
+        "pinyin": "sangga",
+        "meaning": "khu buôn bán",
+        "example": ""
+    },
+    {
+        "id": 29,
+        "hanzi": "상하다",
+        "pinyin": "sanghada",
+        "meaning": "hỏng, ôi thiu",
+        "example": ""
+    },
+    {
+        "id": 30,
+        "hanzi": "식전",
+        "pinyin": "sikjeon",
+        "meaning": "trước bữa ăn",
+        "example": ""
+    },
+    {
+        "id": 31,
+        "hanzi": "쏘다",
+        "pinyin": "ssoda",
+        "meaning": "bắn; khao",
+        "example": ""
+    },
+    {
+        "id": 32,
+        "hanzi": "알맞다",
+        "pinyin": "almatda",
+        "meaning": "phù hợp",
+        "example": ""
+    },
+    {
+        "id": 33,
+        "hanzi": "어린이",
+        "pinyin": "eorini",
+        "meaning": "trẻ em",
+        "example": ""
+    },
+    {
+        "id": 34,
+        "hanzi": "어젯밤",
+        "pinyin": "eojetbam",
+        "meaning": "tối qua",
+        "example": ""
+    },
+    {
+        "id": 35,
+        "hanzi": "연구",
+        "pinyin": "yeongu",
+        "meaning": "nghiên cứu",
+        "example": ""
+    },
+    {
+        "id": 36,
+        "hanzi": "예방하다",
+        "pinyin": "yebanghada",
+        "meaning": "phòng ngừa",
+        "example": ""
+    },
+    {
+        "id": 37,
+        "hanzi": "임신부",
+        "pinyin": "imsinbu",
+        "meaning": "phụ nữ mang thai",
+        "example": ""
+    },
+    {
+        "id": 38,
+        "hanzi": "자꾸",
+        "pinyin": "jakku",
+        "meaning": "cứ, liên tục",
+        "example": ""
+    },
+    {
+        "id": 39,
+        "hanzi": "잡다",
+        "pinyin": "japda",
+        "meaning": "nắm, bắt",
+        "example": ""
+    },
+    {
+        "id": 40,
+        "hanzi": "종일",
+        "pinyin": "jongil",
+        "meaning": "cả ngày",
+        "example": ""
+    },
+    {
+        "id": 41,
+        "hanzi": "지난번",
+        "pinyin": "jinanbeon",
+        "meaning": "lần trước",
+        "example": ""
+    },
+    {
+        "id": 42,
+        "hanzi": "초여름",
+        "pinyin": "choyeoreum",
+        "meaning": "đầu hè",
+        "example": ""
+    },
+    {
+        "id": 43,
+        "hanzi": "해마다",
+        "pinyin": "haemada",
+        "meaning": "hàng năm",
+        "example": ""
+    },
+    {
+        "id": 44,
+        "hanzi": "해안",
+        "pinyin": "haean",
+        "meaning": "bờ biển",
+        "example": ""
+    },
+    {
+        "id": 45,
+        "hanzi": "흔들리다",
+        "pinyin": "heundeullida",
+        "meaning": "rung, lắc",
+        "example": ""
+    },
+    {
+        "id": 46,
+        "hanzi": "그러면 / 그럼",
+        "pinyin": "geureomyeon / geureom",
+        "meaning": "vậy thì, thế thì",
+        "example": ""
+    },
+    {
+        "id": 47,
+        "hanzi": "보내다 (부치다)",
+        "pinyin": "bonaeda (buchida)",
+        "meaning": "gửi (thư, bưu kiện, bưu thiếp, thiệp)",
+        "example": ""
+    },
+    {
+        "id": 48,
+        "hanzi": "생각하다",
+        "pinyin": "saenggakhada",
+        "meaning": "nghĩ, suy nghĩ",
+        "example": ""
+    },
+    {
+        "id": 49,
+        "hanzi": "구하다",
+        "pinyin": "guhada",
+        "meaning": "tìm (nhà, việc làm)",
+        "example": ""
+    },
+    {
+        "id": 50,
+        "hanzi": "다시",
+        "pinyin": "dasi",
+        "meaning": "lại, lần nữa",
+        "example": ""
+    },
+    {
+        "id": 51,
+        "hanzi": "합격하다",
+        "pinyin": "hapgyeokhada",
+        "meaning": "đỗ, trúng tuyển",
+        "example": ""
+    },
+    {
+        "id": 52,
+        "hanzi": "주일",
+        "pinyin": "juil",
+        "meaning": "tuần (đơn vị)",
+        "example": ""
+    },
+    {
+        "id": 53,
+        "hanzi": "노력하다",
+        "pinyin": "noryeokhada",
+        "meaning": "nỗ lực",
+        "example": ""
+    },
+    {
+        "id": 54,
+        "hanzi": "남쪽",
+        "pinyin": "namjjok",
+        "meaning": "phía nam",
+        "example": ""
+    },
+    {
+        "id": 55,
+        "hanzi": "서류",
+        "pinyin": "seoryu",
+        "meaning": "giấy tờ, hồ sơ",
+        "example": ""
+    },
+    {
+        "id": 56,
+        "hanzi": "파티",
+        "pinyin": "pati",
+        "meaning": "bữa tiệc",
+        "example": ""
+    },
+    {
+        "id": 57,
+        "hanzi": "환영하다",
+        "pinyin": "hwanyeonghada",
+        "meaning": "hoan nghênh, chào đón",
+        "example": ""
+    },
+    {
+        "id": 58,
+        "hanzi": "소식",
+        "pinyin": "sosik",
+        "meaning": "tin tức",
+        "example": ""
+    },
+    {
+        "id": 59,
+        "hanzi": "이유",
+        "pinyin": "iyu",
+        "meaning": "lý do",
+        "example": ""
+    },
+    {
+        "id": 60,
+        "hanzi": "짓다",
+        "pinyin": "jitda",
+        "meaning": "xây; đặt (tên)",
+        "example": ""
+    },
+    {
+        "id": 61,
+        "hanzi": "모임",
+        "pinyin": "moim",
+        "meaning": "buổi gặp mặt, cuộc họp mặt",
+        "example": ""
+    },
+    {
+        "id": 62,
+        "hanzi": "배편",
+        "pinyin": "baepyeon",
+        "meaning": "đường tàu thủy",
+        "example": ""
+    },
+    {
+        "id": 63,
+        "hanzi": "오랜만",
+        "pinyin": "oraenman",
+        "meaning": "lâu rồi mới… (오랜만에)",
+        "example": ""
+    },
+    {
+        "id": 64,
+        "hanzi": "취직하다",
+        "pinyin": "chwijikhada",
+        "meaning": "có việc làm",
+        "example": ""
+    },
+    {
+        "id": 65,
+        "hanzi": "개강하다",
+        "pinyin": "gaeganghada",
+        "meaning": "khai giảng",
+        "example": ""
+    },
+    {
+        "id": 66,
+        "hanzi": "선선하다",
+        "pinyin": "seonseonhada",
+        "meaning": "mát mẻ",
+        "example": ""
+    },
+    {
+        "id": 67,
+        "hanzi": "세우다",
+        "pinyin": "seuda",
+        "meaning": "dừng (xe); dựng",
+        "example": ""
+    },
+    {
+        "id": 68,
+        "hanzi": "센터",
+        "pinyin": "senteo",
+        "meaning": "trung tâm",
+        "example": ""
+    },
+    {
+        "id": 69,
+        "hanzi": "신입",
+        "pinyin": "sinip",
+        "meaning": "người mới (vào trường, công ty)",
+        "example": ""
+    },
+    {
+        "id": 70,
+        "hanzi": "안전하다",
+        "pinyin": "anjeonhada",
+        "meaning": "an toàn",
+        "example": ""
+    },
+    {
+        "id": 71,
+        "hanzi": "자세하다",
+        "pinyin": "jasehada",
+        "meaning": "chi tiết",
+        "example": ""
+    },
+    {
+        "id": 72,
+        "hanzi": "정확하다",
+        "pinyin": "jeonghwakhada",
+        "meaning": "chính xác",
+        "example": ""
+    },
+    {
+        "id": 73,
+        "hanzi": "눈사람",
+        "pinyin": "nunsaram",
+        "meaning": "người tuyết",
+        "example": ""
+    },
+    {
+        "id": 74,
+        "hanzi": "사랑하다",
+        "pinyin": "saranghada",
+        "meaning": "yêu",
+        "example": ""
+    },
+    {
+        "id": 75,
+        "hanzi": "올리다",
+        "pinyin": "ollida",
+        "meaning": "đưa lên, nâng lên",
+        "example": ""
+    },
+    {
+        "id": 76,
+        "hanzi": "이미",
+        "pinyin": "imi",
+        "meaning": "đã (rồi)",
+        "example": ""
+    },
+    {
+        "id": 77,
+        "hanzi": "줄",
+        "pinyin": "jul",
+        "meaning": "hàng, dòng",
+        "example": ""
+    },
+    {
+        "id": 78,
+        "hanzi": "찌다",
+        "pinyin": "jjida",
+        "meaning": "hấp; tăng cân (살이 찌다)",
+        "example": ""
+    },
+    {
+        "id": 79,
+        "hanzi": "깨다",
+        "pinyin": "kkaeda",
+        "meaning": "tỉnh dậy; làm vỡ",
+        "example": ""
+    },
+    {
+        "id": 80,
+        "hanzi": "나서다",
+        "pinyin": "naseoda",
+        "meaning": "bước ra",
+        "example": ""
+    },
+    {
+        "id": 81,
+        "hanzi": "능력",
+        "pinyin": "neungnyeok",
+        "meaning": "năng lực",
+        "example": ""
+    },
+    {
+        "id": 82,
+        "hanzi": "따라가다",
+        "pinyin": "ttaragada",
+        "meaning": "đi theo",
+        "example": ""
+    },
+    {
+        "id": 83,
+        "hanzi": "빌라",
+        "pinyin": "billa",
+        "meaning": "nhà villa (chung cư thấp tầng)",
+        "example": ""
+    },
+    {
+        "id": 84,
+        "hanzi": "사귀다",
+        "pinyin": "sagwida",
+        "meaning": "kết bạn; hẹn hò",
+        "example": ""
+    },
+    {
+        "id": 85,
+        "hanzi": "선택",
+        "pinyin": "seontaek",
+        "meaning": "lựa chọn",
+        "example": ""
+    },
+    {
+        "id": 86,
+        "hanzi": "세트",
+        "pinyin": "seteu",
+        "meaning": "bộ, set",
+        "example": ""
+    },
+    {
+        "id": 87,
+        "hanzi": "수정",
+        "pinyin": "sujeong",
+        "meaning": "sửa chữa, chỉnh sửa",
+        "example": ""
+    },
+    {
+        "id": 88,
+        "hanzi": "싸움",
+        "pinyin": "ssaum",
+        "meaning": "cãi nhau, đánh nhau",
+        "example": ""
+    },
+    {
+        "id": 89,
+        "hanzi": "썰다",
+        "pinyin": "sseolda",
+        "meaning": "thái",
+        "example": ""
+    },
+    {
+        "id": 90,
+        "hanzi": "외관",
+        "pinyin": "oegwan",
+        "meaning": "vẻ bên ngoài",
+        "example": ""
+    },
+    {
+        "id": 91,
+        "hanzi": "정거장",
+        "pinyin": "jeonggeojang",
+        "meaning": "bến xe",
+        "example": ""
+    },
+    {
+        "id": 92,
+        "hanzi": "진심",
+        "pinyin": "jinsim",
+        "meaning": "thật lòng",
+        "example": ""
+    },
+    {
+        "id": 93,
+        "hanzi": "형제",
+        "pinyin": "hyeongje",
+        "meaning": "anh em",
+        "example": ""
+    },
+    {
+        "id": 94,
+        "hanzi": "죽 가다",
+        "pinyin": "juk gada",
+        "meaning": "đi miết",
+        "example": ""
+    },
+    {
+        "id": 95,
+        "hanzi": "색",
+        "pinyin": "saek",
+        "meaning": "màu",
+        "example": ""
+    },
+    {
+        "id": 96,
+        "hanzi": "살",
+        "pinyin": "sal",
+        "meaning": "tuổi; thịt",
+        "example": ""
+    },
+    {
+        "id": 97,
+        "hanzi": "걸다",
+        "pinyin": "geolda",
+        "meaning": "gọi (điện thoại); treo",
+        "example": ""
+    },
+    {
+        "id": 98,
+        "hanzi": "잠시",
+        "pinyin": "jamsi",
+        "meaning": "một lát",
+        "example": ""
+    },
+    {
+        "id": 99,
+        "hanzi": "연극",
+        "pinyin": "yeongeuk",
+        "meaning": "kịch",
+        "example": ""
+    },
+    {
+        "id": 100,
+        "hanzi": "나중",
+        "pinyin": "najung",
+        "meaning": "sau này (나중에)",
+        "example": ""
+    },
+    {
+        "id": 101,
+        "hanzi": "말씀",
+        "pinyin": "malsseum",
+        "meaning": "lời nói (kính ngữ)",
+        "example": ""
+    },
+    {
+        "id": 102,
+        "hanzi": "양보하다",
+        "pinyin": "yangbohada",
+        "meaning": "nhường",
+        "example": ""
+    },
+    {
+        "id": 103,
+        "hanzi": "공연",
+        "pinyin": "gongyeon",
+        "meaning": "buổi biểu diễn",
+        "example": ""
+    },
+    {
+        "id": 104,
+        "hanzi": "발표하다",
+        "pinyin": "balpyohada",
+        "meaning": "phát biểu, thuyết trình",
+        "example": ""
+    },
+    {
+        "id": 105,
+        "hanzi": "마을",
+        "pinyin": "maeul",
+        "meaning": "làng",
+        "example": ""
+    },
+    {
+        "id": 106,
+        "hanzi": "연습하다",
+        "pinyin": "yeonseuphada",
+        "meaning": "luyện tập",
+        "example": ""
+    },
+    {
+        "id": 107,
+        "hanzi": "수단",
+        "pinyin": "sudan",
+        "meaning": "phương tiện",
+        "example": ""
+    },
+    {
+        "id": 108,
+        "hanzi": "오랫동안",
+        "pinyin": "oraetdongan",
+        "meaning": "trong thời gian dài",
+        "example": ""
+    },
+    {
+        "id": 109,
+        "hanzi": "쯤",
+        "pinyin": "jjeum",
+        "meaning": "khoảng",
+        "example": ""
+    },
+    {
+        "id": 110,
+        "hanzi": "춤",
+        "pinyin": "chum",
+        "meaning": "điệu nhảy",
+        "example": ""
+    },
+    {
+        "id": 111,
+        "hanzi": "그때",
+        "pinyin": "geuttae",
+        "meaning": "lúc đó",
+        "example": ""
+    },
+    {
+        "id": 112,
+        "hanzi": "노선",
+        "pinyin": "noseon",
+        "meaning": "tuyến đường",
+        "example": ""
+    },
+    {
+        "id": 113,
+        "hanzi": "배달하다",
+        "pinyin": "baedalhada",
+        "meaning": "giao hàng",
+        "example": ""
+    },
+    {
+        "id": 114,
+        "hanzi": "샌드위치",
+        "pinyin": "saendeuwichi",
+        "meaning": "bánh sandwich",
+        "example": ""
+    },
+    {
+        "id": 115,
+        "hanzi": "신청하다",
+        "pinyin": "sincheonghada",
+        "meaning": "đăng ký",
+        "example": ""
+    },
+    {
+        "id": 116,
+        "hanzi": "이해하다",
+        "pinyin": "ihaehada",
+        "meaning": "hiểu",
+        "example": ""
+    },
+    {
+        "id": 117,
+        "hanzi": "터미널",
+        "pinyin": "teomineol",
+        "meaning": "bến xe",
+        "example": ""
+    },
+    {
+        "id": 118,
+        "hanzi": "공연장",
+        "pinyin": "gongyeonjang",
+        "meaning": "nơi biểu diễn",
+        "example": ""
+    },
+    {
+        "id": 119,
+        "hanzi": "도착지",
+        "pinyin": "dochakji",
+        "meaning": "nơi đến",
+        "example": ""
+    },
+    {
+        "id": 120,
+        "hanzi": "목적지",
+        "pinyin": "mokjeokji",
+        "meaning": "điểm đến",
+        "example": ""
+    },
+    {
+        "id": 121,
+        "hanzi": "방송",
+        "pinyin": "bangsong",
+        "meaning": "phát sóng",
+        "example": ""
+    },
+    {
+        "id": 122,
+        "hanzi": "방향",
+        "pinyin": "banghyang",
+        "meaning": "phương hướng",
+        "example": ""
+    },
+    {
+        "id": 123,
+        "hanzi": "실력",
+        "pinyin": "sillyeok",
+        "meaning": "thực lực, năng lực",
+        "example": ""
+    },
+    {
+        "id": 124,
+        "hanzi": "콩",
+        "pinyin": "kong",
+        "meaning": "đậu",
+        "example": ""
+    },
+    {
+        "id": 125,
+        "hanzi": "걸어가다",
+        "pinyin": "georeogada",
+        "meaning": "đi bộ (đến)",
+        "example": ""
+    },
+    {
+        "id": 126,
+        "hanzi": "끌다",
+        "pinyin": "kkeulda",
+        "meaning": "kéo",
+        "example": ""
+    },
+    {
+        "id": 127,
+        "hanzi": "모시다",
+        "pinyin": "mosida",
+        "meaning": "đưa, đón (kính ngữ); phụng dưỡng",
+        "example": ""
+    },
+    {
+        "id": 128,
+        "hanzi": "박수",
+        "pinyin": "baksu",
+        "meaning": "vỗ tay",
+        "example": ""
+    },
+    {
+        "id": 129,
+        "hanzi": "보도",
+        "pinyin": "bodo",
+        "meaning": "vỉa hè; đưa tin",
+        "example": ""
+    },
+    {
+        "id": 130,
+        "hanzi": "오르다",
+        "pinyin": "oreuda",
+        "meaning": "leo lên; tăng",
+        "example": ""
+    },
+    {
+        "id": 131,
+        "hanzi": "우체부",
+        "pinyin": "uchebu",
+        "meaning": "người đưa thư",
+        "example": ""
+    },
+    {
+        "id": 132,
+        "hanzi": "정문",
+        "pinyin": "jeongmun",
+        "meaning": "cổng chính",
+        "example": ""
+    },
+    {
+        "id": 133,
+        "hanzi": "집안",
+        "pinyin": "jiban",
+        "meaning": "trong nhà; gia đình",
+        "example": ""
+    },
+    {
+        "id": 134,
+        "hanzi": "출발지",
+        "pinyin": "chulbalji",
+        "meaning": "nơi xuất phát",
+        "example": ""
+    },
+    {
+        "id": 135,
+        "hanzi": "표지판",
+        "pinyin": "pyojipan",
+        "meaning": "biển báo",
+        "example": ""
+    },
+    {
+        "id": 136,
+        "hanzi": "한여름",
+        "pinyin": "hanyeoreum",
+        "meaning": "giữa mùa hè",
+        "example": ""
+    },
+    {
+        "id": 137,
+        "hanzi": "환승",
+        "pinyin": "hwanseung",
+        "meaning": "chuyển tuyến",
+        "example": ""
+    },
+    {
+        "id": 138,
+        "hanzi": "자리에 없다 / 자리에 안 계시다",
+        "pinyin": "jarie eopda / jarie an gyesida",
+        "meaning": "không có ở chỗ, không có trong văn phòng",
+        "example": ""
+    },
+    {
+        "id": 139,
+        "hanzi": "자리를 비우다",
+        "pinyin": "jarireul biuda",
+        "meaning": "vắng mặt, rời khỏi chỗ",
+        "example": ""
+    },
+    {
+        "id": 140,
+        "hanzi": "* 별표",
+        "pinyin": "* byeolpyo",
+        "meaning": "phím sao (*)",
+        "example": ""
+    },
+    {
+        "id": 141,
+        "hanzi": "# 우물 정자",
+        "pinyin": "# umul jeongja",
+        "meaning": "phím thăng (#)",
+        "example": ""
+    },
+    {
+        "id": 142,
+        "hanzi": "메모",
+        "pinyin": "memo",
+        "meaning": "ghi nhớ, ghi tóm tắt",
+        "example": ""
+    },
+    {
+        "id": 143,
+        "hanzi": "물어보다",
+        "pinyin": "mureoboda",
+        "meaning": "hỏi",
+        "example": ""
+    },
+    {
+        "id": 144,
+        "hanzi": "부탁드리다",
+        "pinyin": "butakdeurida",
+        "meaning": "nhờ (kính ngữ)",
+        "example": ""
+    },
+    {
+        "id": 145,
+        "hanzi": "부모",
+        "pinyin": "bumo",
+        "meaning": "bố mẹ",
+        "example": ""
+    },
+    {
+        "id": 146,
+        "hanzi": "기차표",
+        "pinyin": "gichapyo",
+        "meaning": "vé tàu",
+        "example": ""
+    },
+    {
+        "id": 147,
+        "hanzi": "예매하다",
+        "pinyin": "yemaehada",
+        "meaning": "đặt mua trước (vé)",
+        "example": ""
+    },
+    {
+        "id": 148,
+        "hanzi": "그러니까",
+        "pinyin": "geureonikka",
+        "meaning": "vì vậy, cho nên",
+        "example": ""
+    },
+    {
+        "id": 149,
+        "hanzi": "그렇게",
+        "pinyin": "geureoke",
+        "meaning": "như thế",
+        "example": ""
+    },
+    {
+        "id": 150,
+        "hanzi": "다음날",
+        "pinyin": "daeumnal",
+        "meaning": "ngày hôm sau",
+        "example": ""
+    },
+    {
+        "id": 151,
+        "hanzi": "아까",
+        "pinyin": "akka",
+        "meaning": "lúc nãy",
+        "example": ""
+    },
+    {
+        "id": 152,
+        "hanzi": "익다",
+        "pinyin": "ikda",
+        "meaning": "chín",
+        "example": ""
+    },
+    {
+        "id": 153,
+        "hanzi": "국민",
+        "pinyin": "gungmin",
+        "meaning": "quốc dân, người dân",
+        "example": ""
+    },
+    {
+        "id": 154,
+        "hanzi": "낚다",
+        "pinyin": "nakda",
+        "meaning": "câu (cá)",
+        "example": ""
+    },
+    {
+        "id": 155,
+        "hanzi": "다리다",
+        "pinyin": "darida",
+        "meaning": "là, ủi (quần áo)",
+        "example": ""
+    },
+    {
+        "id": 156,
+        "hanzi": "물다",
+        "pinyin": "mulda",
+        "meaning": "cắn",
+        "example": ""
+    },
+    {
+        "id": 157,
+        "hanzi": "부드럽다",
+        "pinyin": "budeureopda",
+        "meaning": "mềm mại",
+        "example": ""
+    },
+    {
+        "id": 158,
+        "hanzi": "스시",
+        "pinyin": "seusi",
+        "meaning": "sushi",
+        "example": ""
+    },
+    {
+        "id": 159,
+        "hanzi": "잃다",
+        "pinyin": "ilta",
+        "meaning": "mất",
+        "example": ""
+    },
+    {
+        "id": 160,
+        "hanzi": "잘못",
+        "pinyin": "jalmot",
+        "meaning": "lỗi, sai",
+        "example": ""
+    },
+    {
+        "id": 161,
+        "hanzi": "통신",
+        "pinyin": "tongsin",
+        "meaning": "thông tin liên lạc",
+        "example": ""
+    },
+    {
+        "id": 162,
+        "hanzi": "한번",
+        "pinyin": "hanbeon",
+        "meaning": "một lần; thử",
+        "example": ""
+    },
+    {
+        "id": 163,
+        "hanzi": "배우",
+        "pinyin": "baeu",
+        "meaning": "diễn viên",
+        "example": ""
+    },
+    {
+        "id": 164,
+        "hanzi": "새해",
+        "pinyin": "saehae",
+        "meaning": "năm mới",
+        "example": ""
+    },
+    {
+        "id": 165,
+        "hanzi": "그리다",
+        "pinyin": "geurida",
+        "meaning": "vẽ",
+        "example": ""
+    },
+    {
+        "id": 166,
+        "hanzi": "배고프다",
+        "pinyin": "baegopeuda",
+        "meaning": "đói bụng",
+        "example": ""
+    },
+    {
+        "id": 167,
+        "hanzi": "잡채",
+        "pinyin": "japchae",
+        "meaning": "miến trộn japchae",
+        "example": ""
+    },
+    {
+        "id": 168,
+        "hanzi": "다행",
+        "pinyin": "dahaeng",
+        "meaning": "may mắn (다행이다)",
+        "example": ""
+    },
+    {
+        "id": 169,
+        "hanzi": "목욕",
+        "pinyin": "mogyok",
+        "meaning": "tắm",
+        "example": ""
+    },
+    {
+        "id": 170,
+        "hanzi": "우선",
+        "pinyin": "useon",
+        "meaning": "trước hết",
+        "example": ""
+    },
+    {
+        "id": 171,
+        "hanzi": "피다",
+        "pinyin": "pida",
+        "meaning": "nở (hoa)",
+        "example": ""
+    },
+    {
+        "id": 172,
+        "hanzi": "남녀",
+        "pinyin": "namnyeo",
+        "meaning": "nam nữ",
+        "example": ""
+    },
+    {
+        "id": 173,
+        "hanzi": "하키",
+        "pinyin": "haki",
+        "meaning": "khúc côn cầu",
+        "example": ""
+    },
+    {
+        "id": 174,
+        "hanzi": "가꾸다",
+        "pinyin": "gakkuda",
+        "meaning": "chăm sóc (cây cối, vẻ ngoài)",
+        "example": ""
+    },
+    {
+        "id": 175,
+        "hanzi": "감정",
+        "pinyin": "gamjeong",
+        "meaning": "cảm xúc",
+        "example": ""
+    },
+    {
+        "id": 176,
+        "hanzi": "대중",
+        "pinyin": "daejung",
+        "meaning": "đại chúng",
+        "example": ""
+    },
+    {
+        "id": 177,
+        "hanzi": "분위기",
+        "pinyin": "bunwigi",
+        "meaning": "bầu không khí",
+        "example": ""
+    },
+    {
+        "id": 178,
+        "hanzi": "싸우다",
+        "pinyin": "ssauda",
+        "meaning": "cãi nhau, đánh nhau",
+        "example": ""
+    },
+    {
+        "id": 179,
+        "hanzi": "얘기",
+        "pinyin": "yaegi",
+        "meaning": "chuyện (= 이야기)",
+        "example": ""
+    },
+    {
+        "id": 180,
+        "hanzi": "여배우",
+        "pinyin": "yeobaeu",
+        "meaning": "nữ diễn viên",
+        "example": ""
+    },
+    {
+        "id": 181,
+        "hanzi": "웃음",
+        "pinyin": "useum",
+        "meaning": "nụ cười",
+        "example": ""
+    },
+    {
+        "id": 182,
+        "hanzi": "인턴",
+        "pinyin": "inteon",
+        "meaning": "thực tập sinh",
+        "example": ""
+    },
+    {
+        "id": 183,
+        "hanzi": "진달래",
+        "pinyin": "jindallae",
+        "meaning": "hoa đỗ quyên",
+        "example": ""
+    },
+    {
+        "id": 184,
+        "hanzi": "체조",
+        "pinyin": "chejo",
+        "meaning": "thể dục",
+        "example": ""
+    },
+    {
+        "id": 185,
+        "hanzi": "펴다",
+        "pinyin": "pyeoda",
+        "meaning": "mở ra, trải ra",
+        "example": ""
+    },
+    {
+        "id": 186,
+        "hanzi": "한류",
+        "pinyin": "hallyu",
+        "meaning": "làn sóng Hàn Quốc (Hallyu)",
+        "example": ""
+    },
+    {
+        "id": 187,
+        "hanzi": "차례 (제사)",
+        "pinyin": "charye (jesa)",
+        "meaning": "cúng, tế lễ",
+        "example": ""
+    },
+    {
+        "id": 188,
+        "hanzi": "때문에",
+        "pinyin": "ttaemune",
+        "meaning": "vì, do",
+        "example": ""
+    },
+    {
+        "id": 189,
+        "hanzi": "세계",
+        "pinyin": "segye",
+        "meaning": "thế giới",
+        "example": ""
+    },
+    {
+        "id": 190,
+        "hanzi": "열리다",
+        "pinyin": "yeollida",
+        "meaning": "được mở; được tổ chức",
+        "example": ""
+    },
+    {
+        "id": 191,
+        "hanzi": "반팔",
+        "pinyin": "banpal",
+        "meaning": "áo ngắn tay",
+        "example": ""
+    },
+    {
+        "id": 192,
+        "hanzi": "기간",
+        "pinyin": "gigan",
+        "meaning": "thời gian, kỳ hạn",
+        "example": ""
+    },
+    {
+        "id": 193,
+        "hanzi": "잃어버리다",
+        "pinyin": "ireobeorida",
+        "meaning": "đánh mất",
+        "example": ""
+    },
+    {
+        "id": 194,
+        "hanzi": "한복",
+        "pinyin": "hanbok",
+        "meaning": "Hanbok (trang phục truyền thống)",
+        "example": ""
+    },
+    {
+        "id": 195,
+        "hanzi": "기념하다",
+        "pinyin": "ginyeomhada",
+        "meaning": "kỷ niệm",
+        "example": ""
+    },
+    {
+        "id": 196,
+        "hanzi": "듣기",
+        "pinyin": "deutgi",
+        "meaning": "nghe (kỹ năng)",
+        "example": ""
+    },
+    {
+        "id": 197,
+        "hanzi": "민속",
+        "pinyin": "minsok",
+        "meaning": "dân gian",
+        "example": ""
+    },
+    {
+        "id": 198,
+        "hanzi": "부족하다",
+        "pinyin": "bujokhada",
+        "meaning": "thiếu",
+        "example": ""
+    },
+    {
+        "id": 199,
+        "hanzi": "버스표",
+        "pinyin": "beoseupyo",
+        "meaning": "vé xe buýt",
+        "example": ""
+    },
+    {
+        "id": 200,
+        "hanzi": "벌다",
+        "pinyin": "beolda",
+        "meaning": "kiếm (tiền)",
+        "example": ""
+    },
+    {
+        "id": 201,
+        "hanzi": "보름",
+        "pinyin": "boreum",
+        "meaning": "ngày rằm",
+        "example": ""
+    },
+    {
+        "id": 202,
+        "hanzi": "윗사람",
+        "pinyin": "witsaram",
+        "meaning": "người bề trên",
+        "example": ""
+    },
+    {
+        "id": 203,
+        "hanzi": "유일",
+        "pinyin": "yuil",
+        "meaning": "duy nhất",
+        "example": ""
+    },
+    {
+        "id": 204,
+        "hanzi": "음식점",
+        "pinyin": "eumsikjeom",
+        "meaning": "quán ăn",
+        "example": ""
+    },
+    {
+        "id": 205,
+        "hanzi": "재미",
+        "pinyin": "jaemi",
+        "meaning": "niềm vui, sự thú vị",
+        "example": ""
+    },
+    {
+        "id": 206,
+        "hanzi": "해외",
+        "pinyin": "haeoe",
+        "meaning": "nước ngoài",
+        "example": ""
+    },
+    {
+        "id": 207,
+        "hanzi": "갈비찜",
+        "pinyin": "galbijjim",
+        "meaning": "sườn hầm",
+        "example": ""
+    },
+    {
+        "id": 208,
+        "hanzi": "그나마",
+        "pinyin": "geunama",
+        "meaning": "dù sao, chí ít",
+        "example": ""
+    },
+    {
+        "id": 209,
+        "hanzi": "동물원",
+        "pinyin": "dongmurwon",
+        "meaning": "sở thú",
+        "example": ""
+    },
+    {
+        "id": 210,
+        "hanzi": "마중하다",
+        "pinyin": "majunghada",
+        "meaning": "đi đón",
+        "example": ""
+    },
+    {
+        "id": 211,
+        "hanzi": "모으다",
+        "pinyin": "moeuda",
+        "meaning": "thu thập, gom",
+        "example": ""
+    },
+    {
+        "id": 212,
+        "hanzi": "배추",
+        "pinyin": "baechu",
+        "meaning": "cải thảo",
+        "example": ""
+    },
+    {
+        "id": 213,
+        "hanzi": "볼일",
+        "pinyin": "boril",
+        "meaning": "việc riêng",
+        "example": ""
+    },
+    {
+        "id": 214,
+        "hanzi": "블라우스",
+        "pinyin": "beullauseu",
+        "meaning": "áo blouse",
+        "example": ""
+    },
+    {
+        "id": 215,
+        "hanzi": "삼촌",
+        "pinyin": "samchon",
+        "meaning": "chú",
+        "example": ""
+    },
+    {
+        "id": 216,
+        "hanzi": "서리",
+        "pinyin": "seori",
+        "meaning": "sương giá",
+        "example": ""
+    },
+    {
+        "id": 217,
+        "hanzi": "스트레스",
+        "pinyin": "seuteureseu",
+        "meaning": "căng thẳng, stress",
+        "example": ""
+    },
+    {
+        "id": 218,
+        "hanzi": "시키다",
+        "pinyin": "sikida",
+        "meaning": "gọi (món); sai bảo",
+        "example": ""
+    },
+    {
+        "id": 219,
+        "hanzi": "어머님",
+        "pinyin": "eomeonim",
+        "meaning": "mẹ (kính ngữ)",
+        "example": ""
+    },
+    {
+        "id": 220,
+        "hanzi": "어버이날",
+        "pinyin": "eobeoinal",
+        "meaning": "ngày Cha Mẹ (8/5)",
+        "example": ""
+    },
+    {
+        "id": 221,
+        "hanzi": "여름휴가",
+        "pinyin": "yeoreumhyuga",
+        "meaning": "kỳ nghỉ hè",
+        "example": ""
+    },
+    {
+        "id": 222,
+        "hanzi": "열차",
+        "pinyin": "yeolcha",
+        "meaning": "đoàn tàu",
+        "example": ""
+    },
+    {
+        "id": 223,
+        "hanzi": "우편물",
+        "pinyin": "upyeonmul",
+        "meaning": "bưu phẩm",
+        "example": ""
+    },
+    {
+        "id": 224,
+        "hanzi": "재킷",
+        "pinyin": "jaekit",
+        "meaning": "áo jacket",
+        "example": ""
+    },
+    {
+        "id": 225,
+        "hanzi": "추다",
+        "pinyin": "chuda",
+        "meaning": "nhảy (múa)",
+        "example": ""
+    },
+    {
+        "id": 226,
+        "hanzi": "정리하다",
+        "pinyin": "jeongnihada",
+        "meaning": "sắp xếp, dọn dẹp",
+        "example": ""
+    },
+    {
+        "id": 227,
+        "hanzi": "성격",
+        "pinyin": "seonggyeok",
+        "meaning": "tính cách",
+        "example": ""
+    },
+    {
+        "id": 228,
+        "hanzi": "달라지다",
+        "pinyin": "dallajida",
+        "meaning": "thay đổi, trở nên khác",
+        "example": ""
+    },
+    {
+        "id": 229,
+        "hanzi": "매우",
+        "pinyin": "maeu",
+        "meaning": "rất",
+        "example": ""
+    },
+    {
+        "id": 230,
+        "hanzi": "모양",
+        "pinyin": "moyang",
+        "meaning": "hình dáng",
+        "example": ""
+    },
+    {
+        "id": 231,
+        "hanzi": "맛",
+        "pinyin": "mat",
+        "meaning": "vị",
+        "example": ""
+    },
+    {
+        "id": 232,
+        "hanzi": "바닷물",
+        "pinyin": "badanmul",
+        "meaning": "nước biển",
+        "example": ""
+    },
+    {
+        "id": 233,
+        "hanzi": "설명",
+        "pinyin": "seolmyeong",
+        "meaning": "giải thích",
+        "example": ""
+    },
+    {
+        "id": 234,
+        "hanzi": "아들",
+        "pinyin": "adeul",
+        "meaning": "con trai",
+        "example": ""
+    },
+    {
+        "id": 235,
+        "hanzi": "열쇠",
+        "pinyin": "yeolsoe",
+        "meaning": "chìa khóa",
+        "example": ""
+    },
+    {
+        "id": 236,
+        "hanzi": "웃어른",
+        "pinyin": "useoreun",
+        "meaning": "người lớn tuổi, bề trên",
+        "example": ""
+    },
+    {
+        "id": 237,
+        "hanzi": "파랑",
+        "pinyin": "parang",
+        "meaning": "màu xanh",
+        "example": ""
+    },
+    {
+        "id": 238,
+        "hanzi": "하얗다",
+        "pinyin": "hayata",
+        "meaning": "trắng",
+        "example": ""
+    },
+    {
+        "id": 239,
+        "hanzi": "검은색",
+        "pinyin": "geomeunsaek",
+        "meaning": "màu đen",
+        "example": ""
+    },
+    {
+        "id": 240,
+        "hanzi": "게으르다",
+        "pinyin": "geeureuda",
+        "meaning": "lười biếng",
+        "example": ""
+    },
+    {
+        "id": 241,
+        "hanzi": "고등학생",
+        "pinyin": "godeunghaksaeng",
+        "meaning": "học sinh cấp 3",
+        "example": ""
+    },
+    {
+        "id": 242,
+        "hanzi": "꾸준히",
+        "pinyin": "kkujunhi",
+        "meaning": "đều đặn, bền bỉ",
+        "example": ""
+    },
+    {
+        "id": 243,
+        "hanzi": "나빠지다",
+        "pinyin": "nappajida",
+        "meaning": "trở nên xấu đi",
+        "example": ""
+    },
+    {
+        "id": 244,
+        "hanzi": "달리다",
+        "pinyin": "dallida",
+        "meaning": "chạy",
+        "example": ""
+    },
+    {
+        "id": 245,
+        "hanzi": "동사",
+        "pinyin": "dongsa",
+        "meaning": "động từ",
+        "example": ""
+    },
+    {
+        "id": 246,
+        "hanzi": "둥글다",
+        "pinyin": "dunggeulda",
+        "meaning": "tròn",
+        "example": ""
+    },
+    {
+        "id": 247,
+        "hanzi": "마르다",
+        "pinyin": "mareuda",
+        "meaning": "khô; gầy",
+        "example": ""
+    },
+    {
+        "id": 248,
+        "hanzi": "매다",
+        "pinyin": "maeda",
+        "meaning": "thắt (cà vạt, dây)",
+        "example": ""
+    },
+    {
+        "id": 249,
+        "hanzi": "묘사",
+        "pinyin": "myosa",
+        "meaning": "miêu tả",
+        "example": ""
+    },
+    {
+        "id": 250,
+        "hanzi": "밀다",
+        "pinyin": "milda",
+        "meaning": "đẩy",
+        "example": ""
+    }
+]

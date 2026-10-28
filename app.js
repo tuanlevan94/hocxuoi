@@ -20,6 +20,7 @@ const leftCount  = document.getElementById("leftCount");
 const hanziEl    = document.getElementById("hanzi");
 const pinyinEl   = document.getElementById("pinyin");
 const meaningEl  = document.getElementById("meaning");
+const noteEl     = document.getElementById("note");
 const timerEl   = document.getElementById("timer");
 
 
@@ -255,6 +256,8 @@ function pickNext(){
     resetTimer(true);
     currentWord = null;
     hanziEl.textContent = "🎉 Bạn đã học hoàn tất trang này!";
+    hanziEl.classList.remove("long", "xlong");
+    noteEl.classList.remove("show");
     pinyinEl.classList.remove("show");
     meaningEl.classList.remove("show");
     btnHint.disabled = btnOk.disabled = btnSkip.disabled = true;
@@ -285,8 +288,14 @@ function renderWord(){
   hanziEl.textContent = currentWord.hanzi;
   pinyinEl.textContent = currentWord.pinyin || "";
   meaningEl.textContent = currentWord.meaning || "";
+  noteEl.textContent = currentWord.example || "";
   pinyinEl.classList.remove("show");
   meaningEl.classList.remove("show");
+  noteEl.classList.remove("show");
+  // câu dài -> chữ nhỏ lại cho vừa thẻ
+  const len = (currentWord.hanzi || "").length;
+  hanziEl.classList.toggle("long",  len > 10 && len <= 18);
+  hanziEl.classList.toggle("xlong", len > 18);
   leftCount.textContent = remainingIds.length.toString();
   btnHint.disabled = btnOk.disabled = btnSkip.disabled = false;
   btnHint2.disabled = false;  
@@ -296,6 +305,7 @@ function showHint(){
   touchTimer();
   pinyinEl.classList.add("show");
   meaningEl.classList.add("show");
+  if (noteEl.textContent.trim()) noteEl.classList.add("show");
 }
 function onOk(){
   touchTimer();
@@ -358,3 +368,22 @@ btnClear.addEventListener("click", () => {
 
   alert(`Đã xoá tiến độ + timer trang ${page}. Bấm BẮT ĐẦU HỌC để khởi tạo lại.`);
 });
+
+// ===== Chạm vào thẻ chữ để nghe đọc (giọng có sẵn của điện thoại) =====
+// Có chữ Hàn -> đọc giọng Hàn, còn lại -> giọng Trung
+function speakCurrent(){
+  if (!currentWord || !("speechSynthesis" in window)) return;
+  touchTimer();
+  const text = currentWord.hanzi || "";
+  const lang = /[\uac00-\ud7a3]/.test(text) ? "ko-KR" : "zh-CN";
+  const u = new SpeechSynthesisUtterance(text);
+  u.lang = lang;
+  u.rate = 0.9;
+  const voice = speechSynthesis.getVoices().find(v => v.lang && v.lang.replace("_", "-").startsWith(lang.slice(0, 2)));
+  if (voice) u.voice = voice;
+  u.onend = u.onerror = () => hanziEl.classList.remove("speaking");
+  speechSynthesis.cancel();
+  hanziEl.classList.add("speaking");
+  speechSynthesis.speak(u);
+}
+hanziEl.addEventListener("click", speakCurrent);
