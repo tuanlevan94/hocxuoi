@@ -262,6 +262,8 @@ function pickNext(){
     meaningEl.classList.remove("show");
     btnHint.disabled = btnOk.disabled = btnSkip.disabled = true;
     btnHint2.disabled = true;
+    btnPlay.disabled = btnSlow.disabled = true;
+    stopAudio();
     return;
   }
   const len = remainingIds.length;
@@ -300,6 +302,9 @@ function renderWord(){
   btnHint.disabled = btnOk.disabled = btnSkip.disabled = false;
   btnHint2.disabled = false;  
   btnReset.disabled = false;
+  btnPlay.disabled = btnSlow.disabled = false;
+  stopAudio();
+  prepareAudio(currentWord);
 }
 function showHint(){
   touchTimer();
@@ -369,21 +374,77 @@ btnClear.addEventListener("click", () => {
   alert(`Đã xoá tiến độ + timer trang ${page}. Bấm BẮT ĐẦU HỌC để khởi tạo lại.`);
 });
 
-// ===== Chạm vào thẻ chữ để nghe đọc (giọng có sẵn của điện thoại) =====
-// Có chữ Hàn -> đọc giọng Hàn, còn lại -> giọng Trung
-function speakCurrent(){
-  if (!currentWord || !("speechSynthesis" in window)) return;
-  touchTimer();
-  const text = currentWord.hanzi || "";
-  const lang = /[\uac00-\ud7a3]/.test(text) ? "ko-KR" : "zh-CN";
+// ===== Phát âm =====
+// Ưu tiên file mp3 trong thư mục audio/ (tạo bằng tools/make_audio.py).
+// Tên file = 16 ký tự đầu SHA-1 của chữ (đã chuẩn hoá NFC + bỏ khoảng trắng 2 đầu):
+//   audio/ko/<hash>.mp3 (tiếng Hàn)   audio/zh/<hash>.mp3 (tiếng Trung)
+// Chưa có file mp3 -> dùng giọng đọc có sẵn của điện thoại.
+const AUDIO_DIR = "audio";
+const btnPlay = document.getElementById("btnPlay");
+const btnSlow = document.getElementById("btnSlow");
+const player  = new Audio();
+let audioUrl = null;     // url mp3 của từ đang hiện
+let audioOk  = false;    // file mp3 có tồn tại không
+let audioToken = 0;
+
+function langOf(text){ return /[\u1100-\u11ff\u3130-\u318f\uac00-\ud7a3]/.test(text) ? "ko" : "zh"; }
+
+async function hashText(text){
+  const buf = await crypto.subtle.digest("SHA-1", new TextEncoder().encode(text));
+  return Array.from(new Uint8Array(buf)).map(b => b.toString(16).padStart(2, "0")).join("").slice(0, 16);
+}
+
+// Gọi mỗi khi đổi từ: tính sẵn url + kiểm tra file có không,
+// để lúc bấm NGHE phát được ngay (iPhone chỉ cho phát khi đang bấm)
+async function prepareAudio(word){
+  const token = ++audioToken;
+  audioUrl = null; audioOk = false;
+  try {
+    const text = (word.hanzi || "").normalize("NFC").trim();
+    if (!text || !(window.crypto && crypto.subtle)) return;
+    const url = `${AUDIO_DIR}/${langOf(text)}/${await hashText(text)}.mp3`;
+    const res = await fetch(url, { method: "HEAD" });
+    if (token !== audioToken) return;          // đã sang từ khác
+    audioUrl = url; audioOk = res.ok;
+  } catch (e) { /* không có mạng / không có file -> dùng giọng máy */ }
+}
+
+function stopAudio(){
+  player.pause();
+  if ("speechSynthesis" in window) speechSynthesis.cancel();
+  hanziEl.classList.remove("speaking");
+}
+
+function speakTTS(text, slow){
+  if (!("speechSynthesis" in window)) return;
+  const lang = langOf(text) === "ko" ? "ko-KR" : "zh-CN";
   const u = new SpeechSynthesisUtterance(text);
   u.lang = lang;
-  u.rate = 0.9;
+  u.rate = slow ? 0.6 : 0.9;
   const voice = speechSynthesis.getVoices().find(v => v.lang && v.lang.replace("_", "-").startsWith(lang.slice(0, 2)));
   if (voice) u.voice = voice;
   u.onend = u.onerror = () => hanziEl.classList.remove("speaking");
-  speechSynthesis.cancel();
   hanziEl.classList.add("speaking");
   speechSynthesis.speak(u);
 }
-hanziEl.addEventListener("click", speakCurrent);
+
+function playCurrent(slow = false){
+  if (!currentWord) return;
+  touchTimer();
+  stopAudio();
+  if (audioOk && audioUrl){
+    if (!player.src.endsWith(audioUrl)) player.src = audioUrl;
+    player.currentTime = 0;
+    player.defaultPlaybackRate = player.playbackRate = slow ? 0.7 : 1;
+    hanziEl.classList.add("speaking");
+    player.play().catch(() => { hanziEl.classList.remove("speaking"); speakTTS(currentWord.hanzi || "", slow); });
+  } else {
+    speakTTS(currentWord.hanzi || "", slow);
+  }
+}
+player.addEventListener("ended", () => hanziEl.classList.remove("speaking"));
+player.addEventListener("pause", () => hanziEl.classList.remove("speaking"));
+
+hanziEl.addEventListener("click", () => playCurrent(false));   // chạm thẻ chữ = NGHE
+btnPlay.addEventListener("click", () => playCurrent(false));
+btnSlow.addEventListener("click", () => playCurrent(true));

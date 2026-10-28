@@ -63,3 +63,19 @@ main { padding:24px; max-width:1100px; margin:auto; }
   .hanzi.xlong { font-size: 28px; }
   .hint.note   { font-size: 15px; }
 }
+
+/* ===== Thanh phát âm cố định cuối màn hình ===== */
+main { padding-bottom: 110px; }   /* chừa chỗ cho thanh phát âm */
+.audio-bar {
+  position: fixed; left: 0; right: 0; bottom: 0;
+  display: flex; gap: 10px;
+  padding: 10px 12px calc(10px + env(safe-area-inset-bottom));
+  background: #fff; border-top: 1px solid #eee;
+}
+.audio-bar button {
+  flex: 1; padding: 14px 8px; font-size: 18px; font-weight: 700;
+  border: 1px solid #d7eaff; border-radius: 12px; background: #eef6ff; color: #111;
+  -webkit-tap-highlight-color: transparent;
+}
+.audio-bar button:active { background: #d7eaff; }
+.audio-bar button:disabled { opacity: .45; }
